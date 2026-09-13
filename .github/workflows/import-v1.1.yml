@@ -1,0 +1,36 @@
+name: One-time exact import from Concord-1.1
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Concord-1.2
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Clone frozen Concord-1.1 snapshot read-only
+        run: |
+          git clone --no-tags https://github.com/ACBlainey/Concord-1.1.git /tmp/concord-v1.1
+          git -C /tmp/concord-v1.1 checkout e68303c6160c8bced4f1767b1fda9bf9e23aab85
+          test "$(git -C /tmp/concord-v1.1 rev-parse HEAD)" = "e68303c6160c8bced4f1767b1fda9bf9e23aab85"
+
+      - name: Replace V1.2 working tree with exact V1.1 files
+        run: |
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a /tmp/concord-v1.1/. .
+          rm -rf .git
+          cp -a /tmp/concord-v1.1/.git /tmp/source-git-metadata
+          rm -rf .git
+        shell: bash
+
+      - name: Restore target Git metadata, commit and push
+        run: |
+          echo "This step is intentionally replaced below"
