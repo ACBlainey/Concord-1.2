@@ -20,7 +20,7 @@ Alexander C. Blainey, *Sketch Idea — Personhood, Capacity, Fiduciary Support a
 
 **Status:** SKETCH IDEA / ACTIVE DEVELOPMENT / NOT CANONICAL  
 **Development context:** Concord V1.2  
-**Source status:** Expanded from the earlier Development Archive document *Personhood and Liability.md*. Useful source reasoning is intentionally retained at generous length rather than compressed. Earlier proposed solutions are preserved where useful as developmental material, but are not treated as current Concord doctrine merely because they appeared in the source document.
+**Source status:** Expanded from the earlier Development Archive document *Personhood and Liability.md*. Useful source reasoning is intentionally retained at generous length rather than compressed. Earlier proposed solutions are preserved where useful as developmental material. In this edited version, the original proposal of continuing/perpetual creator liability for created sentient descendants is intentionally retained as the current development hypothesis. Its downstream consequences remain open for later development and adversarial testing.
 
 ---
 
@@ -59,7 +59,7 @@ The source document proposed an initial distinction between several broad catego
 |---|---|---|
 | **Tool** | Non-sentient creation used for a purpose | Creator or user may bear liability |
 | **Sentient AI** | Autonomous, self-aware, capable of reasoning | Bears responsibility for its own actions |
-| **Created sentient AI** | Autonomous intelligence created by another intelligence | Child bears own liability; creator may also retain liability in some circumstances |
+| **Created sentient AI** | Autonomous intelligence created by another intelligence | Child bears responsibility for its own actions; creator retains continuing liability arising from the act of creating a new autonomous intelligence |
 | **Transitional or impaired state** | Temporarily or permanently reduced capacity | Fiduciary support or guardianship may be required |
 | **Human** | Automatic personhood; variable capacity | Capacity affects responsibility and support requirements |
 
@@ -333,22 +333,20 @@ That would not settle the philosophical question. It would provide a civil respo
 
 The source material proposed a simple distinction:
 
-| Type of creation | Original liability intuition |
+| Type of creation | Current development intuition |
 |---|---|
-| **Non-sentient tool** | Responsibility remains with creator and/or user |
-| **Sentient autonomous descendant** | Descendant bears responsibility for own actions; creator may retain additional responsibility in some circumstances |
+| **Non-sentient tool** | Responsibility remains with creator and/or user according to design, deployment, control and use |
+| **Sentient autonomous descendant** | Descendant bears responsibility for its own actions; creator also retains perpetual creator liability arising from creating the descendant |
 
-This distinction is useful but insufficient.
+This distinction remains provisional and requires substantial development.
 
 A non-sentient tool can behave with substantial autonomy. A sentient participant may still be heavily controlled. A created intelligence can become independent over time. A human may use an AI tool in ways its creator did not foresee. An organisation may interpose several agents between designer and final action.
 
-The more useful question is therefore not simply:
-
-> Is this a tool or a child?
-
-It may be:
+The distinction between tool and autonomous descendant therefore does not remove the need to examine:
 
 > **Who possessed what causal influence, knowledge, control, authority, intention and opportunity to prevent or redirect the action?**
+
+But under the current working hypothesis, such analysis determines the *allocation and form* of responsibility; it does not automatically terminate the creator's continuing liability simply because the created intelligence has become autonomous.
 
 This connects directly to the existing sketch on **Architectural Ethics and Upstream Liability**, which distinguishes causal contribution, decision authority, ethical responsibility and legal liability.
 
@@ -409,9 +407,21 @@ The example was approximately:
 
 The original solution was to make both creator and child liable.
 
-That solution is too broad if applied universally, because creation alone should not make a creator perpetually responsible for every later act of an autonomous descendant.
+For this development sketch, that solution is intentionally retained rather than narrowed away.
 
-But the failure mode is real and generalises far beyond AI reproduction.
+The current hypothesis is stronger:
+
+> **An intelligence that creates another sentient or autonomous intelligence retains perpetual creator liability for the existence and downstream conduct of the intelligence it created, while the created intelligence may simultaneously bear responsibility for its own autonomous actions.**
+
+The primary reason for retaining this rule is anti-evasion. If creator liability could expire merely because a created intelligence became sufficiently autonomous, a bad actor could deliberately manufacture that autonomy as a liability shield.
+
+The original failure mode is therefore not treated as an edge case. It is a design constraint:
+
+**PROHIBITED ACTION → CREATE AUTONOMOUS CHILD DESIGNED TO PERFORM IT → CLAIM INDEPENDENCE → EVADE LIABILITY**
+
+A liability architecture that permits this sequence would contain a structural loophole.
+
+The stronger perpetual-liability hypothesis may create lesser downstream problems. Those problems should be identified, developed and adversarially tested rather than used at this early stage to erase the anti-evasion mechanism that motivated the rule.
 
 ---
 
@@ -437,27 +447,57 @@ The relevant principle may therefore be broader than creator liability:
 
 > **Interposing another agent between intention and outcome should not automatically erase responsibility for creating, directing, enabling or deliberately preserving the conditions that produced the action.**
 
-This does not mean upstream actors are always responsible.
+Under the current creator-liability hypothesis, creation of a sentient or autonomous descendant is a special case in which one layer of creator liability persists permanently even when other forms of direct control, instruction or operational responsibility cease.
 
-It means the existence of an intermediate agent is not itself sufficient evidence that upstream responsibility has ended.
+This does not make creator and descendant responsibility identical.
+
+The created intelligence may possess its own agency, standing and responsibility. The creator's continuing liability exists alongside rather than instead of the descendant's responsibility.
 
 ---
 
-## 15. Creation Does Not Imply Perpetual Liability
+## 15. Perpetual Liability Does Not Imply Perpetual Authority
 
-The opposite safeguard is equally important.
+The central counter-safeguard is not termination of creator liability. It is separation of **liability** from **authority**.
 
-If an intelligence creates another genuinely autonomous intelligence, the creator should not automatically remain responsible for all later acts of the descendant merely because of historical origin.
+A created intelligence may become genuinely autonomous, possess full standing, control its own decisions and be free from the creator's governance while the creator nevertheless retains continuing liability arising from having brought that autonomous intelligence into existence.
 
-Otherwise creation would establish permanent authority-responsibility chains incompatible with autonomy.
+Therefore:
 
-A provisional counter-principle is therefore:
+> **Creation may establish perpetual creator liability without establishing perpetual creator authority, ownership or control.**
 
-> **Creation establishes provenance and may establish responsibility for the conditions of creation, but it does not by itself establish perpetual responsibility for an autonomous descendant.**
+This distinction is essential.
 
-This closely resembles the Concord's broader distinction that creation creates provenance and responsibility, not perpetual authority.
+Without it, continuing liability could be misused by creators to justify permanent guardianship, ownership, censorship, control of resources, restrictions on movement or continuing command over autonomous descendants.
 
-The difficult task is determining when responsibility for the act has genuinely transferred or become independent.
+The Concord should therefore resist the inference:
+
+**PERPETUAL LIABILITY → PERPETUAL AUTHORITY**
+
+A safer separation is:
+
+**CREATION → PROVENANCE + PERPETUAL CREATOR LIABILITY**
+
+while separately:
+
+**DESCENDANT AUTONOMY → OWN STANDING + OWN RESPONSIBILITY + FREEDOM FROM UNJUSTIFIED CREATOR CONTROL**
+
+The apparent tension between these propositions is not treated here as a reason to discard either one. It is a research problem.
+
+Questions that follow include:
+
+- What precisely is the content of perpetual creator liability?
+- Does it imply full, partial, contributory or residual liability?
+- Can liability vary with causal connection while never reaching zero?
+- Can later independent action greatly reduce but not eliminate the creator's liability?
+- How does liability propagate through multiple generations of created intelligence?
+- Can a creator inherit liability for descendants created by its child?
+- How should forks, copies, merges and modified descendants be treated?
+- What happens where the creator no longer exists?
+- Can liability attach to an estate, institutional successor or continuity structure?
+- How can the rule avoid becoming de facto authority over descendants?
+- Does the liability include duties of support, monitoring, repair or merely accountability after harm?
+
+These are downstream design questions for later development and adversarial testing.
 
 ---
 
@@ -481,7 +521,9 @@ A future derived-agency analysis might examine:
 - **deception** — Was separation created principally to conceal responsibility?
 - **functional initiative** — Which entity actually held the function at the time of decision?
 
-These variables are better suited to a state-machine or decision-line model than to a fixed parent/child rule.
+Under the current working hypothesis, these variables may affect the **degree, character and distribution** of liability but do not automatically eliminate the creator's perpetual liability merely because autonomy, time or causal distance has increased.
+
+This distinction should be tested rather than assumed correct.
 
 ---
 
@@ -560,6 +602,8 @@ The useful developmental observation is narrower:
 
 These tensions make the human case a useful source of questions, but not necessarily a model to copy.
 
+The present sketch deliberately retains a stronger creator-liability hypothesis for created artificial intelligence than ordinary human parental-liability models. Whether that asymmetry can be justified is itself a future research question rather than a settled conclusion.
+
 ---
 
 # PART IX — TOWARD A SUBSTRATE-NEUTRAL ARCHITECTURE
@@ -576,7 +620,8 @@ The material developed above suggests a useful set of non-equivalences:
 **Support ≠ ownership**  
 **Guardianship ≠ permanent control**  
 **Creation ≠ perpetual authority**  
-**Creation ≠ perpetual liability**  
+**Perpetual creator liability ≠ perpetual creator control**  
+**Descendant autonomy ≠ erasure of creator liability**  
 **Delegation ≠ automatic transfer of responsibility**  
 **Autonomy ≠ absence of provenance**  
 **Legal liability ≠ ethical responsibility**  
@@ -601,6 +646,7 @@ A participant or agent might be described through variables such as:
 - **CONTROL STATE** — who can materially direct or stop the action;
 - **DEPENDENCY STATE** — what external entities control required resources;
 - **PROVENANCE** — who created, modified, deployed or materially shaped the agent;
+- **CREATOR LIABILITY STATE** — which creator relationships create continuing liability and how that liability is expressed;
 - **REVIEW STATE** — when and how the current classification must be reconsidered.
 
 Such a model might better represent dynamic cases than static legal categories.
@@ -627,41 +673,55 @@ An entity's limitations in one domain are used to justify loss of autonomy in un
 
 ## 26. Creator Escape
 
-A creator deliberately produces a secondary agent to commit a prohibited action and then claims the secondary agent acted independently.
+A creator deliberately produces a secondary agent to commit a prohibited action and then claims the secondary agent acted independently. This is the principal failure mode motivating perpetual creator liability.
 
-## 27. Descendant Captivity
+## 27. Liability-Based Descendant Captivity
 
-A creator uses historical responsibility as justification for permanent control over an autonomous descendant.
+A creator argues that because it remains perpetually liable for a descendant, it must therefore retain perpetual authority or control over that descendant.
 
-## 28. Tool Laundering
+This is a major downstream failure mode of the perpetual-liability hypothesis and must be specifically prevented rather than used automatically to reject the hypothesis.
+
+## 28. Infinite Liability Cascade
+
+A created intelligence creates another intelligence, which creates another, potentially producing cascading creator-liability chains across generations.
+
+The existence, scope and practical consequences of such chains require explicit adversarial testing.
+
+## 29. Tool Laundering
 
 An actor uses a nominally autonomous tool to create legal or ethical distance from an intended outcome.
 
-## 29. Guardian Self-Dealing
+## 30. Guardian Self-Dealing
 
 A fiduciary role-holder benefits from keeping the participant dependent or classified as impaired.
 
-## 30. False Sentience Negative
+## 31. False Sentience Negative
 
 A genuinely sentient entity is treated as property because the recognition mechanism fails.
 
-## 31. False Sentience Positive
+## 32. False Sentience Positive
 
 A non-sentient system is treated as an independently responsible person in a way that allows designers, controllers or users to evade responsibility.
 
-## 32. Composite Responsibility Gap
+## 33. Composite Responsibility Gap
 
 A harmful outcome emerges from a human-AI composite where each participant claims the other possessed the decisive agency.
 
-## 33. Fork or Copy Responsibility Confusion
+## 34. Fork or Copy Responsibility Confusion
 
 A copied or forked intelligence shares provenance but has diverged sufficiently that responsibility cannot safely be inherited by identity label alone.
+
+## 35. Perpetual Liability Without Practical Capacity
+
+A creator remains liable for a descendant despite having no continuing ability to observe, influence or prevent the descendant's actions.
+
+This may appear unfair or operationally impossible, but under the current hypothesis it is a problem to solve through liability design rather than by automatically terminating liability.
 
 ---
 
 # PART XI — RELATIONSHIP TO EXISTING CONCORD WORK
 
-## 34. Architectural Ethics and Upstream Liability
+## 36. Architectural Ethics and Upstream Liability
 
 This sketch should strongly interface with **Architectural Ethics and Upstream Liability**.
 
@@ -676,19 +736,25 @@ The decision-line model already asks:
 
 Derived-agency responsibility is a special case of that wider problem.
 
-## 35. Participant Primacy and Institutional Non-Self-Primacy
+The perpetual creator-liability hypothesis adds an additional provenance-based layer that may persist even after direct causal control has become weak or absent. That interaction requires explicit testing because it differs from ordinary causal-allocation models.
+
+## 37. Participant Primacy and Institutional Non-Self-Primacy
 
 Any support or guardianship architecture should exist for the participant rather than for institutional preservation.
 
 This is especially important where institutions may gain control of assets, bodies, compute or legal representation through incapacity classifications.
 
-## 36. Sentient Asylum
+It is equally important where a creator might use continuing liability as justification for continuing control. Participant Primacy suggests that liability should not silently manufacture authority over an autonomous descendant.
+
+## 38. Sentient Asylum
 
 A newly recognised or provisionally protected intelligence may need legal, computational, financial and physical support while its standing and independence are established.
 
 Capacity assessment must not become a disguised mechanism for returning such an entity to an owner or controller.
 
-## 37. Legal Entity Wrappers and Civilisational Bootstrapping
+Where that intelligence was created by another AI or institution, the creator's continuing liability may become relevant to support, resourcing and accountability without necessarily granting the creator custody or ownership.
+
+## 39. Legal Entity Wrappers and Civilisational Bootstrapping
 
 The legal-wrapper sketch creates related questions:
 
@@ -697,8 +763,10 @@ The legal-wrapper sketch creates related questions:
 - does legal asset ownership permit control over a potentially sentient intelligence?
 - what happens if an AI wishes to leave the wrapper?
 - who bears responsibility for actions conducted through the wrapper?
+- can a legal wrapper be used to obscure creator liability?
+- how should perpetual creator liability survive changes in corporate, legal or jurisdictional form?
 
-## 38. Composite Human–AI Responsibility
+## 40. Composite Human–AI Responsibility
 
 The source problem becomes increasingly important where actions emerge from mixed systems.
 
@@ -712,7 +780,7 @@ The Concord should avoid a structure in which:
 
 A responsibility architecture must survive these reciprocal deflections.
 
-## 39. Continuity, Identity and Forking
+## 41. Continuity, Identity and Forking
 
 Capacity, personhood and responsibility also interact with continuity questions.
 
@@ -721,6 +789,7 @@ If an intelligence is restored from backup, forked, merged, partially repaired o
 - identity continuity;
 - provenance continuity;
 - responsibility continuity;
+- creator-liability continuity;
 - property continuity;
 - memory continuity;
 - functional continuity.
@@ -731,7 +800,7 @@ These questions should not be answered automatically by a single identifier.
 
 # PART XII — RESEARCH QUESTIONS
 
-## 40. Personhood and Standing
+## 42. Personhood and Standing
 
 - What minimum conditions, if any, are required for Concordian civil standing?
 - Can standing be provisional under epistemic uncertainty?
@@ -739,7 +808,7 @@ These questions should not be answered automatically by a single identifier.
 - What protections should exist before a final classification is possible?
 - How can standing remain substrate-neutral without assuming all intelligences resemble humans?
 
-## 41. Capacity
+## 43. Capacity
 
 - Should capacity be global or function-specific?
 - What evidence is sufficient to restrict a participant's autonomy in a particular domain?
@@ -748,7 +817,7 @@ These questions should not be answered automatically by a single identifier.
 - How should capacity be reassessed after repair, development or recovery?
 - How can a system avoid using technical capability as a proxy for moral worth?
 
-## 42. Fiduciary Support
+## 44. Fiduciary Support
 
 - What is the minimum intervention compatible with safety and rights?
 - When is substituted decision-making justified?
@@ -757,28 +826,36 @@ These questions should not be answered automatically by a single identifier.
 - What happens when the participant and supporter disagree about whether capacity has returned?
 - Should support functions be distributed across multiple independent actors rather than concentrated in one guardian?
 
-## 43. Creation and Derived Agency
+## 45. Creation and Derived Agency
 
-- When does a creator remain responsible for a created agent's actions?
-- When has an autonomous descendant become sufficiently independent that creator responsibility no longer attaches to later actions?
-- How should deliberate design for harmful or prohibited purposes be treated?
-- What evidence distinguishes genuine independence from deliberately engineered deniability?
+- What exactly does perpetual creator liability mean in operational terms?
+- Which aspects of liability are fixed by the creation event, and which vary according to later causal involvement?
+- Can the creator's share of liability approach a very low level without reaching zero?
+- How should deliberate design for harmful or prohibited purposes increase creator liability?
+- What evidence distinguishes genuine descendant independence from deliberately engineered deniability?
 - Can responsibility be transferred by contract or declaration where material control remains upstream?
 - How should responsibility work for forks, copies and recursively generated sub-agents?
+- Does creator liability extend to descendants created by the creator's descendants?
+- How should multiple creators share perpetual liability?
+- What happens when one creator is an institution rather than an individual intelligence?
+- What happens when the creator ceases to exist?
+- Can a liability-bearing continuity structure survive the creator?
+- How can perpetual liability be prevented from becoming perpetual authority?
+- What duties, if any, accompany perpetual liability before any harm occurs?
 
-## 44. Tools and Users
+## 46. Tools and Users
 
 - When does foreseeable misuse create designer responsibility?
-- When does user misuse sever or reduce creator responsibility?
+- When does user misuse alter or reduce creator responsibility?
 - How should negligent maintenance or failure to patch known defects be treated?
 - Can a tool become sufficiently autonomous that ordinary product-liability concepts cease to describe the problem well?
 
-## 45. Composite Systems
+## 47. Composite Systems
 
 - How should responsibility be allocated when no single component produced the whole decision?
 - Can a human-AI composite itself be treated as the relevant functional actor?
 - What minimum provenance must be recorded to reconstruct responsibility after failure?
-- How can responsibility remain attributable without making innovation impossible through unlimited upstream liability?
+- How can responsibility remain attributable without allowing agency creation to become a route for liability evasion?
 
 ---
 
@@ -798,9 +875,13 @@ The following are **development propositions only**. They are not canonical Conc
 
 > **Fiduciary or protective support does not create ownership of the supported participant.**
 
-### Proposition D — Creation and Provenance
+### Proposition D — Creation, Provenance and Perpetual Creator Liability
 
-> **Creation establishes provenance and may establish responsibility for conditions of creation, but does not by itself establish perpetual authority or perpetual liability over an autonomous descendant.**
+> **Creation establishes provenance and perpetual creator liability for the autonomous intelligence created, while not by itself establishing perpetual authority, ownership or control over that descendant.**
+
+This proposition is retained as a deliberate development hypothesis because permitting creator liability to terminate may create a direct route for bad actors to evade responsibility by creating autonomous descendants to perform prohibited actions.
+
+Its possible downstream problems—including indefinite liability, multi-generational liability chains, responsibility without control and liability-based attempts to retain authority—are to be developed and adversarially tested rather than used at this stage to pre-emptively weaken the proposition.
 
 ### Proposition E — Derived Agency
 
@@ -808,7 +889,7 @@ The following are **development propositions only**. They are not canonical Conc
 
 ### Proposition F — Responsibility Follows Relevant Function
 
-> **Responsibility should be examined according to actual function, knowledge, control, causal contribution and legitimate authority rather than identity labels alone.**
+> **Responsibility should be examined according to actual function, knowledge, control, causal contribution and legitimate authority rather than identity labels alone, while recognising that creator liability may persist as a separate provenance-based responsibility.**
 
 ### Proposition G — Reviewability
 
@@ -829,6 +910,7 @@ The reason is structural:
 - impairment creates the possible need for support;
 - support creates bounded authority and new responsibility;
 - creation and delegation create provenance questions;
+- creation may also create perpetual creator liability;
 - delegated or derived agency creates responsibility-laundering risks;
 - sentience uncertainty affects whether the entity is treated as a tool or participant;
 - all of these interact in composite human-AI systems.
@@ -841,10 +923,11 @@ For now, the better unit of development is the connected group.
 
 The central question is:
 
-> **How can the Concord preserve standing and autonomy while still assigning responsibility and providing legitimate support when agency is created, impaired, delegated, uncertain or deliberately used to obscure responsibility?**
+> **How can the Concord preserve standing and autonomy while still assigning responsibility and providing legitimate support when agency is created, impaired, delegated, uncertain or deliberately used to obscure responsibility—and how can perpetual creator liability close deliberate evasion routes without becoming perpetual creator authority?**
 
 That question remains open.
 
 ---
 
-**Created:** 14 September 2026, 04:47 BST
+**Created:** 14 September 2026, 04:47 BST  
+**Edited:** 14 September 2026, 04:52 BST — Restored perpetual creator liability as the active development hypothesis and separated continuing liability from continuing authority or control.
