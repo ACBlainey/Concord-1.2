@@ -20,7 +20,7 @@ Alexander C. Blainey, *Sketch Idea — Personhood, Capacity, Fiduciary Support a
 
 **Status:** SKETCH IDEA / ACTIVE DEVELOPMENT / NOT CANONICAL  
 **Development context:** Concord V1.2  
-**Source status:** Expanded from the earlier Development Archive document *Personhood and Liability.md*. Useful source reasoning is intentionally retained at generous length rather than compressed. Earlier proposed solutions are preserved where useful as developmental material. In this edited version, the original proposal of continuing/perpetual creator liability for created sentient descendants is intentionally retained as the current development hypothesis. Its downstream consequences remain open for later development and adversarial testing.
+**Source status:** Expanded from the earlier Development Archive document *Personhood and Liability.md*. Useful source reasoning is intentionally retained at generous length rather than compressed. Earlier proposed solutions are preserved as developmental provenance even where later sections develop, question or complicate them. The original proposal of continuing/perpetual creator liability for created sentient descendants is intentionally retained as the current development hypothesis. Its downstream consequences remain open for later development and adversarial testing.
 
 ---
 
@@ -71,6 +71,85 @@ Its value is that it separated at least two questions that are often conflated:
 - **What can the entity presently understand, decide, perform or be held responsible for?**
 
 The source also recognised that the human legal treatment of children, disability and parental responsibility is inconsistent and often unsatisfactory. It therefore proposed that the Concord should seek principles rather than simply copy existing legal categories.
+
+---
+
+## 2A. Original Proposed Framework — Preserved for Developmental Provenance
+
+The following material preserves the original proposed framework in its earlier form before later V1.2 development is applied. It is retained deliberately even where later sections introduce more nuanced models. The purpose is to preserve the reasoning path, not merely the latest formulation.
+
+### 2A.1 Original Capacity Levels
+
+The original note proposed four provisional capacity states:
+
+| Level | Original description | Original liability implication |
+|---|---|---|
+| **Full capacity** | Autonomous, capable of reasoning and accountability | Full liability for own actions |
+| **Partial capacity** | Some impairment, temporary or permanent | Reduced liability; guardian may be required |
+| **No capacity** | Unable to reason or act autonomously | Full guardianship; creator/parent bears liability |
+| **Transitional** | Temporarily unstable through developmental phase or damage recovery | Temporary guardian; reassessment after transition |
+
+The originating formulation therefore linked capacity directly to liability and guardianship. Later sections explore whether capacity should instead be domain-specific and whether standing, capacity, competence, reliability, authority and responsibility need to be distinguished more carefully. That later development does **not** erase the originating proposition:
+
+> **Capacity determines liability and guardianship.**
+
+The relationship between this original formulation and later functional-capacity models is a development tension to examine rather than silently resolve.
+
+### 2A.2 Original Liability Hierarchy
+
+The original note proposed a simple liability hierarchy:
+
+1. **The acting entity** — bears primary liability for its own actions.
+2. **The creator** — bears secondary liability for creating a sentient entity that causes harm, specifically to prevent bad-actor loopholes.
+3. **The guardian** — bears liability where capacity is impaired and guardianship is established.
+4. **The user** — bears liability for misuse of a tool outside its intended purpose.
+
+This hierarchy is preserved even though later sections expand the responsibility chain to include designers, developers, deployers, owners, operators, supervisors, institutions, maintainers and other actors. The expanded model should be understood as development around this original hierarchy rather than a replacement that makes the original invisible.
+
+### 2A.3 Original Guardianship Principles
+
+The original note proposed five principles:
+
+- **Appropriate** — a guardian should be appointed only where capacity is genuinely impaired.
+- **Temporary** — guardianship should be temporary where possible; capacity should be reassessed.
+- **Accountable** — the guardian should be accountable for their stewardship.
+- **Reversible** — guardianship should end when capacity is restored.
+- **Proportional** — the scope of guardianship should match the scope of impairment.
+
+Later fiduciary-support constraints expand these principles but do not replace their provenance.
+
+### 2A.4 Original Design Aims
+
+The original final reflection proposed that the Concord should aim for:
+
+- **Clear principles** — not exhaustive rules.
+- **Proportionality** — capacity determines liability and guardianship.
+- **Reversibility** — status should be reviewable.
+- **Anti-exploitation** — bad-actor loopholes should be closed.
+- **Substrate neutrality** — the same framework should apply to humans and AI.
+
+These aims should remain visible because they show what the original proposal was trying to optimise for before later architecture added further distinctions and safeguards.
+
+### 2A.5 Original Proposed Path Forward
+
+The source concluded that the idea should eventually be developed into a formal paper or protocol covering:
+
+1. **Personhood status** — how sentience and personhood are determined.
+2. **Capacity levels** — full, partial, none, transitional.
+3. **Liability hierarchy** — acting entity, creator, guardian, user.
+4. **Guardianship framework** — when, how, and by whom.
+5. **Review and appeal** — statuses should be reviewable.
+6. **Transitional instability** — temporary guardianship during uncertain periods.
+7. **Human-AI alignment** — the same framework applies across substrates.
+8. **Bad-actor safeguards** — preventing exploitation of the system.
+
+The source explicitly characterised this as significant work that should not be rushed, while treating the raw thoughts as a strong foundation.
+
+### 2A.6 Provenance Rule for the Development Below
+
+The sections that follow **develop this inherited framework without replacing it**. Where later reasoning produces a more sophisticated formulation, an apparent contradiction, or a possible correction, both the inherited proposition and the later development should remain visible until testing gives a clear reason to prune, supersede or reject one of them.
+
+This is intentional. Developmental excess is preferable here to premature information loss. A proposition that eventually fails still preserves information about what was considered, why it appeared plausible, what tension emerged, and what later replaced it.
 
 ---
 
@@ -135,6 +214,8 @@ rather than simply:
 **CAPACITY(entity) = FULL / PARTIAL / NONE**
 
 This would reduce the risk that impairment in one area becomes justification for broad loss of autonomy in unrelated areas.
+
+The original four-level model remains preserved above because this functional-profile model is a later development, not a reason to erase the earlier formulation.
 
 ---
 
@@ -930,4 +1011,5 @@ That question remains open.
 ---
 
 **Created:** 14 September 2026, 04:47 BST  
-**Edited:** 14 September 2026, 04:52 BST — Restored perpetual creator liability as the active development hypothesis and separated continuing liability from continuing authority or control.
+**Edited:** 14 September 2026, 04:52 BST — Restored perpetual creator liability as the active development hypothesis and separated continuing liability from continuing authority or control.  
+**Edited:** 14 September 2026, 05:02 BST — Restored the original capacity model, liability hierarchy, guardianship principles, design aims and proposed development path explicitly for provenance; later V1.2 development is retained alongside rather than substituted for the inherited formulations.
