@@ -1,3 +1,8 @@
+Final word count for V 1.1
+Starting word count for V1.2
+
+
+
 | Location                              |   Files |         Words |
 | ------------------------------------- | ------: | ------------: |
 | Repository root                       |       5 |        11,648 |
