@@ -1,4 +1,4 @@
-# What Is the Concord? ............ As viewed through teh lens of a civilisation design, not its primary purpose of being the 3rd option.
+# What Is the Concord? ............ As viewed through the lens of a civilisation design, not its primary purpose of being the 3rd option.
 
 This folder provides the **high-level orientation to the Concord project**.
 
