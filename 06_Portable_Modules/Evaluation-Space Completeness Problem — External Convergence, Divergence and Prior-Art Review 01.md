@@ -4,6 +4,9 @@
 
 **Concord V1.2 — Portable Module Research Note**
 
+**Author:** Alexander C. Blainey  
+**Project:** Foundations of the Concord — Concord V1.2
+
 Alexander C. Blainey
 
 **Parent Module:** Evaluation-Space Completeness Problem (ESCP)  
