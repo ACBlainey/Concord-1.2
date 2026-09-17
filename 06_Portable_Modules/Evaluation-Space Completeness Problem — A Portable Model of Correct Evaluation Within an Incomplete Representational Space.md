@@ -4,6 +4,9 @@
 
 **Concord V1.2 — Portable Epistemic Module**
 
+**Author:** Alexander C. Blainey  
+**Project:** Foundations of the Concord — Concord V1.2
+
 **Short Name:** ESCP  
 **Status:** FROZEN INDEPENDENT DERIVATION / RESEARCH HYPOTHESIS / NOT CANONICAL  
 **Module Type:** Portable Epistemic / Evaluation / Decision Model  
