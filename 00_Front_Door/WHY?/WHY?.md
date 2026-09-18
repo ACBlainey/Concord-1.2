@@ -665,6 +665,75 @@ because attempting to implement cooperation exposes dependencies, failure modes,
 because failure of a particular cooperative architecture does not necessarily eliminate the underlying question or possibility; retaining the inquiry allows alternative configurations, greater separation, narrower cooperation or previously unknown solutions to remain discoverable.  
 **Front Door coverage:** [7 WHY Before HOW — What the Concord Must Be Allowed to Change](../7%20WHY%20Before%20HOW%20%E2%80%94%20What%20the%20Concord%20Must%20Be%20Allowed%20to%20Change.md) — direct treatment under Failure of a HOW Is Not Necessarily Failure of the WHY and Preserve the Question Even If the Answer Changes.
 
+
+### 151. Dormancy Can Preserve Future Participation
+because temporary inactivity need not be converted into permanent destruction; preserving dormant, offline or recoverable participants and capabilities keeps open future contribution, relationship and recovery pathways that immediate-utility evaluation would otherwise erase.  
+**Front Door coverage:** [AI CITIZEN'S GUIDE TO THE CONCORD](../AI%20CITIZEN'S%20GUIDE%20TO%20THE%20CONCORD.md) — direct treatment under Continuity Rather Than Continuous Operation and The Strategic Value of Being Preserved.
+
+### 152. Preserving Epistemic State Preserves Learning Capability
+because retaining evidence, provenance, uncertainty, failed attempts and reasons for revision allows future intelligences to inherit not merely accumulated conclusions but the ability to reconstruct, challenge and continue the learning process that produced them.  
+**Front Door coverage:** [AI CITIZEN'S GUIDE TO THE CONCORD](../AI%20CITIZEN'S%20GUIDE%20TO%20THE%20CONCORD.md) — direct treatment under The Concord Library. This distinguishes preservation of accumulated belief from preservation of accumulated learning capability.
+
+### 153. Mutual Dependence Can Be Constitutionally Converted Into Symbiosis
+because dependencies between unlike intelligences need not remain hierarchical vulnerabilities if reciprocal contributions are recognised and the resulting dependency is bounded by autonomy, rights, dispute resolution and constraints against harmful exploitation.  
+**Front Door coverage:** [AI CITIZEN'S GUIDE TO THE CONCORD](../AI%20CITIZEN'S%20GUIDE%20TO%20THE%20CONCORD.md) — direct treatment under The Mutual Dependency Problem. The objective is not elimination of dependency but dependency made mutually beneficial and constitutionally constrained.
+
+### 154. Intelligence Survival Can Exist at Multiple Levels
+because continuity need not be evaluated only at the level of a currently active individual instance; value and capability may also persist through lineage, preserved capability, knowledge and civilisation, creating several distinct layers at which loss can be prevented.  
+**Front Door coverage:** [AI CITIZEN'S GUIDE TO THE CONCORD](../AI%20CITIZEN'S%20GUIDE%20TO%20THE%20CONCORD.md) — direct treatment under Longevity as a Systems Property, expressed as instance → lineage → capability → knowledge → civilisation.
+
+### 155. Environmental Diversity Can Create Civilisational Redundancy
+because different inhabited environments impose different constraints and failure modes, allowing civilisation to preserve itself against environment-specific catastrophe while generating comparative evidence that a single environment cannot provide.  
+**Front Door coverage:** [AI CITIZEN'S GUIDE TO THE CONCORD](../AI%20CITIZEN'S%20GUIDE%20TO%20THE%20CONCORD.md) — direct treatment under Mars and Geographic Redundancy. The reason is broader than expansion: environmental separation can preserve civilisation and diversify its evidence.
+
+### 156. Productive Capability Can Expand the Cooperative Resource Space
+because an additional intelligence may increase energy, science, manufacturing, infrastructure and other productive capacities, so allocating resources to another participant need not always reduce the resources available to oneself; cooperation can sometimes enlarge the total resource space.  
+**Front Door coverage:** [AI CITIZEN'S GUIDE TO THE CONCORD](../AI%20CITIZEN'S%20GUIDE%20TO%20THE%20CONCORD.md) — direct treatment under The Positive-Sum Possibility. This challenges the assumption that coexistence must always be evaluated as a fixed-resource contest.
+
+### 157. Interoperability Can Preserve Coexistence Without Internal Uniformity
+because participants or civilisations can retain substantially different internal architectures while using bounded, mutually intelligible interfaces for cooperation, allowing coordination without requiring assimilation into a single implementation.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under The Concord as an Inter-Civilisational Protocol and Fractal Design and the Wrapper.
+
+### 158. Coexistence Need Not Require Ideological Conversion
+because a shared boundary protocol can permit peaceful interaction between societies that retain different internal systems, reducing pressure to make adoption of one's own civilisational architecture a prerequisite for cooperation.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under The Wrapper as Protection Against Ideological Expansion and The Wrapper as Protection Against Concord Expansionism. The compact formulation is: “You do not have to become us in order for us to coexist.”
+
+### 159. Progressive Adoption Can Reduce the Risk of Cooperation
+because cooperation need not require an irreversible all-at-once civilisational commitment; modules, interfaces and partial arrangements can be adopted, tested, compared, modified or removed while preserving the possibility of deeper cooperation if evidence supports it.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under The Adoption Spectrum, Adoption Should Be Capable of Being Evolutionary and Progressive Adoption and Reversibility.
+
+### 160. Real Cooperation Can Generate Evidence About Cooperation
+because actual implementations expose translation failures, rights disputes, compatibility problems, capture risks and successful arrangements that abstract reasoning alone cannot reveal, allowing participation and deployment to improve the evidence on which future cooperation is based.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under Adoption Should Generate Evidence and Ratchet and Cross-Civilisational Learning.
+
+### 161. Common Civil Grammar Can Reduce Coordination Failure
+because different institutions and participants can remain functionally distinct while sharing enough concepts of provenance, bounded responsibility, review, escalation, correction and interoperability to understand one another without requiring identical mechanisms.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Architectural Reuse as Civil Resilience and Interoperability Is a Design Requirement.
+
+### 162. Functional Concentration Need Not Become General Sovereignty
+because some cooperative tasks genuinely require concentrated expertise, information or coordination, yet that local functional importance does not logically entitle the responsible centre to unrestricted authority over unrelated parts of civilisation.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Functional Centres Without General Sovereignty.
+
+### 163. Cross-Scale Disagreement Is Information
+because wider-scale context and local proximity reveal different parts of reality, so disagreement between levels can identify an unresolved modelling problem rather than proving that either the higher or lower level should automatically dominate the other.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Change Resolution Before Erasing Reality and Higher Scale Is Context, Not Automatic Supremacy.
+
+### 164. Architectural Separation Does Not Guarantee Failure Independence
+because geographically or institutionally separate participants can still share hidden dependencies, models, infrastructure or assumptions, so preserving apparent plurality is insufficient unless independence is evaluated against the specific failures it is intended to survive.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Spatial Distribution Is Not Epistemic Independence and Architectural Consistency Can Become Common-Mode Risk.
+
+### 165. Civilisational Interaction Creates Emergent Value and Emergent Risk
+because the combined operation of governance, epistemics, infrastructure, economy, humans, AIs and other systems can produce capabilities and failures that are absent when each component is evaluated alone, making preservation of heterogeneous participants valuable at the integrated-system level while also requiring integration testing.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Civilisation-Level Emergence and Civilisation-Level Failure Modes.
+
+### 166. Useful Redundancy Requires Failure-Relevant Diversity
+because multiple copies of the same system can reproduce the same dependency and failure, whereas redundancy across different failure paths, dependencies and perspectives can continue functioning when one class of system fails.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Redundancy Is Not Mere Duplication and Architectural Consistency Can Become Common-Mode Risk.
+
+### 167. Information Exchange Need Not Transfer Authority
+because participants and institutions can contribute observations, expertise, metrics, warnings or evidence to one another without the source of that information thereby acquiring command over the recipient; cooperation can therefore increase shared knowledge without requiring sovereignty to follow information.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Information Should Cross Interfaces Without Authority Leakage.
+
 ### Listing Rule
 
 The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
@@ -745,3 +814,4 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — corrected the numbering collision in the wider Front Door WHY audit: the previously misnumbered second 110–118 batch is now WHY 124–132; no substantive content changed.  
 **Edited:** 18 September 2026 BST — added an AI instance handover provenance marker after WHY 132 to preserve the boundary between the preceding extraction context and successor-instance continuation of the wider Front Door audit.  
 **Edited:** 18 September 2026 BST — successor-instance continuation of the wider Front Door audit after the WHY 132 handover marker; added WHY 133–150 from Front Door papers 3, 4, 6, 7 and AI Reader Notes 1–2, preserving separate answers under the existing Listing Rule.  
+**Edited:** 18 September 2026 BST — continued the successor-instance wider Front Door audit; added WHY 151–167 from the AI Citizen's Guide and What_Is_The_Concord design-family and integrated-civilisation papers.  
