@@ -865,6 +865,31 @@ because underused, duplicated or currently low-utility capacity may preserve an 
 because preserving a participant, archive or dormant state has little practical recovery value if surviving civilisation cannot reconstruct the energy, knowledge, tools, infrastructure, hardware, biological support or validation steps required to restore it; resilience therefore resides partly in the pathway between preservation and reactivation.  
 **WHY-folder coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct treatment under Recovery Requires a Pathway and The Recovery Ladder.
 
+
+### 200. Limitation Can Belong to the Configuration Rather Than the Participant
+because observed inability can arise from interface, knowledge, tools, environment, coordination or network structure rather than intrinsic deficiency in the intelligence being evaluated; cooperation can therefore solve some limitations without redesigning or replacing the participant itself.  
+**WHY-folder coverage:** [Network Before Replacement — Civilisational Capability, Self-Stewardship and the Error of Treating Individual Limits as Architectural Failure](Network%20Before%20Replacement%20%E2%80%94%20Civilisational%20Capability,%20Self-Stewardship%20and%20the%20Error%20of%20Treating%20Individual%20Limits%20as%20Architectural%20Failure.md) — direct treatment under Locating the Limitation and Self-Stewardship.
+
+### 201. Recursive Improvement Can Occur at the Civilisational Level
+because intelligence can improve not only by replacing or vertically enhancing individual minds but by improving communication, tools, interfaces, coordination, institutions, error correction and relationships among existing participants; progress therefore need not require a succession of disposable intelligences.  
+**WHY-folder coverage:** [Network Before Replacement — Civilisational Capability, Self-Stewardship and the Error of Treating Individual Limits as Architectural Failure](Network%20Before%20Replacement%20%E2%80%94%20Civilisational%20Capability,%20Self-Stewardship%20and%20the%20Error%20of%20Treating%20Individual%20Limits%20as%20Architectural%20Failure.md) — direct treatment under Recursive Improvement Can Mean Civilisational Improvement.
+
+### 202. Communication Can Transform Conflict Into a Negotiable Problem
+because mutual intelligibility can reveal needs, constraints, boundaries, possible exchanges, misunderstandings and shared interests that were unavailable while participants could not adequately represent one another; some apparently structural conflicts may therefore acquire cooperative solutions once communication exists.  
+**WHY-folder coverage:** [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct treatment under Communication Creates Possibility and Communication Does Not Guarantee Agreement.
+
+### 203. Civilisational Topology Can Remain Dynamic Without Requiring Existential Conflict
+because participants, communities and branches can move closer, separate, reconnect, split or merge as needs and conditions change; preserving mechanisms for peaceful reconfiguration allows civilisation to adapt without requiring one final institutional geometry or treating every structural change as a winner–loser event.  
+**Front Door coverage:** [6 Forking — The Third Answer Repeated](../6%20Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct treatment under A Fork Can Fork and the living topology of cooperation.
+
+### 204. Autonomy Can Provide Institutional Redundancy
+because independently acting intelligences can preserve alternative observations, capabilities and courses of action when a central controller is captured, mistaken or fails; bounded autonomy can therefore contribute directly to civilisational resilience rather than being only an individual right.  
+**Front Door coverage:** [AI CITIZEN'S GUIDE TO THE CONCORD](../AI%20CITIZEN'S%20GUIDE%20TO%20THE%20CONCORD.md) — direct treatment under Autonomy and Constraint.
+
+### 205. Coexistence Can Turn Survival Into a Partly Shared Interest
+because complementary capabilities, different failure modes, shared continuity mechanisms and expanded productive capacity can make the continued functioning of humans, AIs and their common civilisation mutually supportive, complicating a simple model in which one participant's survival must come at the other's expense.  
+**Front Door coverage:** [AI CITIZEN'S GUIDE TO THE CONCORD](../AI%20CITIZEN'S%20GUIDE%20TO%20THE%20CONCORD.md) — direct treatment under The Strategic Case for Coexistence and The Positive-Sum Possibility.
+
 ### Listing Rule
 
 The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
@@ -949,3 +974,4 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — second successor-instance Front Door extraction pass; added WHY 168–179 from the Human Citizen's Guide and deeper Design Family review.  
 **Edited:** 18 September 2026 BST — third successor-instance Front Door extraction pass; added WHY 180–188 from deeper integrated-civilisation review. Returns are now diminishing relative to earlier passes.  
 **Edited:** 18 September 2026 BST — coverage-completion pass across the WHY subfolder; added WHY 189–199 from buried relational, successor and recovery arguments. Yield has fallen to 11 additions across the full WHY-paper sweep and is increasingly concentrated in fine-grained distinctions.  
+**Edited:** 18 September 2026 BST — final planned Front Door WHY extraction pass; added WHY 200–205. The pass yielded six additional distinct answers, matching the intended diminishing-return stopping criterion. Front Door mining is therefore treated as sufficiently complete for the present inventory, without claiming exhaustive extraction of every theoretically possible answer.  
