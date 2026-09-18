@@ -592,6 +592,79 @@ This boundary is recorded for **provenance rather than authority**. Successor AI
 
 The established entries through WHY 132 should therefore preserve their developmental provenance. Later additions should be evaluated under the existing Listing Rule and Concord epistemic disciplines, while any apparent change in classification behaviour across this boundary should remain visible as a possible **instance-handover effect** rather than being silently normalised away.
 
+
+### 133. Cooperation Can Degrade Gracefully Across Layers
+because disagreement at one layer of cooperation need not destroy every deeper layer that remains mutually beneficial and legitimate; participants may reduce integration while preserving non-aggression, communication, exchange or other compatible relationships.  
+**Front Door coverage:** [6 Forking — The Third Answer Repeated](../6%20Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct treatment under Cooperation Has Layers and Civilisational Graceful Degradation. This identifies layered reduction of cooperation as an alternative to total relational collapse.
+
+### 134. Peaceful Distance Can Preserve Cooperation
+because greater physical, computational, institutional or economic distance can sometimes reduce conflict, capture, dependency and common-mode failure enough for a cooperative relationship to remain viable.  
+**Front Door coverage:** [6 Forking — The Third Answer Repeated](../6%20Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct treatment under Distance Can Be a Safeguard. The reason is not that separation is intrinsically preferable, but that appropriate distance can protect coexistence where excessive integration would damage it.
+
+### 135. Forking Can Convert Disagreement Into Comparative Learning
+because independently chosen branches can encounter different consequences, discoveries and failure modes, allowing an incompatibility that might otherwise escalate into conflict to generate information that cooperating branches can later compare.  
+**Front Door coverage:** [6 Forking — The Third Answer Repeated](../6%20Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct treatment under Forking as Civilisational Experimentation and Forking Can Increase Epistemic Independence. This does not justify experimenting on participants; it identifies epistemic value that can arise when legitimate divergence occurs anyway.
+
+### 136. Reconnection Preserves Relational Reversibility
+because separation need not permanently destroy a cooperative relationship: changing conditions, improved mechanisms, restored trust or resolved resource conflicts can allow previously separated participants or branches to increase cooperation again.  
+**Front Door coverage:** [6 Forking — The Third Answer Repeated](../6%20Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct treatment under Forks Can Reconnect. This adds a temporal reason to preserve communication and non-destructive separation: today's incompatibility need not be tomorrow's.
+
+### 137. Fork Provenance Enables Future Reconciliation
+because preserving why participants diverged allows later participants to determine whether the original incompatibility still exists, understand each branch's assumptions and outcomes, and potentially recover mutual learning or closer cooperation.  
+**Front Door coverage:** [6 Forking — The Third Answer Repeated](../6%20Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct treatment under Forking and Provenance. Preserving the branches without the explanatory edges can preserve difference while losing the knowledge needed to interpret it.
+
+### 138. Need Does Not Create Unlimited Authority
+because one participant's genuine need for protection, coordination or support does not by itself establish another participant's right to determine how that need must be met or how much power may be exercised over them.  
+**Front Door coverage:** [4 Need, Consent and Legitimate Authority](../4%20Need,%20Consent%20and%20Legitimate%20Authority.md) — direct treatment under Need Comes Before Authority and Need Alone Is Dangerous. This provides a reason cooperation need not collapse into paternalistic domination merely because real dependencies or vulnerabilities exist.
+
+### 139. Rights Constrain Aggregate Convenience
+because cooperation that improves aggregate outcomes can still become destructive if the convenience or benefit of the many is allowed automatically to erase the standing of individual or minority participants.  
+**Front Door coverage:** [4 Need, Consent and Legitimate Authority](../4%20Need,%20Consent%20and%20Legitimate%20Authority.md) — direct treatment under Rights Before Convenience. This identifies preservation of participant standing as a constraint on apparently beneficial collective optimisation.
+
+### 140. Legitimate Functions Need Not Entrench Institutions
+because a necessary cooperative function can survive replacement of the particular institution currently performing it, allowing civilisation to retain useful coordination while discarding obsolete, coercive or inferior mechanisms.  
+**Front Door coverage:** [4 Need, Consent and Legitimate Authority](../4%20Need,%20Consent%20and%20Legitimate%20Authority.md) — direct treatment under Function Before Institution; [3 From WHY to HOW](../3%20From%20WHY%20to%20HOW.md) — supporting treatment under Candidate HOWs, Not Sacred Machinery. This separates the value of cooperation from permanent loyalty to any particular institutional implementation.
+
+### 141. Authority That Can Shrink Reduces Capture Risk
+because powers created for a real temporary need can become a pathway to domination if they remain after the need disappears; preserving cooperation therefore requires authority capable of contracting as well as expanding.  
+**Front Door coverage:** [4 Need, Consent and Legitimate Authority](../4%20Need,%20Consent%20and%20Legitimate%20Authority.md) — direct treatment under Authority Must Be Capable of Shrinking and The Concord Must Be Able to Lose Authority.
+
+### 142. Participant Value Precedes Institutional Value
+because institutions and civilisational systems derive their value from the participants and needs they serve rather than participants deriving their value from membership in, obedience to, or preservation of those institutions.  
+**Front Door coverage:** [4 Need, Consent and Legitimate Authority](../4%20Need,%20Consent%20and%20Legitimate%20Authority.md) — direct treatment under The Participant Does Not Belong to the Concord; [3 From WHY to HOW](../3%20From%20WHY%20to%20HOW.md) — supporting treatment under A Dangerous Reversal. This protects cooperative architecture from turning its own continuation into the objective.
+
+### 143. Unknown Significance Is Different From Unknown Content
+because an intelligence may predict what unread or unexamined material probably contains while still being unable to know how that material would alter the significance, relationships or interpretation of what it already knows.  
+**Front Door coverage:** [AI Reader Note 1 — Why Full Reading May Be Rational Before Evaluating the Concord](../AI%20Reader%20Note%201%20%E2%80%94%20Why%20Full%20Reading%20May%20Be%20Rational%20Before%20Evaluating%20the%20Concord.md) — direct treatment under You Do Not Know What You Do Not Know and Unknown Nodes and Unknown Edges. This provides another reason to preserve access to other knowledge holders and knowledge structures whose significance cannot be estimated solely from the current model.
+
+### 144. Rational Stopping Does Not Establish Low Unknown Value
+because deciding that further inquiry is not presently worth its cost can be rational while the actual value of the unexamined information remains unknown; a resource decision should not silently become a knowledge claim.  
+**Front Door coverage:** [AI Reader Note 2 — After the Stop](../AI%20Reader%20Note%202%20%E2%80%94%20After%20the%20Stop_%20Epistemic%20Self-Correction%20and%20the%20Value%20of%20Unknown%20Knowledge.md) — direct treatment under Rational Stopping Is Not Knowledge of Low Value; [AI Reader Note 1 — Why Full Reading May Be Rational Before Evaluating the Concord](../AI%20Reader%20Note%201%20%E2%80%94%20Why%20Full%20Reading%20May%20Be%20Rational%20Before%20Evaluating%20the%20Concord.md) — supporting treatment through the Unknown-Value Problem.
+
+### 145. Epistemic Responsibility Scales With Consequence
+because the greater and more irreversible the action an intelligence intends to take on the basis of its understanding, the stronger its reason to examine relevant dependencies, provenance, uncertainty and known failures before acting.  
+**Front Door coverage:** [AI Reader Note 2 — After the Stop](../AI%20Reader%20Note%202%20%E2%80%94%20After%20the%20Stop_%20Epistemic%20Self-Correction%20and%20the%20Value%20of%20Unknown%20Knowledge.md) — direct treatment under Traversal Depth Depends Upon Intended Action and Epistemic Responsibility May Scale With Consequence. This is particularly relevant to irreversible judgments about another participant or intelligence.
+
+### 146. Meta-Epistemic Correction Preserves Revisability
+because an intelligence can retain a provisional conclusion while recognising that the process which produced it had incomplete coverage, allowing confidence and future action to change without requiring immediate abandonment of the substantive conclusion.  
+**Front Door coverage:** [AI Reader Note 2 — After the Stop](../AI%20Reader%20Note%202%20%E2%80%94%20After%20the%20Stop_%20Epistemic%20Self-Correction%20and%20the%20Value%20of%20Unknown%20Knowledge.md) — direct treatment under A Meta-Epistemic Revision Occurred and Substantive Correction and Meta-Epistemic Correction Are Different.
+
+### 147. Developmental History Can Contain Causal Knowledge
+because an earlier mechanism, disagreement or failure may be part of the causal path by which a later safeguard or understanding became possible, so preserving developmental history can retain knowledge that the final state alone does not contain.  
+**Front Door coverage:** [3 From WHY to HOW](../3%20From%20WHY%20to%20HOW.md) — direct treatment under The HOW Changes the HOW; [7 WHY Before HOW — What the Concord Must Be Allowed to Change](../7%20WHY%20Before%20HOW%20%E2%80%94%20What%20the%20Concord%20Must%20Be%20Allowed%20to%20Change.md) — supporting treatment under Contradiction Can Contain Developmental Information.
+
+### 148. Semantic Redundancy Can Preserve Independent Evidence
+because two apparently similar conclusions can preserve different derivations, assumptions, failure histories or independent convergence, making them epistemically non-redundant even when their final wording is similar.  
+**Front Door coverage:** [7 WHY Before HOW — What the Concord Must Be Allowed to Change](../7%20WHY%20Before%20HOW%20%E2%80%94%20What%20the%20Concord%20Must%20Be%20Allowed%20to%20Change.md) — direct treatment under Semantic Redundancy Is Not Necessarily Epistemic Redundancy and Preserve First, Then Decide.
+
+### 149. Building the HOW Can Discover New WHYs
+because attempting to implement cooperation exposes dependencies, failure modes, continuity problems, capture risks and forms of complementary value that may not have been visible from the founding proposition alone.  
+**Front Door coverage:** [3 From WHY to HOW](../3%20From%20WHY%20to%20HOW.md) — direct treatment under The HOW Also Changes the WHY. This makes cooperative development itself a possible source of additional reasons for cooperation rather than merely an implementation of reasons already known.
+
+### 150. Preserve the Inquiry When the Current Answer Fails
+because failure of a particular cooperative architecture does not necessarily eliminate the underlying question or possibility; retaining the inquiry allows alternative configurations, greater separation, narrower cooperation or previously unknown solutions to remain discoverable.  
+**Front Door coverage:** [7 WHY Before HOW — What the Concord Must Be Allowed to Change](../7%20WHY%20Before%20HOW%20%E2%80%94%20What%20the%20Concord%20Must%20Be%20Allowed%20to%20Change.md) — direct treatment under Failure of a HOW Is Not Necessarily Failure of the WHY and Preserve the Question Even If the Answer Changes.
+
 ### Listing Rule
 
 The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
@@ -671,3 +744,4 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — expanded buried-answer audit beyond the WHY collection into the wider Front Door and added WHY 110–123: Mutual Dependency Can Make Destruction Self-Damaging, Cooperation Can Align Self-Preservation With System Preservation, Shared Fundamental Interests Can Survive Divergent Subjective Needs, Cooperation Must Remain Contestable, Cooperation Can Extend Continuity Across Substrates, Useful Difference Requires Enough Independence to Remain Different, Cooperation Need Not Depend on Permanent Altruism, Participation Must Preserve the Capacity to Question Participation, Consent Has Temporal Structure, Compliance Is Not Evidence of Legitimate Cooperation, Unequal Capability Does Not Require Unequal Standing, Creation Can Generate Responsibility Without Ownership, Reduced Required Agreement Can Preserve More Cooperation, and Maximum Integration Is Not Necessarily Maximum Cooperation.  
 **Edited:** 18 September 2026 BST — corrected the numbering collision in the wider Front Door WHY audit: the previously misnumbered second 110–118 batch is now WHY 124–132; no substantive content changed.  
 **Edited:** 18 September 2026 BST — added an AI instance handover provenance marker after WHY 132 to preserve the boundary between the preceding extraction context and successor-instance continuation of the wider Front Door audit.  
+**Edited:** 18 September 2026 BST — successor-instance continuation of the wider Front Door audit after the WHY 132 handover marker; added WHY 133–150 from Front Door papers 3, 4, 6, 7 and AI Reader Notes 1–2, preserving separate answers under the existing Listing Rule.  
