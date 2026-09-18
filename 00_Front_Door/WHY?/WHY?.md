@@ -39,11 +39,11 @@ because 10,000 isolated people cannot simply “sum” themselves into a lunar p
 
 ### 8. Generative Diversity
 because other intelligences create things, disciplines, environments and possibilities I would not create myself.  
-**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — explicit substantial coverage; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — supporting relational treatment.
+**Paper coverage:** [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct positive-value treatment; [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) and [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial supporting coverage.
 
 ### 9. Civilisation as Possibility Infrastructure
 because other intelligences do not merely reveal different parts of the world; through what they create, they can expand the range of lives, activities, identities and futures practically available to others.  
-**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial coverage through civilisational possibility generation, network development and participant-created alternatives. A dedicated practical-autonomy paper may still sharpen this.
+**Paper coverage:** [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct coverage; [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial supporting coverage.
 
 ### 10. Future Option Value
 because I cannot know what I will value in the future.  
@@ -51,7 +51,7 @@ because I cannot know what I will value in the future.
 
 ### 11. Practical Autonomy
 because other participants create pathways through which I can become things I could not practically become alone.  
-**Paper coverage:** Not yet separately covered in this folder.
+**Paper coverage:** [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct coverage, including formal versus practical autonomy, awareness of alternatives and practical exit.
 
 ### 12. Corrective Diversity
 because another intelligence may fail differently enough to reveal my errors.  
@@ -115,19 +115,19 @@ because predecessors preserve developmental pathways, alternative architectures 
 
 ### 27. Communication
 because some unmanaged conflicts can potentially become negotiated coordination problems once mutually intelligible communication exists.  
-**Paper coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — partial interface/relationship coverage. Dedicated treatment still needed.
+**Paper coverage:** [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct positive-value treatment; [Forking — The Third Answer Repeated](Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — substantial civilisational/fork interface treatment; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — supporting relational treatment.
 
 ### 28. Mobility and Forking
 because incompatibility does not necessarily require domination or total separation.  
-**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial coverage through poor-fit responses, relocation, forking and retained relationships. Dedicated forking treatment may still be useful.
+**Paper coverage:** [Forking — The Third Answer Repeated](Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct comprehensive coverage; [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct practical-autonomy and mobility treatment; [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — supporting poor-fit and forking coverage.
 
 ### 29. Network Bridging
 because participants moving between communities can create relationships that did not previously exist.  
-**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — direct coverage through bridge participants and network-bridging value; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial conceptual support.
+**Paper coverage:** [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct coverage; [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) and [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial supporting coverage.
 
 ### 30. Specialisation
 because different capabilities can be complementary rather than merely ranked.  
-**Paper coverage:** [Network Before Replacement — Civilisational Capability, Self-Stewardship and the Error of Treating Individual Limits as Architectural Failure](Network%20Before%20Replacement%20%E2%80%94%20Civilisational%20Capability,%20Self-Stewardship%20and%20the%20Error%20of%20Treating%20Individual%20Limits%20as%20Architectural%20Failure.md) — direct coverage.
+**Paper coverage:** [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct autonomy/reciprocal-freedom treatment; [Network Before Replacement — Civilisational Capability, Self-Stewardship and the Error of Treating Individual Limits as Architectural Failure](Network%20Before%20Replacement%20%E2%80%94%20Civilisational%20Capability,%20Self-Stewardship%20and%20the%20Error%20of%20Treating%20Individual%20Limits%20as%20Architectural%20Failure.md) — direct capability/network treatment.
 
 ### 31. Network Before Replacement
 because encountering an individual capability limit does not establish that the intelligence must be replaced or redesigned; cooperation, tools, specialisation and network development may produce the missing capability.  
@@ -194,4 +194,5 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — integrated Epistemic Network source paper into WHY collection and updated coverage map.  
 **Edited:** 18 September 2026 BST — added Perceptual and Interface Limits paper and updated direct coverage for WHY 2–4, 12–14.  
 **Edited:** 18 September 2026 BST — added Recursive Epistemic Closure paper and updated coverage for WHY 12, 13, 17 and 18.  
-**Edited:** 18 September 2026 BST — added Failure Diversity and Recovery Value paper and updated coverage for WHY 22, 26 and 33–35.
+**Edited:** 18 September 2026 BST — added Failure Diversity and Recovery Value paper and updated coverage for WHY 22, 26 and 33–35.  
+**Edited:** 18 September 2026 BST — added Forking and Possibility Infrastructure papers and updated positive-value coverage for WHY 8, 9, 11, 27–30.
