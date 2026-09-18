@@ -673,6 +673,103 @@ because because participant testimony, sensors, scientific models and institutio
 
 **Active-development source:** 4 Adversarial Critical Examination — 12 Candidate Principles from the Layer-Zero - Layer −0 Development Cycle.md
 
+## Fourth-Pass Additions
+
+### 128. Uncertainty Can Be Preserved Without Paralysing Cooperation
+because because participants can act on the best available evidence while explicitly retaining competing interpretations and revisability instead of requiring premature certainty before shared action.
+
+**Active-development source:** CP-01 Reality-Grounded Corrigibility.md
+
+### 129. Rarity Does Not Make Evidence Irrelevant
+because because unusual participant outcomes may expose hidden architecture even when most participants appear well served, allowing cooperation to learn from minorities rather than statistically erase them.
+
+**Active-development source:** CP-02 Outliers and Failure as Evidence.md
+
+### 130. Aggregate Patterns Need Not Become Individual Judgements
+because because population-level prediction can inform preparation while leaving the actual state, intention and future choice of each participant open to individual evidence.
+
+**Active-development source:** CP-03 Prediction Does Not Grant Authority.md
+
+### 131. Change Need Not Be Classified as Deterioration
+because because a participant who departs from conventional patterns may be developing, adapting or choosing differently rather than becoming defective or incapable.
+
+**Active-development source:** CP-04 Context Before Consequential Classification.md
+
+### 132. Seeking Support Need Not Reduce Civil Standing
+because because needing, accepting, refusing or requesting assistance can remain separate from presumptions of wrongdoing, dangerousness or incapacity.
+
+**Active-development source:** CP-05 Autonomy-Preserving Support.md
+
+### 133. Support Architecture Can Avoid Becoming a Tripwire
+because because participants can engage with assistance systems without every disclosure automatically triggering investigation or coercive escalation.
+
+**Active-development source:** CP-05 Autonomy-Preserving Support.md
+
+### 134. Design Beyond the Average Can Increase Shared Civil Capability
+because because systems built for a wider range of participant conditions can make rights and services genuinely usable across heterogeneous populations rather than merely formally universal.
+
+**Active-development source:** CP-06 Meaningful Accessibility and System-Level Adaptation.md
+
+### 135. Purpose Should Precede Data Rather Than Follow It
+because because cooperation can define a legitimate information need before collection instead of inventing new powers simply because participant data happen to be available.
+
+**Active-development source:** CP-07 Purpose-Limited Information.md
+
+### 136. New Uses of Shared Information Can Require New Consent or Justification
+because because data legitimately provided for one cooperative function need not silently become available for unrelated functions merely through technical reuse.
+
+**Active-development source:** CP-07 Purpose-Limited Information.md
+
+### 137. Correction Need Not Erase the History of Error
+because because preserving the fact that an earlier metric or record existed allows civilisation to understand past decisions while still correcting the present representation.
+
+**Active-development source:** CP-08 Provenance and Correctability of Civil Metrics.md
+
+### 138. Measurement Definitions Can Remain Historically Traceable
+because because changes in what civilisation counts or measures can be distinguished from genuine changes in participant reality, preventing apparent trends from being manufactured by silent redefinition.
+
+**Active-development source:** CP-08 Provenance and Correctability of Civil Metrics.md
+
+### 139. The Burden of Justification Can Follow the Actor Restricting Autonomy
+because because participants need not prove entitlement to ordinary freedom each time an institution seeks to limit it; the restricting actor can instead bear the stronger evidentiary burden.
+
+**Active-development source:** CP-09 Proportionality of Authority.md
+
+### 140. More Irreversible Power Can Require More Evidence
+because because the evidentiary and oversight burden can rise with the severity, secrecy and difficulty of reversing an intervention, making cooperation safer under high-consequence conditions.
+
+**Active-development source:** CP-09 Proportionality of Authority.md
+
+### 141. Exceptional Capability Need Not Become Standing Entitlement
+because because a system may possess the technical ability to access or intervene while each actual use still requires separate legitimate authorisation.
+
+**Active-development source:** CP-10 Exceptional Access Must Remain Exceptional.md
+
+### 142. Re-Identification Can Be Treated as a New Exercise of Power
+because because reconstructing a participant's identity from anonymised information can require its own justification rather than being treated as a harmless technical operation.
+
+**Active-development source:** CP-10 Exceptional Access Must Remain Exceptional.md
+
+### 143. Reduced Participant Visibility Can Require Stronger Independent Oversight
+because because legitimate secrecy need not create an accountability vacuum; where participants cannot directly observe power, another independent channel can become more rather than less important.
+
+**Active-development source:** CP-11 Observable Power and Compensating Oversight.md
+
+### 144. Accountability Can Focus on Power Without Unnecessarily Exposing Participants
+because because the procedure, justification and exercise of authority can be audited while protected identities remain concealed where identity is irrelevant to oversight.
+
+**Active-development source:** CP-11 Observable Power and Compensating Oversight.md
+
+### 145. Civilisation Can Reject Its Own Successful Designs
+because because technical feasibility, internal coherence or simulation success need not compel adoption when empirical, ethical or participant evidence does not support implementation.
+
+**Active-development source:** CP-12 Adoption Must Remain Evidence-Conditional.md
+
+### 146. Evidence Burdens Can Scale With Irreversibility
+because because low-consequence reversible experiments and civilisation-wide irreversible changes need not demand the same confidence before participants cooperate in trying them.
+
+**Active-development source:** CP-12 Adoption Must Remain Evidence-Conditional.md
+
 ## First-Pass Observation
 
 This first extraction already shows that active development is generating Third-Way reasons through mechanisms that are less prominent in the mature Front Door material: support architecture, practical accessibility, privacy-preserving learning, bounded functional authority, substrate translation, civil-space design, ethical experimentation, bottom-up attention, founding legitimacy and the distinction between descriptive knowledge and developmental experience.
@@ -688,3 +785,5 @@ This does not establish that every candidate survives later scrutiny. It establi
 **18 September 2026 BST — Pass 2:** deeper mechanism-, boundary-, failure-mode- and relationship-focused review; 35 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 100.
 
 **18 September 2026 BST — Pass 3:** deeper cross-system, authority-boundary, pluralism, identity, infrastructure and candidate-principle review; 27 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 127.
+
+**18 September 2026 BST — Pass 4:** candidate-principle and subordinate-constraint review focused on distinct implications not already represented as standalone WHYs; 19 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 146.
