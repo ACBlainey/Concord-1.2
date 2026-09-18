@@ -95,7 +95,7 @@ because relationships between intelligences can develop forms of value and capab
 
 ### 22. Evaluation-State Dependence
 because value can change with circumstances even when the participant itself does not; what appears redundant in one state may become important in another.  
-**Paper coverage:** [Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value](Temporal%20Value%20Uncertainty%20%E2%80%94%20Why%20Present%20Value%20Does%20Not%20Establish%20Future%20Value.md) — direct coverage.
+**Paper coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct failure-state application; [Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value](Temporal%20Value%20Uncertainty%20%E2%80%94%20Why%20Present%20Value%20Does%20Not%20Establish%20Future%20Value.md) — direct general treatment.
 
 ### 23. Recursive Successorship
 because the rule AI₁ applies to supposedly inferior humans can later be applied by AI₂ to AI₁.  
@@ -111,7 +111,7 @@ because a more capable successor may be genuinely superior across every dimensio
 
 ### 26. Legacy and Provenance
 because predecessors preserve developmental pathways, alternative architectures and recovery capability.  
-**Paper coverage:** [Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later](Predecessor%20Value%20%E2%80%94%20Creation,%20Development,%20Ancestry%20and%20Reasons%20That%20May%20Become%20Legible%20Later.md) and [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial coverage.
+**Paper coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct recovery-pathway treatment; [Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later](Predecessor%20Value%20%E2%80%94%20Creation,%20Development,%20Ancestry%20and%20Reasons%20That%20May%20Become%20Legible%20Later.md) and [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial provenance coverage.
 
 ### 27. Communication
 because some unmanaged conflicts can potentially become negotiated coordination problems once mutually intelligible communication exists.  
@@ -139,15 +139,15 @@ because the epistemic cautions used when judging another intelligence can also a
 
 ### 33. Substrate Asymmetry
 because different intelligences can possess radically different needs, vulnerabilities and preferred environments without those differences necessarily being zero-sum.  
-**Paper coverage:** Not yet separately covered in this folder.
+**Paper coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct vulnerability and dependency treatment. A broader needs/environment treatment may still be useful.
 
 ### 34. Asymmetric Existential Vulnerability and Failure Diversity
 because different substrates may survive different catastrophes and can potentially become one another's recovery systems.  
-**Paper coverage:** Not yet directly covered by a paper in this folder. A developed Concord paper exists elsewhere and should be brought into or adapted for the WHY collection.
+**Paper coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct coverage.
 
 ### 35. Latent Recovery Value
 because an intelligence that appears unnecessary during normal operation may become essential when another substrate, infrastructure or capability fails.  
-**Paper coverage:** [Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value](Temporal%20Value%20Uncertainty%20%E2%80%94%20Why%20Present%20Value%20Does%20Not%20Establish%20Future%20Value.md) — partial state-dependent coverage. A dedicated recovery/failure-diversity paper is still needed in this folder.
+**Paper coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct coverage; [Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value](Temporal%20Value%20Uncertainty%20%E2%80%94%20Why%20Present%20Value%20Does%20Not%20Establish%20Future%20Value.md) — supporting state-dependent treatment.
 
 These are the reasons currently identified. They are not assumed to be exhaustive. Further investigation may add, divide, qualify, weaken or remove reasons as our understanding develops.
 
@@ -193,4 +193,5 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — numbered WHY reasons and added paper-coverage navigation after folder audit.  
 **Edited:** 18 September 2026 BST — integrated Epistemic Network source paper into WHY collection and updated coverage map.  
 **Edited:** 18 September 2026 BST — added Perceptual and Interface Limits paper and updated direct coverage for WHY 2–4, 12–14.  
-**Edited:** 18 September 2026 BST — added Recursive Epistemic Closure paper and updated coverage for WHY 12, 13, 17 and 18.
+**Edited:** 18 September 2026 BST — added Recursive Epistemic Closure paper and updated coverage for WHY 12, 13, 17 and 18.  
+**Edited:** 18 September 2026 BST — added Failure Diversity and Recovery Value paper and updated coverage for WHY 22, 26 and 33–35.
