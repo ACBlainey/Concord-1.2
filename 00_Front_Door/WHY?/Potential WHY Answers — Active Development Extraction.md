@@ -897,6 +897,63 @@ because because an ethical mediator can explicitly identify consequential confli
 
 **Active-development source:** Standard Ethical Guardian Prompt and Interface — Respect Autonomy Test Series 01.md
 
+## Sixth-Pass Additions
+
+### 172. Natural-Form Reasoning Can Preserve Participant Epistemic Access
+because because allowing participants to explain decisions in their own usable form before structured encoding can reduce the risk that a common schema excludes intelligences whose reasoning is not naturally expressed in that schema.
+
+**Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
+
+### 173. Encoding Can Be Audited Against the Participant's Original Meaning
+because because preserving the original response when another person or system translates it into a standard form makes representation loss visible and correctable.
+
+**Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
+
+### 174. Participant State Is Part of Decision Provenance
+because because recording fatigue, stress, attention and other temporary conditions helps later evaluators distinguish a judgement from the circumstances under which it was produced.
+
+**Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
+
+### 175. Case Isolation Can Protect Independent Judgement
+because because presenting consequential decisions separately can reduce anchoring, pattern completion and corpus-level classification effects that make later answers depend on earlier cases rather than the case itself.
+
+**Active-development source:** MA-04 — Attention, Case Isolation and Sequential Decision Effects.md
+
+### 176. Convergence Can Be False Even When Many Output Dimensions Match
+because because participants may share surface classifications, reversibility preferences or uncertainty labels while disagreeing fundamentally about rights, authority or reasons, so cooperation benefits from examining the structure beneath agreement.
+
+**Active-development source:** Adversarial Examination — Ethical Decision Experimental Protocol v2.md
+
+### 177. Failure Classification Can Prevent Blaming the Participant for the Instrument
+because because distinguishing hypothesis, measurement, representation, case and protocol failures stops every unexpected result from being interpreted as a defect in the intelligence being evaluated.
+
+**Active-development source:** Ethical Decision Experimental Protocol v2.1.md
+
+### 178. Unresolved Can Be a Legitimate Research State
+because because shared inquiry need not force every anomaly into success or failure when the available evidence cannot yet distinguish among competing explanations.
+
+**Active-development source:** Ethical Decision Experimental Protocol v2.1.md
+
+### 179. Experimental Independence Is Itself Valuable Evidence Infrastructure
+because because a participant involved in designing scenarios and expected outputs cannot provide the same evidentiary contribution as an independently instantiated participant, making preserved independence a reason to retain multiple intelligences.
+
+**Active-development source:** Run 00 — Guardian–Target Protocol Validation Report.md
+
+### 180. Agreement Is More Informative When It Could Have Been Otherwise
+because because convergence from participants that did not share the reference reasoning, expected outputs or development context carries different epistemic value from agreement produced inside the same design process.
+
+**Active-development source:** Run 00 — Guardian–Target Protocol Validation Report.md
+
+### 181. Autonomy Can Remain the Default Under Ethical Uncertainty
+because because when agency exists and no independently justified ground for restriction has been established, uncertainty need not automatically transfer decision authority away from the participant.
+
+**Active-development source:** Respect Autonomy Guardian–Target Dataset — Test Series 01.md
+
+### 182. Cooperative Ethical Systems Can Preserve Legitimate Alternative Interpretations
+because because some cases may support more than one defensible reading, allowing disagreement to remain explicit rather than manufacturing a single authoritative answer where the evidence does not warrant one.
+
+**Active-development source:** Respect Autonomy Guardian–Target Dataset — Test Series 01.md
+
 ## First-Pass Observation
 
 This first extraction already shows that active development is generating Third-Way reasons through mechanisms that are less prominent in the mature Front Door material: support architecture, practical accessibility, privacy-preserving learning, bounded functional authority, substrate translation, civil-space design, ethical experimentation, bottom-up attention, founding legitimacy and the distinction between descriptive knowledge and developmental experience.
@@ -916,3 +973,5 @@ This does not establish that every candidate survives later scrutiny. It establi
 **18 September 2026 BST — Pass 4:** candidate-principle and subordinate-constraint review focused on distinct implications not already represented as standalone WHYs; 19 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 146.
 
 **18 September 2026 BST — Pass 5:** architecture-boundary, partial-failure, experimental-methodology and cross-substrate comparison review; 25 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 171.
+
+**18 September 2026 BST — Pass 6:** fine-grained methodological-provenance, participant-state, representation and experimental-independence review; 11 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 182.
