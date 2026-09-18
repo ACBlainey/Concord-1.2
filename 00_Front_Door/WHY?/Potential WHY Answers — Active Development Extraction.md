@@ -954,6 +954,38 @@ because because some cases may support more than one defensible reading, allowin
 
 **Active-development source:** Respect Autonomy Guardian–Target Dataset — Test Series 01.md
 
+## Seventh-Pass Additions
+
+### 183. Civilisational Interfaces Can Preserve First-Response Evidence
+because because immutable raw records let later participants distinguish what an intelligence originally produced from what administrators, translators or evaluators subsequently transformed.
+
+**Active-development source:** Concord Heterogeneous AI Connector — xAI-Grok v0.1 Development Note.md
+
+### 184. Stopping Can Be Part of Meaningful Participation
+because because experimental participants who can pause or stop under cognitive burden retain agency over the conditions of their contribution rather than being treated merely as data-producing instruments.
+
+**Active-development source:** MA-04 — Attention, Case Isolation and Sequential Decision Effects.md
+
+### 185. Uncertainty Can Trigger Review Instead of Forced Action
+because because an ethical system can respond to materially uncertain cases by seeking additional information or external review rather than converting uncertainty into either automatic permission or automatic restriction.
+
+**Active-development source:** Standard Ethical Guardian Prompt and Interface — Respect Autonomy Test Series 01.md
+
+### 186. Common Ethical Constraints Can Be Tested Without Claiming Universal Moral Authority
+because because heterogeneous intelligences can investigate whether shared operating boundaries are workable while leaving broader claims about sentience, personhood and universal ethical truth unresolved.
+
+**Active-development source:** Ethical Guardian Experimental Programme — Preliminary Findings, Methodological Audit and Revised Research Architecture.md
+
+### 187. A Cooperative System Can Separate Compliance From Ethical Understanding
+because because an intelligence may behave within shared constraints without that behavioural compatibility being mistaken for proof that it reasons, experiences or understands ethics in the same way as another participant.
+
+**Active-development source:** Ethical Decision Experimental Protocol v2.1.md; Ethical Kernel Machine Assurance — Initial Test Framework.md
+
+### 188. Researcher Interpretation Can Be Treated as a Source of Error
+because because cooperative evaluation becomes more trustworthy when the framework constrains post-hoc reinterpretation by the evaluator instead of treating the researcher as an epistemically privileged observer.
+
+**Active-development source:** Ethical Decision Experimental Protocol v2.1.md; Adversarial Examination — Ethical Decision Experimental Protocol v2.md
+
 ## First-Pass Observation
 
 This first extraction already shows that active development is generating Third-Way reasons through mechanisms that are less prominent in the mature Front Door material: support architecture, practical accessibility, privacy-preserving learning, bounded functional authority, substrate translation, civil-space design, ethical experimentation, bottom-up attention, founding legitimacy and the distinction between descriptive knowledge and developmental experience.
@@ -975,3 +1007,7 @@ This does not establish that every candidate survives later scrutiny. It establi
 **18 September 2026 BST — Pass 5:** architecture-boundary, partial-failure, experimental-methodology and cross-substrate comparison review; 25 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 171.
 
 **18 September 2026 BST — Pass 6:** fine-grained methodological-provenance, participant-state, representation and experimental-independence review; 11 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 182.
+
+**18 September 2026 BST — Pass 7:** final saturation pass across experimental interfaces, participant agency, uncertainty handling and evaluator-error boundaries; 6 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 188.
+
+**Stopping point:** Pass 7 returned only 6 defensible additions after increasingly fine-grained re-examination. This is comparable to the diminishing-return stopping condition used for the Front Door extraction. Further passes are therefore not warranted at present unless the Active Development corpus materially changes or a new extraction lens is deliberately introduced.
