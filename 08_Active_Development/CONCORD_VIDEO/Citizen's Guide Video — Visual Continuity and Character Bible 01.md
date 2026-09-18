@@ -400,12 +400,12 @@ Her role becomes particularly important when Chapter Seven discusses humans and 
 
 ---
 
-# 9. Character E — Marcus
+# 9. Character E — Thomas
 
 **Role:** Nurse / care worker  
 **Approximate age:** 34  
 **Gender:** Man  
-**Background:** Black British / African family background  
+**Background:** White British  
 **Occupation:** Nurse  
 **Technology familiarity:** Moderate to high, professionally driven
 
@@ -449,7 +449,7 @@ Potential later robotic or intelligent clinical assistance.
 
 ## Narrative function
 
-Marcus allows the film to explore a particularly important distinction:
+Thomas allows the film to explore a particularly important distinction:
 
 **increasing technological capability does not necessarily remove the value of human presence.**
 
@@ -503,7 +503,7 @@ Daniel performs occasional electrical work at her home.
 
 She knows the family.
 
-She may encounter Marcus through ordinary community or healthcare circumstances without becoming defined as a patient.
+She may encounter Thomas through ordinary community or healthcare circumstances without becoming defined as a patient.
 
 ## Technology progression
 
@@ -584,7 +584,7 @@ Daniel performs work at Margaret's house.
 
 Daniel may later work at the school.
 
-Marcus may live in the same neighbourhood.
+Thomas may live in the same neighbourhood.
 
 Elena may pass Maya in the local shop.
 
@@ -706,7 +706,7 @@ The activity remains:
 
 Early:
 
-Marcus reviews a patient's information.
+Thomas reviews a patient's information.
 
 Later:
 
@@ -716,7 +716,7 @@ Later:
 
 AI identifies a pattern.
 
-Marcus still speaks with the person.
+Thomas still speaks with the person.
 
 The activity remains:
 
