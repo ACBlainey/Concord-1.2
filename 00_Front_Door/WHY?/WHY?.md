@@ -7,6 +7,32 @@
 
 This file is the quick summary and navigation map for the Concord's currently identified answers to the founding WHY question. Each “because” is intended to remain understandable in one sentence while accompanying papers preserve the detailed reasoning. A paper may cover more than one answer, and some answers still require dedicated treatment.
 
+## Scope and Completeness Warning
+
+**The numbered inventory in this folder is not an inventory of every WHY answer contained in the Concord.**
+
+The `WHY?/` folder is a deliberately focused Front Door development area. The answers listed here are those that have so far been explicitly identified and extracted into this map from the material examined during this work. Even within this relatively small part of the Concord, the extraction process has repeatedly revealed distinct answers that had previously survived only inside larger arguments.
+
+The wider Concord corpus is much larger and is distributed across ethics, governance, autonomy, epistemics, economics, spatial design, transition strategy, judiciary, metrics, resilience, implementation, case studies, development notes, portable modules and other areas. Those works were usually written to solve their own problems rather than to populate a central WHY inventory. They can therefore contain additional reasons for coexistence, preservation, cooperation, autonomy, non-domination, peaceful divergence, resilience or mutual flourishing without labelling those reasons as answers to the founding WHY question.
+
+Accordingly:
+
+\[
+WHY_{identified} \subseteq WHY_{present\ in\ corpus}
+\]
+
+and the size of the full set is presently unknown.
+
+The current count should therefore be read as **a lower bound on explicitly recovered WHY answers, not as a claim that the Concord contains only this many reasons**. The true number may be substantially larger and cannot responsibly be estimated until the wider corpus has been systematically audited.
+
+This distinction is important for preservation. An answer does not become absent merely because it has not yet been extracted into this folder. Conversely, an answer buried elsewhere in the corpus remains vulnerable to being overlooked, compressed away or rediscovered without its provenance. The long-term purpose of this map is therefore not to impose a predetermined final number, but progressively to make those distributed answers visible while retaining links back to the reasoning from which they emerged.
+
+> **The WHY folder is a growing index into the Concord's reasoning, not the boundary of that reasoning.**
+
+> **The number of distinct WHY answers present across the full Concord corpus is currently unknown.**
+
+**Edited:** 18 September 2026 BST — added explicit scope and completeness warning: the WHY inventory is a lower-bound extraction from a small part of the Concord, while additional distinct WHY answers may remain distributed throughout the wider corpus and the full number is unknown.
+
 ## Currently Identified Reasons
 
 ### 1. Epistemic Diversity
