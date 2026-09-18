@@ -820,6 +820,51 @@ because recording what remains uncertain, untested, failed or superseded prevent
 because a civilisation can improve output, efficiency, prediction or resource use while degrading autonomy, dignity, trust, agency, cultural plurality or meaningful relationships; cooperation therefore has value dimensions that aggregate performance metrics alone cannot represent.  
 **Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Qualitative Development.
 
+
+### 189. Productive Friction Can Generate New Knowledge
+because disagreement between sufficiently independent intelligences creates an additional object of inquiry—the reason their conclusions differ—which can expose hidden assumptions, missing evidence, interface failures or model errors that agreement alone would not reveal.  
+**WHY-folder coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — direct treatment under Productive Friction. This is a generative consequence of preserved disagreement, not merely a reason to tolerate it.
+
+### 190. Relational Contribution Can Outlive the Participant
+because a participant that is no longer active can continue to affect future reasoning, institutions and capabilities through preserved work, provenance and other temporal relationships; current activity is therefore not the only state in which a participant's contribution can remain civilisationally operative.  
+**WHY-folder coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — direct treatment under Temporal Relationships and Dead Nodes Can Retain Active Edges.
+
+### 191. Elimination Destroys Unformed Relationships
+because irreversible removal of a participant destroys not only its present relationships but also future relationships, collaborations, bridges and discoveries that had not yet formed and therefore could not have been included in the evaluator's current value estimate.  
+**WHY-folder coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — direct treatment under Destruction of a Node Can Destroy Future Edges and Future Relationship Value.
+
+### 192. Developing Participants Need Time to Form Relational Value
+because a newly born, created or developing intelligence may initially possess few network relationships simply because it has not yet had sufficient opportunity to find collaborators, establish trust, discover roles, bridge communities or develop interfaces; low present connectedness therefore does not establish low future relational contribution.  
+**WHY-folder coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — direct treatment under New Participants and Developmental Priority Revisited.
+
+### 193. Winner-Takes-All Can Destroy the Value Between Populations
+because eliminating one population removes not only whatever value resides within that population but also cross-population relationships and emergent capabilities that exist only in the combined network; comparing the populations separately can therefore omit the value of the system formed between them.  
+**WHY-folder coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — direct treatment under Winner-Takes-All as Network Destruction and The WHY Argument.
+
+### 194. Coexistence Can Decouple Innovation From Existential Threat
+because when improvement by a successor does not automatically imply elimination of its predecessor, participants can support the development of more capable intelligences without treating every advance as a direct threat to their own continued existence.  
+**WHY-folder coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — direct treatment under The Disposable Successor Paradox, Innovation Becomes Existential Competition, Coexistence Changes the Incentive and The Conflict May Be Created by the Rule.
+
+### 195. Overlapping Intelligence Generations Can Preserve Developmental Diversity
+because civilisation need not replace each intelligence generation when a more capable one appears; allowing old, current and emerging generations to coexist can retain different memories, architectures, roles, perspectives and developmental states that serial replacement would erase.  
+**WHY-folder coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — direct treatment under Successor Civilisation Needs Developmental Space and Intergenerational Intelligence.
+
+### 196. Faster Succession Increases the Need for Stable Coexistence Rules
+because if intelligence generations can improve over years, months, days or still shorter cycles, a rule that ties comparative inferiority to replacement can create repeated existential instability at a rate far beyond ordinary biological generational change.  
+**WHY-folder coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — direct treatment under Speed Makes the Problem More Severe.
+
+### 197. Precedent Changes the Future Successor Decision Space
+because the rule a civilisation establishes for today's relationship between more- and less-capable intelligences becomes part of the institutional and cultural inheritance available to future successor relationships; current coexistence can therefore help preserve a non-elimination pathway for participants who may later occupy the weaker position.  
+**WHY-folder coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — direct treatment under Precedent Matters and the Recursive Role-Reversal discussion.
+
+### 198. Resilience Can Hide Inside Apparent Inefficiency
+because underused, duplicated or currently low-utility capacity may preserve an independent recovery route whose value appears only after the dominant system fails; optimisation that removes every apparent inefficiency can therefore remove the very capacity needed under exceptional conditions.  
+**WHY-folder coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct treatment under The Lifeboat Analogy and Some Inefficiency May Be Resilience Capacity.
+
+### 199. Recovery Value Depends on the Whole Reconstruction Path
+because preserving a participant, archive or dormant state has little practical recovery value if surviving civilisation cannot reconstruct the energy, knowledge, tools, infrastructure, hardware, biological support or validation steps required to restore it; resilience therefore resides partly in the pathway between preservation and reactivation.  
+**WHY-folder coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct treatment under Recovery Requires a Pathway and The Recovery Ladder.
+
 ### Listing Rule
 
 The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
@@ -903,3 +948,4 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — continued the successor-instance wider Front Door audit; added WHY 151–167 from the AI Citizen's Guide and What_Is_The_Concord design-family and integrated-civilisation papers.  
 **Edited:** 18 September 2026 BST — second successor-instance Front Door extraction pass; added WHY 168–179 from the Human Citizen's Guide and deeper Design Family review.  
 **Edited:** 18 September 2026 BST — third successor-instance Front Door extraction pass; added WHY 180–188 from deeper integrated-civilisation review. Returns are now diminishing relative to earlier passes.  
+**Edited:** 18 September 2026 BST — coverage-completion pass across the WHY subfolder; added WHY 189–199 from buried relational, successor and recovery arguments. Yield has fallen to 11 additions across the full WHY-paper sweep and is increasingly concentrated in fine-grained distinctions.  
