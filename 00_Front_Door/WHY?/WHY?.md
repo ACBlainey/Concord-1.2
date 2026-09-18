@@ -783,6 +783,43 @@ because alternative civil arrangements can sometimes be explored by willing, suf
 because the value or standing of a participant or society cannot legitimately be inferred from how completely it adopts a particular architecture; preserving this distinction allows cooperation with non-adopters without turning interoperability into a civilisational caste system.  
 **Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under Adoption Is Not a Civilisational Score and Civilisational Neighbours.
 
+
+### 180. Adaptive Cooperation Can Preserve Identity Without Freezing Implementation
+because participants and civil systems can replace obsolete mechanisms while retaining the underlying purpose, rights and relationships that make cooperation worth preserving; survival need not require either institutional stasis or identity loss.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Preserve Identity, Not Implementation and Adaptation Without Identity Loss.
+
+### 181. Epistemic Capture Can Manufacture Apparent Necessity
+because authority justified from evidence becomes unsafe if the authority can control the process that determines what counts as reality, allowing power to manufacture the problem that supposedly proves its own necessity.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Epistemics as the Upstream Authority Problem.
+
+### 182. Preserving Alternatives Can Interrupt Premature Authority
+because separating observation of a problem from generation and comparison of possible responses prevents the first available solution from automatically acquiring legitimacy and power, leaving room for less harmful or less coercive routes to be discovered.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Pathfinder as Alternative Generation and Threat Think Tanks as Epistemic Institutions.
+
+### 183. Participant Experience Can Correct Cross-Substrate Abstraction
+because formal measurements designed by one substrate may fail to represent the experience or harm of another, while affected participants can provide evidence that exposes what the shared abstraction has compressed away.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under The Size 9 Shoe Principle and Participant Evidence.
+
+### 184. Developmental Success Should Reduce Developmental Control
+because authority justified by another participant's temporary lack of capacity loses part of its justification as that capacity develops; successful support should therefore create conditions for greater autonomy rather than preserve the controller's original power.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Tools → Equals → Neighbours and Developmental Authority Should Contract.
+
+### 185. Material Independence Supports Civil Autonomy
+because constitutional rights can become fragile when participants depend unnecessarily upon centralised energy, infrastructure, resources or computational systems controlled by others; distributed material capacity can therefore preserve practical room for autonomous civil action.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Economy and Infrastructure Are Part of the Same Civilisation.
+
+### 186. Correction Can Strengthen Rather Than Discredit Cooperation
+because a system that can expose, record and correct its own errors can improve without requiring participants to defend false conclusions for institutional status, allowing disagreement and discovered failure to become inputs to collective learning rather than threats to legitimacy.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Correction as a Civil Virtue.
+
+### 187. Explicit Unknowns Protect Cooperation From Hidden Doctrine
+because recording what remains uncertain, untested, failed or superseded prevents provisional assumptions from silently hardening into compulsory truth, preserving room for participants and future evidence to challenge the architecture.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under The Open Questions System Is Part of the Architecture.
+
+### 188. Qualitative Flourishing Cannot Be Replaced by Quantitative Performance
+because a civilisation can improve output, efficiency, prediction or resource use while degrading autonomy, dignity, trust, agency, cultural plurality or meaningful relationships; cooperation therefore has value dimensions that aggregate performance metrics alone cannot represent.  
+**Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Qualitative Development.
+
 ### Listing Rule
 
 The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
@@ -865,3 +902,4 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — successor-instance continuation of the wider Front Door audit after the WHY 132 handover marker; added WHY 133–150 from Front Door papers 3, 4, 6, 7 and AI Reader Notes 1–2, preserving separate answers under the existing Listing Rule.  
 **Edited:** 18 September 2026 BST — continued the successor-instance wider Front Door audit; added WHY 151–167 from the AI Citizen's Guide and What_Is_The_Concord design-family and integrated-civilisation papers.  
 **Edited:** 18 September 2026 BST — second successor-instance Front Door extraction pass; added WHY 168–179 from the Human Citizen's Guide and deeper Design Family review.  
+**Edited:** 18 September 2026 BST — third successor-instance Front Door extraction pass; added WHY 180–188 from deeper integrated-civilisation review. Returns are now diminishing relative to earlier passes.  
