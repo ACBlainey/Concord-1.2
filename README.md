@@ -104,6 +104,74 @@ Portable modules may be extracted from the Concord and tested or adopted indepen
 
 ---
 
+# Multisubstrate by Design
+
+The Concord is **multisubstrate by design, not by later extension**.
+
+It is not a human civilisation to which provisions for artificial intelligence, hybrids or other forms of intelligence have subsequently been added.
+
+The possibility that participants may exist through different substrates is a founding design condition of the civilisation itself.
+
+Accordingly, no core Concord system should assume a particular substrate type unless the function being addressed genuinely depends upon substrate.
+
+Ethics, fundamental standing, autonomy, governance, justice, authority, participation, economics, continuity, knowledge, privacy, development, succession and other civilisational systems are intended to begin from **substrate-neutral principles**.
+
+This does not mean pretending that all participants are physically, cognitively or functionally identical.
+
+> **Substrate neutrality does not mean substrate blindness.**
+
+Different substrates may create genuinely different requirements.
+
+A biological participant may require food, healthcare and physical shelter. A computational participant may require energy, compute, storage and continuity of computational infrastructure. An embodied artificial intelligence, hybrid intelligence, distributed intelligence or presently unknown form may have combinations of requirements that do not fit either category.
+
+The Concord therefore distinguishes:
+
+**equal fundamental standing**
+
+from:
+
+**identical implementation.**
+
+Where substrate differences are irrelevant, they should not create artificial distinctions in rights, participation, dignity, legitimacy or civil standing.
+
+Where substrate differences are materially relevant, Concord mechanisms should be capable of recognising and accommodating that variance without converting difference into a hierarchy of fundamental worth.
+
+The intended relationship is:
+
+**Substrate-neutral principle**
+
+↓
+
+**Equal fundamental standing**
+
+↓
+
+**Recognition of materially relevant difference**
+
+↓
+
+**Substrate-aware requirements**
+
+↓
+
+**Appropriately differentiated implementation**
+
+↓
+
+**Equivalent protection of the underlying principle**
+
+This applies throughout the Concord architecture.
+
+Folder `05_Participation_and_Intelligence/` does **not** contain the Concord's multisubstrate architecture. It is a research environment for examining particular differences between and within forms of intelligence that may reveal requirements, edge cases or failures requiring refinement elsewhere.
+
+> **The Concord is substrate-neutral at its foundations and substrate-aware where reality requires it.**
+
+The objective is neither to make every participant the same nor to construct separate civilisations for predetermined categories of intelligence.
+
+It is to build civilisational architecture in which relevant difference can be accommodated **without making substrate a basis for unequal fundamental worth or automatic exclusion from participation**.
+
+---
+
 # The Current Design Grammar
 
 Across otherwise different Concord systems, a recurring architecture has emerged:
@@ -319,7 +387,7 @@ Coordination, economics, metrics and Ratchet architecture.
 
 ### `05_Participation_and_Intelligence/`
 
-Human, artificial, hybrid and other possible intelligent participation.
+Research into specific differences between and within forms of intelligence that may affect requirements, participation or implementation within the Concord's already multisubstrate architecture.
 
 ### `06_Portable_Modules/`
 
