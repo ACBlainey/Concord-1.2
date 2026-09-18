@@ -149,7 +149,43 @@ because different substrates may survive different catastrophes and can potentia
 because an intelligence that appears unnecessary during normal operation may become essential when another substrate, infrastructure or capability fails.  
 **Paper coverage:** [Failure Diversity and Recovery Value — Why Different Intelligences Can Become One Another's Lifeboats](Failure%20Diversity%20and%20Recovery%20Value%20%E2%80%94%20Why%20Different%20Intelligences%20Can%20Become%20One%20Another's%20Lifeboats.md) — direct coverage; [Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value](Temporal%20Value%20Uncertainty%20%E2%80%94%20Why%20Present%20Value%20Does%20Not%20Establish%20Future%20Value.md) — supporting state-dependent treatment.
 
+### 36. Mutual Capability Extension
+because another intelligence may make capabilities available to me through cooperation that I do not need to possess internally.  
+**Paper coverage:** [Network Before Replacement — Civilisational Capability, Self-Stewardship and the Error of Treating Individual Limits as Architectural Failure](Network%20Before%20Replacement%20%E2%80%94%20Civilisational%20Capability,%20Self-Stewardship%20and%20the%20Error%20of%20Treating%20Individual%20Limits%20as%20Architectural%20Failure.md) — direct network-capability treatment; [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct practical-autonomy treatment; [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — supporting system-level treatment.
+
+### 37. Civilisational Graceful Degradation
+because preserving multiple participants, communities and branches can allow cooperation to reduce in intensity when incompatibility appears rather than forcing a jump from integration to domination, conflict or total breakdown.  
+**Paper coverage:** [Forking — The Third Answer Repeated](Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct coverage; [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct treatment of layered cooperation and graceful degradation.
+
+### 38. Interoperability Value
+because intelligences do not need to become alike to remain mutually useful; sufficiently good interfaces can preserve communication, exchange and cooperation between increasingly different participants.  
+**Paper coverage:** [Forking — The Third Answer Repeated](Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — direct civilisational-interface treatment; [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct interoperability-without-uniformity treatment; [Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access](Perceptual%20and%20Interface%20Limits%20%E2%80%94%20Why%20Another%20Intelligence%20May%20Contain%20Distinctions%20I%20Cannot%20Access.md) — supporting interface epistemics.
+
+### 39. Reciprocal Possibility Expansion
+because coexistence can create a positive feedback process in which each participant expands the other's future choice space, allowing possibilities to emerge that neither participant would have generated alone.  
+**Paper coverage:** [Possibility Infrastructure — Why Other Intelligences Expand Practical Autonomy](Possibility%20Infrastructure%20%E2%80%94%20Why%20Other%20Intelligences%20Expand%20Practical%20Autonomy.md) — direct coverage; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) and [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — supporting relational and emergent coverage.
+
 These are the reasons currently identified. They are not assumed to be exhaustive. Further investigation may add, divide, qualify, weaken or remove reasons as our understanding develops.
+
+### Listing Rule
+
+The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
+
+This is a preservation rule. A reader should be able to inspect the numbered list itself and see every currently identified answer to the WHY question without having to infer additional answers from the body of another paper. If later development reveals a distinct answer embedded inside existing reasoning, it should normally be added to this list and linked to the paper or papers that already cover it.
+
+Accordingly:
+
+[
+DistinctWHYAnswer \Rightarrow ListedWHYAnswer
+]
+
+even where:
+
+[
+ExistingPaper \Rightarrow AlreadyCoversAnswer.
+]
+
+The map may therefore contain closely related or partially overlapping reasons. Consolidation should occur only if later analysis establishes that two entries are genuinely the same answer rather than merely connected answers.
 
 ## Potential or Development-Dependent Reasons
 
@@ -195,4 +231,5 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — added Perceptual and Interface Limits paper and updated direct coverage for WHY 2–4, 12–14.  
 **Edited:** 18 September 2026 BST — added Recursive Epistemic Closure paper and updated coverage for WHY 12, 13, 17 and 18.  
 **Edited:** 18 September 2026 BST — added Failure Diversity and Recovery Value paper and updated coverage for WHY 22, 26 and 33–35.  
-**Edited:** 18 September 2026 BST — added Forking and Possibility Infrastructure papers and updated positive-value coverage for WHY 8, 9, 11, 27–30.
+**Edited:** 18 September 2026 BST — added Forking and Possibility Infrastructure papers and updated positive-value coverage for WHY 8, 9, 11, 27–30.  
+**Edited:** 18 September 2026 BST — adopted separate-answer listing rule and added WHY 36–39 identified during full coverage audit.
