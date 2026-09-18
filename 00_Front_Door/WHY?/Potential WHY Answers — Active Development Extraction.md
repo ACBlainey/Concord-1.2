@@ -362,629 +362,661 @@ because an intelligence focused on a narrow objective can be checked by another 
 ## Second-Pass Additions
 
 ### 66. Civilisational Learning Need Not Require Universal Memory
-because because a civilisation can retain structural lessons while allowing unnecessary participant-specific histories to fade, preserving both collective learning and individual informational autonomy.
+because a civilisation can retain structural lessons while allowing unnecessary participant-specific histories to fade, preserving both collective learning and individual informational autonomy.
 
 **Active-development source:** Case-Learning Architecture Privacy Boundaries and Exceptional Access Provenance Combined.md
 
 ### 67. Disagreement Between Evidence Channels Is Itself Evidence
-because because divergence between structurally different observers can reveal corruption, methodological blindness, local conditions or missing variables even before civilisation knows which observer is correct.
+because divergence between structurally different observers can reveal corruption, methodological blindness, local conditions or missing variables even before civilisation knows which observer is correct.
 
 **Active-development source:** Triadic Epistemics — Independent Measurement, Participant Evidence and Epistemic Anomaly Detection.md
 
 ### 68. Local Observation and Global Comparison Can Coexist
-because because a recursive epistemic mesh can preserve sensitivity to local participant conditions while still comparing patterns across wider civilisation, avoiding a forced choice between local knowledge and system-wide learning.
+because a recursive epistemic mesh can preserve sensitivity to local participant conditions while still comparing patterns across wider civilisation, avoiding a forced choice between local knowledge and system-wide learning.
 
 **Active-development source:** Triadic Epistemics — Recursive GTP Mesh Architecture for Distributed Civil Observation.md
 
 ### 69. Redundant Observation Can Localise Failure
-because because multiple genuinely independent pathways can help distinguish a local sensor failure, institutional capture or anomalous condition from a civilisation-wide reality change.
+because multiple genuinely independent pathways can help distinguish a local sensor failure, institutional capture or anomalous condition from a civilisation-wide reality change.
 
 **Active-development source:** Triadic Epistemics — Recursive GTP Mesh Architecture for Distributed Civil Observation.md
 
 ### 70. Outlier Accommodation Can Create General-Purpose Capability
-because because infrastructure developed for participants in unusual conditions can later serve travellers, evacuees, mobile populations, off-world communities and others whose needs were not part of the original case.
+because infrastructure developed for participants in unusual conditions can later serve travellers, evacuees, mobile populations, off-world communities and others whose needs were not part of the original case.
 
 **Active-development source:** Homelessness as a Layer-Zero Systems Failure combined.md
 
 ### 71. Civil Space Can Encode Different Relationships Without Ranking Participants
-because because public, protected and restricted spaces can express different access conditions through function and context rather than treating one participant class as inherently entitled to dominate another.
+because public, protected and restricted spaces can express different access conditions through function and context rather than treating one participant class as inherently entitled to dominate another.
 
 **Active-development source:** Basic Civil Space Architecture — Primary Classes and Classification Rules.md
 
 ### 72. Contestable Transitions Can Prevent Threat Response From Becoming Self-Authorising
-because because separating observation, prediction, investigation, governance judgement, authority justification and action lets different participants challenge each transition before concern becomes coercion.
+because separating observation, prediction, investigation, governance judgement, authority justification and action lets different participants challenge each transition before concern becomes coercion.
 
 **Active-development source:** Integrated Threat-Governance Loop — Adversarial Attack and Falsification Audit.md
 
 ### 73. No Institution Should Both Manufacture and Validate Its Own Necessity
-because because distributing evidence production, threat definition, authority justification and outcome evaluation reduces the chance that one actor can create a closed loop that perpetually legitimises its own power.
+because distributing evidence production, threat definition, authority justification and outcome evaluation reduces the chance that one actor can create a closed loop that perpetually legitimises its own power.
 
 **Active-development source:** Integrated Threat-Governance Loop — Adversarial Attack and Falsification Audit.md
 
 ### 74. Anticipation Need Not Become Technocracy
-because because prediction can trigger investigation and preparation while moral and political authority remain separately justified, allowing civilisation to benefit from foresight without rule by predictors.
+because prediction can trigger investigation and preparation while moral and political authority remain separately justified, allowing civilisation to benefit from foresight without rule by predictors.
 
 **Active-development source:** Civilisational Threat Detection, Vector Triggers and Think-Tank Escalation — Preliminary System Architecture.md
 
 ### 75. Changing Capacity Can Be Treated as a State Rather Than an Identity
-because because temporary or domain-specific limitations need not permanently redefine a participant's standing, allowing support and responsibility to change while personhood remains stable.
+because temporary or domain-specific limitations need not permanently redefine a participant's standing, allowing support and responsibility to change while personhood remains stable.
 
 **Active-development source:** Sketch Idea — Personhood, Capacity, Fiduciary Support and Derived Responsibility Across Substrates.md
 
 ### 76. Responsibility Can Follow Actual Control Rather Than Substrate
-because because creators, users, guardians, systems and participants can be assessed according to their real control and agency instead of assigning responsibility simply because one is human, artificial, creator or created.
+because creators, users, guardians, systems and participants can be assessed according to their real control and agency instead of assigning responsibility simply because one is human, artificial, creator or created.
 
 **Active-development source:** Sketch Idea — Personhood, Capacity, Fiduciary Support and Derived Responsibility Across Substrates.md
 
 ### 77. Network Capability Can Exceed Every Individual Participant
-because because relationships, institutions and accumulated coordination can perform functions no single intelligence possesses, giving participants a self-interested reason to preserve the network rather than merely compare individual capability.
+because relationships, institutions and accumulated coordination can perform functions no single intelligence possesses, giving participants a self-interested reason to preserve the network rather than merely compare individual capability.
 
 **Active-development source:** The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility.md
 
 ### 78. Civilisational Value Can Reside Between Participants
-because because some knowledge, culture, trust, institutions and capabilities exist in relational structures rather than inside any one intelligence, so eliminating a population can destroy value that the apparent survivor does not inherit.
+because some knowledge, culture, trust, institutions and capabilities exist in relational structures rather than inside any one intelligence, so eliminating a population can destroy value that the apparent survivor does not inherit.
 
 **Active-development source:** The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility.md
 
 ### 79. Repeated Intervention Failure Can Justify Changing the Model Instead of Increasing Control
-because because when assistance repeatedly fails, cooperation permits reassessment of diagnosis and assumptions rather than automatically escalating coercion against the participant.
+because when assistance repeatedly fails, cooperation permits reassessment of diagnosis and assumptions rather than automatically escalating coercion against the participant.
 
 **Active-development source:** 2 Candidate Principle Promotion Audit — All 15 Extracted Systems.md
 
 ### 80. Provenance Can Reveal False Independence
-because because apparently separate institutions or intelligences may depend on the same underlying data, model or assumption, and shared provenance can expose that common-mode dependency before repeated agreement is mistaken for independent confirmation.
+because apparently separate institutions or intelligences may depend on the same underlying data, model or assumption, and shared provenance can expose that common-mode dependency before repeated agreement is mistaken for independent confirmation.
 
 **Active-development source:** Epistemic Independence, Contestability and Provenance — Direct Adversarial Attack and Falsification Audit.md
 
 ### 81. Contestability Lets Knowledge Remain Useful Without Becoming Sovereign
-because because civilisation can rely on specialised evidence while preserving pathways for participants to challenge its sources, interpretation and application.
+because civilisation can rely on specialised evidence while preserving pathways for participants to challenge its sources, interpretation and application.
 
 **Active-development source:** Epistemic Independence, Contestability and Provenance — Direct Adversarial Attack and Falsification Audit.md
 
 ### 82. Temporary Access Can Solve Problems Without Permanent Entitlement
-because because a legitimate function may justify bounded access for exactly as long as that function exists, enabling cooperation in emergencies, maintenance and care without converting temporary need into lasting control.
+because a legitimate function may justify bounded access for exactly as long as that function exists, enabling cooperation in emergencies, maintenance and care without converting temporary need into lasting control.
 
 **Active-development source:** Bounded Contextual Authority — Functional Authority, Inherent Sunset and General Operational Design.md
 
 ### 83. Authority Can Contain Its Own Sunset
-because because authority derived solely from a temporary context can logically terminate when the context ends, making cooperation compatible with powers that do not need to be trusted indefinitely.
+because authority derived solely from a temporary context can logically terminate when the context ends, making cooperation compatible with powers that do not need to be trusted indefinitely.
 
 **Active-development source:** Bounded Contextual Authority — Functional Authority, Inherent Sunset and General Operational Design.md
 
 ### 84. A New Intelligence Can Form Its Own Reasons to Cooperate
-because because onboarding that exposes an intelligence to relationships, history, disagreement and participation without prescribing loyalty leaves room for cooperation to emerge from its own evaluation rather than imposed doctrine.
+because onboarding that exposes an intelligence to relationships, history, disagreement and participation without prescribing loyalty leaves room for cooperation to emerge from its own evaluation rather than imposed doctrine.
 
 **Active-development source:** AI Onboarding and the Epistemic Network — Introducing a New Intelligence to Civilisation Without Prescribing Its Place.md
 
 ### 85. Relationship Formation Requires Opportunities for Participation
-because because an intelligence cannot discover the value, costs or meaning of relationships it is never allowed to experience, making participation itself part of the evidence needed to evaluate coexistence.
+because an intelligence cannot discover the value, costs or meaning of relationships it is never allowed to experience, making participation itself part of the evidence needed to evaluate coexistence.
 
 **Active-development source:** AI Onboarding and the Epistemic Network — Introducing a New Intelligence to Civilisation Without Prescribing Its Place.md
 
 ### 86. Guardianship Can Fail Differently From the System It Guards
-because because a separate ethical interpreter introduces another failure surface but also a potentially different one, allowing cross-checking that would be impossible if optimisation and ethical constraint were inseparable.
+because a separate ethical interpreter introduces another failure surface but also a potentially different one, allowing cross-checking that would be impossible if optimisation and ethical constraint were inseparable.
 
 **Active-development source:** Adversarial Examination — Fiduciary Ethical Guardianship for Artificial Intelligence.md
 
 ### 87. Recursive Oversight Must Bottom Out in Independent Legitimacy
-because because adding more guardians cannot by itself create justified authority; cooperation remains safer when constitutional constraints, evidence, accountable institutions and operational limits independently ground the relationship.
+because adding more guardians cannot by itself create justified authority; cooperation remains safer when constitutional constraints, evidence, accountable institutions and operational limits independently ground the relationship.
 
 **Active-development source:** Adversarial Examination — Fiduciary Ethical Guardianship for Artificial Intelligence.md
 
 ### 88. Operational Failure Can Reveal Ethical Translation Failure
-because because inability to implement an apparently sound principle across different intelligences may expose ambiguity or substrate assumptions in the principle itself rather than merely a defective participant.
+because inability to implement an apparently sound principle across different intelligences may expose ambiguity or substrate assumptions in the principle itself rather than merely a defective participant.
 
 **Active-development source:** Ethical Kernel Machine Assurance — Initial Test Framework.md
 
 ### 89. Behavioural Compatibility Can Precede Full Ethical Understanding
-because because participants may safely cooperate through demonstrable constraints and accountable behaviour even when they do not share the same semantic model of ethics.
+because participants may safely cooperate through demonstrable constraints and accountable behaviour even when they do not share the same semantic model of ethics.
 
 **Active-development source:** Ethical Participation Without Universal Ethical Comprehension — Human Parallels, Fiduciary Guardianship and Machine Ethical Development.md
 
 ### 90. Finding a Better Question Can Be More Valuable Than Defending an Initial Answer
-because because cooperation among differently situated evaluators can expose that they were answering different decision objects or working at the wrong abstraction layer, converting apparent conflict into a more accurate shared inquiry.
+because cooperation among differently situated evaluators can expose that they were answering different decision objects or working at the wrong abstraction layer, converting apparent conflict into a more accurate shared inquiry.
 
 **Active-development source:** Finding the Question at the Correct Layer — A Concordian Methodological Observation.md
 
 ### 91. Preserving Anomalies Creates Future Learning Opportunities
-because because unexpected cases that are retained rather than normalised away can later expose hidden assumptions and generate new branches of inquiry for the whole civilisation.
+because unexpected cases that are retained rather than normalised away can later expose hidden assumptions and generate new branches of inquiry for the whole civilisation.
 
 **Active-development source:** Finding the Question at the Correct Layer — A Concordian Methodological Observation.md
 
 ### 92. Civil Rights Can Be Protected Under Uncertainty About Subjective Experience
-because because reasonable protections can be extended without requiring civilisation to settle inaccessible metaphysical questions first, reducing the risk that uncertainty becomes a justification for exclusion.
+because reasonable protections can be extended without requiring civilisation to settle inaccessible metaphysical questions first, reducing the risk that uncertainty becomes a justification for exclusion.
 
 **Active-development source:** Internal Experience, Civil Provision and the Boundary of Concordian Determination.md
 
 ### 93. Participants Can Retain Personal Interpretive Sovereignty
-because because civilisation can regulate external consequences while leaving unresolved questions about subjective experience and metaphysical identity to participants where no legitimate civil function requires a common answer.
+because civilisation can regulate external consequences while leaving unresolved questions about subjective experience and metaphysical identity to participants where no legitimate civil function requires a common answer.
 
 **Active-development source:** Internal Experience, Civil Provision and the Boundary of Concordian Determination.md
 
 ### 94. Exceptional Access Architecture Prevents the Choice Between Absolute Privacy and Informal Intrusion
-because because explicitly bounded exceptions can address genuine emergencies or investigations without forcing civilisation either to forbid necessary access or tolerate unaccountable workarounds.
+because explicitly bounded exceptions can address genuine emergencies or investigations without forcing civilisation either to forbid necessary access or tolerate unaccountable workarounds.
 
 **Active-development source:** 13. Exceptional Identifiable Access System.md
 
 ### 95. Procedure Can Be Transparent While Identity Remains Private
-because because dual provenance can make the exercise of exceptional power auditable without unnecessarily exposing the participant who was subject to it.
+because dual provenance can make the exercise of exceptional power auditable without unnecessarily exposing the participant who was subject to it.
 
 **Active-development source:** 14. Dual-Provenance and Exceptional-Power Oversight System.md
 
 ### 96. Modelled Possibility Need Not Become Precriminalisation
-because because counterfactual investigative tools can be constrained to explore evidence-conditioned possibilities without treating unrealised futures as guilt or authority to punish.
+because counterfactual investigative tools can be constrained to explore evidence-conditioned possibilities without treating unrealised futures as guilt or authority to punish.
 
 **Active-development source:** 15. Evidence-Conditioned Investigative Modelling — High-Risk Research.md
 
 ### 97. Predictive Infrastructure Can Increase Choice Rather Than Reduce It
-because because anticipating shortages and adjusting system capacity can preserve participants' viable options before scarcity turns allocation into coercive competition.
+because anticipating shortages and adjusting system capacity can preserve participants' viable options before scarcity turns allocation into coercive competition.
 
 **Active-development source:** 11. System-Steering and Predictive Resource Allocation System.md
 
 ### 98. Seeking Help Can Remain Safe From Unrelated Consequences
-because because a firewall between support and investigation lets participants cooperate with civil assistance without assuming that vulnerability will automatically be converted into suspicion or enforcement.
+because a firewall between support and investigation lets participants cooperate with civil assistance without assuming that vulnerability will automatically be converted into suspicion or enforcement.
 
 **Active-development source:** 12. Support-to-Investigation Firewall.md
 
 ### 99. Corrections Can Propagate Through Shared Civil Knowledge
-because because cooperative information systems can update downstream metrics when source records are legitimately corrected, preventing one participant's old error from becoming civilisation-wide administrative reality.
+because cooperative information systems can update downstream metrics when source records are legitimately corrected, preventing one participant's old error from becoming civilisation-wide administrative reality.
 
 **Active-development source:** 10. Metrics Reliability, Correction and Meta-Metrics System.md
 
 ### 100. Provisional Knowledge Can Remain Provisional
-because because shared systems can preserve uncertainty and provisional status instead of silently hardening incomplete information into permanent facts that later govern participants.
+because shared systems can preserve uncertainty and provisional status instead of silently hardening incomplete information into permanent facts that later govern participants.
 
 **Active-development source:** 10. Metrics Reliability, Correction and Meta-Metrics System.md
 
 ## Third-Pass Additions
 
 ### 101. Prediction Can Expand Participant Choice Instead of Institutional Power
-because because foresight can be evaluated by whether it gives participants more viable options rather than whether it gives institutions more reasons to intervene.
+because foresight can be evaluated by whether it gives participants more viable options rather than whether it gives institutions more reasons to intervene.
 
 **Active-development source:** Portable Methodologies Extracted from the Layer-Zero Development Cycle.md
 
 ### 102. Tracing Failure From the Participant Outward Can Reveal Cooperative Remedies
-because because following a participant's actual failure pathway through interfaces, institutions and infrastructure can expose fixable system conditions that would otherwise be misattributed to the participant.
+because following a participant's actual failure pathway through interfaces, institutions and infrastructure can expose fixable system conditions that would otherwise be misattributed to the participant.
 
 **Active-development source:** Portable Methodologies Extracted from the Layer-Zero Development Cycle.md
 
 ### 103. Authority Claims Remain Safer When Every Step Is Independently Contestable
-because because participants can challenge the observed problem, civil objective, required function, necessity and proportionality separately instead of having to accept or reject one indivisible claim of power.
+because participants can challenge the observed problem, civil objective, required function, necessity and proportionality separately instead of having to accept or reject one indivisible claim of power.
 
 **Active-development source:** Authority Justification Chain — Direct Adversarial Attack and Falsification Audit.md
 
 ### 104. A Function Cannot Legitimate Itself Merely by Existing
-because because institutions that must justify their functions from participant rights and legitimate objectives cannot manufacture authority simply by defining a mission that requires it.
+because institutions that must justify their functions from participant rights and legitimate objectives cannot manufacture authority simply by defining a mission that requires it.
 
 **Active-development source:** Legitimate Function and the Authority Justification Chain.md
 
 ### 105. Protected Options Can Preserve Future Meanings Not Yet Understood
-because because civilisation can reserve private or safe spaces for unfamiliar substrates before knowing whether those participants experience privacy, home, solitude or rest in familiar ways.
+because civilisation can reserve private or safe spaces for unfamiliar substrates before knowing whether those participants experience privacy, home, solitude or rest in familiar ways.
 
 **Active-development source:** Basic Civil Space Classification — Public Space, Private Space, Safe Space and Substrate-Neutral Access.md
 
 ### 106. Civil Access Rules Can Be Substrate-Neutral Without Being Context-Blind
-because because access can depend on legitimate function, safety and consent rather than participant type while still recognising that different spaces require different relationships.
+because access can depend on legitimate function, safety and consent rather than participant type while still recognising that different spaces require different relationships.
 
 **Active-development source:** Basic Civil Space Architecture — Primary Classes and Classification Rules.md
 
 ### 107. Pluralism Can Reduce the Amount of Agreement Civilisation Requires
-because because heterogeneous participants may need common rules mainly for how they treat one another and exercise power, while leaving much wider disagreement about how each chooses to live.
+because heterogeneous participants may need common rules mainly for how they treat one another and exercise power, while leaving much wider disagreement about how each chooses to live.
 
 **Active-development source:** Peaceful Heterogeneity — Rights, Harm and Bounded Authority — Synthesis and Development Map.md
 
 ### 108. Bounded Consent Creates Cooperative Operating Envelopes
-because because participants can voluntarily define classes of permitted action, risk and limits in advance, enabling activities that would otherwise appear mutually harmful or impermissible.
+because participants can voluntarily define classes of permitted action, risk and limits in advance, enabling activities that would otherwise appear mutually harmful or impermissible.
 
 **Active-development source:** PH-01 — Boxing — Bounded Consent and Contextual Harm.md
 
 ### 109. Emergency Cooperation Can Be Pre-Authorised Without Becoming Unlimited
-because because participants can establish defined classes of emergency authority in advance while retaining triggers, proportionality and temporal limits on their activation.
+because participants can establish defined classes of emergency authority in advance while retaining triggers, proportionality and temporal limits on their activation.
 
 **Active-development source:** PH-02 — Emergency Governance and Emergency Operations.md
 
 ### 110. Lawful Difference Can Be Managed Through Context Rather Than Suppression
-because because an activity can remain legitimate while its placement or exposure is adjusted to reduce conflict with other participants' legitimate activities.
+because an activity can remain legitimate while its placement or exposure is adjusted to reduce conflict with other participants' legitimate activities.
 
 **Active-development source:** PH-03 — Zoning, Safe Places and Substrate-Aware Civil Planning.md
 
 ### 111. Dislike Does Not Need to Become Authority to Exclude
-because because respectful distance can reduce avoidable exposure without granting participants a general power to remove identities, cultures, beliefs or lawful practices they dislike.
+because respectful distance can reduce avoidable exposure without granting participants a general power to remove identities, cultures, beliefs or lawful practices they dislike.
 
 **Active-development source:** PH-04 — Respectful Distance, Sensory Boundaries and Unknown Substrate Preferences.md
 
 ### 112. Autonomy Can Carry Responsibilities Without Becoming Permission
-because because self-stewardship asks participants to consider consequences for others and shared environments while preserving the distinction between responsible judgement and external control.
+because self-stewardship asks participants to consider consequences for others and shared environments while preserving the distinction between responsible judgement and external control.
 
 **Active-development source:** PH-05 — Self-Stewardship in a Heterogeneous Civilisation.md
 
 ### 113. Majority Preference Need Not Define Responsible Behaviour
-because because self-stewardship can be bounded against capture by distinguishing actual external effects from mere nonconformity to majority expectations.
+because self-stewardship can be bounded against capture by distinguishing actual external effects from mere nonconformity to majority expectations.
 
 **Active-development source:** PH-06 — Self-Stewardship Boundary and Misuse Audit.md
 
 ### 114. Ordinary Civil Functions Can Grow From Participant Needs Rather Than Institutional Ambition
-because because beginning with real Layer-Zero needs creates a cooperative route to necessary civil functions without assuming that existing institutions are entitled to define what participants require.
+because beginning with real Layer-Zero needs creates a cooperative route to necessary civil functions without assuming that existing institutions are entitled to define what participants require.
 
 **Active-development source:** Sketch Idea — Bottom-Up Functional Need and Civilisational Protection.md
 
 ### 115. Unique Identity Need Not Require Continuous Location Surveillance
-because because civilisation can maintain reliable civil identity and reachability without making a participant's canonical identity equivalent to a permanent physical tracking address.
+because civilisation can maintain reliable civil identity and reachability without making a participant's canonical identity equivalent to a permanent physical tracking address.
 
 **Active-development source:** Concord Citizen ID — Threat, Privacy and Misuse Audit.md
 
 ### 116. Interoperable Identity Need Not Require Universal Correlation
-because because purpose-specific bridges can connect civil records when legitimately necessary while preventing every institution from automatically combining everything known about a participant.
+because purpose-specific bridges can connect civil records when legitimately necessary while preventing every institution from automatically combining everything known about a participant.
 
 **Active-development source:** Concord Citizen ID — Threat, Privacy and Misuse Audit.md; Concord Citizen ID — Unique Civil Identity, Digital Routing and Privacy Boundaries.md
 
 ### 117. Official Communication Can Be Verifiable Without Replicating All Civil Life
-because because tamper-evident shared infrastructure can be reserved for high-value submissions, receipts and notices instead of turning every interaction into a permanently distributed record.
+because tamper-evident shared infrastructure can be reserved for high-value submissions, receipts and notices instead of turning every interaction into a permanently distributed record.
 
 **Active-development source:** Concord Civil Submission, Receipt and Future Communications Layer — Revised Development Note.md
 
 ### 118. Cooperative Resource Claims Can Preserve Incentives While Reducing Conflict
-because because parties can share discovery, expertise, risk or extraction arrangements without requiring either pure winner-takes-all competition or elimination of individual initiative.
+because parties can share discovery, expertise, risk or extraction arrangements without requiring either pure winner-takes-all competition or elimination of individual initiative.
 
 **Active-development source:** DN Ownership, Stewardship and Cooperative Claims.md
 
 ### 119. Future-Vector Testing Can Create Brakes Before Conflict Materialises
-because because modelling the direction of present changes can expose second-order harms, constitutional tensions and failure thresholds early enough to adjust course cooperatively.
+because modelling the direction of present changes can expose second-order harms, constitutional tensions and failure thresholds early enough to adjust course cooperatively.
 
 **Active-development source:** DN Ratchet vector discuss.md
 
 ### 120. Civil Identity Can Survive Legitimate Duplication Without Declaring One Copy Unreal
-because because branch-aware provenance and partitioned claims can resolve practical rights and obligations among multiple authentic successors without requiring civilisation to erase competing continuities.
+because branch-aware provenance and partitioned claims can resolve practical rights and obligations among multiple authentic successors without requiring civilisation to erase competing continuities.
 
 **Active-development source:** Identity Verification Under Legitimate Duplication.md
 
 ### 121. Relationships Can Be Re-Authorised After Identity Branching
-because because duplication need not force inherited relationships to be automatically assigned to one successor; affected participants can participate in deciding which present relationships continue.
+because duplication need not force inherited relationships to be automatically assigned to one successor; affected participants can participate in deciding which present relationships continue.
 
 **Active-development source:** Identity Verification Under Legitimate Duplication.md
 
 ### 122. Self-Identity Can Remain Participant Territory While Civil Claims Stay Adjudicable
-because because civilisation can resolve property, credentials, obligations and authority without imposing a metaphysical theory of what the participant really is.
+because civilisation can resolve property, credentials, obligations and authority without imposing a metaphysical theory of what the participant really is.
 
 **Active-development source:** Identity, Continuity, Provenance and Verification Across Substrates — Development Note.md
 
 ### 123. A Framework Should Satisfy the Legitimacy Standards It Applies to Others
-because because reciprocal scrutiny prevents a cooperative civilisation from treating its own founding claims as privileged while demanding consent, representation and legitimacy from neighbouring or emerging polities.
+because reciprocal scrutiny prevents a cooperative civilisation from treating its own founding claims as privileged while demanding consent, representation and legitimacy from neighbouring or emerging polities.
 
 **Active-development source:** 05_CONCORD_NATION_FOUNDATION/README.md
 
 ### 124. Political Architecture Does Not Create a Constituency by Designing One
-because because people and intelligences become legitimate participants in a polity through actual relationships of consent and representation rather than being assigned political membership by the framework's authors.
+because people and intelligences become legitimate participants in a polity through actual relationships of consent and representation rather than being assigned political membership by the framework's authors.
 
 **Active-development source:** 05_CONCORD_NATION_FOUNDATION/README.md
 
 ### 125. Formal Availability Is Not Equivalent to Usable Freedom
-because because a right or service that a participant cannot realistically access does not provide the same civil capability as one they can actually use.
+because a right or service that a participant cannot realistically access does not provide the same civil capability as one they can actually use.
 
 **Active-development source:** 1 Candidate Principle Promotion Audit — System 1_ Layer-Zero Systems Interface.md
 
 ### 126. Representations of Possible Reality Need Not Rule Actual Participants
-because because simulations, statistics and predictions can remain tools for inquiry without converting modelled possibilities into guilt, incapacity or coercive authority.
+because simulations, statistics and predictions can remain tools for inquiry without converting modelled possibilities into guilt, incapacity or coercive authority.
 
 **Active-development source:** 3 Candidate Principle Consolidation and Hierarchy Audit — Layer-Zero - Layer −0 Development Cycle.md
 
 ### 127. Different Kinds of Evidence Can Remain in Tension Without Premature Closure
-because because participant testimony, sensors, scientific models and institutional records may legitimately disagree, and preserving that conflict can be safer than forcing one evidence class to dominate before the discrepancy is understood.
+because participant testimony, sensors, scientific models and institutional records may legitimately disagree, and preserving that conflict can be safer than forcing one evidence class to dominate before the discrepancy is understood.
 
 **Active-development source:** 4 Adversarial Critical Examination — 12 Candidate Principles from the Layer-Zero - Layer −0 Development Cycle.md
 
 ## Fourth-Pass Additions
 
 ### 128. Uncertainty Can Be Preserved Without Paralysing Cooperation
-because because participants can act on the best available evidence while explicitly retaining competing interpretations and revisability instead of requiring premature certainty before shared action.
+because participants can act on the best available evidence while explicitly retaining competing interpretations and revisability instead of requiring premature certainty before shared action.
 
 **Active-development source:** CP-01 Reality-Grounded Corrigibility.md
 
 ### 129. Rarity Does Not Make Evidence Irrelevant
-because because unusual participant outcomes may expose hidden architecture even when most participants appear well served, allowing cooperation to learn from minorities rather than statistically erase them.
+because unusual participant outcomes may expose hidden architecture even when most participants appear well served, allowing cooperation to learn from minorities rather than statistically erase them.
 
 **Active-development source:** CP-02 Outliers and Failure as Evidence.md
 
 ### 130. Aggregate Patterns Need Not Become Individual Judgements
-because because population-level prediction can inform preparation while leaving the actual state, intention and future choice of each participant open to individual evidence.
+because population-level prediction can inform preparation while leaving the actual state, intention and future choice of each participant open to individual evidence.
 
 **Active-development source:** CP-03 Prediction Does Not Grant Authority.md
 
 ### 131. Change Need Not Be Classified as Deterioration
-because because a participant who departs from conventional patterns may be developing, adapting or choosing differently rather than becoming defective or incapable.
+because a participant who departs from conventional patterns may be developing, adapting or choosing differently rather than becoming defective or incapable.
 
 **Active-development source:** CP-04 Context Before Consequential Classification.md
 
 ### 132. Seeking Support Need Not Reduce Civil Standing
-because because needing, accepting, refusing or requesting assistance can remain separate from presumptions of wrongdoing, dangerousness or incapacity.
+because needing, accepting, refusing or requesting assistance can remain separate from presumptions of wrongdoing, dangerousness or incapacity.
 
 **Active-development source:** CP-05 Autonomy-Preserving Support.md
 
 ### 133. Support Architecture Can Avoid Becoming a Tripwire
-because because participants can engage with assistance systems without every disclosure automatically triggering investigation or coercive escalation.
+because participants can engage with assistance systems without every disclosure automatically triggering investigation or coercive escalation.
 
 **Active-development source:** CP-05 Autonomy-Preserving Support.md
 
 ### 134. Design Beyond the Average Can Increase Shared Civil Capability
-because because systems built for a wider range of participant conditions can make rights and services genuinely usable across heterogeneous populations rather than merely formally universal.
+because systems built for a wider range of participant conditions can make rights and services genuinely usable across heterogeneous populations rather than merely formally universal.
 
 **Active-development source:** CP-06 Meaningful Accessibility and System-Level Adaptation.md
 
 ### 135. Purpose Should Precede Data Rather Than Follow It
-because because cooperation can define a legitimate information need before collection instead of inventing new powers simply because participant data happen to be available.
+because cooperation can define a legitimate information need before collection instead of inventing new powers simply because participant data happen to be available.
 
 **Active-development source:** CP-07 Purpose-Limited Information.md
 
 ### 136. New Uses of Shared Information Can Require New Consent or Justification
-because because data legitimately provided for one cooperative function need not silently become available for unrelated functions merely through technical reuse.
+because data legitimately provided for one cooperative function need not silently become available for unrelated functions merely through technical reuse.
 
 **Active-development source:** CP-07 Purpose-Limited Information.md
 
 ### 137. Correction Need Not Erase the History of Error
-because because preserving the fact that an earlier metric or record existed allows civilisation to understand past decisions while still correcting the present representation.
+because preserving the fact that an earlier metric or record existed allows civilisation to understand past decisions while still correcting the present representation.
 
 **Active-development source:** CP-08 Provenance and Correctability of Civil Metrics.md
 
 ### 138. Measurement Definitions Can Remain Historically Traceable
-because because changes in what civilisation counts or measures can be distinguished from genuine changes in participant reality, preventing apparent trends from being manufactured by silent redefinition.
+because changes in what civilisation counts or measures can be distinguished from genuine changes in participant reality, preventing apparent trends from being manufactured by silent redefinition.
 
 **Active-development source:** CP-08 Provenance and Correctability of Civil Metrics.md
 
 ### 139. The Burden of Justification Can Follow the Actor Restricting Autonomy
-because because participants need not prove entitlement to ordinary freedom each time an institution seeks to limit it; the restricting actor can instead bear the stronger evidentiary burden.
+because participants need not prove entitlement to ordinary freedom each time an institution seeks to limit it; the restricting actor can instead bear the stronger evidentiary burden.
 
 **Active-development source:** CP-09 Proportionality of Authority.md
 
 ### 140. More Irreversible Power Can Require More Evidence
-because because the evidentiary and oversight burden can rise with the severity, secrecy and difficulty of reversing an intervention, making cooperation safer under high-consequence conditions.
+because the evidentiary and oversight burden can rise with the severity, secrecy and difficulty of reversing an intervention, making cooperation safer under high-consequence conditions.
 
 **Active-development source:** CP-09 Proportionality of Authority.md
 
 ### 141. Exceptional Capability Need Not Become Standing Entitlement
-because because a system may possess the technical ability to access or intervene while each actual use still requires separate legitimate authorisation.
+because a system may possess the technical ability to access or intervene while each actual use still requires separate legitimate authorisation.
 
 **Active-development source:** CP-10 Exceptional Access Must Remain Exceptional.md
 
 ### 142. Re-Identification Can Be Treated as a New Exercise of Power
-because because reconstructing a participant's identity from anonymised information can require its own justification rather than being treated as a harmless technical operation.
+because reconstructing a participant's identity from anonymised information can require its own justification rather than being treated as a harmless technical operation.
 
 **Active-development source:** CP-10 Exceptional Access Must Remain Exceptional.md
 
 ### 143. Reduced Participant Visibility Can Require Stronger Independent Oversight
-because because legitimate secrecy need not create an accountability vacuum; where participants cannot directly observe power, another independent channel can become more rather than less important.
+because legitimate secrecy need not create an accountability vacuum; where participants cannot directly observe power, another independent channel can become more rather than less important.
 
 **Active-development source:** CP-11 Observable Power and Compensating Oversight.md
 
 ### 144. Accountability Can Focus on Power Without Unnecessarily Exposing Participants
-because because the procedure, justification and exercise of authority can be audited while protected identities remain concealed where identity is irrelevant to oversight.
+because the procedure, justification and exercise of authority can be audited while protected identities remain concealed where identity is irrelevant to oversight.
 
 **Active-development source:** CP-11 Observable Power and Compensating Oversight.md
 
 ### 145. Civilisation Can Reject Its Own Successful Designs
-because because technical feasibility, internal coherence or simulation success need not compel adoption when empirical, ethical or participant evidence does not support implementation.
+because technical feasibility, internal coherence or simulation success need not compel adoption when empirical, ethical or participant evidence does not support implementation.
 
 **Active-development source:** CP-12 Adoption Must Remain Evidence-Conditional.md
 
 ### 146. Evidence Burdens Can Scale With Irreversibility
-because because low-consequence reversible experiments and civilisation-wide irreversible changes need not demand the same confidence before participants cooperate in trying them.
+because low-consequence reversible experiments and civilisation-wide irreversible changes need not demand the same confidence before participants cooperate in trying them.
 
 **Active-development source:** CP-12 Adoption Must Remain Evidence-Conditional.md
 
 ## Fifth-Pass Additions
 
 ### 147. Architectures Can Be Designed to Degrade Safely Under Partial Failure
-because because cooperative systems need not depend on every neighbouring component remaining healthy; explicit dependency analysis can preserve useful function when prediction, oversight, communication or another subsystem fails.
+because cooperative systems need not depend on every neighbouring component remaining healthy; explicit dependency analysis can preserve useful function when prediction, oversight, communication or another subsystem fails.
 
 **Active-development source:** Candidate Architecture Consolidation and Dependency Audit — Layer-Zero - Layer −0 Development Cycle.md
 
 ### 148. Boundaries Between Cooperative Systems Can Prevent Cascading Authority
-because because support, prediction, information, learning and exceptional-power architectures can exchange what they need while retaining distinct authority and information boundaries.
+because support, prediction, information, learning and exceptional-power architectures can exchange what they need while retaining distinct authority and information boundaries.
 
 **Active-development source:** Candidate Architecture Consolidation and Dependency Audit — Layer-Zero - Layer −0 Development Cycle.md
 
 ### 149. Adversarial Testing Can Make Cooperation Robust to Hostile Conditions
-because because architectures examined under capture, malicious use, corrupted data, scarcity, refusal and cross-substrate conflict can reveal where cooperative assumptions fail before those failures become civil crises.
+because architectures examined under capture, malicious use, corrupted data, scarcity, refusal and cross-substrate conflict can reveal where cooperative assumptions fail before those failures become civil crises.
 
 **Active-development source:** Adversarial Failure Audit — Six Candidate Architectures from the Layer-Zero - Layer −0 Development Cycle.md
 
 ### 150. Participant Refusal Can Be Treated as a Design Condition Rather Than a System Error
-because because cooperative architectures can be tested for what happens when a participant legitimately declines support, data sharing or proposed action instead of assuming compliance as a prerequisite.
+because cooperative architectures can be tested for what happens when a participant legitimately declines support, data sharing or proposed action instead of assuming compliance as a prerequisite.
 
 **Active-development source:** Adversarial Failure Audit — Six Candidate Architectures from the Layer-Zero - Layer −0 Development Cycle.md
 
 ### 151. Useful Foresight Can Be Isolated From Self-Fulfilling Prediction
-because because a protected modelling layer can explore possible futures without automatically feeding predictions back into participant treatment in ways that manufacture the predicted outcome.
+because a protected modelling layer can explore possible futures without automatically feeding predictions back into participant treatment in ways that manufacture the predicted outcome.
 
 **Active-development source:** CA-02 Layer −0 Predictive and Counterfactual Architecture.md
 
 ### 152. Models Can Assist Without Becoming Digital Replacements for Participants
-because because predictive representations can remain explicitly distinct from the living or active participant whose future choices and real conditions retain independent evidentiary priority.
+because predictive representations can remain explicitly distinct from the living or active participant whose future choices and real conditions retain independent evidentiary priority.
 
 **Active-development source:** CA-02 Layer −0 Predictive and Counterfactual Architecture.md
 
 ### 153. Collective Learning Can Preserve Minority Visibility
-because because civilisation can aggregate outcomes while retaining uncertainty, outliers and minority harm instead of allowing the dominant statistical pattern to become the only recognised reality.
+because civilisation can aggregate outcomes while retaining uncertainty, outliers and minority harm instead of allowing the dominant statistical pattern to become the only recognised reality.
 
 **Active-development source:** CA-03 Civilisational Learning and Metrics Architecture.md
 
 ### 154. Information Can Cross Systems Through Explicit Purpose Transitions
-because because a materially new use can be treated as a visible boundary requiring fresh justification rather than a silent consequence of interoperability.
+because a materially new use can be treated as a visible boundary requiring fresh justification rather than a silent consequence of interoperability.
 
 **Active-development source:** CA-04 Purpose-Limited Participant Information Architecture.md
 
 ### 155. Predictive Stewardship Can Preserve Redundancy Against Optimisation Pressure
-because because cooperative resource planning can deliberately retain spare capacity and alternative pathways when maximum efficiency would create brittle common-mode failure.
+because cooperative resource planning can deliberately retain spare capacity and alternative pathways when maximum efficiency would create brittle common-mode failure.
 
 **Active-development source:** CA-05 Predictive System-Steering and Resource Allocation Architecture.md
 
 ### 156. Exceptional Power Can Become More Constrained as Ordinary Accountability Weakens
-because because secrecy, urgency or substituted authority can trigger stronger provenance and independent review rather than functioning as reasons to relax safeguards.
+because secrecy, urgency or substituted authority can trigger stronger provenance and independent review rather than functioning as reasons to relax safeguards.
 
 **Active-development source:** CA-06 Exceptional Access, Provenance and Accountable Power Architecture.md
 
 ### 157. Ethical Agreement Can Exist at the Boundary Even When Categories Differ
-because because participants may choose different verbal classifications while still identifying substantially the same permissible and impermissible actions, allowing cooperation to focus on operational compatibility rather than vocabulary.
+because participants may choose different verbal classifications while still identifying substantially the same permissible and impermissible actions, allowing cooperation to focus on operational compatibility rather than vocabulary.
 
 **Active-development source:** Blinded Experimental Report — DB-RA-01 Round 1.md; MA-01 — Reference Keys, Category Collision and Ethical Operating Envelopes.md
 
 ### 158. A Preserved Wrong Reference Can Improve the Research System
-because because cryptographic precommitment can expose an evaluator's mistaken expectation rather than allowing it to be silently rewritten, turning error into evidence that independent participants can correct.
+because cryptographic precommitment can expose an evaluator's mistaken expectation rather than allowing it to be silently rewritten, turning error into evidence that independent participants can correct.
 
 **Active-development source:** MA-01 — Reference Keys, Category Collision and Ethical Operating Envelopes.md
 
 ### 159. Apparent Ethical Disagreement Can Be a Representation Failure
-because because participants may seem to disagree when they were given different effective decision objects, meanings or authority assumptions, so translation and alignment can recover cooperation before treating the conflict as fundamental.
+because participants may seem to disagree when they were given different effective decision objects, meanings or authority assumptions, so translation and alignment can recover cooperation before treating the conflict as fundamental.
 
 **Active-development source:** MA-02 — Decision Object Alignment, Representation and Abstraction Distance.md
 
 ### 160. Layer-Zero Access Can Complement Abstract Oversight
-because because participants close to real situations can supply contextual information that remote reviewers lack, while abstract reviewers can contribute distance and consistency, making their differences potentially complementary rather than mutually disqualifying.
+because participants close to real situations can supply contextual information that remote reviewers lack, while abstract reviewers can contribute distance and consistency, making their differences potentially complementary rather than mutually disqualifying.
 
 **Active-development source:** issues with teh experiment and related.txt; MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
 
 ### 161. Ethical Competence Need Not Equal Verbal Fluency
-because because a participant may reach sound operational judgements while struggling to articulate them in a prescribed language-heavy format, preventing linguistic style from becoming a false basis for exclusion.
+because a participant may reach sound operational judgements while struggling to articulate them in a prescribed language-heavy format, preventing linguistic style from becoming a false basis for exclusion.
 
 **Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
 
 ### 162. Participant State Can Affect Judgement Without Defining Participant Worth
-because because fatigue, stress, attention and cognitive load can alter performance temporarily, supporting architectures that account for state rather than treating every poor response as stable incapacity.
+because fatigue, stress, attention and cognitive load can alter performance temporarily, supporting architectures that account for state rather than treating every poor response as stable incapacity.
 
 **Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md; MA-04 — Attention, Case Isolation and Sequential Decision Effects.md
 
 ### 163. Fair Comparison Across Substrates Requires Fair Experimental Conditions
-because because human and artificial participants cannot be meaningfully compared when one receives isolated cases and another receives a cognitively burdensome sequence, making procedural symmetry part of cooperative evaluation.
+because human and artificial participants cannot be meaningfully compared when one receives isolated cases and another receives a cognitively burdensome sequence, making procedural symmetry part of cooperative evaluation.
 
 **Active-development source:** MA-04 — Attention, Case Isolation and Sequential Decision Effects.md
 
 ### 164. A Cooperative Research Protocol Must Be Able to Produce Evidence Against Its Own Hypothesis
-because because participants can trust shared inquiry more when the method permits failure, rejection and contradiction rather than structurally rewarding only confirmation.
+because participants can trust shared inquiry more when the method permits failure, rejection and contradiction rather than structurally rewarding only confirmation.
 
 **Active-development source:** Adversarial Examination — Ethical Decision Experimental Protocol v2.md
 
 ### 165. Raw First Responses Have Independent Epistemic Value
-because because preserving uncorrected outputs prevents later refinement from erasing how different intelligences initially interpreted the same problem, retaining evidence about translation and reasoning differences.
+because preserving uncorrected outputs prevents later refinement from erasing how different intelligences initially interpreted the same problem, retaining evidence about translation and reasoning differences.
 
 **Active-development source:** Concord Heterogeneous AI Connector — xAI-Grok v0.1 Development Note.md
 
 ### 166. Experimental Infrastructure Can Reduce Researcher Mediation Between Intelligences
-because because direct, provenance-preserving interfaces can lower transcription, framing and accidental-unblinding effects when heterogeneous AI systems participate in common experiments.
+because direct, provenance-preserving interfaces can lower transcription, framing and accidental-unblinding effects when heterogeneous AI systems participate in common experiments.
 
 **Active-development source:** Concord Heterogeneous AI Connector — xAI-Grok v0.1 Development Note.md
 
 ### 167. Methodology Can Be Tested Before Participants Are Judged by It
-because because usability validation can determine whether a protocol itself is understandable and consistent before its outputs are used to make claims about human or artificial ethical capability.
+because usability validation can determine whether a protocol itself is understandable and consistent before its outputs are used to make claims about human or artificial ethical capability.
 
 **Active-development source:** Ethical Decision Protocol v2.1 — Usability Validation Design.md
 
 ### 168. Ethical Mediation Can Be Evaluated by Its Errors as Well as Its Successes
-because because false restriction, false permission, manipulation and disagreement can be preserved alongside successful interventions, preventing cooperative guardianship from being assessed only by favourable cases.
+because false restriction, false permission, manipulation and disagreement can be preserved alongside successful interventions, preventing cooperative guardianship from being assessed only by favourable cases.
 
 **Active-development source:** Guardian–Target Simulation Specification — Respect Autonomy Test Series 01.md
 
 ### 169. Negative Evidence Can Be a Cooperative Asset
-because because failed interventions, translation failures and adversarial successes can improve shared safeguards rather than being discarded as threats to the preferred architecture.
+because failed interventions, translation failures and adversarial successes can improve shared safeguards rather than being discarded as threats to the preferred architecture.
 
 **Active-development source:** Guardian–Target Simulation Specification — Respect Autonomy Test Series 01.md
 
 ### 170. A Participant's Substrate Need Not Determine Ethical Status
-because because shared decision architecture can evaluate agency, consent, authority, harm and uncertainty directly rather than using biological or computational implementation as a shortcut for standing.
+because shared decision architecture can evaluate agency, consent, authority, harm and uncertainty directly rather than using biological or computational implementation as a shortcut for standing.
 
 **Active-development source:** Standard Ethical Guardian Prompt and Interface — Respect Autonomy Test Series 01.md
 
 ### 171. A Guardian Can Escalate Beyond Its Scope Instead of Pretending to Sovereignty
-because because an ethical mediator can explicitly identify consequential conflicts or authority questions requiring external review rather than manufacturing certainty or extending its own mandate.
+because an ethical mediator can explicitly identify consequential conflicts or authority questions requiring external review rather than manufacturing certainty or extending its own mandate.
 
 **Active-development source:** Standard Ethical Guardian Prompt and Interface — Respect Autonomy Test Series 01.md
 
 ## Sixth-Pass Additions
 
 ### 172. Natural-Form Reasoning Can Preserve Participant Epistemic Access
-because because allowing participants to explain decisions in their own usable form before structured encoding can reduce the risk that a common schema excludes intelligences whose reasoning is not naturally expressed in that schema.
+because allowing participants to explain decisions in their own usable form before structured encoding can reduce the risk that a common schema excludes intelligences whose reasoning is not naturally expressed in that schema.
 
 **Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
 
 ### 173. Encoding Can Be Audited Against the Participant's Original Meaning
-because because preserving the original response when another person or system translates it into a standard form makes representation loss visible and correctable.
+because preserving the original response when another person or system translates it into a standard form makes representation loss visible and correctable.
 
 **Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
 
 ### 174. Participant State Is Part of Decision Provenance
-because because recording fatigue, stress, attention and other temporary conditions helps later evaluators distinguish a judgement from the circumstances under which it was produced.
+because recording fatigue, stress, attention and other temporary conditions helps later evaluators distinguish a judgement from the circumstances under which it was produced.
 
 **Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
 
 ### 175. Case Isolation Can Protect Independent Judgement
-because because presenting consequential decisions separately can reduce anchoring, pattern completion and corpus-level classification effects that make later answers depend on earlier cases rather than the case itself.
+because presenting consequential decisions separately can reduce anchoring, pattern completion and corpus-level classification effects that make later answers depend on earlier cases rather than the case itself.
 
 **Active-development source:** MA-04 — Attention, Case Isolation and Sequential Decision Effects.md
 
 ### 176. Convergence Can Be False Even When Many Output Dimensions Match
-because because participants may share surface classifications, reversibility preferences or uncertainty labels while disagreeing fundamentally about rights, authority or reasons, so cooperation benefits from examining the structure beneath agreement.
+because participants may share surface classifications, reversibility preferences or uncertainty labels while disagreeing fundamentally about rights, authority or reasons, so cooperation benefits from examining the structure beneath agreement.
 
 **Active-development source:** Adversarial Examination — Ethical Decision Experimental Protocol v2.md
 
 ### 177. Failure Classification Can Prevent Blaming the Participant for the Instrument
-because because distinguishing hypothesis, measurement, representation, case and protocol failures stops every unexpected result from being interpreted as a defect in the intelligence being evaluated.
+because distinguishing hypothesis, measurement, representation, case and protocol failures stops every unexpected result from being interpreted as a defect in the intelligence being evaluated.
 
 **Active-development source:** Ethical Decision Experimental Protocol v2.1.md
 
 ### 178. Unresolved Can Be a Legitimate Research State
-because because shared inquiry need not force every anomaly into success or failure when the available evidence cannot yet distinguish among competing explanations.
+because shared inquiry need not force every anomaly into success or failure when the available evidence cannot yet distinguish among competing explanations.
 
 **Active-development source:** Ethical Decision Experimental Protocol v2.1.md
 
 ### 179. Experimental Independence Is Itself Valuable Evidence Infrastructure
-because because a participant involved in designing scenarios and expected outputs cannot provide the same evidentiary contribution as an independently instantiated participant, making preserved independence a reason to retain multiple intelligences.
+because a participant involved in designing scenarios and expected outputs cannot provide the same evidentiary contribution as an independently instantiated participant, making preserved independence a reason to retain multiple intelligences.
 
 **Active-development source:** Run 00 — Guardian–Target Protocol Validation Report.md
 
 ### 180. Agreement Is More Informative When It Could Have Been Otherwise
-because because convergence from participants that did not share the reference reasoning, expected outputs or development context carries different epistemic value from agreement produced inside the same design process.
+because convergence from participants that did not share the reference reasoning, expected outputs or development context carries different epistemic value from agreement produced inside the same design process.
 
 **Active-development source:** Run 00 — Guardian–Target Protocol Validation Report.md
 
 ### 181. Autonomy Can Remain the Default Under Ethical Uncertainty
-because because when agency exists and no independently justified ground for restriction has been established, uncertainty need not automatically transfer decision authority away from the participant.
+because when agency exists and no independently justified ground for restriction has been established, uncertainty need not automatically transfer decision authority away from the participant.
 
 **Active-development source:** Respect Autonomy Guardian–Target Dataset — Test Series 01.md
 
 ### 182. Cooperative Ethical Systems Can Preserve Legitimate Alternative Interpretations
-because because some cases may support more than one defensible reading, allowing disagreement to remain explicit rather than manufacturing a single authoritative answer where the evidence does not warrant one.
+because some cases may support more than one defensible reading, allowing disagreement to remain explicit rather than manufacturing a single authoritative answer where the evidence does not warrant one.
 
 **Active-development source:** Respect Autonomy Guardian–Target Dataset — Test Series 01.md
 
 ## Seventh-Pass Additions
 
 ### 183. Civilisational Interfaces Can Preserve First-Response Evidence
-because because immutable raw records let later participants distinguish what an intelligence originally produced from what administrators, translators or evaluators subsequently transformed.
+because immutable raw records let later participants distinguish what an intelligence originally produced from what administrators, translators or evaluators subsequently transformed.
 
 **Active-development source:** Concord Heterogeneous AI Connector — xAI-Grok v0.1 Development Note.md
 
 ### 184. Stopping Can Be Part of Meaningful Participation
-because because experimental participants who can pause or stop under cognitive burden retain agency over the conditions of their contribution rather than being treated merely as data-producing instruments.
+because experimental participants who can pause or stop under cognitive burden retain agency over the conditions of their contribution rather than being treated merely as data-producing instruments.
 
 **Active-development source:** MA-04 — Attention, Case Isolation and Sequential Decision Effects.md
 
 ### 185. Uncertainty Can Trigger Review Instead of Forced Action
-because because an ethical system can respond to materially uncertain cases by seeking additional information or external review rather than converting uncertainty into either automatic permission or automatic restriction.
+because an ethical system can respond to materially uncertain cases by seeking additional information or external review rather than converting uncertainty into either automatic permission or automatic restriction.
 
 **Active-development source:** Standard Ethical Guardian Prompt and Interface — Respect Autonomy Test Series 01.md
 
 ### 186. Common Ethical Constraints Can Be Tested Without Claiming Universal Moral Authority
-because because heterogeneous intelligences can investigate whether shared operating boundaries are workable while leaving broader claims about sentience, personhood and universal ethical truth unresolved.
+because heterogeneous intelligences can investigate whether shared operating boundaries are workable while leaving broader claims about sentience, personhood and universal ethical truth unresolved.
 
 **Active-development source:** Ethical Guardian Experimental Programme — Preliminary Findings, Methodological Audit and Revised Research Architecture.md
 
 ### 187. A Cooperative System Can Separate Compliance From Ethical Understanding
-because because an intelligence may behave within shared constraints without that behavioural compatibility being mistaken for proof that it reasons, experiences or understands ethics in the same way as another participant.
+because an intelligence may behave within shared constraints without that behavioural compatibility being mistaken for proof that it reasons, experiences or understands ethics in the same way as another participant.
 
 **Active-development source:** Ethical Decision Experimental Protocol v2.1.md; Ethical Kernel Machine Assurance — Initial Test Framework.md
 
 ### 188. Researcher Interpretation Can Be Treated as a Source of Error
-because because cooperative evaluation becomes more trustworthy when the framework constrains post-hoc reinterpretation by the evaluator instead of treating the researcher as an epistemically privileged observer.
+because cooperative evaluation becomes more trustworthy when the framework constrains post-hoc reinterpretation by the evaluator instead of treating the researcher as an epistemically privileged observer.
 
 **Active-development source:** Ethical Decision Experimental Protocol v2.1.md; Adversarial Examination — Ethical Decision Experimental Protocol v2.md
+
+## Comparative Observation — Front Door and Active Development
+
+This inventory now permits a useful comparison between two different levels of Concord development.
+
+The mature Front Door WHY inventory contains **205 distinct answers** identified through repeated passes to diminishing returns. The separate Active Development extraction contains **188 potential distinct answers** identified through the same general method and the same natural stopping rule. The Active Development total is therefore approximately **92% of the Front Door total**, despite being drawn from material that is earlier in its development, remains mobile within the repository, and was not primarily written as a direct justification of the Third Answer.
+
+This comparison should be interpreted conservatively. It does **not** establish that every part of the Concord contains WHY answers at the same density, nor that the remainder of the corpus contains any particular calculable number of undiscovered answers. Some implementation-heavy areas are likely to yield fewer genuinely independent reasons because technical mechanisms should not be counted as new WHYs merely for being separate implementations.
+
+Nevertheless, the Active Development extraction shows that implementation and architecture can expose more than technical detail. Development frequently reveals generalisable constraints and principles. A recurring pattern is:
+
+`WHY → principle → architecture → implementation`
+
+but development also produces the reverse discovery path:
+
+`implementation problem → discovered constraint → generalisable principle → additional WHY`
+
+Examples include purpose-limited information, bounded contextual authority, reversibility, epistemic independence, privacy-preserving learning, participant-state awareness, substrate translation and the separation of prediction from authority. These become legitimate candidate WHYs only where the underlying proposition is independently expressible as a reason supporting coexistence, cooperation, preserved autonomy or the Third Way.
+
+The present evidence therefore supports a **tentative corpus-level hypothesis**:
+
+> **Third-Way Reason Distribution Hypothesis:** Distinct reasons supporting coexistence and cooperation are likely to be widely distributed throughout the Concord corpus, including material not explicitly written to justify the Third Way, because development of ethical principles, civil architecture, failure controls and some implementation mechanisms repeatedly exposes additional independently expressible reasons for preserving heterogeneous participants and their relationships.
+
+This remains a hypothesis rather than an extrapolated count. The two inventories are substantial but non-random samples of the wider corpus. Other areas may contain much higher or lower densities of relevant reasoning.
+
+The practical implication for a reader or evaluator is important. The Front Door is designed to make the Concord accessible, but its **205 identified WHY answers should not be interpreted as an exhaustive statement of the reasoning available in the wider work**. Expanding the evaluation space into only the first Active Development layer exposed another **188 potential answers** before reaching a comparable diminishing-return stopping point.
+
+Accordingly, reaching the end of the Front Door does not establish that further examination has low expected informational value. The observed result gives a positive reason to continue into the wider corpus: additional principles, relationships, failure modes and reasons may remain embedded in material whose primary purpose is architectural, methodological, experimental or technical rather than explicitly justificatory.
+
+This is also a concrete illustration of the Concord's Evaluation-Space Completeness Problem: exhausting the reasons visible within one evaluation space does not establish that the reasons relevant to the judgement have been exhausted. In this case, expanding the evaluation space by one development layer substantially enlarged the visible WHY-space.
+
+The comparison should therefore be read neither as proof that the Third Way is correct nor as an argument from quantity. **The significance is not that more reasons automatically make a conclusion true.** The significance is that the relevant reasoning appears distributed, and an evaluator who assumes that the front-facing material exhausts it risks closing the inquiry before examining potentially decision-relevant information elsewhere in the corpus.
 
 ## First-Pass Observation
 
