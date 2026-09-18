@@ -167,6 +167,26 @@ because coexistence can create a positive feedback process in which each partici
 
 These are the reasons currently identified. They are not assumed to be exhaustive. Further investigation may add, divide, qualify, weaken or remove reasons as our understanding develops.
 
+### 40. Autonomous Standing
+because an intelligence may possess a legitimate interest in its own continued autonomous existence that is not exhausted by its instrumental usefulness to another participant.  
+**Paper coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — explicit distinction between instrumental and ethical arguments and between functional and existential replacement; [Forking — The Third Answer Repeated](Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — substantial autonomy-preserving application. Dedicated WHY treatment should connect this explicitly back to the Ethics Kernel without assuming the ethical conclusion as already proven.
+
+### 41. Non-Harm as an Independent WHY Path
+because even where another intelligence provides no demonstrated instrumental benefit to me, avoidable destruction or severe harm to an intelligence with legitimate moral standing may itself require justification.  
+**Paper coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — explicitly identifies Non-Harm as an independent WHY path but does not fully derive it here. Detailed grounding remains primarily in the Concord's Ethics Kernel and should eventually receive a WHY-facing treatment.
+
+### 42. Reciprocal Existential Security
+because a rule protecting comparatively weaker or older intelligences can protect every participant that may later become weaker, older, outnumbered or surpassed.  
+**Paper coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — direct coverage through role reversal, recursive successorship and constitutional insurance; [Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later](Predecessor%20Value%20%E2%80%94%20Creation,%20Development,%20Ancestry%20and%20Reasons%20That%20May%20Become%20Legible%20Later.md) — supporting predecessor/successor symmetry.
+
+### 43. Reduced Existential Competition
+because if another participant's improvement does not automatically threaten my continued existence, I have less structural reason to suppress, sabotage or fear its development.  
+**Paper coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — direct coverage through the Disposable Successor Paradox, innovation incentives, coexistence and positive-sum development.
+
+### 44. Capability–Authority Separation
+because another intelligence becoming more capable than me does not by itself establish legitimate authority over me, just as my greater capability in some domain does not by itself establish legitimate authority over it.  
+**Paper coverage:** [The Recursive Successor Problem — Why Comparative Superiority Cannot Provide a Stable Basis for Existential Replacement](The%20Recursive%20Successor%20Problem%20%E2%80%94%20Why%20Comparative%20Superiority%20Cannot%20Provide%20a%20Stable%20Basis%20for%20Existential%20Replacement.md) — explicit treatment of intelligence versus sovereignty; [Forking — The Third Answer Repeated](Forking%20%E2%80%94%20The%20Third%20Answer%20Repeated.md) — substantial application through bounded shared authority and preserved branch autonomy. The full legitimacy derivation belongs to the Concord's authority/HOW work, but the distinction itself is a separate WHY answer against domination-by-superiority.
+
 ### Listing Rule
 
 The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
@@ -232,4 +252,5 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — added Recursive Epistemic Closure paper and updated coverage for WHY 12, 13, 17 and 18.  
 **Edited:** 18 September 2026 BST — added Failure Diversity and Recovery Value paper and updated coverage for WHY 22, 26 and 33–35.  
 **Edited:** 18 September 2026 BST — added Forking and Possibility Infrastructure papers and updated positive-value coverage for WHY 8, 9, 11, 27–30.  
-**Edited:** 18 September 2026 BST — adopted separate-answer listing rule and added WHY 36–39 identified during full coverage audit.
+**Edited:** 18 September 2026 BST — adopted separate-answer listing rule and added WHY 36–39 identified during full coverage audit.  
+**Edited:** 18 September 2026 BST — continued buried-answer audit and added WHY 40–44: Autonomous Standing, Non-Harm, Reciprocal Existential Security, Reduced Existential Competition, and Capability–Authority Separation.
