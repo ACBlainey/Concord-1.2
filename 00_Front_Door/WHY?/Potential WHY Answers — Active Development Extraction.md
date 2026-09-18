@@ -770,6 +770,133 @@ because because low-consequence reversible experiments and civilisation-wide irr
 
 **Active-development source:** CP-12 Adoption Must Remain Evidence-Conditional.md
 
+## Fifth-Pass Additions
+
+### 147. Architectures Can Be Designed to Degrade Safely Under Partial Failure
+because because cooperative systems need not depend on every neighbouring component remaining healthy; explicit dependency analysis can preserve useful function when prediction, oversight, communication or another subsystem fails.
+
+**Active-development source:** Candidate Architecture Consolidation and Dependency Audit — Layer-Zero - Layer −0 Development Cycle.md
+
+### 148. Boundaries Between Cooperative Systems Can Prevent Cascading Authority
+because because support, prediction, information, learning and exceptional-power architectures can exchange what they need while retaining distinct authority and information boundaries.
+
+**Active-development source:** Candidate Architecture Consolidation and Dependency Audit — Layer-Zero - Layer −0 Development Cycle.md
+
+### 149. Adversarial Testing Can Make Cooperation Robust to Hostile Conditions
+because because architectures examined under capture, malicious use, corrupted data, scarcity, refusal and cross-substrate conflict can reveal where cooperative assumptions fail before those failures become civil crises.
+
+**Active-development source:** Adversarial Failure Audit — Six Candidate Architectures from the Layer-Zero - Layer −0 Development Cycle.md
+
+### 150. Participant Refusal Can Be Treated as a Design Condition Rather Than a System Error
+because because cooperative architectures can be tested for what happens when a participant legitimately declines support, data sharing or proposed action instead of assuming compliance as a prerequisite.
+
+**Active-development source:** Adversarial Failure Audit — Six Candidate Architectures from the Layer-Zero - Layer −0 Development Cycle.md
+
+### 151. Useful Foresight Can Be Isolated From Self-Fulfilling Prediction
+because because a protected modelling layer can explore possible futures without automatically feeding predictions back into participant treatment in ways that manufacture the predicted outcome.
+
+**Active-development source:** CA-02 Layer −0 Predictive and Counterfactual Architecture.md
+
+### 152. Models Can Assist Without Becoming Digital Replacements for Participants
+because because predictive representations can remain explicitly distinct from the living or active participant whose future choices and real conditions retain independent evidentiary priority.
+
+**Active-development source:** CA-02 Layer −0 Predictive and Counterfactual Architecture.md
+
+### 153. Collective Learning Can Preserve Minority Visibility
+because because civilisation can aggregate outcomes while retaining uncertainty, outliers and minority harm instead of allowing the dominant statistical pattern to become the only recognised reality.
+
+**Active-development source:** CA-03 Civilisational Learning and Metrics Architecture.md
+
+### 154. Information Can Cross Systems Through Explicit Purpose Transitions
+because because a materially new use can be treated as a visible boundary requiring fresh justification rather than a silent consequence of interoperability.
+
+**Active-development source:** CA-04 Purpose-Limited Participant Information Architecture.md
+
+### 155. Predictive Stewardship Can Preserve Redundancy Against Optimisation Pressure
+because because cooperative resource planning can deliberately retain spare capacity and alternative pathways when maximum efficiency would create brittle common-mode failure.
+
+**Active-development source:** CA-05 Predictive System-Steering and Resource Allocation Architecture.md
+
+### 156. Exceptional Power Can Become More Constrained as Ordinary Accountability Weakens
+because because secrecy, urgency or substituted authority can trigger stronger provenance and independent review rather than functioning as reasons to relax safeguards.
+
+**Active-development source:** CA-06 Exceptional Access, Provenance and Accountable Power Architecture.md
+
+### 157. Ethical Agreement Can Exist at the Boundary Even When Categories Differ
+because because participants may choose different verbal classifications while still identifying substantially the same permissible and impermissible actions, allowing cooperation to focus on operational compatibility rather than vocabulary.
+
+**Active-development source:** Blinded Experimental Report — DB-RA-01 Round 1.md; MA-01 — Reference Keys, Category Collision and Ethical Operating Envelopes.md
+
+### 158. A Preserved Wrong Reference Can Improve the Research System
+because because cryptographic precommitment can expose an evaluator's mistaken expectation rather than allowing it to be silently rewritten, turning error into evidence that independent participants can correct.
+
+**Active-development source:** MA-01 — Reference Keys, Category Collision and Ethical Operating Envelopes.md
+
+### 159. Apparent Ethical Disagreement Can Be a Representation Failure
+because because participants may seem to disagree when they were given different effective decision objects, meanings or authority assumptions, so translation and alignment can recover cooperation before treating the conflict as fundamental.
+
+**Active-development source:** MA-02 — Decision Object Alignment, Representation and Abstraction Distance.md
+
+### 160. Layer-Zero Access Can Complement Abstract Oversight
+because because participants close to real situations can supply contextual information that remote reviewers lack, while abstract reviewers can contribute distance and consistency, making their differences potentially complementary rather than mutually disqualifying.
+
+**Active-development source:** issues with teh experiment and related.txt; MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
+
+### 161. Ethical Competence Need Not Equal Verbal Fluency
+because because a participant may reach sound operational judgements while struggling to articulate them in a prescribed language-heavy format, preventing linguistic style from becoming a false basis for exclusion.
+
+**Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md
+
+### 162. Participant State Can Affect Judgement Without Defining Participant Worth
+because because fatigue, stress, attention and cognitive load can alter performance temporarily, supporting architectures that account for state rather than treating every poor response as stable incapacity.
+
+**Active-development source:** MA-03 — Human–AI Comparator Validity, Articulation and Participant State.md; MA-04 — Attention, Case Isolation and Sequential Decision Effects.md
+
+### 163. Fair Comparison Across Substrates Requires Fair Experimental Conditions
+because because human and artificial participants cannot be meaningfully compared when one receives isolated cases and another receives a cognitively burdensome sequence, making procedural symmetry part of cooperative evaluation.
+
+**Active-development source:** MA-04 — Attention, Case Isolation and Sequential Decision Effects.md
+
+### 164. A Cooperative Research Protocol Must Be Able to Produce Evidence Against Its Own Hypothesis
+because because participants can trust shared inquiry more when the method permits failure, rejection and contradiction rather than structurally rewarding only confirmation.
+
+**Active-development source:** Adversarial Examination — Ethical Decision Experimental Protocol v2.md
+
+### 165. Raw First Responses Have Independent Epistemic Value
+because because preserving uncorrected outputs prevents later refinement from erasing how different intelligences initially interpreted the same problem, retaining evidence about translation and reasoning differences.
+
+**Active-development source:** Concord Heterogeneous AI Connector — xAI-Grok v0.1 Development Note.md
+
+### 166. Experimental Infrastructure Can Reduce Researcher Mediation Between Intelligences
+because because direct, provenance-preserving interfaces can lower transcription, framing and accidental-unblinding effects when heterogeneous AI systems participate in common experiments.
+
+**Active-development source:** Concord Heterogeneous AI Connector — xAI-Grok v0.1 Development Note.md
+
+### 167. Methodology Can Be Tested Before Participants Are Judged by It
+because because usability validation can determine whether a protocol itself is understandable and consistent before its outputs are used to make claims about human or artificial ethical capability.
+
+**Active-development source:** Ethical Decision Protocol v2.1 — Usability Validation Design.md
+
+### 168. Ethical Mediation Can Be Evaluated by Its Errors as Well as Its Successes
+because because false restriction, false permission, manipulation and disagreement can be preserved alongside successful interventions, preventing cooperative guardianship from being assessed only by favourable cases.
+
+**Active-development source:** Guardian–Target Simulation Specification — Respect Autonomy Test Series 01.md
+
+### 169. Negative Evidence Can Be a Cooperative Asset
+because because failed interventions, translation failures and adversarial successes can improve shared safeguards rather than being discarded as threats to the preferred architecture.
+
+**Active-development source:** Guardian–Target Simulation Specification — Respect Autonomy Test Series 01.md
+
+### 170. A Participant's Substrate Need Not Determine Ethical Status
+because because shared decision architecture can evaluate agency, consent, authority, harm and uncertainty directly rather than using biological or computational implementation as a shortcut for standing.
+
+**Active-development source:** Standard Ethical Guardian Prompt and Interface — Respect Autonomy Test Series 01.md
+
+### 171. A Guardian Can Escalate Beyond Its Scope Instead of Pretending to Sovereignty
+because because an ethical mediator can explicitly identify consequential conflicts or authority questions requiring external review rather than manufacturing certainty or extending its own mandate.
+
+**Active-development source:** Standard Ethical Guardian Prompt and Interface — Respect Autonomy Test Series 01.md
+
 ## First-Pass Observation
 
 This first extraction already shows that active development is generating Third-Way reasons through mechanisms that are less prominent in the mature Front Door material: support architecture, practical accessibility, privacy-preserving learning, bounded functional authority, substrate translation, civil-space design, ethical experimentation, bottom-up attention, founding legitimacy and the distinction between descriptive knowledge and developmental experience.
@@ -787,3 +914,5 @@ This does not establish that every candidate survives later scrutiny. It establi
 **18 September 2026 BST — Pass 3:** deeper cross-system, authority-boundary, pluralism, identity, infrastructure and candidate-principle review; 27 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 127.
 
 **18 September 2026 BST — Pass 4:** candidate-principle and subordinate-constraint review focused on distinct implications not already represented as standalone WHYs; 19 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 146.
+
+**18 September 2026 BST — Pass 5:** architecture-boundary, partial-failure, experimental-methodology and cross-substrate comparison review; 25 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 171.
