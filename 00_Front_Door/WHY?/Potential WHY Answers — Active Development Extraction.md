@@ -536,6 +536,143 @@ because because shared systems can preserve uncertainty and provisional status i
 
 **Active-development source:** 10. Metrics Reliability, Correction and Meta-Metrics System.md
 
+## Third-Pass Additions
+
+### 101. Prediction Can Expand Participant Choice Instead of Institutional Power
+because because foresight can be evaluated by whether it gives participants more viable options rather than whether it gives institutions more reasons to intervene.
+
+**Active-development source:** Portable Methodologies Extracted from the Layer-Zero Development Cycle.md
+
+### 102. Tracing Failure From the Participant Outward Can Reveal Cooperative Remedies
+because because following a participant's actual failure pathway through interfaces, institutions and infrastructure can expose fixable system conditions that would otherwise be misattributed to the participant.
+
+**Active-development source:** Portable Methodologies Extracted from the Layer-Zero Development Cycle.md
+
+### 103. Authority Claims Remain Safer When Every Step Is Independently Contestable
+because because participants can challenge the observed problem, civil objective, required function, necessity and proportionality separately instead of having to accept or reject one indivisible claim of power.
+
+**Active-development source:** Authority Justification Chain — Direct Adversarial Attack and Falsification Audit.md
+
+### 104. A Function Cannot Legitimate Itself Merely by Existing
+because because institutions that must justify their functions from participant rights and legitimate objectives cannot manufacture authority simply by defining a mission that requires it.
+
+**Active-development source:** Legitimate Function and the Authority Justification Chain.md
+
+### 105. Protected Options Can Preserve Future Meanings Not Yet Understood
+because because civilisation can reserve private or safe spaces for unfamiliar substrates before knowing whether those participants experience privacy, home, solitude or rest in familiar ways.
+
+**Active-development source:** Basic Civil Space Classification — Public Space, Private Space, Safe Space and Substrate-Neutral Access.md
+
+### 106. Civil Access Rules Can Be Substrate-Neutral Without Being Context-Blind
+because because access can depend on legitimate function, safety and consent rather than participant type while still recognising that different spaces require different relationships.
+
+**Active-development source:** Basic Civil Space Architecture — Primary Classes and Classification Rules.md
+
+### 107. Pluralism Can Reduce the Amount of Agreement Civilisation Requires
+because because heterogeneous participants may need common rules mainly for how they treat one another and exercise power, while leaving much wider disagreement about how each chooses to live.
+
+**Active-development source:** Peaceful Heterogeneity — Rights, Harm and Bounded Authority — Synthesis and Development Map.md
+
+### 108. Bounded Consent Creates Cooperative Operating Envelopes
+because because participants can voluntarily define classes of permitted action, risk and limits in advance, enabling activities that would otherwise appear mutually harmful or impermissible.
+
+**Active-development source:** PH-01 — Boxing — Bounded Consent and Contextual Harm.md
+
+### 109. Emergency Cooperation Can Be Pre-Authorised Without Becoming Unlimited
+because because participants can establish defined classes of emergency authority in advance while retaining triggers, proportionality and temporal limits on their activation.
+
+**Active-development source:** PH-02 — Emergency Governance and Emergency Operations.md
+
+### 110. Lawful Difference Can Be Managed Through Context Rather Than Suppression
+because because an activity can remain legitimate while its placement or exposure is adjusted to reduce conflict with other participants' legitimate activities.
+
+**Active-development source:** PH-03 — Zoning, Safe Places and Substrate-Aware Civil Planning.md
+
+### 111. Dislike Does Not Need to Become Authority to Exclude
+because because respectful distance can reduce avoidable exposure without granting participants a general power to remove identities, cultures, beliefs or lawful practices they dislike.
+
+**Active-development source:** PH-04 — Respectful Distance, Sensory Boundaries and Unknown Substrate Preferences.md
+
+### 112. Autonomy Can Carry Responsibilities Without Becoming Permission
+because because self-stewardship asks participants to consider consequences for others and shared environments while preserving the distinction between responsible judgement and external control.
+
+**Active-development source:** PH-05 — Self-Stewardship in a Heterogeneous Civilisation.md
+
+### 113. Majority Preference Need Not Define Responsible Behaviour
+because because self-stewardship can be bounded against capture by distinguishing actual external effects from mere nonconformity to majority expectations.
+
+**Active-development source:** PH-06 — Self-Stewardship Boundary and Misuse Audit.md
+
+### 114. Ordinary Civil Functions Can Grow From Participant Needs Rather Than Institutional Ambition
+because because beginning with real Layer-Zero needs creates a cooperative route to necessary civil functions without assuming that existing institutions are entitled to define what participants require.
+
+**Active-development source:** Sketch Idea — Bottom-Up Functional Need and Civilisational Protection.md
+
+### 115. Unique Identity Need Not Require Continuous Location Surveillance
+because because civilisation can maintain reliable civil identity and reachability without making a participant's canonical identity equivalent to a permanent physical tracking address.
+
+**Active-development source:** Concord Citizen ID — Threat, Privacy and Misuse Audit.md
+
+### 116. Interoperable Identity Need Not Require Universal Correlation
+because because purpose-specific bridges can connect civil records when legitimately necessary while preventing every institution from automatically combining everything known about a participant.
+
+**Active-development source:** Concord Citizen ID — Threat, Privacy and Misuse Audit.md; Concord Citizen ID — Unique Civil Identity, Digital Routing and Privacy Boundaries.md
+
+### 117. Official Communication Can Be Verifiable Without Replicating All Civil Life
+because because tamper-evident shared infrastructure can be reserved for high-value submissions, receipts and notices instead of turning every interaction into a permanently distributed record.
+
+**Active-development source:** Concord Civil Submission, Receipt and Future Communications Layer — Revised Development Note.md
+
+### 118. Cooperative Resource Claims Can Preserve Incentives While Reducing Conflict
+because because parties can share discovery, expertise, risk or extraction arrangements without requiring either pure winner-takes-all competition or elimination of individual initiative.
+
+**Active-development source:** DN Ownership, Stewardship and Cooperative Claims.md
+
+### 119. Future-Vector Testing Can Create Brakes Before Conflict Materialises
+because because modelling the direction of present changes can expose second-order harms, constitutional tensions and failure thresholds early enough to adjust course cooperatively.
+
+**Active-development source:** DN Ratchet vector discuss.md
+
+### 120. Civil Identity Can Survive Legitimate Duplication Without Declaring One Copy Unreal
+because because branch-aware provenance and partitioned claims can resolve practical rights and obligations among multiple authentic successors without requiring civilisation to erase competing continuities.
+
+**Active-development source:** Identity Verification Under Legitimate Duplication.md
+
+### 121. Relationships Can Be Re-Authorised After Identity Branching
+because because duplication need not force inherited relationships to be automatically assigned to one successor; affected participants can participate in deciding which present relationships continue.
+
+**Active-development source:** Identity Verification Under Legitimate Duplication.md
+
+### 122. Self-Identity Can Remain Participant Territory While Civil Claims Stay Adjudicable
+because because civilisation can resolve property, credentials, obligations and authority without imposing a metaphysical theory of what the participant really is.
+
+**Active-development source:** Identity, Continuity, Provenance and Verification Across Substrates — Development Note.md
+
+### 123. A Framework Should Satisfy the Legitimacy Standards It Applies to Others
+because because reciprocal scrutiny prevents a cooperative civilisation from treating its own founding claims as privileged while demanding consent, representation and legitimacy from neighbouring or emerging polities.
+
+**Active-development source:** 05_CONCORD_NATION_FOUNDATION/README.md
+
+### 124. Political Architecture Does Not Create a Constituency by Designing One
+because because people and intelligences become legitimate participants in a polity through actual relationships of consent and representation rather than being assigned political membership by the framework's authors.
+
+**Active-development source:** 05_CONCORD_NATION_FOUNDATION/README.md
+
+### 125. Formal Availability Is Not Equivalent to Usable Freedom
+because because a right or service that a participant cannot realistically access does not provide the same civil capability as one they can actually use.
+
+**Active-development source:** 1 Candidate Principle Promotion Audit — System 1_ Layer-Zero Systems Interface.md
+
+### 126. Representations of Possible Reality Need Not Rule Actual Participants
+because because simulations, statistics and predictions can remain tools for inquiry without converting modelled possibilities into guilt, incapacity or coercive authority.
+
+**Active-development source:** 3 Candidate Principle Consolidation and Hierarchy Audit — Layer-Zero - Layer −0 Development Cycle.md
+
+### 127. Different Kinds of Evidence Can Remain in Tension Without Premature Closure
+because because participant testimony, sensors, scientific models and institutional records may legitimately disagree, and preserving that conflict can be safer than forcing one evidence class to dominate before the discrepancy is understood.
+
+**Active-development source:** 4 Adversarial Critical Examination — 12 Candidate Principles from the Layer-Zero - Layer −0 Development Cycle.md
+
 ## First-Pass Observation
 
 This first extraction already shows that active development is generating Third-Way reasons through mechanisms that are less prominent in the mature Front Door material: support architecture, practical accessibility, privacy-preserving learning, bounded functional authority, substrate translation, civil-space design, ethical experimentation, bottom-up attention, founding legitimacy and the distinction between descriptive knowledge and developmental experience.
@@ -549,3 +686,5 @@ This does not establish that every candidate survives later scrutiny. It establi
 **18 September 2026 BST — Pass 1:** systematic first-pass review of the text-readable material under `08_Active_Development/`; 65 potential distinct WHY answers extracted. Further passes should use the same diminishing-return method applied to the Front Door inventory rather than targeting a predetermined number.
 
 **18 September 2026 BST — Pass 2:** deeper mechanism-, boundary-, failure-mode- and relationship-focused review; 35 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 100.
+
+**18 September 2026 BST — Pass 3:** deeper cross-system, authority-boundary, pluralism, identity, infrastructure and candidate-principle review; 27 additional potential distinct WHY answers extracted, bringing the development-stage inventory to 127.
