@@ -4,6 +4,8 @@
 
 The first paper in this sequence explained the problem from which the Concord developed.
 
+For the wider map of the Concord's identified reasons for preserving the third possibility, see **[WHY Preserve the Third Possibility?](WHY%3F/1%20WHY%3F.md)**.
+
 When humans and artificial intelligence are imagined sharing a future, the discussion is often reduced to a binary:
 
 > Humans prevail.
