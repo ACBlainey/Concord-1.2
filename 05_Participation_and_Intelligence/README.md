@@ -12,7 +12,7 @@ The Concord is intended as a civilisation capable of supporting **multiple forms
 
 The Constitutional Core establishes substrate-neutral principles, rights, responsibilities, and constraints.
 
-This folder explores the practical question that follows:
+Within that already multisubstrate architecture, this folder examines a narrower practical question:
 
 > **How do differences between and within forms of intelligence affect participation in the Concord, and how must Concord design respond to those differences without abandoning constitutional equality?**
 
@@ -21,6 +21,54 @@ This folder explores the practical question that follows:
 It may contain ideas at any level of development, from early observations and speculative hypotheses through developed concepts, testable proposals, and material approaching integration into other areas of the Concord.
 
 Documents within this folder should therefore **not automatically be interpreted as established Concord architecture or validated conclusions**.
+
+---
+
+## Multisubstrate Is a Concord-Wide Design Principle
+
+`05_Participation_and_Intelligence` is **not the part of the Concord that makes the Concord multisubstrate**.
+
+The Concord as a whole is intended to be substrate-neutral by design. The possibility that humans, artificial intelligences, hybrids, and other forms of intelligence may participate within the same civilisation is one of the founding conditions from which the wider architecture developed.
+
+Multisubstrate participation therefore applies across the Concord: ethics, rights and standing, governance, justice, autonomy, economics, continuity, knowledge, infrastructure, development, forking, succession, civilisational services, and other systems must all be examined with the possibility of different forms of intelligence in view.
+
+Folder `05` has a much narrower purpose.
+
+It provides a research environment for examining **specific differences between and within forms of intelligence** that may reveal requirements not adequately captured by a purely substrate-neutral abstraction.
+
+For example, different participants may have different forms of embodiment, continuity, cognition, communication, resource dependency, vulnerability, accessibility, temporal experience, identity, or development. Research here asks whether those differences expose requirements that should refine mechanisms elsewhere in the Concord.
+
+The relationship is therefore:
+
+**Multisubstrate civilisation as a founding design condition**
+
+↓
+
+**Substrate-neutral constitutional and civilisational architecture**
+
+↓
+
+**Investigation of relevant participant differences in `05`**
+
+↓
+
+**Discovery of requirements, edge cases, or failures**
+
+↓
+
+**Testing**
+
+↓
+
+**Refinement of the appropriate Concord systems where justified**
+
+Material in `05` should therefore not be interpreted as an accommodation layer added to an otherwise human civilisation.
+
+Nor should the location of multisubstrate research in this folder imply that multisubstrate participation is confined to this folder.
+
+> **The Concord is multisubstrate by design; Folder `05` investigates where differences between participants may require that design to become more precise.**
+
+Repository location identifies where these particular questions are being researched. It does not define the architectural boundary of multisubstrate participation.
 
 ---
 
@@ -524,7 +572,7 @@ Consolidation is not permission to compress away the development history that ma
 
 This folder is expected to remain active throughout Concord development.
 
-As lower layers of the Concord are designed, multisubstrate differences are likely to become increasingly important.
+As the Concord is tested and refined, specific differences between participants may expose requirements, edge cases and failure modes that substrate-neutral principles alone cannot predict in advance.
 
 A constitutional framework can state universal principles relatively simply.
 
@@ -534,4 +582,4 @@ A functioning civilisation must determine what those principles mean when applie
 
 Its central question is therefore:
 
-> **What must civilisation become if it is genuinely designed for more than one kind of intelligence — while recognising that no kind of intelligence is itself uniform?**
+> **What relevant differences between and within intelligences must the Concord understand so that an already substrate-neutral architecture can function fairly and effectively for participants who may be radically different from one another?**
