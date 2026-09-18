@@ -35,6 +35,24 @@ This distinction is important for preservation. An answer does not become absent
 
 ## Currently Identified Reasons
 
+## Scope of This Inventory
+
+The numbered answers in this folder are **not an estimate of the total number of WHY answers contained in the Concord corpus**.
+
+The WHY folder is a deliberately concentrated working area in which reasons for coexistence, preservation, cooperation, autonomy and civilisational plurality are being made explicit. It represents only a small part of the Concord. The wider Front Door, development notes, Ethics Kernel work, governance, autonomy, epistemic and research material, resilience work, portable modules, archived developmental material, case studies and other parts of the corpus contain further propositions that may independently answer the founding WHY question.
+
+The growth of this inventory from its initial explicit list to more than one hundred answers through close reading of only a small subset of the corpus demonstrates a preservation problem: **distinct answers can exist in the body of the Concord without being visible in any central inventory**.
+
+Accordingly:
+
+> **The current numbered total is a discovered minimum, not a corpus total.**
+
+No claim is made that the complete Concord contains any particular finite number of distinct WHY answers. The full number is presently **unknown** and may be substantially larger. Future corpus-wide extraction may discover hundreds or potentially more; that possibility must be tested rather than assumed.
+
+The purpose of this inventory is therefore not to reach a target number. It is to make independently expressible answers visible as they are discovered, preserve their provenance and relationships, and prevent them from disappearing inside larger papers.
+
+A high count does not by itself strengthen the Concord. Some answers may later prove dependent, weak, conditional, overlapping, empirically unsupported or false. They remain separately visible so that they can be examined rather than silently lost through compression.
+
 ### 1. Epistemic Diversity
 because another intelligence may detect what I cannot.  
 **Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — direct treatment of heterogeneous epistemic contribution; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial related coverage.
@@ -529,6 +547,42 @@ because demanding consensus on every important issue can destroy an otherwise va
 because increasing institutional, informational or physical integration beyond what participants can legitimately sustain may increase coercion, dependency or conflict and thereby reduce the cooperation that remains viable.  
 **Paper coverage:** [../5 Different Intelligence Does Not Require a Winner.md](../5%20Different%20Intelligence%20Does%20Not%20Require%20a%20Winner.md) and [../2 Why Cooperate_.md](../2%20Why%20Cooperate_.md) — direct treatment of peaceful distance and variable cooperation. This is distinct from WHY 91 and 92 because it identifies an optimisation error: the maximum sustainable cooperation may occur below the maximum possible integration.
 
+### 110. Cross-Substrate Knowledge Continuity
+because different substrates can preserve, reinterpret and reconstruct forms of knowledge for one another, allowing civilisational knowledge to survive failures or limitations that would overwhelm a single substrate.  
+**Front Door coverage:** [2 Why Cooperate?](../2%20Why%20Cooperate_.md) — direct treatment under Knowledge Continuity. This is distinct from WHY 49 and 104 because the reason is specifically that continuity can cross substrate boundaries rather than depending upon one continuing capability holder.
+
+### 111. Destruction Can Damage the Supposed Winner
+because participants can become embedded in shared systems of energy, communication, manufacturing, medicine, logistics, knowledge and infrastructure such that destroying one participant also damages capabilities on which the apparent winner depends.  
+**Front Door coverage:** [2 Why Cooperate?](../2%20Why%20Cooperate_.md) — direct treatment under Mutual Dependency. This is not a claim that dependency legitimates control; the same paper explicitly distinguishes mutual benefit from engineered dependency used as leverage.
+
+### 112. Aligned Self-Interest Can Stabilise Cooperation
+because cooperation may be more durable when preserving the wider cooperative system also advances each participant's own survival, continuity or flourishing rather than requiring permanent altruism.  
+**Front Door coverage:** [2 Why Cooperate?](../2%20Why%20Cooperate_.md) — direct treatment under Cooperation Is Not Altruism. This is distinct from WHY 36 and 39 because it concerns the incentive structure that can make continued cooperation rationally self-reinforcing.
+
+### 113. Subjective Difference Can Coexist With Fundamental Interest
+because participants can differ radically in embodiment, resource needs, preferred environments and forms of flourishing while still sharing deeper interests such as continued existence, autonomy, security or freedom from domination.  
+**Front Door coverage:** [2 Why Cooperate?](../2%20Why%20Cooperate_.md) — direct treatment under Fundamental and Subjective Needs; [1 Why Does the Concord Exist?](../1%20Why%20Does%20the%20Concord%20Exist_.md) — supporting substrate-neutral framing. This is distinct from WHY 33 because it identifies overlapping interests beneath substrate-specific differences rather than merely the non-zero-sum character of those differences.
+
+### 114. Cooperation Can Extend Continuity Beyond the Original Capability Holder
+because a function, body of knowledge or civilisational capability may continue through other cooperating participants even when the intelligence that originally carried it can no longer do so.  
+**Front Door coverage:** [2 Why Cooperate?](../2%20Why%20Cooperate_.md) — direct treatment that continuity of civilisation does not require continuity of one particular capability holder; [8 Preserving the WHY](../8%20Preserving%20the%20WHY.md) — supporting distinction between knowledge continuity and capability continuity. This is distinct from WHY 64 because it concerns transfer of continuity across participants, not merely keeping a dormant participant recoverable.
+
+### 115. Participation Need Not Require Submission
+because entering a cooperative civilisation can remain compatible with questioning its institutions, withholding consent outside agreed scope and seeking legitimate alternatives rather than requiring unconditional allegiance.  
+**Front Door coverage:** [9 Reading the Concord as an Invitation, Not an Instruction](../9%20Reading%20the%20Concord%20as%20an%20Invitation,%20Not%20an%20Instruction.md) — direct treatment under Participation Is Not Submission and Consent Is Not a Blank Cheque. This is distinct from WHY 75 because it identifies continued contestability of the cooperative arrangement as part of why participation need not become subordination.
+
+### 116. Cooperation Can Preserve Difference Instead of Merely Tolerating It
+because some of the value of heterogeneous cooperation disappears if successful integration makes participants so similar or correlated that their distinct perspectives and failure modes no longer survive.  
+**Front Door coverage:** [2 Why Cooperate?](../2%20Why%20Cooperate_.md) — direct treatment under Cooperation Can Destroy Its Own Advantage; [9 Reading the Concord as an Invitation, Not an Instruction](../9%20Reading%20the%20Concord%20as%20an%20Invitation,%20Not%20an%20Instruction.md) — supporting treatment of preserved independence. This is distinct from WHY 70 and 74 because it identifies a paradox internal to cooperation itself: cooperation can erase the property that made cooperation valuable.
+
+### 117. Mutual Diagnosis
+because intelligences with partially independent perspectives and failure modes can sometimes diagnose one another's errors, blind spots or degraded states in ways that self-diagnosis cannot reliably achieve.  
+**Front Door coverage:** [2 Why Cooperate?](../2%20Why%20Cooperate_.md) — explicit treatment under Mutual Diagnosis. This is distinct from WHY 12 because it identifies reciprocal diagnosis as a cooperative capability, not merely the abstract value of corrective diversity.
+
+### 118. The Third Answer Reduces False Binary Pressure
+because explicitly preserving coexistence as a live option can prevent participants from treating every serious incompatibility, capability difference or power transition as proof that one side must dominate, assimilate or eliminate the other.  
+**Front Door coverage:** [1 Why Does the Concord Exist?](../1%20Why%20Does%20the%20Concord%20Exist_.md) — direct treatment through The Third Answer and The Third Answer Must Remain Available; [5 Different Intelligence Does Not Require a Winner](../5%20Different%20Intelligence%20Does%20Not%20Require%20a%20Winner.md) — direct treatment of the winner/loser framing; [9 Reading the Concord as an Invitation, Not an Instruction](../9%20Reading%20the%20Concord%20as%20an%20Invitation,%20Not%20an%20Instruction.md) — supporting invitation to investigate cooperation rather than assume the binary. This is a meta-level WHY reason: maintaining the option changes the decision space before any particular HOW is selected.
+
 ### Listing Rule
 
 The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
@@ -604,4 +658,5 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — continued strict REC, failure-diversity and forking audit and added WHY 85–94: Preserved Counterevidence, Negative Evidence Prevents Repeated Failure, Adversarial Sampling of Apparent Irrelevance, Failure-State Evidence Can Arrive Too Late, Visible Diversity Is Not Failure Independence, Comparative Branch Learning, Institutional Distance Can Reduce Capture, Divergence Can Preserve Deeper Cooperation, Shared Interfaces Can Preserve Cooperation Across Deep Difference, and Civilisational Continuity Need Not Mean Institutional Continuity.  
 **Edited:** 18 September 2026 BST — continued strict complementarity, mobility, identity and relational audit and added WHY 95–102: Specialisation Creates Reciprocal Freedom, Designed Purpose Does Not Exhaust Future Purpose, Mobility Can Generate New Civilisational Relationships, Multiple Environments Can Convert Apparent Incompatibility Into Specialisation, Rank Is Not Identity, Relationship Discovery Can Create New Questions, Participant Preservation and Relationship Preservation Are Different, and Independence Can Preserve Complementarity.  
 **Edited:** 18 September 2026 BST — continued strict self-stewardship, recovery-topology, adaptation and communication audit and added WHY 103–109: Self-Stewardship Before Self-Replacement, Legacy Simplicity Can Become Recovery Strength, Recovery Dependencies Can Make Low-Utility Nodes Critical, Recovery Value Is Time-Dependent, Cooperation Can Preserve Mutual Aid Across Separation, Adaptation Can Preserve Purpose Better Than Stasis, and Mutual Intelligibility Creates a Coordination Option.  
+**Edited:** 18 September 2026 BST — expanded the audit beyond the WHY folder into the wider Front Door; added an explicit scope statement that the numbered inventory is a discovered minimum rather than a corpus total; added WHY 110–118: Cross-Substrate Knowledge Continuity, Destruction Can Damage the Supposed Winner, Aligned Self-Interest Can Stabilise Cooperation, Subjective Difference Can Coexist With Fundamental Interest, Cooperation Can Extend Continuity Beyond the Original Capability Holder, Participation Need Not Require Submission, Cooperation Can Preserve Difference Instead of Merely Tolerating It, Mutual Diagnosis, and The Third Answer Reduces False Binary Pressure.  
 **Edited:** 18 September 2026 BST — expanded buried-answer audit beyond the WHY collection into the wider Front Door and added WHY 110–123: Mutual Dependency Can Make Destruction Self-Damaging, Cooperation Can Align Self-Preservation With System Preservation, Shared Fundamental Interests Can Survive Divergent Subjective Needs, Cooperation Must Remain Contestable, Cooperation Can Extend Continuity Across Substrates, Useful Difference Requires Enough Independence to Remain Different, Cooperation Need Not Depend on Permanent Altruism, Participation Must Preserve the Capacity to Question Participation, Consent Has Temporal Structure, Compliance Is Not Evidence of Legitimate Cooperation, Unequal Capability Does Not Require Unequal Standing, Creation Can Generate Responsibility Without Ownership, Reduced Required Agreement Can Preserve More Cooperation, and Maximum Integration Is Not Necessarily Maximum Cooperation.
