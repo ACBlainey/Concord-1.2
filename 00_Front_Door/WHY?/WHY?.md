@@ -11,11 +11,11 @@ This file is the quick summary and navigation map for the Concord's currently id
 
 ### 1. Epistemic Diversity
 because another intelligence may detect what I cannot.  
-**Paper coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — partial. Dedicated treatment still needed.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — direct treatment of heterogeneous epistemic contribution; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial related coverage.
 
 ### 2. Perceptual Diversity
 because my representation may collapse distinctions available to another.  
-**Paper coverage:** Not yet separately covered in this folder.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — explicit but partial coverage. A dedicated perceptual-inaccessibility treatment is still needed.
 
 ### 3. Interface-Dependent Observability
 because apparent inferiority may partly measure the interface between us.  
@@ -27,7 +27,7 @@ because another intelligence may possess significant experiential information in
 
 ### 5. Epistemic Network Value
 because some knowledge and capability exists between participants.  
-**Paper coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial coverage.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — direct coverage; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial supporting coverage.
 
 ### 6. Relational Information
 because knowing the nodes does not imply knowing the important relationships among them.  
@@ -39,11 +39,11 @@ because 10,000 isolated people cannot simply “sum” themselves into a lunar p
 
 ### 8. Generative Diversity
 because other intelligences create things, disciplines, environments and possibilities I would not create myself.  
-**Paper coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — partial. Dedicated treatment still needed.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — explicit substantial coverage; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — supporting relational treatment.
 
 ### 9. Civilisation as Possibility Infrastructure
 because other intelligences do not merely reveal different parts of the world; through what they create, they can expand the range of lives, activities, identities and futures practically available to others.  
-**Paper coverage:** Not yet separately covered in this folder.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial coverage through civilisational possibility generation, network development and participant-created alternatives. A dedicated practical-autonomy paper may still sharpen this.
 
 ### 10. Future Option Value
 because I cannot know what I will value in the future.  
@@ -55,11 +55,11 @@ because other participants create pathways through which I can become things I c
 
 ### 12. Corrective Diversity
 because another intelligence may fail differently enough to reveal my errors.  
-**Paper coverage:** Not yet separately covered in this folder.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — direct coverage through sensor fusion, disagreement, failure-as-information and heterogeneous error detection.
 
 ### 13. Anti-Monoculture and Dimensional Diversity
 because agreement can increase while the range of independently represented distinctions decreases.  
-**Paper coverage:** Not yet separately covered in this folder.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial coverage, including recursive population selection and optimisation away of counterevidence. Dedicated REC treatment remains desirable.
 
 ### 14. Evaluation-Space Completeness
 because being correct about everything I can evaluate does not establish that I can evaluate everything relevant to the decision.  
@@ -75,7 +75,7 @@ because our inventory of value has previously proved incomplete, so its present 
 
 ### 17. Recursive Epistemic Closure
 because eliminating apparently unnecessary observers can eliminate the evidence capable of proving my model incomplete.  
-**Paper coverage:** Not yet directly covered by a paper in this folder. It is referenced by several existing WHY papers and has a developed Concord paper elsewhere.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial application through population selection and optimisation away of counterevidence. A dedicated Recursive Epistemic Closure paper is still needed in this folder.
 
 ### 18. Irreversibility
 because preservation leaves later reconsideration possible; destruction may not.  
@@ -119,11 +119,11 @@ because some unmanaged conflicts can potentially become negotiated coordination 
 
 ### 28. Mobility and Forking
 because incompatibility does not necessarily require domination or total separation.  
-**Paper coverage:** Not yet separately covered in this folder.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial coverage through poor-fit responses, relocation, forking and retained relationships. Dedicated forking treatment may still be useful.
 
 ### 29. Network Bridging
 because participants moving between communities can create relationships that did not previously exist.  
-**Paper coverage:** [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial conceptual coverage; dedicated application may still be useful.
+**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — direct coverage through bridge participants and network-bridging value; [Relational Information — When Knowledge Exists in the Connections](Relational%20Information%20%E2%80%94%20When%20Knowledge%20Exists%20in%20the%20Connections.md) — substantial conceptual support.
 
 ### 30. Specialisation
 because different capabilities can be complementary rather than merely ranked.  
@@ -190,4 +190,5 @@ A reason that survives these transformations is stronger evidence of a general c
 ---
 
 **Created:** 18 September 2026 BST  
-**Edited:** 18 September 2026 BST — numbered WHY reasons and added paper-coverage navigation after folder audit.
+**Edited:** 18 September 2026 BST — numbered WHY reasons and added paper-coverage navigation after folder audit.  
+**Edited:** 18 September 2026 BST — integrated Epistemic Network source paper into WHY collection and updated coverage map.
