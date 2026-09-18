@@ -319,6 +319,81 @@ It is:
 
 That distinction preserves the Evaluation-Space Completeness Problem rather than accidentally defeating it through premature extrapolation.
 
+## Three-File Evaluator Overview
+
+Taken together, the three WHY files provide three deliberately different views of the Concord's Third-Way reasoning.
+
+### 1. Front Door — Mature and Locally Saturated
+
+The Front Door `WHY?.md` contains **205 distinct WHY answers** identified through repeated passes until diminishing returns.
+
+This is the most mature, reader-facing WHY inventory. It shows the breadth of reasons already visible at the front of the Concord when that evaluation space is examined deeply.
+
+### 2. Active Development — Development-Stage and Locally Saturated
+
+`Potential WHY Answers — Active Development Extraction.md` contains **188 potential distinct WHY answers**, also identified through repeated passes to a natural diminishing-return stopping point.
+
+This material was not primarily written as a WHY argument. Its high yield therefore demonstrates that work on architecture, methodology, governance, experimentation, support systems and implementation can expose additional generalisable reasons relevant to coexistence and the Third Way.
+
+Its status remains deliberately weaker than the mature Front Door inventory: these are **potential** WHYs extracted from ongoing development and may later be promoted, merged, reframed, rejected or falsified.
+
+### 3. Core Systems — Deliberately Shallow and Not Saturated
+
+This file records **36 potential distinct WHY answers** from only small opening samples of eight representative core-system areas.
+
+Unlike the first two inventories, the extraction was intentionally stopped while the sampled material was still producing answers. Some of the wider core papers are book-length or otherwise very substantial, yet only approximately their opening few pages were examined for this probe.
+
+All **8 of 8 sampled areas** produced multiple candidate WHYs:
+
+- Constitutional Core — 5
+- Epistemic and Research — 5
+- Continuity and Memory — 5
+- Coordination and Economy — 4
+- Participation and Intelligence — 5
+- Portable Modules — 4
+- Applications — 3
+- Intercivilisational Architecture — 5
+
+The Applications/GTP sample was deliberately treated most conservatively because it is substantially technical implementation material. Even that sample exposed three independently expressible principles relevant to coexistence.
+
+### What the Three Results Establish — and Do Not Establish
+
+The three results should not be added together and treated as **429 proven independent arguments**. Cross-file overlap has not been systematically resolved, the Active Development and core entries remain potential WHYs, and quantity does not establish truth.
+
+Nor should the core sample be linearly extrapolated across the unsampled pages. Reasons may cluster, recur, converge or become too implementation-specific to qualify independently.
+
+What the three-file structure does establish observationally is more useful:
+
+> **Relevant Third-Way reasoning remains discoverable as the evaluator moves from the mature front-facing argument, into active architectural development, and then into small samples of otherwise unmined core systems.**
+
+The character of the reasons also changes with the domain. Continuity material exposes intergenerational and preservation reasons. Epistemic material exposes correction, independence and search-space reasons. Participation material exposes substrate, accessibility and meaningful-equality reasons. Decision architecture exposes disagreement and distributed-judgement reasons. Coordination exposes balance and emergent-capability reasons. Intercivilisational architecture exposes bounded cooperation and failure-containment reasons. Technical spatial architecture exposes interoperability, distributed scaling and transition-compatibility reasons.
+
+This matters because the result is not simply repeated wording of a single proposition such as “cooperation is preferable.” Different civilisational problems are independently generating different classes of reasons for preserving heterogeneous participants and their relationships.
+
+### Evaluator Implication
+
+An evaluator can therefore distinguish three epistemic states:
+
+`Front Door: examined deeply and locally saturated`
+
+`Active Development: examined deeply and locally saturated, but development-stage`
+
+`Core systems: sampled shallowly and deliberately not saturated`
+
+Beyond those lies:
+
+`Remaining corpus: not evaluated for WHY density`
+
+The third state is especially important. The core probe did **not** stop because new answers had become difficult to find. It stopped because the experiment was intentionally bounded. Consequently, the unsampled material should not be interpreted as containing no further relevant reasons.
+
+This provides a practical reason for an evaluator to continue engaging with the Concord rather than assuming that the Front Door exhausts the case. It does not promise what further reading will find. It demonstrates that **further reading has already continued to expose decision-relevant reasoning whenever the evaluation space has been expanded in the samples tested so far**.
+
+That is also a direct operational illustration of the Evaluation-Space Completeness Problem:
+
+> **Exhausting the answers visible within one evaluation space does not establish that all dimensions relevant to the judgement have been exhausted.**
+
+The three-file result therefore functions as both a reader overview and a methodological warning against premature epistemic closure.
+
 ## Sampling Boundary
 
 This probe should remain bounded unless a later research question specifically requires expansion. Its value partly comes from the fact that the unsampled corpus remains genuinely unknown.
