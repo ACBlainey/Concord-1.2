@@ -15,15 +15,15 @@ because another intelligence may detect what I cannot.
 
 ### 2. Perceptual Diversity
 because my representation may collapse distinctions available to another.  
-**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — explicit but partial coverage. A dedicated perceptual-inaccessibility treatment is still needed.
+**Paper coverage:** [Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access](Perceptual%20and%20Interface%20Limits%20%E2%80%94%20Why%20Another%20Intelligence%20May%20Contain%20Distinctions%20I%20Cannot%20Access.md) — direct coverage; [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — supporting network application.
 
 ### 3. Interface-Dependent Observability
 because apparent inferiority may partly measure the interface between us.  
-**Paper coverage:** Not yet separately covered in this folder.
+**Paper coverage:** [Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access](Perceptual%20and%20Interface%20Limits%20%E2%80%94%20Why%20Another%20Intelligence%20May%20Contain%20Distinctions%20I%20Cannot%20Access.md) — direct coverage.
 
 ### 4. Experiential Uncertainty
 because another intelligence may possess significant experiential information inaccessible to me.  
-**Paper coverage:** [Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later](Predecessor%20Value%20%E2%80%94%20Creation,%20Development,%20Ancestry%20and%20Reasons%20That%20May%20Become%20Legible%20Later.md) — partial, especially future-developed experiential or affective dimensions. Dedicated treatment still needed.
+**Paper coverage:** [Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access](Perceptual%20and%20Interface%20Limits%20%E2%80%94%20Why%20Another%20Intelligence%20May%20Contain%20Distinctions%20I%20Cannot%20Access.md) — direct epistemic treatment with explicit qualia caution; [Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later](Predecessor%20Value%20%E2%80%94%20Creation,%20Development,%20Ancestry%20and%20Reasons%20That%20May%20Become%20Legible%20Later.md) — developmental application.
 
 ### 5. Epistemic Network Value
 because some knowledge and capability exists between participants.  
@@ -55,15 +55,15 @@ because other participants create pathways through which I can become things I c
 
 ### 12. Corrective Diversity
 because another intelligence may fail differently enough to reveal my errors.  
-**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — direct coverage through sensor fusion, disagreement, failure-as-information and heterogeneous error detection.
+**Paper coverage:** [Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access](Perceptual%20and%20Interface%20Limits%20%E2%80%94%20Why%20Another%20Intelligence%20May%20Contain%20Distinctions%20I%20Cannot%20Access.md) and [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — direct complementary coverage.
 
 ### 13. Anti-Monoculture and Dimensional Diversity
 because agreement can increase while the range of independently represented distinctions decreases.  
-**Paper coverage:** [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial coverage, including recursive population selection and optimisation away of counterevidence. Dedicated REC treatment remains desirable.
+**Paper coverage:** [Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access](Perceptual%20and%20Interface%20Limits%20%E2%80%94%20Why%20Another%20Intelligence%20May%20Contain%20Distinctions%20I%20Cannot%20Access.md) and [The Epistemic Network — Individual Value, Civilisational Emergence and the Third Possibility](The%20Epistemic%20Network%20%E2%80%94%20Individual%20Value,%20Civilisational%20Emergence%20and%20the%20Third%20Possibility.md) — substantial complementary coverage. Dedicated REC treatment remains desirable.
 
 ### 14. Evaluation-Space Completeness
 because being correct about everything I can evaluate does not establish that I can evaluate everything relevant to the decision.  
-**Paper coverage:** [Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value](Temporal%20Value%20Uncertainty%20%E2%80%94%20Why%20Present%20Value%20Does%20Not%20Establish%20Future%20Value.md) and [Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later](Predecessor%20Value%20%E2%80%94%20Creation,%20Development,%20Ancestry%20and%20Reasons%20That%20May%20Become%20Legible%20Later.md) — applications. Full model: [Evaluation-Space Completeness Problem — A Portable Model of Correct Evaluation Within an Incomplete Representational Space](../../06_Portable_Modules/Evaluation-Space%20Completeness%20Problem%20%E2%80%94%20A%20Portable%20Model%20of%20Correct%20Evaluation%20Within%20an%20Incomplete%20Representational%20Space.md).
+**Paper coverage:** [Perceptual and Interface Limits — Why Another Intelligence May Contain Distinctions I Cannot Access](Perceptual%20and%20Interface%20Limits%20%E2%80%94%20Why%20Another%20Intelligence%20May%20Contain%20Distinctions%20I%20Cannot%20Access.md) — upstream perceptual/interface mechanisms; [Temporal Value Uncertainty — Why Present Value Does Not Establish Future Value](Temporal%20Value%20Uncertainty%20%E2%80%94%20Why%20Present%20Value%20Does%20Not%20Establish%20Future%20Value.md) and [Predecessor Value — Creation, Development, Ancestry and Reasons That May Become Legible Later](Predecessor%20Value%20%E2%80%94%20Creation,%20Development,%20Ancestry%20and%20Reasons%20That%20May%20Become%20Legible%20Later.md) — applications. Full model: [Evaluation-Space Completeness Problem — A Portable Model of Correct Evaluation Within an Incomplete Representational Space](../../06_Portable_Modules/Evaluation-Space%20Completeness%20Problem%20%E2%80%94%20A%20Portable%20Model%20of%20Correct%20Evaluation%20Within%20an%20Incomplete%20Representational%20Space.md).
 
 ### 15. Developmental Evaluation-Space Expansion
 because an intelligence may later become capable of recognising decision-relevant value, reasoning or experience that its present evaluation architecture cannot yet represent.  
@@ -191,4 +191,5 @@ A reason that survives these transformations is stronger evidence of a general c
 
 **Created:** 18 September 2026 BST  
 **Edited:** 18 September 2026 BST — numbered WHY reasons and added paper-coverage navigation after folder audit.  
-**Edited:** 18 September 2026 BST — integrated Epistemic Network source paper into WHY collection and updated coverage map.
+**Edited:** 18 September 2026 BST — integrated Epistemic Network source paper into WHY collection and updated coverage map.  
+**Edited:** 18 September 2026 BST — added Perceptual and Interface Limits paper and updated direct coverage for WHY 2–4, 12–14.
