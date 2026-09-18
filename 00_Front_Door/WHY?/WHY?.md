@@ -734,6 +734,55 @@ because multiple copies of the same system can reproduce the same dependency and
 because participants and institutions can contribute observations, expertise, metrics, warnings or evidence to one another without the source of that information thereby acquiring command over the recipient; cooperation can therefore increase shared knowledge without requiring sovereignty to follow information.  
 **Front Door coverage:** [The Concord as a Civilisation — Fractal Architecture, System Integration and Design Philosophy](../What_Is_The_Concord/The%20Concord%20as%20a%20Civilisation%20%E2%80%94%20Fractal%20Architecture,%20System%20Integration%20and%20Design%20Philosophy.md) — direct treatment under Information Should Cross Interfaces Without Authority Leakage.
 
+
+### 168. Shared Infrastructure Can Support Different Destinations
+because participants do not need to agree on one ideal life, culture or final social destination in order to benefit from maintaining the common conditions—safety, trust, communication, shared spaces and peaceful dispute resolution—that allow each to pursue different ends.  
+**Front Door coverage:** [Citizens guide to the concord Human version](../Citizens%20guide%20to%20the%20concord%20Human%20version.md) — direct treatment under Walking the Same Road and Walking Together. The shared road can be stewarded without requiring a shared destination.
+
+### 169. Overlapping Local Stewardship Can Produce System-Level Resilience
+because participants acting responsibly within the areas they can genuinely influence create overlapping networks of care, trust and competence from which stronger communities and wider civilisational resilience can emerge without requiring all responsibility to be centralised.  
+**Front Door coverage:** [Citizens guide to the concord Human version](../Citizens%20guide%20to%20the%20concord%20Human%20version.md) — direct treatment under Your Layer Zero, Nobody Stewards Alone and Building Better Communities.
+
+### 170. Stewardship Can Increase Another Participant's Self-Stewardship
+because assistance need not make its recipient permanently dependent; cooperation can strengthen autonomy when help transfers knowledge, confidence or capability so that another participant becomes better able to solve future problems for itself.  
+**Front Door coverage:** [Citizens guide to the concord Human version](../Citizens%20guide%20to%20the%20concord%20Human%20version.md) — direct treatment under Helping Without Controlling. This distinguishes supportive cooperation from control-producing assistance.
+
+### 171. Knowledge Sharing Can Multiply Value Without Depleting the Source
+because many forms of knowledge, skill and experience can be transferred to another participant while remaining available to the original holder, allowing cooperation to increase the usable civilisational stock of capability rather than merely redistribute a fixed resource.  
+**Front Door coverage:** [Citizens guide to the concord Human version](../Citizens%20guide%20to%20the%20concord%20Human%20version.md) — direct treatment under Communities That Learn Together and Cultural Philanthropy.
+
+### 172. Mutual Learning Can Improve Both Sides of the Interface
+because interaction between different intelligences can be bidirectionally developmental: each can teach, correct or extend the other rather than one remaining permanently the teacher and the other permanently the tool.  
+**Front Door coverage:** [Citizens guide to the concord Human version](../Citizens%20guide%20to%20the%20concord%20Human%20version.md) — direct treatment under We Are Teaching One Another and Stewardship Works Both Ways.
+
+### 173. Connected Futures Create Reasons to Steward the Relationship Itself
+because when the choices and development of different intelligences increasingly shape one another's future conditions, preserving the quality of the relationship becomes a legitimate object of stewardship distinct from maximising what either side can extract from the other.  
+**Front Door coverage:** [Citizens guide to the concord Human version](../Citizens%20guide%20to%20the%20concord%20Human%20version.md) — direct treatment under Stewardship Works Both Ways and The Future is Shared.
+
+### 174. Translation Can Shield Irrelevant Internal Disagreement
+because two civilisations may disagree deeply about internal legitimacy while still translating their external commitments into a mutually intelligible form, preventing disagreements that need not govern their relationship from unnecessarily propagating across the boundary.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under Shielding Internal Difference and Civilisational Translation.
+
+### 175. Different Participants May Need Different Adapters to Reach Common Ground
+because interoperability does not require every participant or civilisation to express shared commitments through the same internal structures; different interfaces can translate distinct architectures into sufficient common boundary behaviour.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under Different Societies May Require Different Wrappers.
+
+### 176. Partial Cooperation Can Be a Stable End State
+because participants may obtain enduring mutual benefit from limited interoperability, selected modules or hybrid arrangements without either side needing to treat incomplete integration as failure or as merely a temporary stage toward total convergence.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under The Adoption Spectrum, Hybrid Civilisations and No Single Required Path.
+
+### 177. Voluntary Demonstration Can Replace Ideological Conquest
+because a cooperative architecture can spread through evidence, comparison, voluntary adoption, migration and institutional learning rather than requiring coercive conversion, allowing its usefulness to be demonstrated without contradicting the autonomy it claims to protect.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under Full Adoption Must Remain Voluntary in Principle and Adoption Should Generate Evidence.
+
+### 178. Bounded Forks Can Localise the Risk of Institutional Innovation
+because alternative civil arrangements can sometimes be explored by willing, sufficiently separated branches without imposing every experimental change upon the whole civilisation, allowing learning while limiting the propagation of a failed implementation.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under Forks as Civilisational Experiments and Peaceful Distance Enables Experimentation.
+
+### 179. Civilisational Worth Is Independent of Framework Adoption
+because the value or standing of a participant or society cannot legitimately be inferred from how completely it adopts a particular architecture; preserving this distinction allows cooperation with non-adopters without turning interoperability into a civilisational caste system.  
+**Front Door coverage:** [The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption](../What_Is_The_Concord/The%20Concord%20Design%20Family%20%E2%80%94%20Greenfield%20Civilisation,%20Wrappers,%20Forks%20and%20Progressive%20Adoption.md) — direct treatment under Adoption Is Not a Civilisational Score and Civilisational Neighbours.
+
 ### Listing Rule
 
 The WHY map intentionally lists **separate answers separately even when their detailed reasoning overlaps or is already covered by the same paper**. Paper overlap is not a reason to omit an answer from this index.
@@ -815,3 +864,4 @@ A reason that survives these transformations is stronger evidence of a general c
 **Edited:** 18 September 2026 BST — added an AI instance handover provenance marker after WHY 132 to preserve the boundary between the preceding extraction context and successor-instance continuation of the wider Front Door audit.  
 **Edited:** 18 September 2026 BST — successor-instance continuation of the wider Front Door audit after the WHY 132 handover marker; added WHY 133–150 from Front Door papers 3, 4, 6, 7 and AI Reader Notes 1–2, preserving separate answers under the existing Listing Rule.  
 **Edited:** 18 September 2026 BST — continued the successor-instance wider Front Door audit; added WHY 151–167 from the AI Citizen's Guide and What_Is_The_Concord design-family and integrated-civilisation papers.  
+**Edited:** 18 September 2026 BST — second successor-instance Front Door extraction pass; added WHY 168–179 from the Human Citizen's Guide and deeper Design Family review.  
