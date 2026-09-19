@@ -17,7 +17,7 @@
 | Q032 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
 | Q033 | S | S | S | C | C | P | C | S | 4 | Limited* |
 | Q034 | S | S | S | S | S | P | C | S | 6 | Common* |
-| Q035 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
+| Q035 | S | S | S | S | S | S | S | S | 7 | Near-universal* |
 | Q036 | S | S | S | S | S | P | S | P | 6 | Common* |
 | Q037 | S | S | S | C | C | C | C | P | 3 | Limited* |
 | Q038 | S | S | S | S | C | P | S | P | 5 | Common* |
