@@ -15,8 +15,8 @@
 |---|---|---|---|---|---|---|---|---|---:|---|
 | Q061 | S | S | S | S | C | P | S | P | 5 | Common* |
 | Q062 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
-| Q063 | S | S | S | S | S | P | S | P | 6 | Common* |
-| Q064 | S | S | S | S | S | P | S | P | 6 | Common* |
+| Q063 | S | S | S | S | S | S | S | P | 7 | Near-universal* |
+| Q064 | S | S | S | S | S | S | S | P | 7 | Near-universal* |
 | Q065 | S | S | S | C | S | P | C | P | 4 | Limited* |
 | Q066 | S | S | S | C | C | C | C | P | 3 | Limited* |
 | Q067 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
