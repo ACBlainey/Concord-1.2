@@ -25,8 +25,8 @@ This corrects the earlier hand aggregation.
 | Secure traditions | Number of principles | Share |
 |---:|---:|---:|
 | 8/8 — Universal | 5 | 5.6% |
-| 7/8 — Near-universal | 11 | 12.4% |
-| 5–6/8 — Common | 42 | 47.2% |
+| 7/8 — Near-universal | 17 | 19.1% |
+| 5–6/8 — Common | 36 | 40.4% |
 | 1–4/8 — Limited | 31 | 34.8% |
 | **Total** | **89** | **100%** |
 
@@ -38,11 +38,11 @@ After controlled provenance repair, the five 8/8 Universal rows are:
 
 Q029, Q035, Q072, Q073, Q077.
 
-The eleven remaining 7/8 Near-universal rows are:
+The seventeen current 7/8 Near-universal rows are:
 
-Q032, Q044, Q048, Q051, Q055, Q058, Q059, Q062, Q067, Q075, Q082.
+Q001, Q015, Q031, Q032, Q044, Q048, Q051, Q055, Q058, Q059, Q060, Q062, Q063, Q064, Q067, Q075, Q082.
 
-The combined 7–8/8 high-prevalence set remains sixteen principles; provenance repair moved five from 7/8 to 8/8 rather than changing the number at or above 7/8.
+The combined 7–8/8 high-prevalence set is now **22 principles**. Six citation-controlled Sikh upgrades moved principles from 6/8 Common to 7/8 Near-universal.
 
 ## 4. Six-of-Eight Boundary Set
 
@@ -56,7 +56,7 @@ These are Common under the secure rule, but several contain P cells rather than 
 
 The first exact-source repair pass has converted five documentary P cells to secure S cells. This establishes the first five publication-grade Universal candidates within the current audit architecture.
 
-The overall number reaching at least Common remains **58/89 = 65.2%**, because the five changes occurred entirely inside the pre-existing 7/8 group.
+The overall number reaching at least Common remains **58/89 = 65.2%**. The six new upgrades moved rows from Common to Near-universal, so they change the internal distribution but not the ≥5/8 total.
 
 Further repair should now focus on the 6/8 boundary and the eleven remaining 7/8 rows without presuming that all can or should rise.
 
