@@ -17,7 +17,7 @@
 | Q012 | S | S | S | S | C | C | C | C | 4 | Limited |
 | Q013 | S | S | S | C | C | P | C | C | 3 | Limited |
 | Q014 | S | S | S | S | S | P | S | P | 6 | Common* |
-| Q015 | S | S | S | S | S | P | S | P | 6 | Common* |
+| Q015 | S | S | S | S | S | S | S | P | 7 | Near-universal* |
 | Q016 | S | S | S | S | S | P | S | P | 6 | Common* |
 | Q017 | S | S | S | C | C | C | S | C | 4 | Limited |
 | Q018 | S | S | S | S | S | P | S | P | 6 | Common* |
