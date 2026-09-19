@@ -22,7 +22,7 @@
 | Q057 | S | S | S | C | C | P | S | S | 5 | Common* |
 | Q058 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
 | Q059 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
-| Q060 | S | S | S | S | S | P | S | P | 6 | Common* |
+| Q060 | S | S | S | S | S | S | S | P | 7 | Near-universal* |
 
 \* Conservative secure-count tier; unresolved P/C evidence remains visible for later source repair.
 
