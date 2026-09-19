@@ -21,7 +21,7 @@
 | Q026 | S | S | S | S | C | C | C | P | 4 | Limited* |
 | Q027 | S | S | S | S | C | P | C | P | 4 | Limited* |
 | Q028 | S | S | S | S | S | P | S | P | 6 | Common* |
-| Q029 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
+| Q029 | S | S | S | S | S | S | S | S | 7 | Near-universal* |
 | Q030 | S | S | S | S | S | P | C | S | 6 | Common* |
 
 \* Working tiers are conservative secure counts; P cells remain candidates for source repair.
