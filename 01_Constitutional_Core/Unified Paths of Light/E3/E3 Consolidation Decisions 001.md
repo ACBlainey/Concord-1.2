@@ -68,9 +68,9 @@ A contextual application is not deleted. Its source evidence and operational qua
 
 ## 3. Result of Pass 1
 
-The first consolidation pass removes **12 provisional top-level identities** by nesting them into stronger parent principles:
+The first consolidation pass removes **11 provisional top-level identities** by nesting them into stronger parent principles:
 
-**N029, N049, N063, N068, N069, N070, N078, N086, N089, N098, N099**, plus one contextual duplication resolved through the combined parent architecture.
+**N029, N049, N063, N068, N069, N070, N078, N086, N089, N098, N099**.
 
 The surviving catalogue is therefore no longer correctly described by its provisional N-number count. The final catalogue will receive a new continuous identifier series only after all consolidation decisions are complete.
 
