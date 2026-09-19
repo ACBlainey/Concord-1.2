@@ -121,7 +121,7 @@ Qur'an 4:140; 6:68.
 
 ### Supporting E3 Units
 
-**067, 220**, with non-cooperation support **070, 057?** and **301**.
+**067, 220**, with non-cooperation support **070, 171, 301**.
 
 ### Merged Proposition Families
 
