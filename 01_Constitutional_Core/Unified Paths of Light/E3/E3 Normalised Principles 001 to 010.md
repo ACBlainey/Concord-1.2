@@ -333,7 +333,7 @@ Qur'an 2:44; 61:2–3; 107:4–7.
 
 ### Supporting E3 Units
 
-**001, 177, 199, 330?** (where relevant only), **388, 406**, with performative-giving material in **054**.
+**001, 177, 199, 388, 406**, with performative-giving material in **054**.
 
 ### Merged Proposition Families
 
