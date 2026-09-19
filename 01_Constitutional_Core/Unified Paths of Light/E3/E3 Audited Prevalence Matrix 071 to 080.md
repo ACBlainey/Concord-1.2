@@ -14,12 +14,12 @@
 | ID | Qur'an | Christian | Jewish | Buddhist | Hindu | Sikh | Confucian | African | Secure | Working Tier |
 |---|---|---|---|---|---|---|---|---|---:|---|
 | Q071 | S | S | S | C | C | C | C | P | 3 | Limited* |
-| Q072 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
-| Q073 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
+| Q072 | S | S | S | S | S | S | S | S | 7 | Near-universal* |
+| Q073 | S | S | S | S | S | S | S | S | 7 | Near-universal* |
 | Q074 | S | S | S | S | C | P | S | P | 5 | Common* |
 | Q075 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
 | Q076 | S | S | S | S | C | P | S | P | 5 | Common* |
-| Q077 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
+| Q077 | S | S | S | S | S | S | S | S | 7 | Near-universal* |
 | Q078 | S | S | S | C | C | C | S | S | 5 | Common |
 | Q079 | S | S | S | S | C | P | S | P | 5 | Common* |
 | Q080 | S | S | S | S | C | P | S | P | 5 | Common* |
