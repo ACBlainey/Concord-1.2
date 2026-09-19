@@ -13,7 +13,7 @@
 
 | ID | Qur'an | Christian | Jewish | Buddhist | Hindu | Sikh | Confucian | African | Secure | Working Tier |
 |---|---|---|---|---|---|---|---|---|---:|---|
-| Q031 | S | S | S | S | S | P | S | P | 6 | Common* |
+| Q031 | S | S | S | S | S | S | S | P | 7 | Near-universal* |
 | Q032 | S | S | S | S | S | P | S | S | 7 | Near-universal* |
 | Q033 | S | S | S | C | C | P | C | S | 4 | Limited* |
 | Q034 | S | S | S | S | S | P | C | S | 6 | Common* |
