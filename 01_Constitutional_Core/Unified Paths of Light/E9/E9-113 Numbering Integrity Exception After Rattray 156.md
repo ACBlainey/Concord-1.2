@@ -17,12 +17,16 @@ The source visibly gives:
 - then an OCR-corrupted item-number field attached to Christaller 1467 and the English text concerning the difficulty of growing hair
 - then 158 / Christaller 1584
 
-Because E9-90 prohibits inferred sequence numbers, the damaged middle item is **not silently labelled 157**, even though its placement strongly suggests that possibility.
+The later local text provides an internal cross-reference in the note to Rattray 160: **“See note above, No. 157, nye-na.”** The only intervening damaged entry is precisely the proverb whose note defines **nye-na**, and it carries Christaller 1467.
 
-### Required resolution
-The printed page image or an independent witness must be consulted before assigning a Rattray locator to Christaller 1467.
+This internal printed cross-reference resolves the OCR-damaged locator without relying merely on numerical sequence.
 
-### Consequence
-Mechanical numbering is secure through Rattray 156. Rattray 158 is visible later in the same source, but the ledger should not pretend the intervening locator has been verified.
+### Resolution
+The damaged entry is therefore accepted as:
+- **Rattray 157 / Christaller 1467**
+- English sense: if hair were not difficult to grow, the tortoise would have some.
 
-# **NUMBERING DEBT RECORDED**
+### Audit significance
+The original decision not to infer the number was correct. Resolution occurred only after independent internal evidence from the same printed work became visible.
+
+# **NUMBERING DEBT RESOLVED BY INTERNAL CROSS-REFERENCE**
