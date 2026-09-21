@@ -266,3 +266,144 @@ IF-001–IF-003 remain candidates.
 Their significance is that the topology has converted a broad known failure mode into three precise, testable capability specifications before any new solution has been selected.
 
 That is already useful even if all three are subsequently solved by existing external technology.
+
+
+# 12. External Knowledge Firewall — Discovery Must Not Become Import
+
+The next falsification stage requires a strict separation between **external existence checking** and **Concord solution generation**.
+
+The experiment is testing whether the Concord's own topology can:
+
+- identify a need;
+- derive the required function;
+- specify the properties of a satisfying solution;
+- expose an empty or incomplete internal solution position;
+- and potentially generate its own candidate architecture.
+
+Importing an external solution into that position before the Concord has attempted its own derivation would contaminate the experiment.
+
+Therefore external research must operate under an **External Knowledge Firewall**.
+
+## 12.1 Permitted External Result
+
+For each frozen frontier specification, external checking may return only:
+
+- **EXISTENCE CONFIRMED** — at least one external architecture appears to address substantially the same functional problem;
+- **PARTIAL EXISTENCE CONFIRMED** — external work addresses part of the functional problem;
+- **NO MATCH CONFIRMED IN BOUNDED SEARCH** — no adequate match was established in the defined search;
+- **UNDETERMINED**.
+
+Where necessary for auditability, provenance may record the source/category demonstrating existence.
+
+## 12.2 Information That Must Not Enter the Generative Phase
+
+Before the Concord independently generates and freezes its own candidate solution, the working model must not use external details such as:
+
+- mechanism design;
+- protocol structure;
+- algorithm;
+- implementation sequence;
+- architecture diagram;
+- component arrangement;
+- technical trick;
+- external solution's terminology where it reveals mechanism;
+- performance optimisation;
+- implementation-specific failure repair.
+
+The existence check answers:
+
+> Does humanity already appear to possess a solution to this kind of requirement?
+
+It does **not** answer:
+
+> How did humanity solve it?
+
+## 12.3 Two Independent Tracks
+
+The workflow therefore splits:
+
+### Track A — Concord-Internal Generative Track
+
+Frozen Need
+→ Frozen Functional Specification
+→ Concord-Internal Candidate Generation
+→ Candidate Freeze
+→ Internal Testing.
+
+### Track B — External Existence Track
+
+Same Frozen Functional Specification
+→ External Search
+→ Existence Classification Only
+→ Sealed External Mechanism Detail.
+
+The tracks must remain separated until the Concord candidate has been frozen.
+
+## 12.4 Post-Freeze Comparison
+
+Only after Track A has produced a frozen solution may external mechanism details be unsealed.
+
+Then compare:
+
+Concord-Derived Solution
+vs
+External Solution(s)
+
+for:
+
+- convergence;
+- divergence;
+- independently discovered common constraints;
+- different mechanisms satisfying the same function;
+- external advantages;
+- Concord advantages;
+- failure modes;
+- possible synthesis.
+
+Any later synthesis is a **separate development stage** and must not be represented as independently generated Concord architecture.
+
+## 12.5 Stronger Experimental Test
+
+This creates a stronger test than simply checking whether an external solution exists.
+
+If:
+
+1. topology independently derives the need;
+2. topology freezes the solution specification;
+3. external search confirms that the problem is real/recognised but withholds the mechanism;
+4. Concord independently generates a solution;
+5. later unsealing shows structural convergence with mature external solutions;
+
+then the experiment has evidence of independent generative convergence.
+
+If the Concord solution differs but satisfies the frozen specification, that may be equally interesting.
+
+## 12.6 Provenance States
+
+Every frontier item should carry an external-knowledge state:
+
+- **E0 — No external search performed**
+- **E1 — Existence-only search performed; mechanism sealed**
+- **E2 — Concord candidate frozen**
+- **E3 — External mechanism unsealed for comparison**
+- **E4 — Post-comparison synthesis permitted**
+
+No item should move from E1 to E3 before E2.
+
+## 12.7 Contamination Rule
+
+If external mechanism detail is accidentally exposed before the Concord candidate is frozen, the item must be marked:
+
+**GENERATIVE INDEPENDENCE CONTAMINATED**
+
+It may still be useful for architecture development, but it can no longer serve as clean evidence that the Concord independently generated the solution.
+
+## 12.8 Implication for IF-001 to IF-003
+
+IF-001, IF-002 and IF-003 currently remain at:
+
+**E0 — NO EXTERNAL SEARCH PERFORMED**
+
+The next external operation should therefore be an existence-only check designed to minimise mechanism exposure.
+
+No external mechanism should be imported into the V1.2a generative work before independent candidate solutions are frozen.
