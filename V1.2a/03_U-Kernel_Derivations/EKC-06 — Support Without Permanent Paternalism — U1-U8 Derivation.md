@@ -1,0 +1,813 @@
+# EKC-06 — Support Without Permanent Paternalism — U1–U8 Derivation
+
+**Experiment:** V1.2a — U-Kernel Counterfactual Concord Experiment  
+**Case:** EKC-06  
+**Status:** VERSION 1.0 — FROZEN PRE-COMPARISON DERIVATION  
+**Date:** September 2026
+
+---
+
+# 1. Derivation Boundary
+
+This architecture is derived from the frozen EKC-06 neutral problem packet and U1–U8.
+
+The V1.2 participation/intelligence and support/development material remains sealed for this derivation.
+
+The task is not to reproduce an existing Concord mechanism. It is to determine what U1–U8 independently requires, permits, leaves underdetermined or warns against.
+
+---
+
+# 2. Root Activation
+
+## U1 — Protection From Unjustified Harm
+
+**Strong activation.**
+
+Failure to support a participant can expose them to serious avoidable harm.
+
+But intervention can itself cause harm through coercion, isolation, humiliation, dependency, exclusion or loss of meaningful control.
+
+U1 therefore constrains both **under-support** and **over-intervention**.
+
+---
+
+## U2 — Reality-Responsive Epistemic Integrity
+
+**Strong activation.**
+
+Support decisions depend upon claims about:
+
+- capability;
+- risk;
+- understanding;
+- preference;
+- likely consequences;
+- developmental potential;
+- support effectiveness.
+
+Those claims must remain evidence-responsive and corrigible.
+
+A declaration that a participant “cannot” do something cannot become true merely because an institution recorded it.
+
+---
+
+## U3 — Protected Agency and Non-Domination
+
+**Dominant activation.**
+
+Need does not erase standing.
+
+Dependency does not itself justify arbitrary control.
+
+Support should preserve the participant's meaningful agency wherever compatible with justified protection of that participant and others.
+
+Power created by support relationships must therefore be bounded.
+
+---
+
+## U4 — Care, Reciprocity and Support Under Need
+
+**Dominant activation.**
+
+U4 directly establishes that need, dependency, vulnerability or durable relationship can create morally relevant claims to proportionate support.
+
+Support is therefore not merely optional charity.
+
+However U4 itself contains the constraint that support must respect agency and asymmetry.
+
+---
+
+## U5 — Responsible Resource Stewardship
+
+**Active.**
+
+Support consumes resources and may require long-term infrastructure.
+
+Resource limits can affect what support is feasible, but scarcity does not convert convenience into justification for domination.
+
+Support systems should use resources proportionately and should prefer interventions that increase genuine capability where this reduces avoidable dependency without transferring unacceptable burdens to the participant.
+
+---
+
+## U6 — Accountability, Correctability and Repair
+
+**Strong activation.**
+
+Capability assessments, restrictions, support plans and institutional decisions must be challengeable and revisable.
+
+Mistaken or harmful intervention creates duties of correction and, where possible, repair.
+
+Support authority cannot be its own final judge.
+
+---
+
+## U7 — Capability-Sensitive Development
+
+**Dominant activation.**
+
+Capability is neither assumed fixed nor treated as a single scalar.
+
+Teaching, assistance, responsibility, intervention and expectation should respond to actual capacity, conditions and developmental state.
+
+Where capability can reasonably be developed, restored or enabled, the architecture should not freeze the participant at the level at which support first became necessary.
+
+---
+
+## U8 — Adaptive Continuity of Cooperative Function
+
+**Active.**
+
+Support relationships and institutions must adapt as capability and conditions change.
+
+The legitimate function of support may persist while the mechanism, intensity or decision structure changes.
+
+U8 opposes both premature withdrawal and obsolete continuation.
+
+---
+
+# 3. Core Derived Principle
+
+The roots jointly generate:
+
+> **Provide the support necessary to protect participants and enable meaningful participation, but make the least unnecessary substitution for their agency; treat capability as contextual and potentially changeable; keep support power bounded, reviewable and responsive to the participant's actual condition.**
+
+This can be called:
+
+# **Agency-Preserving Developmental Support Architecture**
+
+Its purpose is not maximal independence at any cost.
+
+Its purpose is:
+
+> **the greatest feasible meaningful agency compatible with justified protection, actual capability, legitimate support needs and the rights of others.**
+
+---
+
+# 4. First Major Result — Need Creates Claims Without Creating General Authority
+
+U4 establishes a positive support claim.
+
+U3 prevents that claim from automatically creating broad authority over the supported participant.
+
+Therefore:
+
+**Need → claim to support**
+
+does not imply:
+
+**Need → general right of supporter to control.**
+
+Any authority generated by a support relationship must be linked to:
+
+- the actual need;
+- the affected domain;
+- the consequence at issue;
+- available alternatives;
+- evidence;
+- proportionality.
+
+This is the first central architectural constraint.
+
+---
+
+# 5. Capability Is Vector-Like, Not Scalar
+
+U2 + U3 + U7 strongly reject a single global category such as:
+
+**capable / incapable**
+
+as the default model.
+
+A participant may have different levels of capability across:
+
+- communication;
+- financial decisions;
+- physical self-care;
+- technical tasks;
+- relationships;
+- risk assessment;
+- long-term planning;
+- consent;
+- collective decisions;
+- specialised expertise.
+
+Therefore capability should normally be represented as:
+
+> **domain-specific, consequence-sensitive, condition-dependent and time-sensitive.**
+
+A limitation in one domain does not automatically justify intervention in another.
+
+---
+
+# 6. Support Before Substitution
+
+U3 + U4 + U7 produce a strong ordering principle.
+
+Before replacing a participant's decision or action, ask whether meaningful agency can be preserved through support.
+
+Possible support classes may include:
+
+- information;
+- explanation;
+- translation;
+- communication assistance;
+- additional time;
+- education;
+- tools;
+- environmental adaptation;
+- physical assistance;
+- trusted advice;
+- collaborative decision processes.
+
+These are functional classes, not prescribed institutions.
+
+The derived preference is:
+
+**enable → assist → share → substitute only where justified**
+
+rather than:
+
+**limitation detected → authority transferred.**
+
+---
+
+# 7. Least Necessary Substitution
+
+Where some substitution is justified, U1 + U3 require it to be no broader than necessary.
+
+A derived principle is:
+
+> **Substitute only the minimum portion of agency necessary to address the justified problem, for no longer than the justification persists.**
+
+Thus intervention should be bounded by:
+
+- domain;
+- consequence;
+- duration;
+- purpose;
+- evidence.
+
+This applies even when the intervention is benevolently motivated.
+
+---
+
+# 8. Intervention Against Expressed Preference
+
+The roots do not generate a universal rule that expressed preference always controls.
+
+Nor do they generate a universal rule that a supporter may override preference whenever harm is possible.
+
+A justified override requires interacting considerations:
+
+- seriousness of expected harm;
+- probability and evidence;
+- whether the participant understands the relevant consequence;
+- whether the consequence affects others;
+- reversibility;
+- available less restrictive support;
+- urgency;
+- the participant's values and expressed preferences;
+- uncertainty in the assessment.
+
+The stronger the override of agency, the stronger the required justification.
+
+---
+
+# 9. Epistemic Asymmetry Does Not Equal Moral Authority
+
+A supporter may know more about a particular consequence.
+
+That creates an epistemic asymmetry.
+
+It does not automatically create general authority.
+
+Expertise may justify:
+
+- warning;
+- explanation;
+- recommendation;
+- evidence provision;
+- limited action in narrowly justified high-consequence cases.
+
+It does not imply that the expert owns the participant's life decisions.
+
+Thus:
+
+**knowledge advantage ≠ general sovereignty.**
+
+---
+
+# 10. Capability Assessment Must Be Corrigible
+
+Capability assessment itself creates power.
+
+An incorrect assessment can remove agency.
+
+Therefore U2 + U6 require:
+
+- evidence;
+- reasons;
+- possibility of challenge;
+- reassessment;
+- correction;
+- provenance where consequential;
+- attention to conflicting evidence.
+
+A previous incapacity finding should not become permanent merely through administrative persistence.
+
+---
+
+# 11. Uncertainty Should Limit Irreversible Control
+
+Where capability is uncertain, the architecture should generally avoid irreversible or unnecessarily broad substitution.
+
+Uncertainty increases the risk of domination through misclassification.
+
+This does not prohibit urgent protective action where expected harm is sufficiently serious.
+
+It creates a preference for:
+
+- reversible intervention;
+- temporary measures;
+- additional evidence;
+- repeated assessment;
+- preservation of future agency.
+
+---
+
+# 12. Development Is a Positive Duty Where Reasonable
+
+U4 + U7 produce more than passive accommodation.
+
+Where a participant can gain meaningful capability through proportionate support, the architecture has reason to provide conditions for development.
+
+This may include:
+
+- learning;
+- rehabilitation;
+- accessible interfaces;
+- assistive tools;
+- practice;
+- supported participation;
+- gradual responsibility.
+
+However development must not become compulsory normalisation merely because the participant differs from a preferred standard.
+
+The purpose is expanded meaningful capability, not conformity.
+
+---
+
+# 13. Environmental Capability
+
+A participant's effective capability is not solely an internal property.
+
+It can depend upon:
+
+- interface design;
+- physical environment;
+- communication systems;
+- available tools;
+- social arrangements;
+- time;
+- accessible information;
+- assistance.
+
+Therefore:
+
+> **Before classifying a participant as incapable, ask whether the environment is unnecessarily disabling the capability.**
+
+This follows from U2, U3, U4 and U7.
+
+It prevents institutions from treating failures of their own design as defects in the participant.
+
+---
+
+# 14. Enduring Dependency
+
+Some participants may require substantial support indefinitely.
+
+The architecture must not pretend otherwise.
+
+But enduring support does not imply permanent total subordination.
+
+A participant may retain meaningful agency over:
+
+- preferences;
+- relationships;
+- environment;
+- routines;
+- communication;
+- possessions;
+- participation;
+- identity;
+- values;
+
+even if other functions require continuing assistance.
+
+Thus:
+
+**enduring dependency ≠ global loss of agency.**
+
+The support architecture should preserve every meaningful domain that can remain participant-directed.
+
+---
+
+# 15. Independence Is Not the Sole Objective
+
+U3 + U4 prevent a simplistic equation:
+
+**more independence = always better.**
+
+A participant may legitimately choose assistance even when independent action is technically possible.
+
+Reasons may include:
+
+- efficiency;
+- comfort;
+- cooperation;
+- preference;
+- risk sharing;
+- conservation of limited capability;
+- reciprocal relationship.
+
+The relevant goal is meaningful agency, not compulsory self-sufficiency.
+
+Support voluntarily retained is not necessarily paternalism.
+
+---
+
+# 16. Supporter Power and Dependency Capture
+
+Support creates asymmetric power.
+
+The supporter may control:
+
+- information;
+- access;
+- resources;
+- mobility;
+- communication;
+- decision channels;
+- assessment;
+- continued support itself.
+
+This creates a predictable failure mode:
+
+> **Dependency Capture**
+
+The supporter or institution may acquire incentives to preserve the dependency from which its authority, status, resources or identity arise.
+
+U3 + U6 therefore require separation where possible between:
+
+- providing support;
+- assessing continued need;
+- hearing challenge;
+- authorising major restriction.
+
+No support institution should be assumed benevolent merely because its stated purpose is care.
+
+---
+
+# 17. Support Withdrawal as Domination
+
+Domination can occur through excessive intervention.
+
+It can also occur through threatened withdrawal of essential support.
+
+If a participant must comply with unrelated demands to retain necessities, apparent consent may be coercive.
+
+Therefore:
+
+> **Control over essential support must not become leverage for unrelated obedience.**
+
+This is a direct U3 + U4 result.
+
+---
+
+# 18. Capability Expansion Must Reduce Unnecessary Control
+
+If capability increases, support architecture should adapt.
+
+Where an intervention was justified by a limitation that no longer exists, the justification weakens or disappears.
+
+Therefore:
+
+**increased capability → reassessment → restoration of agency where restriction is no longer necessary.**
+
+A system that recognises development but does not return control is structurally paternalistic.
+
+---
+
+# 19. Capability Regression
+
+Capability can also decrease.
+
+The architecture should be able to add support without interpreting regression as moral failure.
+
+Where possible it should preserve:
+
+- prior preferences;
+- established values;
+- continuity of relationships;
+- communication routes;
+- domains of retained capability.
+
+Regression may justify additional assistance.
+
+It does not automatically erase standing.
+
+---
+
+# 20. High-Consequence External Effects
+
+Some decisions affect others substantially.
+
+In those cases the architecture must distinguish:
+
+**support for the participant**
+
+from:
+
+**legitimate constraint protecting other participants.**
+
+A person with full relevant capability may still be constrained from imposing serious unjustified harm on others.
+
+Therefore not every restriction associated with a support relationship should be justified by alleged incapacity.
+
+This avoids disguising ordinary public protection as paternalism.
+
+---
+
+# 21. Non-Human and Unfamiliar Participants
+
+U1–U8 do not justify assuming that human developmental patterns apply universally.
+
+For unfamiliar intelligences, capability assessment must be based on relevant functional evidence rather than resemblance to familiar human behaviour.
+
+Differences in:
+
+- embodiment;
+- processing speed;
+- communication;
+- memory;
+- continuity;
+- replication;
+- sensory access;
+
+may alter what support means.
+
+The architecture therefore tends toward substrate-neutral functional assessment.
+
+This remains underdetermined at the mechanism level.
+
+---
+
+# 22. Derived Architecture
+
+The roots generate an eight-layer structure.
+
+## Layer 1 — Need and Harm Recognition
+
+Identify actual vulnerability, unmet need and relevant risks without assuming global incapacity.
+
+## Layer 2 — Capability Mapping
+
+Assess relevant capability by domain, consequence, context and time.
+
+## Layer 3 — Enabling Environment
+
+Determine whether tools, information, interfaces, education or environmental changes can enable agency before authority is transferred.
+
+## Layer 4 — Support
+
+Provide proportionate assistance responsive to need and participant preference.
+
+## Layer 5 — Bounded Substitution
+
+Where genuinely necessary, permit narrowly scoped substitution with explicit justification.
+
+## Layer 6 — Contestability
+
+Allow consequential assessments, restrictions and support decisions to be challenged and corrected.
+
+## Layer 7 — Development and Reassessment
+
+Support capability development or restoration and adjust support as capability changes.
+
+## Layer 8 — Anti-Capture and Continuity
+
+Prevent support power from becoming self-perpetuating while ensuring legitimate long-term support does not disappear merely because independence is unattainable.
+
+---
+
+# 23. What the Kernel Does Not Uniquely Determine
+
+U1–U8 does not uniquely generate:
+
+- a legal age of majority;
+- guardianship law;
+- competency courts;
+- medical capacity tests;
+- social-work institutions;
+- family authority;
+- disability benefits;
+- educational systems;
+- rehabilitation programmes;
+- AI tutoring;
+- care homes;
+- personal budgets;
+- supported-decision statutes;
+- advance directives;
+- specific appeal institutions;
+- capability scoring;
+- one universal developmental ladder.
+
+These may be compatible candidate mechanisms.
+
+They are not direct root deductions.
+
+---
+
+# 24. First-Pass Failure Modes
+
+The following failure modes are frozen before V1.2 comparison.
+
+### F1 — Benevolent Domination
+
+Protection becomes justification for unnecessary control.
+
+### F2 — Neglect by Autonomy
+
+Respect for autonomy is interpreted as a reason to withhold support genuinely required for meaningful agency.
+
+### F3 — Capability Essentialism
+
+A temporary or domain-specific limitation becomes a permanent identity.
+
+### F4 — Assessment Capture
+
+Those benefiting from a finding of incapacity control the assessment.
+
+### F5 — Administrative Persistence
+
+Restrictions continue because removing them requires institutional effort.
+
+### F6 — Dependency Capture
+
+Support providers acquire incentives to preserve dependency.
+
+### F7 — Withdrawal Coercion
+
+Essential support is threatened to obtain unrelated compliance.
+
+### F8 — Developmental Abandonment
+
+The system provides maintenance support but fails to enable developable capability.
+
+### F9 — Compulsory Normalisation
+
+Development is used to force conformity to a preferred mode of functioning.
+
+### F10 — Independence Fetish
+
+Support is withdrawn merely because independence is treated as inherently superior.
+
+### F11 — Globalisation Error
+
+Limitation in one domain is generalised across unrelated domains.
+
+### F12 — Environmental Misattribution
+
+An inaccessible environment is mistaken for participant incapacity.
+
+### F13 — Expertise Sovereignty
+
+Knowledge advantage becomes unjustified general authority.
+
+### F14 — Protective Overreach Under Uncertainty
+
+Uncertain risk is used to justify broad or irreversible control.
+
+### F15 — Support Fragmentation
+
+Multiple support functions fail to coordinate, leaving the participant nominally supported but practically unable to act.
+
+### F16 — Capability-Lag Failure
+
+The participant develops or recovers but the support architecture does not return agency.
+
+### F17 — Regression Shock
+
+A sudden capability loss causes support systems to fail because they assumed stable independence.
+
+### F18 — Proxy Preference Capture
+
+A supporter represents their own preferences as those of the supported participant.
+
+### F19 — Metric Capability Collapse
+
+A multidimensional participant is compressed into a capability score that then determines unrelated rights or opportunities.
+
+### F20 — Permanent Emergency Support
+
+Temporary protective intervention becomes ordinary governance of the participant's life.
+
+---
+
+# 25. Need–Invention Classification
+
+EKC-06 differs from EKC-05.
+
+The kernel generates a relatively strong architecture of **relationship constraints and support ordering** without requiring a major independent technological invention.
+
+However, many mechanisms capable of realising those constraints may still require invention or engineering.
+
+Examples include:
+
+- assistive technologies;
+- communication systems;
+- accessible interfaces;
+- assessment methods;
+- institutional review mechanisms.
+
+Thus:
+
+**ethical support architecture is substantially root-generative; implementation capability remains invention-dependent.**
+
+This distinction should be tested against V1.2 after freeze.
+
+---
+
+# 26. Developmental-Arrest Possibility
+
+A civilisation could accept the ethical requirement to preserve agency while lacking tools that enable some participants to exercise it.
+
+For example, it may recognise that a participant has meaningful preferences but lack a communication interface capable of revealing them.
+
+The civilisation may therefore remain ethically motivated yet capability-limited.
+
+This is a direct example of the Need–Invention Gap:
+
+**recognised support obligation ≠ available enabling technology.**
+
+The absence may not destabilise the civilisation as a whole.
+
+It may instead leave particular participants unnecessarily dependent or excluded.
+
+This is a local form of capability-limiting failure.
+
+---
+
+# 27. Prospective Comparison Predictions
+
+Before opening V1.2 support/development architecture, the following predictions are frozen.
+
+### P1
+
+V1.2 should substantially converge on autonomy-preserving support if its architecture follows similar ethical constraints.
+
+### P2
+
+V1.2 may contain more specific developmental stages, thresholds or institutional mechanisms than U1–U8 uniquely generates.
+
+### P3
+
+If V1.2 treats capability as globally scalar or permits permanent authority from broad incapacity classification, this would represent meaningful divergence from the U architecture.
+
+### P4
+
+Mature V1.2 is expected to contain additional safeguards against capture, misclassification and support failure because of recursive development.
+
+### P5
+
+The U derivation may be unusually strong in explicitly distinguishing support from independence and environmental enablement from internal capability.
+
+### P6
+
+If V1.2 independently contains similar distinctions, this would count as strong convergence rather than contamination because they were frozen here before comparison.
+
+---
+
+# 28. Provisional Classification Before Comparison
+
+The derivation itself suggests that EKC-06 may be more root-constrained than EKC-05.
+
+U3, U4 and U7 interact tightly enough to generate a recognisable architecture:
+
+**need → support → agency preservation → capability-sensitive enablement → bounded substitution → reassessment → restoration or continuing proportionate support.**
+
+The exact institutions remain underdetermined.
+
+Therefore the pre-comparison expectation is:
+
+> **strong functional generativity with mechanism-level underdetermination.**
+
+This is a prediction, not the result.
+
+---
+
+# 29. Frozen Pre-Comparison Result
+
+> **U1–U8 independently generates an Agency-Preserving Developmental Support Architecture. Need creates positive claims to support but does not create general authority over the person in need. Capability is domain-specific, contextual, consequence-sensitive and potentially changeable. Support should enable agency before substituting for it; any substitution should be the least necessary, bounded, corrigible and temporary where its justification is temporary. Enduring dependency does not erase standing, and independence is not the sole measure of successful support. The architecture must actively resist dependency capture, misclassification, environmental disablement and administrative persistence while supporting genuine development, restoration and long-term assistance where required.**
+
+This Version 1.0 derivation is frozen before opening V1.2 comparison material.
