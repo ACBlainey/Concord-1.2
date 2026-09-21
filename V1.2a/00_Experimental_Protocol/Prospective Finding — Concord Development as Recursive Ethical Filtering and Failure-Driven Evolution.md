@@ -749,3 +749,199 @@ The resulting architecture may therefore be large not because the ethical kernel
 > **civilisational reality continuously supplies new things for a stable ethical foundation to evaluate, constrain, learn from and adapt to.**
 
 That proposition is now registered prospectively before EKC-05.
+
+
+---
+
+# 20. Contemporaneous Process Observation — The Experiment Reproduced the Developmental Method
+
+**Recorded:** After formalisation of this prospective finding and before EKC-05  
+**Status:** CONTEMPORANEOUS PROCESS OBSERVATION / NOT EXTERNAL VALIDATION
+
+An additional observation became apparent immediately after this developmental model was formalised.
+
+The conversation and research sequence that produced the model is itself an instance of the process the model describes.
+
+This matters because the original purpose of V1.2a was **not** to discover a theory of Concord development.
+
+The experiment began with a different question:
+
+> If the Concord had been developed from U1–U8 rather than Blainey's Laws, would substantially the same civilisation have emerged?
+
+The developmental finding arose secondarily from the experimental process.
+
+## 20.1 Observed Sequence
+
+The sequence was:
+
+1. **Initial question** — test counterfactual ethical-kernel generativity.
+2. **Experimental architecture** — construct neutral problems, derive from U1–U8, freeze results, compare with V1.2.
+3. **Unexpected observation** — early cases repeatedly recovered functional structure while mature V1.2 contained additional safeguards and failure-handling mechanisms.
+4. **New hypothesis injection** — the researcher proposed that recursive Concord development may have added resilience beyond what root ethics generate directly.
+5. **Prospective formalisation** — the failure-driven resilience hypothesis was recorded before further cases.
+6. **Further test** — EKC-03 supplied strong evidence of second-order and safeguard-level failure architecture.
+7. **Counterevidence/refinement** — EKC-04 showed that a fresh U-derived architecture could also identify failure modes not equally prominent in the examined mature epistemic sources.
+8. **Hypothesis correction** — the model changed from simple safeguard accumulation toward a bidirectional relationship between accumulated failure memory and fresh foundational derivation.
+9. **Provenance retrieval** — the researcher recognised two earlier sketches describing external idea injection/ethical filtering and representational drift/provenance.
+10. **Synthesis** — those earlier observations and the EKC results were integrated into the present multichannel developmental model.
+11. **Meta-observation** — the researcher then recognised that this very sequence instantiated the developmental process being described.
+
+In compact form:
+
+[
+Question
+ightarrow
+Experiment
+ightarrow
+UnexpectedObservation
+ightarrow
+NewHypothesis
+ightarrow
+ProspectiveFormalisation
+ightarrow
+Test
+ightarrow
+Counterevidence
+ightarrow
+Refinement
+ightarrow
+ProvenanceRecovery
+ightarrow
+Synthesis
+ightarrow
+NewTestableModel
+]
+
+## 20.2 Why This Is Relevant
+
+The sequence contains several elements predicted by the model:
+
+- a problem not originally contained in the experimental objective emerged from observation;
+- a new idea entered the process externally rather than by direct deduction from U1–U8;
+- the idea was not immediately accepted as true;
+- it was formalised prospectively;
+- later evidence supported part of it;
+- later evidence also forced modification;
+- earlier provenance was recovered rather than overwritten;
+- the resulting model generated new predictions for subsequent cases.
+
+This is therefore a live example of:
+
+[
+ProblemDiscovery
+ightarrow
+IdeaInjection
+ightarrow
+Evaluation
+ightarrow
+FailureOrCounterevidence
+ightarrow
+Correction
+ightarrow
+Provenance
+ightarrow
+FurtherDevelopment
+]
+
+## 20.3 Recursive Character
+
+There is a further recursive feature.
+
+The Concord development method was used to investigate the Concord.
+
+That investigation generated evidence about the Concord development method.
+
+Recognition of that evidence then became a new input into the same development method.
+
+Symbolically:
+
+[
+Method
+ightarrow
+InvestigationOfConcord
+ightarrow
+ObservationOfMethod
+ightarrow
+ModelOfMethod
+ightarrow
+FurtherInvestigation
+]
+
+This is a form of methodological self-application.
+
+It should not be confused with proof.
+
+A methodology behaving consistently with its own description demonstrates **process coherence**, not external validity.
+
+A self-consistent method can still be wrong, incomplete or systematically biased.
+
+The evidential value is therefore narrower:
+
+> **The proposed developmental model is capable of describing a contemporaneously observed research sequence that arose while pursuing a different primary experimental question.**
+
+That is stronger than a purely retrospective reconstruction of old documents, but weaker than independent replication.
+
+## 20.4 Importance of the Original Experimental Objective
+
+The fact that this observation was not the target of the original experiment reduces, but does not eliminate, the risk of deliberate construction.
+
+The V1.2a protocol was designed to test ethical-kernel counterfactual generativity.
+
+The failure-driven developmental model appeared because comparison exposed a repeated difference between:
+
+- first-pass root-derived architecture; and
+- mature recursively developed V1.2 architecture.
+
+The finding is therefore a **second-order experimental observation**.
+
+It should remain clearly separated from the primary EKC outcome classifications.
+
+## 20.5 Prospective Consequence
+
+From EKC-05 onward, the experiment can now record not only whether U1–U8 regenerates V1.2 architecture, but also whether each case exhibits the proposed developmental sequence:
+
+[
+EthicalConstraint
++
+ExternalProblem
+ightarrow
+CandidateArchitecture
+ightarrow
+FailureExposure
+ightarrow
+SafeguardAccumulation
+]
+
+and whether fresh derivation reveals blind spots in the mature architecture.
+
+This observation was recorded **before EKC-05**, preserving prospective testability.
+
+## 20.6 Evidential Status
+
+This process observation supports three limited claims:
+
+1. the developmental model is not merely a description imposed on distant historical material;
+2. the same pattern appeared contemporaneously during an experiment whose primary objective was different;
+3. the process itself generated correction rather than only confirmation, because EKC-04 modified the simpler resilience hypothesis.
+
+It does **not** establish:
+
+- that the method is universally optimal;
+- that recursive development always improves architecture;
+- that the Concord is externally valid;
+- that self-consistency demonstrates truth;
+- or that alternative development methods could not produce equal or better results.
+
+Those questions require independent testing.
+
+---
+
+# 21. Updated Prospective Principle
+
+The combined observation can now be stated more precisely:
+
+> **The Concord's development appears to operate as an open recursive learning process in which ethical foundations constrain but do not exhaustively generate architecture; reality and participants inject new problems and ideas; candidate solutions are ethically filtered; failure generates safeguards; safeguards generate further failure surfaces; provenance preserves the learning path; and periodic return to foundations provides a potential check against accumulated drift.**
+
+The current V1.2a experiment has itself provisionally exhibited this sequence.
+
+That fact is recorded here as process evidence and as a prediction target for the remaining EKC cases, not as proof of the model.
