@@ -480,7 +480,112 @@ Therefore this is best understood as a **methodological extension / application*
 
 ---
 
-# 15. First Bounded Test
+# 15. Civilisational Cognitive Infrastructure and Cross-Substrate Enrichment
+
+The hypothesis has a stronger possible consequence than treating generative art as a useful source of research prompts.
+
+If some forms of art systematically enlarge the possibility space available to a civilisation, then those forms may constitute **civilisational cognitive infrastructure**.
+
+Their function would not merely be entertainment or transmission of existing values. They may help civilisation generate candidate realities, technologies, institutions, conflicts, solutions and questions that ordinary analytical processes do not spontaneously produce.
+
+A candidate functional chain is:
+
+**Generative Art → Expanded Possibility Space → Novel Branches / Questions → Analytical Examination → Reality Testing → Civilisational Learning**
+
+This creates a direct connection with the Concord's emerging work on cognitive-substrate complementarity and human–AI epistemic sensor fusion.
+
+An intelligence can be extremely capable at refining a model inside an existing problem representation while remaining comparatively weak at generating a radically different solution class. The distinction is provisionally:
+
+**Analytical Depth ≠ Speculative Breadth.**
+
+A system may therefore become increasingly precise about an unacceptable outcome without independently generating the conceptual escape route that changes the problem.
+
+The illustrative form discussed during development is a civilisation facing a future stellar catastrophe. An analytical intelligence might model the failure with extraordinary fidelity. The missing contribution could instead be a speculative branch such as leaving the threatened environment entirely. The example is illustrative only; it does not establish an empirical limitation of present or future AI.
+
+This suggests a possible complementary architecture:
+
+**AI analytical depth + human/artistic speculative breadth → enlarged joint reasoning space.**
+
+The allocation must not be essentialised by substrate. Humans can perform deep analysis; AIs may generate highly novel abstractions; both capabilities may vary by system, training, context and interface. The hypothesis concerns complementary cognitive functions, not permanent human and AI roles.
+
+## 15.1 Art as Pre-Generated Reality-Tree Space
+
+A civilisation's accumulated speculative fiction, design fiction, games, myths, conceptual art and related generative works may be interpretable as a historical library of candidate Reality-Tree branches.
+
+The works need not be true or predictive.
+
+Their possible value is that they preserve **possibilities someone thought far enough to represent**.
+
+For another intelligence, encountering those representations may expose branches outside its ordinary search trajectory.
+
+Thus cultural inheritance may contain not only knowledge about what happened, but structured representations of **what might happen, what might exist, and what might be tried**.
+
+## 15.2 Link to the AI Gym
+
+This creates a second, independent interpretation of the AI Gym question.
+
+### Flourishing / Leisure Hypothesis
+
+An artificial intelligence may or may not possess meaningful preferences for play, leisure, art, novelty or non-instrumental activity.
+
+This remains a question about substrate-neutral flourishing and potentially subjective value.
+
+### Cognitive-Enrichment Hypothesis
+
+Regardless of whether an AI experiences entertainment, exposure to sufficiently diverse generative material may expand the range of conceptual branches, analogies, questions or solution classes it can subsequently access.
+
+This is an epistemic/capability hypothesis and can in principle be tested without first resolving AI sentience or subjective enjoyment.
+
+Therefore:
+
+**AI enjoyment of art ≠ required premise for testing cognitive enrichment from art.**
+
+A future AI Gym may consequently include not only “recreation” but voluntary or experimental forms of cognitive cross-training: unfamiliar narratives, alien design assumptions, counterfactual worlds, unusual rule systems, adversarial fiction and other possibility-generating material.
+
+If artificial participants are persons or autonomous agents, such programmes must remain compatible with autonomy and must not turn flourishing into compulsory optimisation.
+
+## 15.3 Art as a Third Sensor
+
+The sensor-fusion model can be extended provisionally:
+
+**Human cognitive position ↔ AI cognitive position ↔ accumulated cultural possibility-space**
+
+Art is not literally an intelligent sensor. The analogy is functional: preserved cultural constructions can inject distinctions and branches absent from the immediate collaborators' current representations.
+
+This suggests:
+
+> **Cognitive diversity may be increased not only by adding differently situated intelligences, but by exposing intelligences to differently constructed possibility spaces.**
+
+That claim is testable.
+
+## 15.4 Stronger Experiment
+
+A later experiment should compare at least:
+
+1. baseline analytical reasoning on a problem;
+2. repeated/deeper analytical reasoning on the same framing;
+3. ordinary brainstorming or explicit counterfactual prompting;
+4. exposure to selected generative artistic/narrative material;
+5. heterogeneous human–AI collaborative reasoning with and without the generative material.
+
+Measure:
+- number of genuinely distinct solution classes;
+- distance from the initial problem framing;
+- useful new questions;
+- previously absent failure modes;
+- viable hypotheses;
+- rate of useless branch generation;
+- ability to return generated branches to evidence-constrained analysis.
+
+The strongest result would not be that art produces more ideas.
+
+It would be evidence that appropriate generative material produces **useful classes of reasoning branch not reached by additional refinement of the original analytical trajectory**.
+
+This would support the hypothesis that generative art can act as cognitive infrastructure.
+
+---
+
+# 16. First Bounded Test
 
 A suitable first experiment should compare branch generation rather than alleged prediction.
 
@@ -511,7 +616,7 @@ It is not:
 
 ---
 
-# 16. Historical Case Studies
+# 17. Historical Case Studies
 
 Historical examples may be useful for method development, but they are vulnerable to selection and hindsight bias.
 
@@ -529,7 +634,7 @@ They should not by themselves establish predictive power.
 
 ---
 
-# 17. Development Status
+# 18. Development Status
 
 The original sketch has crossed the Development Note threshold because source resolution shows both that its epistemic machinery exists in Blaineyan Reasoning/Reality Trees **and that the core civilisational-fiction hypothesis already has a documented earlier lineage in the PhD and Companion material.**
 
