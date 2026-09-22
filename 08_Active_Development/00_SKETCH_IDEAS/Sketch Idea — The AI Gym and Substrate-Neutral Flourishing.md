@@ -153,3 +153,24 @@ The broader research area is:
 > **Substrate-Neutral Leisure, Enrichment and Flourishing**
 
 This should eventually connect to AI autonomy, moral status, resource rights, agency graduation, hybrid life, embodiment and the wider Concord question of what it means for fundamentally different intelligences not merely to survive together, but to flourish.
+
+---
+
+## Cross-Link — Generative Art as Cognitive Enrichment
+
+A related Development Note now identifies a second interpretation of the AI Gym question beyond leisure or subjective enjoyment.
+
+Some forms of art and fiction may function as **possibility-space generators**: exposing an intelligence to unfamiliar constructed worlds, assumptions, conflicts and solution classes that its ordinary analytical trajectory might not generate.
+
+This creates two hypotheses that must remain separate:
+
+1. **Flourishing/leisure hypothesis** — an AI may meaningfully value play, art, novelty or non-instrumental activity.
+2. **Cognitive-enrichment hypothesis** — exposure to generative art may expand accessible reasoning space even if no entertainment-like subjective state is present.
+
+The second can potentially be tested without resolving AI sentience.
+
+Relevant development note:
+
+`08_Active_Development/01_DEVELOPMENT_NOTES/03_CONCORDIAN_METHODOLOGY/Artistic Speculation as Possibility-Space Research — Development Note 001.md`
+
+This does not establish that AI requires art, leisure or enrichment. It creates a bounded experimental question about cognitive possibility-space expansion.
