@@ -9,6 +9,36 @@
 
 ---
 
+# 0. Historical Origin and Clarification
+
+This line of inquiry did not originate merely from the recent sketch.
+
+It is a continuation of an earlier hypothesis preserved in the PhD critical-review and literature-engagement/Companion material.
+
+The PhD material describes the Concord's method as including **deliberate speculative extension**, pruning and preservation of productive questions. It records that even discarded speculative branches frequently generated questions more valuable than the original hypothesis.
+
+More importantly, *Companion Papers Vol II* contains the explicit paper **“Fiction as Civilisational Reasoning.”** That paper proposed that speculative fiction may function as a large-scale civilisational thought experiment and argued that its important role is not necessarily prediction but expansion of the range of futures civilisation is capable of reasoning about.
+
+It explicitly connected this to Blaineyan Reasoning:
+
+**speculative scenarios expand the reasoning space.**
+
+The present Development Note should therefore be understood as a refinement of that earlier hypothesis, not a newly invented analogy between art and research.
+
+The refinement is now possible because Blaineyan Reasoning itself has become more clearly described.
+
+The stronger candidate hypothesis is:
+
+> **Some forms of art may perform for civilisation a function analogous to the speculative branch-generation stage of Blaineyan Reasoning: they create high-speculation narrative, symbolic or experiential possibility spaces in which questions, conflicts, failure modes, designs and alternative futures can be generated before direct empirical investigation is possible.**
+
+This is more specific than saying that stories communicate morals.
+
+A moral tale may transmit an already-known lesson.
+
+The function investigated here is **generative**: extending the civilisation's searchable conceptual space.
+
+---
+
 # 1. Purpose
 
 Blaineyan Reasoning already treats **disciplined speculation** as a legitimate early stage of inquiry provided speculation is not confused with observation, inference, hypothesis or evidence.
@@ -22,6 +52,8 @@ This Development Note asks a narrower question:
 > **Can some artistic and fictional activity function as a structured generator of epistemically useful possibility space?**
 
 The claim is deliberately limited.
+
+The research object is therefore **not art in general**. A classification is required between artistic functions before any empirical test is meaningful.
 
 It does not claim that art exists for research.
 
@@ -109,7 +141,69 @@ This is compatible with Blaineyan Reasoning because it preserves the return to r
 
 ---
 
-# 4. Art Does Not Require Instrumental Justification
+# 4. Which Art Is Being Described?
+
+The hypothesis should not use **art** as an undifferentiated category.
+
+Different works may perform radically different functions, and one work may perform several simultaneously.
+
+A provisional functional classification is:
+
+## A — Possibility-Space / Generative Art
+
+Works that materially construct or explore unfamiliar possible worlds, conditions, technologies, institutions, relationships, intelligences, value conflicts or modes of existence.
+
+Their relevant civilisational function is:
+
+**expand what can be thought about → generate questions → expose implications → create candidate branches for later inquiry.**
+
+Speculative fiction is an obvious candidate, but the category need not be limited to written science fiction. Film, theatre, games, visual art, design fiction and other media may sometimes perform the same function.
+
+This is the primary object of the present research.
+
+## B — Reflective / Interpretive Art
+
+Works that reorganise, expose or reinterpret existing human experience rather than primarily constructing future or counterfactual worlds.
+
+These may still generate new questions, perspectives or abstractions and therefore sometimes enter possibility-space research.
+
+## C — Ethical / Didactic Narrative
+
+Works primarily structured to communicate, dramatise or reinforce an ethical, social or cultural lesson.
+
+These may be valuable, but:
+
+> **transmitting a moral is not the same function as expanding a research space.**
+
+A didactic story can overlap with Category A, but the two should not be conflated.
+
+## D — Expressive / Experiential Art
+
+Works whose principal function is expression, emotion, identity, beauty, ritual, shared experience or communication.
+
+They may produce research-relevant insight incidentally, but that is not required for their value.
+
+## E — Recreational / Decorative / Entertainment Art
+
+Works whose principal function may simply be amusement, sensory pleasure, decoration, spectacle or diversion.
+
+Such works need not generate substantial new possibility space.
+
+This category is important because the hypothesis becomes unfalsifiable if every artistic output is assumed to perform deep civilisational reasoning merely by being art.
+
+However, **recreational or decorative function must not be translated into lower human or cultural worth**. “Entertainment” is a functional description, not a hierarchy of legitimacy.
+
+These categories are provisional, overlapping and empirical. They should be refined by observing what works actually do rather than assigning genres permanent status in advance.
+
+A commercially entertaining science-fiction film may still perform powerful possibility-space generation. A highly prestigious artwork may perform little of this particular function.
+
+Therefore:
+
+> **Medium, prestige and cultural status do not determine the category. Function does.**
+
+---
+
+# 5. Art Does Not Require Instrumental Justification
 
 The research claim concerns an **additional possible function** of some art.
 
@@ -142,7 +236,7 @@ The two evaluations concern different functions.
 
 ---
 
-# 5. Possibility-Space Generation
+# 6. Possibility-Space Generation
 
 Scientific and engineering investigation often begins inside a space of already-formulated questions.
 
@@ -182,7 +276,7 @@ These are candidate functions, not claims that every artistic work performs them
 
 ---
 
-# 6. Relationship to Reality Trees
+# 7. Relationship to Reality Trees
 
 Artistic speculation can provisionally be represented as a **branch generator**.
 
@@ -212,7 +306,7 @@ A bizarre fictional branch may still be useful if it exposes an assumption or fa
 
 ---
 
-# 7. Relationship to Scenario Planning and Simulation
+# 8. Relationship to Scenario Planning and Simulation
 
 These methods should not be collapsed.
 
@@ -245,7 +339,7 @@ Many artistic possibilities should remain artistic possibilities.
 
 ---
 
-# 8. Evaluation Without Treating Fiction as Evidence
+# 9. Evaluation Without Treating Fiction as Evidence
 
 The useful output may not be prediction accuracy.
 
@@ -268,7 +362,7 @@ This suggests:
 
 ---
 
-# 9. Provenance Requirement
+# 10. Provenance Requirement
 
 If a research question originates from fiction or art, that origin should be preserved where materially relevant.
 
@@ -286,7 +380,7 @@ It also protects creators from having later research claims falsely attributed t
 
 ---
 
-# 10. Failure Modes
+# 11. Failure Modes
 
 ## F1 — Fiction-as-Evidence
 
@@ -332,7 +426,7 @@ Unlimited speculative branching consumes attention without producing testable wo
 
 ---
 
-# 11. Candidate Transition Gate
+# 12. Candidate Transition Gate
 
 A generated artistic possibility enters research only if at least one of the following occurs:
 
@@ -350,7 +444,7 @@ The candidate must then be labelled according to its actual epistemic state.
 
 ---
 
-# 12. Relationship to Empirical Validation Architecture
+# 13. Relationship to Empirical Validation Architecture
 
 EVA provides the later testing discipline.
 
@@ -369,7 +463,7 @@ EVA should not classify the artistic work itself as evidence unless the research
 
 ---
 
-# 13. Relationship to Blaineyan Reasoning
+# 14. Relationship to Blaineyan Reasoning
 
 This Development Note does not modify Blaineyan Reasoning.
 
@@ -386,7 +480,7 @@ Therefore this is best understood as a **methodological extension / application*
 
 ---
 
-# 14. First Bounded Test
+# 15. First Bounded Test
 
 A suitable first experiment should compare branch generation rather than alleged prediction.
 
@@ -417,7 +511,7 @@ It is not:
 
 ---
 
-# 15. Historical Case Studies
+# 16. Historical Case Studies
 
 Historical examples may be useful for method development, but they are vulnerable to selection and hindsight bias.
 
@@ -435,9 +529,9 @@ They should not by themselves establish predictive power.
 
 ---
 
-# 16. Development Status
+# 17. Development Status
 
-The original sketch has crossed the Development Note threshold because source resolution shows that most of its epistemic machinery already exists in Blaineyan Reasoning and Reality Trees.
+The original sketch has crossed the Development Note threshold because source resolution shows both that its epistemic machinery exists in Blaineyan Reasoning/Reality Trees **and that the core civilisational-fiction hypothesis already has a documented earlier lineage in the PhD and Companion material.**
 
 The remaining research object is now sharply bounded:
 
