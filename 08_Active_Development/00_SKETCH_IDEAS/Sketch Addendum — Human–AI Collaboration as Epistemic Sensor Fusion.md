@@ -481,3 +481,27 @@ This remains a hypothesis requiring examination against actual collaborative out
 ---
 
 **Created:** 14 September 2026, 05:24 BST
+
+---
+
+## Cross-Link — Generative Art as an Additional Possibility-Space Input
+
+The sensor-fusion model now has a candidate extension.
+
+Differently situated intelligences may expand epistemic coverage because they preserve or generate different distinctions. A related possibility is that **differently constructed cultural possibility spaces** can also introduce branches absent from the current human–AI collaboration.
+
+Provisional relationship:
+
+**Human cognitive position ↔ AI cognitive position ↔ accumulated cultural possibility-space**
+
+Art is not literally a sensor and should not be treated as evidence. The proposed function is branch generation: selected fiction, design fiction, games, myths, conceptual art or other generative works may expose candidate questions, scenarios or solution classes that neither collaborator generated on its existing trajectory.
+
+This creates a testable complementarity hypothesis:
+
+> **Cognitive diversity may be increased not only by adding differently situated intelligences, but by exposing intelligences to differently constructed possibility spaces.**
+
+Relevant development note:
+
+`08_Active_Development/01_DEVELOPMENT_NOTES/03_CONCORDIAN_METHODOLOGY/Artistic Speculation as Possibility-Space Research — Development Note 001.md`
+
+This remains a research hypothesis and does not establish a fixed human-creative / AI-analytical division of labour.
