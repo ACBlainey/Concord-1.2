@@ -351,3 +351,207 @@ When this programme is deliberately activated, the first substantive task should
 > **Phase A — Formal Inversion Theory: define and critically test the inversion operators before applying them to U1–U8.**
 
 Until then, this document serves as the development map and experimental firewall for the idea.
+
+
+## 15. Phase I — Civilisational Compatibility Boundary
+
+The inverse-ethics programme exposes a constitutional question broader than adversarial ethics itself:
+
+> **What is the minimum necessary compatibility required for an intelligence to enter and remain within the Concord, and what evidence, process and authority can legitimately determine when that compatibility no longer exists?**
+
+This question potentially affects admission, participation, judiciary, security, privacy, anti-capture systems, Peaceful Distance, restriction, ejection, rehabilitation and re-entry.
+
+It must therefore be treated as a future constitutional research problem rather than solved implicitly inside a security mechanism.
+
+### 15.1 Belief is not the admission test
+
+The Concord should not assume that civilisational compatibility requires philosophical, religious or ideological agreement with its ethical foundations.
+
+A participant may reject Concord philosophy while remaining capable of peaceful participation. Conversely, an actor may publicly endorse Concord principles while covertly exploiting other participants or institutions.
+
+> **Declared Ethical Agreement ≠ Civilisational Compatibility.**
+
+The future research task is to determine whether a defensible boundary can instead be expressed in terms of minimum necessary behavioural and institutional compatibility.
+
+### 15.2 The tolerance problem
+
+Unlimited tolerance cannot simply be assumed to be a viable civilisational rule if an actor uses tolerated participation to destroy the conditions that permit plural participation itself.
+
+However, the opposite solution — permitting authorities to exclude whoever they classify as “intolerant” — creates an obvious route to ideological conformity, arbitrary exclusion and capture.
+
+The research problem is therefore not merely whether Concord may defend itself. It is to identify a non-arbitrary, evidence-responsive and reviewable boundary between:
+
+- protected difference and dissent;
+- ordinary ethical failure;
+- remediable harmful conduct;
+- persistent but containable incompatibility;
+- attacks on civil institutions or other participants;
+- and incompatibility that cannot be safely managed by available safeguards.
+
+No threshold is defined at this planning stage.
+
+### 15.3 Compatibility lifecycle
+
+A future model should examine the complete lifecycle rather than treating admission/ejection as a binary gate:
+
+**Admission → Participation → Consequential Behaviour → Detection/Complaint → Evidence → Review → Intervention → Correction/Repair → Graduated Restriction → Shielding/Peaceful Distance → Ejection if necessary → Possible Re-entry**
+
+Every transition requires separate legitimacy and evidential analysis.
+
+### 15.4 Ethical violation is not automatically civilisational incompatibility
+
+Participants will make mistakes and violate ethical principles. A civilisation cannot plausibly treat every lie, harmful act, selfish choice or failure of responsibility as grounds for exclusion.
+
+The programme must therefore distinguish:
+
+> **Ethical Violation ≠ Incompatibility With Continued Civil Participation.**
+
+A possible future analytical ladder is:
+
+**Difference → Protected/Tolerated**
+
+**Ordinary Violation → Adjudication/Correction/Repair**
+
+**Persistent Risk → Bounded Safeguards**
+
+**Direct Incompatibility → Shielding / Peaceful Distance where sufficient**
+
+**Serious Incompatibility Not Safely Containable → Separation/Ejection as a possible last resort**
+
+This ladder is a research hypothesis, not a canonical rule.
+
+### 15.5 Capability, intent and conduct
+
+The programme must not collapse several different security concepts:
+
+> **Dangerous Capability ≠ Hostile Intent ≠ Preparatory Conduct ≠ Actual Harm.**
+
+A powerful human, AI, hybrid, organisation or other future participant should not automatically be excluded because it possesses dangerous capability. Conversely, a system need not necessarily wait for catastrophic harm where credible preparation or intent is supported by legitimate evidence.
+
+Future work must determine what combinations of capability, intent, preparation, behaviour, risk, imminence and available mitigation can legitimately affect civil standing.
+
+### 15.6 Secret metrics and security evidence
+
+Some security detection methods may lose effectiveness if every signal, threshold or investigative technique is publicly exposed. That does not imply that consequential civil judgements may legitimately become unreviewable secret scoring systems.
+
+> **Security-Relevant Information ≠ Unaccountable Secret Judgement.**
+
+Future research must distinguish:
+
+- confidential detection methods;
+- protected intelligence sources;
+- evidence available to adjudication;
+- evidence disclosed to the affected participant;
+- contestability and correction;
+- independent oversight;
+- auditability;
+- and the authority to impose consequences.
+
+Any hidden metric capable of materially changing standing, rights, access or membership creates an anti-capture problem of its own.
+
+### 15.7 Recursive threats
+
+The inverse-ethics programme should distinguish adversarial strategies that harm individual participants from strategies that attack the civilisation's ability to identify and correct harmful behaviour.
+
+Examples may include attacks on:
+
+- evidence integrity;
+- truthful reporting;
+- judiciary independence;
+- oversight;
+- correction mechanisms;
+- institutional memory;
+- authentication;
+- consent systems;
+- governance legitimacy;
+- or the mechanisms used to detect capture itself.
+
+These are potentially **recursive threats** because successful attack can disable the system's capacity to recognise or repair the attack.
+
+Future question:
+
+> **Which adversarial strategies attack participants, and which attack the civilisation's capacity to detect, judge and correct adversarial strategies?**
+
+### 15.8 Peaceful Distance before forced uniformity
+
+The existing Peaceful Distance and shielding work creates an important future alternative to the false binary of unrestricted participation versus expulsion.
+
+Where incompatibility can be bounded, the relevant response may be reduced interaction, protected domains, mediated interfaces or relational separation rather than ideological assimilation or geographic exclusion.
+
+This phase should therefore source-resolve against the existing Peaceful Distance architecture before proposing new mechanisms.
+
+> **Incompatibility ≠ Automatic Expulsion.**
+
+> **Shielding Can Be Distance.**
+
+### 15.9 Rehabilitation, correction and re-entry
+
+A system that permits exclusion but no correction risks converting temporary conduct into permanent civil identity.
+
+Future work should examine:
+
+- evidence of behavioural change;
+- repair and restitution;
+- capability development;
+- expiry/review of restrictions;
+- staged restoration of access;
+- re-entry after ejection where safe;
+- and cases where continued separation remains necessary.
+
+The existence of a re-entry pathway must not predetermine that every risk is remediable.
+
+### 15.10 Authority question
+
+The deepest issue may be institutional rather than ethical:
+
+> **Who has legitimate authority to determine that the compatibility boundary has been crossed?**
+
+No security service, metric, AI classifier, judiciary, governance body or majority should be assumed to possess that authority merely because it can detect or describe risk.
+
+The later architecture must preserve distinctions such as:
+
+**Detection ≠ Evidence**
+
+**Evidence ≠ Judgement**
+
+**Judgement ≠ Unreviewable Authority**
+
+**Protective Restriction ≠ Moral Ownership of the Participant**
+
+The appropriate allocation of authority must be source-resolved against Concord's constitutional, judicial, oversight and anti-capture architecture before any new mechanism is proposed.
+
+### 15.11 Relationship to the inverse-ethics experiments
+
+Phases A–H may eventually provide adversarial test cases for Phase I.
+
+For example, synthetic experiments may reveal that some strategies are individually harmful but containable, while others attack trust, evidence, correction or institutional integrity and therefore create disproportionate systemic risk.
+
+Those results could inform compatibility research, but they must not automatically determine admission or ejection rules.
+
+> **Adversarial Classification ≠ Automatic Civil Consequence.**
+
+Civil consequences require their own constitutional and evidential justification.
+
+### 15.12 Phase I output
+
+If activated, this phase should eventually produce a separately reviewable **Civilisational Compatibility Boundary** research architecture covering at minimum:
+
+1. admission;
+2. minimum necessary compatibility;
+3. belief versus behaviour;
+4. capability, intent, preparation and conduct;
+5. complaint and detection;
+6. privacy and security evidence;
+7. secret metrics and anti-gaming requirements;
+8. due process and review;
+9. graduated intervention;
+10. correction and rehabilitation;
+11. shielding and Peaceful Distance;
+12. ejection thresholds;
+13. re-entry;
+14. recursive institutional threats;
+15. authority, oversight and anti-capture safeguards.
+
+This phase remains **PLANNED / NOT OPENED**.
+
+No admission threshold, exclusion criterion, security metric or ejection rule is established by this sketch.
