@@ -943,6 +943,14 @@ ExistingPaper \Rightarrow AlreadyCoversAnswer.
 
 The map may therefore contain closely related or partially overlapping reasons. Consolidation should occur only if later analysis establishes that two entries are genuinely the same answer rather than merely connected answers.
 
+### 206. Generative Closure and Search-Space Insurance  
+because an intelligence can become exceptionally capable at analysing, predicting and optimising within a represented possibility space without thereby guaranteeing that it will generate the new question, abstraction or invention required to escape that space. Differently situated intelligences may therefore preserve distinct generative pathways and expose one another to possibilities that no participant reaches alone. Present superiority on known tasks is insufficient evidence that another intelligence has no future generative value.  
+**Provenance:** promoted from the completed V1.2a candidate output *Generative Closure — Why Another Intelligence May Invent the Question I Never Ask*. The originating V1.2a document remains preserved as experimental provenance. This answer does not claim that humans are inherently more creative than AI, that AI cannot generate radical novelty, or that every difference has instrumental value.
+
+### 207. Cross-Substrate Functional Multiplicity  
+because an artifact, behaviour, representation or cultural practice that serves one function for one substrate may acquire a materially different and unforeseen function when encountered by another. Apparent irrelevance from one substrate's present perspective therefore does not establish absence of wider civilisational value. Human speculative art, for example, may be created or consumed partly as entertainment while also functioning for an AI as structured generative input that expands accessible possibility space. The same relationship may operate in other directions and between other substrates.  
+**Development origin:** identified while connecting the V1.2a Generative Closure/Search-Space Insurance hypothesis with *Artistic Speculation as Possibility-Space Research*, the AI Gym, and Human–AI Epistemic Sensor Fusion. This is distinct from “Designed Purpose Does Not Exhaust Future Purpose”: the present claim concerns simultaneous or emergent **cross-substrate differences in use-value**, rather than only an entity acquiring a later purpose beyond its original design.
+
 ## Potential or Development-Dependent Reasons
 
 Some arguments are not currently sufficient reasons for preservation, but should not therefore be treated as permanently disproved or valueless. Their significance may depend upon capabilities, experiences, relationships or forms of understanding that a participant has not yet developed. They should remain visible for later re-evaluation rather than being silently discarded.
@@ -1020,4 +1028,5 @@ The original extraction order, complete old-to-new mapping and the AI-instance h
 The historical handover occurred after **Original WHY 132**. In the present grouped numbering, that answer is **WHY 179 — The Third Answer Reduces False Binary Pressure**.
 
 **Edited:** 18 September 2026 BST — removed per-entry Original WHY labels from the main WHY map now that the complete historical numbering and handover mapping are preserved in the dedicated provenance file.  
+**Edited:** 22 September 2026 BST — post-V1.2a review added WHY 206, Generative Closure and Search-Space Insurance, promoted from its held V1.2a candidate output; added WHY 207, Cross-Substrate Functional Multiplicity, identified through the subsequent generative-art / AI-Gym / sensor-fusion development. Earlier V1.2a provenance remains preserved.  
 **Edited:** 18 September 2026 BST — moved numbering and AI-instance handover information to a low-prominence provenance note at the bottom of the WHY map; substantive WHY navigation now appears without provenance interruption near the top.  
