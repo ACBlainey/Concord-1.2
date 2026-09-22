@@ -701,3 +701,40 @@ Conversely, later canonical work may answer or transform a sketch.
 > **Development need may search the sketch portfolio; development evidence may update the sketch portfolio.**
 
 See `00_PORTFOLIO_REVIEWS/` for dated status audits and routing decisions.
+
+
+---
+
+# 23. Graduated Sketch Archive
+
+The root of `00_SKETCH_IDEAS` is the **live incubation queue**.
+
+A sketch that has clearly graduated into a dedicated Development Note or substantive development programme should no longer remain mixed with live sketches.
+
+Move its originating sketch to:
+
+`00_SKETCH_IDEAS/99_ARCHIVE_GRADUATED/`
+
+The originating sketch is preserved there for provenance.
+
+Archiving means:
+
+> **Substantive ownership has transferred beyond the sketch stage.**
+
+It does **not** mean:
+- the idea is complete;
+- the Development Note is canonical;
+- the hypothesis has been validated;
+- or all questions are closed.
+
+Do not archive sketches merely because they are ready for development, test cases, experiment candidates, partially supplied, dependency-blocked or on hold. Archive only after substantive work has actually graduated elsewhere.
+
+The current work should always be followed in the Development Note/programme, while the archived sketch records origin and developmental lineage.
+
+This creates a clean distinction:
+
+> **Live Sketches = still incubating**
+
+> **99_ARCHIVE_GRADUATED = provenance of ideas now owned by later development**
+
+> **01_DEVELOPMENT_NOTES = active structured development**
