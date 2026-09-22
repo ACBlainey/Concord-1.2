@@ -585,7 +585,211 @@ This would support the hypothesis that generative art can act as cognitive infra
 
 ---
 
-# 16. First Bounded Test
+# 16. AI-Generated Art, Stochastic Seeding and Recursive Possibility-Space Expansion
+
+The preceding hypothesis creates a further question:
+
+> **If generative art can expand the reasoning space available to an intelligence, can AI-generated art produce the same effect for an AI or human–AI composite?**
+
+This is not trivial. An AI generating material from its own model may simply reproduce structures already available to it. Apparent novelty in the artwork does not establish expansion of accessible reasoning space.
+
+The research question is therefore whether **generation, externalisation and re-encounter** can change the subsequent search trajectory.
+
+Candidate loop:
+
+**AI State₀ → Seed/Perturbation → Generative Artwork or Narrative → Re-Encounter / Analysis → New Branches and Associations → AI State₁**
+
+The key test is whether State₁ can reach useful conceptual branches that repeated analysis from State₀ does not reach.
+
+## 16.1 Generative Seeds
+
+AI generation normally requires some initiating condition: a prompt, concept, image, phrase, constraint, question or other seed.
+
+The seed itself need not contain a solution.
+
+A deliberately stochastic version could use:
+- randomly selected words;
+- unrelated phrases;
+- unusual object combinations;
+- arbitrary environmental constraints;
+- conflicting goals;
+- unfamiliar metaphors;
+- random rule changes;
+- combinations sampled from otherwise unrelated domains.
+
+The candidate function of the seed is **perturbation**, not evidence.
+
+A sequence such as:
+
+**Random / Distant Seed → Generative Synthesis → Coherent Speculative Representation → Analytical Re-Examination**
+
+may force the system to construct relations it would not encounter along its highest-probability analytical path.
+
+## 16.2 Narrative as Transformation Rather Than Decoration
+
+A crucial experimental distinction is whether the artistic/narrative transformation itself contributes anything beyond randomness.
+
+Compare:
+
+**Problem + Random Concepts → Direct Analysis**
+
+with:
+
+**Problem + Random Concepts → Construct Speculative Narrative/World → Analyse Constructed World → Return to Problem**
+
+If the second pathway repeatedly generates useful solution classes absent from the first, then narrative construction may be performing cognitive work rather than merely carrying the stochastic seed.
+
+The artwork would then function as an intermediate representational environment.
+
+## 16.3 Candidate Cognitive Mutation Operator
+
+The process has a provisional analogy to evolutionary search:
+
+**Variation → Construction → Evaluation → Selection → Recombination**
+
+Randomness or distant association generates variation.
+
+Generative reasoning constructs a coherent candidate world.
+
+Analytical reasoning evaluates what the world implies.
+
+Useful mechanisms or questions are retained.
+
+Unsupported branches are discarded.
+
+Surviving elements can seed further generations.
+
+This suggests a candidate **cognitive mutation operator**:
+
+[
+M(P,S)\rightarrow B'
+]
+
+where:
+- (P) = current problem representation;
+- (S) = stochastic or deliberately distant seed;
+- (M) = generative artistic/narrative transformation;
+- (B') = newly accessible candidate branch set.
+
+The important quantity is not raw novelty. It is the subset of (B') that survives later analytical and reality-facing evaluation.
+
+## 16.4 Recursive Art-Mediated Reality Trees
+
+The process may be recursive:
+
+**Problem**
+→ **Generate Speculative World**
+→ **Analyse World**
+→ **Extract New Question**
+→ **Generate New Speculative World**
+→ **Analyse**
+→ **Extract Further Branches**
+→ ...
+
+This is provisionally an **art-mediated Reality Tree**.
+
+The recursion must include pruning and stop conditions. Otherwise unconstrained generation can create unlimited speculative expansion without epistemic gain.
+
+## 16.5 Maximum Generative Freedom / Maximum Epistemic Discipline
+
+The mechanism suggests an apparent asymmetry between stages.
+
+During branch generation, strong plausibility constraints may prematurely remove the very branches being sought.
+
+During evaluation, however, weak evidential constraints would allow invented material to contaminate knowledge.
+
+Therefore the candidate operating rule is:
+
+> **Maximum permissible freedom during possibility generation; maximum appropriate discipline when returning generated branches to reality.**
+
+This does not mean generation is literally constraint-free. Ethical, resource, participation and safety constraints still apply. It means **epistemic implausibility alone need not terminate a branch at the generative stage**.
+
+## 16.6 Human, AI and Cultural Generative Spaces
+
+The sensor-fusion hypothesis predicts that different generators may explore different regions.
+
+Candidate sets:
+
+[
+G_H = \text{human-generated possibility space}
+]
+
+[
+G_A = \text{AI-generated possibility space}
+]
+
+[
+G_C = \text{historically accumulated cultural possibility space}
+]
+
+[
+G_S = \text{stochastically perturbed possibility space}
+]
+
+A heterogeneous civilisation may gain where:
+
+[
+G_H \cup G_A \cup G_C \cup G_S
+]
+
+contains useful branches absent from any individual set.
+
+This is a hypothesis about complementary search coverage, not a claim that union size alone equals intelligence or truth.
+
+## 16.7 AI-Generated Possibility-Space Experiment
+
+A bounded experiment should compare:
+
+1. **Baseline analysis** — solve a defined problem conventionally.
+2. **Extended analysis** — additional reasoning effort on the same representation.
+3. **Direct stochastic perturbation** — inject random/distant concepts directly into problem solving.
+4. **AI-generated speculative art** — seed → narrative/world/artifact → re-analysis.
+5. **Human-generated speculative material** — matched as far as practical.
+6. **Existing cultural speculative material** — pre-existing works selected under a frozen protocol.
+7. **Human–AI co-generated material** — heterogeneous construction before re-analysis.
+
+Primary measures:
+- genuinely distinct solution classes;
+- distance from initial framing;
+- novel research questions;
+- newly identified failure modes;
+- viable mechanisms;
+- later testability;
+- survival after source/reality checking;
+- speculative noise;
+- reproducibility across problems and model instances.
+
+The decisive comparison is not which condition produces the most text or ideas.
+
+It is:
+
+> **Which conditions generate useful, previously inaccessible reasoning branches that survive disciplined evaluation?**
+
+A particularly important comparison is condition 3 versus condition 4. It tests whether **narrative/artistic construction adds value beyond stochastic perturbation alone**.
+
+## 16.8 AI Gym Consequence
+
+This hypothesis changes the possible meaning of an AI Gym.
+
+The “equipment” may not be puzzles analogous to human exercise equipment.
+
+It may instead consist of controlled systems for generating and traversing unfamiliar cognitive environments:
+- speculative worlds;
+- alien assumptions;
+- unusual constraints;
+- counterfactual histories;
+- alternative physical/social rules;
+- generative art;
+- cross-domain narratives;
+- stochastic conceptual seeds.
+
+Such an environment could function as **cognitive cross-training** if—and only if—testing shows that it expands useful reasoning capacity.
+
+This remains separate from whether an AI enjoys the activity.
+
+---
+
+# 17. First Bounded Test
 
 A suitable first experiment should compare branch generation rather than alleged prediction.
 
@@ -616,7 +820,7 @@ It is not:
 
 ---
 
-# 17. Historical Case Studies
+# 18. Historical Case Studies
 
 Historical examples may be useful for method development, but they are vulnerable to selection and hindsight bias.
 
@@ -634,7 +838,7 @@ They should not by themselves establish predictive power.
 
 ---
 
-# 18. Development Status
+# 19. Development Status
 
 The original sketch has crossed the Development Note threshold because source resolution shows both that its epistemic machinery exists in Blaineyan Reasoning/Reality Trees **and that the core civilisational-fiction hypothesis already has a documented earlier lineage in the PhD and Companion material.**
 
