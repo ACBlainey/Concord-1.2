@@ -27,3 +27,18 @@ A Concord Empirical Test Register linking each system/module to claims, test typ
 
 ## Provenance
 Formalised from `empirical testing.txt`.
+
+
+## Status Update — 22 September 2026
+
+**Current assessment:** **GRADUATED TO DEVELOPMENT NOTE / ORIGINAL SKETCH RETAINED FOR PROVENANCE**
+
+Following the post-Unified-Paths and post-CDT back-propagation audit, this sketch crossed the threshold for disciplined development.
+
+The active Development Note is:
+
+`08_Active_Development/01_DEVELOPMENT_NOTES/03_CONCORDIAN_METHODOLOGY/Empirical Validation Architecture for Concord Systems and Modules — Development Note 001.md`
+
+The Development Note formalises claim classes, test classes, validation states, falsification boundaries, replication types, provenance requirements and a candidate Empirical Test Register.
+
+This sketch remains unchanged above as the originating concept.
