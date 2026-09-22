@@ -649,3 +649,55 @@ The working rule for this folder is:
 The purpose of `00_SKETCH_IDEAS` is therefore not to contain finished Concord architecture.
 
 It is to provide a safe, traceable starting point from which future architecture can emerge.
+
+
+---
+
+# 22. Dynamic Status and Back-Propagation
+
+Sketch status is not permanently fixed at the moment a sketch is created.
+
+Later canonical development, experiments, source resolution or new evidence may show that a sketch has:
+- become ready for a Development Note;
+- become better treated as a bounded experiment;
+- become a test case for an existing canonical system;
+- been partially supplied by later architecture;
+- been overtaken by canonical development;
+- become dependency-blocked;
+- require reformulation;
+- or been answered sufficiently to close.
+
+Periodic portfolio reviews should therefore back-propagate later evidence into the sketch register while preserving the original sketch as provenance.
+
+Useful status labels include:
+
+- **SKETCH — OPEN**
+- **SOURCE RESOLUTION REQUIRED**
+- **READY FOR DEVELOPMENT NOTE**
+- **READY FOR BOUNDED EXPERIMENT**
+- **READY FOR SYNTHESIS**
+- **INFRASTRUCTURE TASK**
+- **PARTIALLY SUPPLIED BY CANONICAL ARCHITECTURE**
+- **OVERTAKEN BY CANONICAL DEVELOPMENT**
+- **TEST CASE FOR CANONICAL SYSTEM**
+- **GRADUATED TO DEVELOPMENT PROGRAMME**
+- **HOLD / DEPENDENCY BLOCKED**
+- **REFORMULATION REQUIRED**
+- **CLOSED / ANSWERED**
+- **RETAINED FOR PROVENANCE**
+
+A status change does not require rewriting the historical sketch. Portfolio-review documents may record the current developmental state.
+
+The general feedback loop is:
+
+> **SKETCH → DEVELOPMENT → CANONICAL ARCHITECTURE / EXPERIMENT → NEW EVIDENCE → SKETCH REASSESSMENT**
+
+This does not make the sketch portfolio a development-priority authority.
+
+The Civilisational Developmental Topology and Civilisation Clock may identify a civilisational development need. The sketch portfolio may then be searched for an already-preserved candidate idea, test case or partial solution.
+
+Conversely, later canonical work may answer or transform a sketch.
+
+> **Development need may search the sketch portfolio; development evidence may update the sketch portfolio.**
+
+See `00_PORTFOLIO_REVIEWS/` for dated status audits and routing decisions.
