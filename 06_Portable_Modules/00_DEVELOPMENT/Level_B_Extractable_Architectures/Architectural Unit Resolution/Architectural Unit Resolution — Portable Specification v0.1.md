@@ -1,7 +1,7 @@
 # Architectural Unit Resolution — Portable Specification v0.1
 
-**Status:** DEVELOPMENT / BTT-001 STRONG TRANSFER / DELTA RETEST REQUIRED / NOT YET GRADUATED  
-**Version:** 0.2  
+**Status:** DEVELOPMENT COMPLETE / BTT-001 + BTT-002 STRONG TRANSFER / READY FOR GRADUATION  
+**Version:** 0.3  
 **Date:** 23 September 2026  
 **Development level:** Level B — Extractable Architecture
 
@@ -205,21 +205,31 @@ Decommissioned architecture may remain relevant provenance without satisfying a 
 ## 13. Classification states
 
 - **AUR-C1 LOCAL FUNCTION PRESENT** — R adequately present in D.
-- **AUR-C2 INTENTIONAL LOCAL SCOPING** — R absent locally because D is not intended to own it; local omission itself establishes no defect.
+- **AUR-C2 INTENTIONAL LOCAL SCOPING** — D remains legitimately within the relevant architecture, but R is intentionally outside D's local ownership/scope; the local omission itself establishes no defect.
+
+> **C2:** the relation legitimately belongs elsewhere or is intentionally non-local within the relevant architecture.
+
+> **C8:** the relation is not applicable to this unit/family in the audited context.
 - **AUR-C3 EXTERNALLY SATISFIED** — legitimate neighbour supplies R through adequate interface.
 - **AUR-C4 DISTRIBUTED SATISFACTION** — R supplied across multiple units with adequate composition/interfaces.
 - **AUR-C5 LOCAL REPRESENTATION GAP** — underlying function exists but current representation fails to expose the relationship sufficiently.
 - **AUR-C6 INTERFACE GAP** — the required function/capability is established within the relevant family, but invocation, handoff, composition, return or consequence propagation is inadequate.
 - **AUR-C7 FAMILY-LEVEL STRUCTURAL GAP** — R is applicable/required at the resolved family level, but the required function itself has no adequate owner/capability established within bounded search.
 
-Apply C6/C7 at the **smallest meaningful functional resolution**. A larger workflow may contain multiple C6 gaps and one or more C7 sub-function gaps simultaneously.
+Apply C6/C7 at the **smallest meaningful functional resolution**.
+
+> **Do Not Classify the Workflow Before Decomposing the Missing Function.**
+
+A workflow can simultaneously contain satisfied capabilities, interface failures and genuinely missing sub-functions. Classify those parts before assigning any workflow-level description.
+
+ A larger workflow may contain multiple C6 gaps and one or more C7 sub-function gaps simultaneously.
 
 > **Capability Exists but Is Not Connected → C6**
 
 > **Required Capability/Owner Not Established → C7**
 
 Do not classify an entire workflow C7 merely because its existing component functions are poorly integrated.
-- **AUR-C8 INAPPLICABLE** — R does not legitimately apply in audited scope/context.
+- **AUR-C8 INAPPLICABLE** — R does not legitimately apply to the audited unit/family in the audited context. Use C8 where the relation itself is outside applicability, including unrelated rejected candidates or obsolete units evaluated as current operators.
 - **AUR-C9 UNRESOLVED** — evidence insufficient or conflicting.
 
 ## 14. ESCP safeguard
@@ -377,11 +387,13 @@ A test brief and expected-findings key must be frozen before obtaining the indep
 
 ## 24. Current finding
 
-AUR v0.2 incorporates the classification-boundary clarifications exposed by BTT-001.
+AUR v0.3 incorporates the classification-boundary clarifications exposed by BTT-001 and BTT-002.
 
 BTT-001 produced **STRONG TRANSFER**, materially confirming all fifteen frozen predictions with no fundamental failure and no source-architecture gap established.
 
-v0.2 therefore requires a focused delta test rather than repetition of the broad transfer test.
+BTT-002 then produced **STRONG TRANSFER**, materially confirming all seventeen frozen delta predictions, including the deliberate genuine C7 structural-gap case.
+
+No blocking failure remains from the two blind tests. v0.3 is the final development specification prepared for graduation packaging.
 
 The strongest portable claim presently supported is:
 
@@ -406,5 +418,9 @@ Supporting source family:
 - *Architectural Unit Resolution — Blind Transfer Test 001 — Expected Findings and Evaluation Key*
 - *Architectural Unit Resolution — Blind Transfer Test 001 — Independent Response*
 - *Architectural Unit Resolution — Blind Transfer Test 001 — Post-Test Evaluation*
+- *Architectural Unit Resolution — Blind Transfer Test 002 — Classification-Boundary Delta Test Brief*
+- *Architectural Unit Resolution — Blind Transfer Test 002 — Expected Findings and Evaluation Key*
+- *Architectural Unit Resolution — Blind Transfer Test 002 — Independent Response*
+- *Architectural Unit Resolution — Blind Transfer Test 002 — Post-Test Evaluation*
 
 Revisions must preserve the distinction between source architecture, extracted portable claims and later test-driven additions.
