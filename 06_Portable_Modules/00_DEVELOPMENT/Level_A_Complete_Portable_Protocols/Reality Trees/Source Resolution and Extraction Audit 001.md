@@ -2,7 +2,7 @@
 
 **Candidate:** Reality Trees  
 **Development level:** Level A — Complete Portable Protocol candidate  
-**Audit status:** COMPLETED — PRIMARY SOURCE RESOLVED / NO BLOCKING SOURCE OMISSION IDENTIFIED  
+**Audit status:** REOPENED AND COMPLETED — ORIGINAL CONCEPT RECOVERED / NO BLOCKING SOURCE OMISSION IDENTIFIED  
 **Date:** September 2026
 
 ---
@@ -362,3 +362,6 @@ Next step:
 Because Reality Trees are already compact and explicitly portable in the source, the test should remain correspondingly small.
 
 > **Small method ≠ permission to over-engineer it.**
+
+
+> **Recovery note:** Author-supplied originating background recovered a broader pre-specialisation conception: forced-binary avoidance, separable personal-belief and evidential weighting, recursive branch decomposition, and general diagnostic/planning/choice use. Later Concord usage is a specialised development of this broader primitive.
