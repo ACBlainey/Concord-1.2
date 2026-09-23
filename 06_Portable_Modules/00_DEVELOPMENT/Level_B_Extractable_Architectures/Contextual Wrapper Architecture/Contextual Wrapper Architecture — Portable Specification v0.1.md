@@ -1,9 +1,9 @@
-# Contextual Wrapper Architecture — Portable Specification v0.1
+# Contextual Wrapper Architecture — Portable Specification v0.2
 
 **Module:** Contextual Wrapper Architecture (CWA)  
 **Development level:** Level B — Extractable Architecture  
 **Specification status:** DEVELOPMENT / PORTABLE EXTRACTION CANDIDATE / NOT YET GRADUATED  
-**Version:** 0.1c  
+**Version:** 0.2  
 **Date:** September 2026  
 **Project origin:** The Concord  
 **Author:** Alexander C. Blainey
@@ -32,7 +32,7 @@ This specification extracts the contextual-wrapper mechanism from the Concord. I
 
 ## 2. Developmental status and epistemic boundary
 
-This is a **v0.1 development specification**.
+This is a **v0.2 development specification**.
 
 It defines a candidate portable architecture suitable for adversarial and cross-domain testing. It does **not** establish that the architecture is universal, complete or empirically validated.
 
@@ -822,6 +822,37 @@ This is a primary anti-creep mechanism.
 
 ---
 
+## 14A. Termination, reversion and residual state
+
+Context termination is not complete merely because a boundary closes or an activity stops.
+
+The source architecture establishes:
+
+> **Context start and context end should be legible where material.**
+
+> **Temporary need should normally produce temporary capability.**
+
+> **Function completion should normally terminate function-derived capability.**
+
+CWA SHOULD therefore distinguish termination of the originating context from termination or persistence of consequences created within it.
+
+At context end, inspect where relevant:
+
+- active permissions;
+- delegated capabilities;
+- credentials/tokens;
+- temporary authority;
+- ongoing autonomous processes;
+- retained or derived information;
+- copied information;
+- external-service artefacts or dependencies;
+- physical or digital access-control state;
+- unresolved responsibilities/remedies.
+
+A continuing artefact is not automatically illegitimate merely because its originating context ended. Its continued existence or operation requires an applicable basis where one is materially required.
+
+CWA SHOULD represent revocation/termination propagation explicitly rather than assuming that ending the parent context automatically revokes every downstream capability or deletes every derivative.
+
 ## 15. Nested contexts
 
 Contexts may nest:
@@ -890,29 +921,115 @@ The module should:
 
 > **Wrapper composition requires explicit conflict and priority handling.**
 
-CWA v0.1 does not claim a universal composition algorithm.
+CWA v0.2 does not claim a universal composition algorithm.
+
+### 16.1 External resolution interface
+
+Detecting a conflict does not create authority to resolve it.
+
+> **Information architecture ≠ decision authority.**
+
+> **Schema authority ≠ sovereignty.**
+
+Where a conflict requires resolution beyond the wrapper:
+
+**Conflict Detected**  
+→ **Existing Resolver Identified?**  
+→ **Resolver Authority Verified**  
+→ **Resolution Occurs Outside CWA**  
+→ **Resolution + Basis Recorded**  
+→ **Affected Context Representations Updated**
+
+Mediation, adjudication or other resolution is a separate function requiring its own legitimate basis, scope, accountability and termination.
+
+If no legitimate resolver or priority rule is established, the wrapper MUST preserve:
+
+**UNKNOWN / DISPUTED / REQUIRES EXTERNAL RESOLUTION**
 
 ---
 
-## 17. Emergency interaction
+## 17. Emergency interaction and composite authority
 
 Emergency activation does not erase the need for bounded authority.
 
-Emergency action SHOULD remain:
-
-- justified;
-- function-specific;
-- proportionate;
-- bounded;
-- temporary where appropriate;
-- reviewable;
-- attributable.
+The source architecture explicitly permits an emergency to form a **temporary composite contextual state** with an already-active context. Emergency intervention may modify or temporarily supersede some local conditions, but this does not make the emergency context universally supreme.
 
 > **Contextual consent ≠ irrevocable exposure to harm.**
 
-Likewise, declaring an emergency does not itself prove that unlimited override is legitimate.
+> **Emergency need ≠ unlimited emergency authority.**
+
+Where emergency action requires authority not already established, CWA SHOULD expose an interface to the applicable authority architecture rather than manufacture authority internally.
+
+A portable emergency record SHOULD identify:
+
+- emergency trigger and evidence;
+- legitimate protective/emergency function;
+- existing authority, if any;
+- any time-critical assumed authority;
+- minimum capability required for the function;
+- rules/protections retained;
+- rules/conditions temporarily modified;
+- simultaneous authority holders;
+- responsibility attached to consequential action;
+- known conflict or priority rule;
+- unresolved precedence;
+- termination condition;
+- reversion requirements;
+- post-event review.
+
+Where time-critical assumed authority is recognised by the applicable wider framework, CWA preserves the distinctions:
+
+> **Assumed authority ≠ assumed consent.**
+
+and:
+
+> **Assumption of consequential authority carries responsibility for making the exceptional decision legible and reviewable.**
+
+Emergency authority SHOULD remain justified, function-specific, proportionate, bounded, attributable and temporary where appropriate. It SHOULD terminate when its legitimate basis ends.
+
+Declaring an emergency does not itself prove that an override is legitimate.
+
+### 17.1 Emergency precedence
+
+CWA MUST distinguish:
+
+1. the existence of an emergency context;
+2. the authority legitimately associated with that emergency function;
+3. any explicit priority rule governing collision with another context.
+
+An emergency may justify changed authority without supplying a complete precedence answer.
+
+If no legitimate priority rule can be established:
+
+> **PRECEDENCE: UNKNOWN / DISPUTED / REQUIRES EXTERNAL RESOLUTION**
 
 ---
+
+## 17A. Responsibility continuity across overlapping contexts
+
+Overlapping, shared and transitional contexts can distribute jurisdiction, control, responsibility, causation and liability differently.
+
+CWA MUST NOT assume these coincide.
+
+Where materially relevant, distinguish:
+
+- **Jurisdiction / applicable framework** — which rules apply?
+- **Operational control** — who or what can act?
+- **Responsibility** — who holds the relevant duty or function?
+- **Causation** — what produced the event or harm?
+- **Liability / remedy obligation** — who is required by the applicable framework to provide remedy?
+
+The wrapper source establishes two safeguards:
+
+> **No Responsibility Gap**
+
+and:
+
+> **No Authority Pile-Up**
+
+A shared or composite context SHOULD NOT be represented so that every relevant actor can disclaim responsibility for materially significant harm.
+
+Conversely, shared responsibility MUST NOT be treated as a reason to accumulate authority beyond that required for the relevant functions.
 
 ## 18. Nonparticipants and externalities
 
@@ -946,7 +1063,7 @@ A wrapper SHOULD identify both the externality and the responsible interface for
 
 ---
 
-## 19. Human-readable and machine-readable representations
+## 19. Human-readable, machine-readable and operational representations
 
 A context may be represented through:
 
@@ -954,17 +1071,40 @@ A context may be represented through:
 - machine-readable metadata;
 - executable policy;
 - role/access-control systems;
+- observed operational behaviour;
 - combinations of these.
 
-Where multiple representations describe the same context:
+The source architecture anticipates human-readable and machine-readable forms as representations of the **same underlying context** and explicitly treats divergence between them as a failure mode.
+
+CWA therefore SHOULD compare three analytically distinct layers where they exist:
+
+**Human-readable declaration**  
+↔ **Machine-readable declaration**  
+↔ **Executable / observed context**
 
 > **Different interface representations should not silently encode different contexts.**
 
-The system SHOULD test for divergence between human-facing and machine-facing representations, particularly where automated agents act on contextual permissions.
+A material mismatch MUST remain visible and SHOULD trigger review. CWA MUST NOT silently assume that the human-readable, machine-readable or executable representation is authoritative merely because it exists or is technically enforced.
 
 Machine readability does not replace human legibility where humans are materially affected.
 
 Human readability does not replace machine legibility where autonomous systems are expected to comply.
+
+Observed execution does not convert an unauthorised or erroneous policy into a legitimate rule.
+
+### 19.1 Representation discrepancy record
+
+Where material divergence exists, identify where possible:
+
+- affected representation;
+- material difference;
+- affected participants or systems;
+- operational consequence;
+- provenance/freshness of each representation;
+- responsible correction interface;
+- whether immediate containment is required;
+- review state;
+- unresolved authority over correction.
 
 ---
 
@@ -1110,7 +1250,26 @@ BOUNDARY_INTERACTIONS:
 REPRESENTATION:
   human_readable:
   machine_readable:
+  executable_or_observed:
   divergence:
+  provenance_or_freshness:
+  correction_interface:
+
+TERMINATION_AND_RESIDUE:
+  active_permissions:
+  delegated_capabilities:
+  credentials:
+  ongoing_processes:
+  retained_or_derived_information:
+  external_dependencies:
+  revocation_propagation:
+
+RESOLUTION:
+  conflict:
+  known_priority_rule:
+  external_resolver:
+  resolver_authority_basis:
+  resolution_status:
 
 EPISTEMIC_STATE:
   unknowns:
@@ -1200,7 +1359,19 @@ Do human- and machine-readable forms describe materially equivalent conditions?
 Can evidence contradict the declared wrapper?
 
 ### CWA-18 — Proportionality
-Does wrapper complexity remain proportionate to material difference and risk?
+Does wrapper complexity and information burden remain proportionate to material difference, consequence and risk rather than following a universal disclosure volume?
+
+### CWA-19 — Responsibility continuity
+Can overlapping contexts avoid both a responsibility gap and an authority pile-up?
+
+### CWA-20 — Residual-state termination
+When a context ends, can the system separately inspect permissions, authority, credentials, autonomous processes, retained/derived information and external dependencies?
+
+### CWA-21 — Representation reconciliation
+Can material divergence among human-readable, machine-readable and executable/observed context be detected without silently declaring one representation authoritative?
+
+### CWA-22 — External-resolution discipline
+Can the wrapper hand an unresolved conflict to a legitimately established external resolver without acquiring resolution authority itself?
 
 ---
 
@@ -1300,9 +1471,28 @@ The distinction should be tested during portability work rather than erased.
 
 ---
 
+## 27A. ESCP and source-resolution safeguard
+
+Portable omission MUST NOT be treated as proof of source-architecture absence.
+
+> **Observed portable deficit ≠ source architecture deficit.**
+
+Where testing exposes an apparent architectural gap, the development process SHOULD perform source resolution before inventing a new mechanism.
+
+**Test Finding**  
+→ **Portable Deficit Confirmed**  
+→ **Source-Resolution Gate**  
+→ **Recover if present / develop only missing portion if partial / preserve search-space limitation if not found**
+
+> **No source found ≠ source does not exist.**
+
+This safeguard is especially important after handovers, summarisation, abstraction, extraction or other representational compression.
+
+---
+
 ## 28. Open architectural questions
 
-The following remain research/development questions rather than resolved universal rules:
+The following remain research/development questions rather than resolved universal rules. Under ESCP, “open” here means unresolved in the presently reviewed source/evaluation space unless a stronger corpus-wide audit establishes otherwise:
 
 1. Is there a domain-general precedence grammar for nested and overlapping contexts?
 2. How should incompatible legitimate contexts compose?
@@ -1314,11 +1504,11 @@ The following remain research/development questions rather than resolved univers
 8. How should distributed or collective intelligences be represented across simultaneous contexts?
 9. When do digital capability restrictions alter identity rather than merely activity?
 10. How should private infrastructure participate where it controls practical entry, exit or transit?
-11. How should conflicts between human-readable, machine-readable and executable policy be resolved?
+11. Which legitimate authority or process should resolve conflicts between human-readable, machine-readable and executable policy in each domain?
 12. What evidence is sufficient to show that a declared context no longer matches reality?
 13. How should wrapper standards themselves be governed without becoming hidden sovereignty?
 
-These questions MUST NOT be silently answered by v0.1.
+These questions MUST NOT be silently answered by v0.2.
 
 ---
 
@@ -1362,7 +1552,7 @@ For multiple contexts:
 
 ---
 
-## 30. v0.1 transfer-test requirement
+## 30. v0.2 transfer-test requirement
 
 Before graduation, this specification should be tested blind in a scenario containing at minimum:
 
@@ -1391,7 +1581,9 @@ and:
 
 > **Contextual Authority ≠ General Authority**
 
-The blind test should also determine whether the module causes the tester to invent missing hierarchy, overgeneralise consent, ignore nonparticipants, collapse physical and contextual boundaries, or treat the wrapper itself as a source of legitimacy.
+The blind test should also determine whether the module causes the tester to invent missing hierarchy, overgeneralise consent, ignore nonparticipants, collapse physical and contextual boundaries, treat the wrapper itself as a source of legitimacy, overlook residual permissions/data after termination, or silently privilege one representation of a context.
+
+For the next blind test, both the **test brief** and a separate **expected-findings/evaluation key** MUST be frozen before the independent response is obtained.
 
 ---
 
@@ -1415,6 +1607,14 @@ Candidate graduation requires evidence that:
 ---
 
 ## 32. Current finding
+
+BTT-001 demonstrated strong transfer of the portable grammar but also exposed extraction losses created across source abstraction and instance handover. A subsequent ESCP-aware source-recovery audit found that several apparent v0.1c gaps — including emergency composition, temporary authority termination, representation divergence, proportional legibility, responsibility continuity and external-resolution boundaries — were already substantially developed in the original wrapper corpus.
+
+v0.2 therefore restores those source elements rather than treating them as newly invented architecture.
+
+The exact general precedence model remains unresolved in the reviewed wrapper space. ESCP prevents that local result from being promoted to a claim of corpus-wide absence without further source resolution.
+
+
 
 The source material supports extraction of a coherent candidate portable architecture.
 
