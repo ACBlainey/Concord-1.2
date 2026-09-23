@@ -2,9 +2,9 @@
 
 **Author:** Alexander C. Blainey  
 **Project of origin:** The Concord Framework  
-**Module status:** PORTABLE SPECIFICATION CANDIDATE / BLIND TRANSFER TEST REQUIRED  
+**Module status:** PORTABLE SPECIFICATION / BLIND TRANSFER TEST PASSED / GRADUATION REVIEW REQUIRED  
 **Development level:** Level A — Complete Portable Protocol  
-**Version:** 0.2 — recovered-origin revision  
+**Version:** 0.3 — post-transfer graduation candidate  
 **Date:** September 2026
 
 ---
@@ -81,6 +81,8 @@ The root need not contain every relevant fact. It should be clear enough that br
 
 The purpose is not exhaustive generation of every imaginable branch. Branches should be materially different enough to improve examination of the immediate uncertainty.
 
+> **Material distinction rule:** Treat branches as materially distinct when separating them changes an important assumption, weighting dimension, consequence, test, action or disposition. If separation changes none of these, the possibilities can usually remain combined.
+
 ---
 
 ## 5. Branch representation
@@ -139,6 +141,8 @@ A broad branch may contain materially different possibilities and may therefore 
 
 > **Branching is recursive, not necessarily exhaustive.**
 
+Stop decomposing when further subdivision would not materially change weighting, examination, testing, action or disposition for the current question.
+
 ---
 
 ## 8. Assumptions and causal relationships
@@ -161,7 +165,7 @@ Reality Trees make assumptions visible; they do not by themselves validate causa
 
 ---
 
-## 8. Consequences, benefits, harms and failure modes
+## 9. Consequences, benefits, harms and failure modes
 
 Where relevant, examine what follows from each branch.
 
@@ -181,7 +185,7 @@ Not every cognitive tree requires a full risk analysis. Examination should be pr
 
 ---
 
-## 9. Testing and evidence
+## 10. Testing and evidence
 
 Promising branches should be tested where practical.
 
@@ -199,7 +203,9 @@ Evidence produced by testing should update the branch rather than be forced to f
 
 ---
 
-## 10. Branch disposition
+## 11. Branch disposition
+
+A branch's **status or weight** describes its present epistemic or contextual assessment. Its **disposition** describes what the reasoning process is currently doing with it. These are separate: a branch may, for example, be weakly supported but active, or uncertain but deferred.
 
 Branches may remain:
 
@@ -223,7 +229,7 @@ An unsuccessful branch may still reveal assumptions, constraints, failure mechan
 
 ---
 
-## 11. Updating the tree
+## 12. Updating the tree
 
 A Reality Tree is revisable.
 
@@ -242,7 +248,7 @@ Updating the tree is not evidence that the earlier model was useless. Revision i
 
 ---
 
-## 12. Stopping
+## 13. Stopping
 
 Reality Trees are not a mandate for unlimited branching.
 
@@ -254,11 +260,21 @@ A bounded cycle may stop when:
 4. unsupported, deferred or rejected branches have a recorded disposition where useful;
 5. further branching would add little material value without new evidence.
 
+A compact stopping check is:
+
+- Are the immediate meaningful alternatives represented?
+- Are important assumptions, weights and uncertainties visible?
+- Is the next information-gathering or action step identifiable?
+- Are important pruned or deferred branches recorded where useful?
+- Would another branch or subdivision materially change the current examination or provisional choice?
+
+If further branching is unlikely to change the present examination or provisional choice without new information, stop the current cycle.
+
 The tree can be reopened when new evidence, changed conditions or a new decision context warrants it.
 
 ---
 
-## 13. Failure and misuse modes
+## 14. Failure and misuse modes
 
 ### Premature collapse
 Selecting one branch as certain before alternatives have been adequately examined.
@@ -289,7 +305,15 @@ Moving from speculation to consequential real-world experimentation without appr
 
 ---
 
-## 14. Documentation and provenance
+## 15. Documentation and provenance
+
+Two proportional modes are useful:
+
+**Lightweight Reality Tree:** root + branches + relevant weights/constraints + current disposition or provisional choice.
+
+**Extended Reality Tree:** adds assumptions, evidence, consequences, failure modes, tests, provenance and update history where consequence or complexity warrants them.
+
+These are not different methods. They are different documentation depths for the same method.
 
 For simple personal use, lightweight notes may be sufficient.
 
@@ -309,7 +333,7 @@ The purpose is to allow the tree to learn from reality rather than merely accumu
 
 ---
 
-## 15. Relationship to Blaineyan Reasoning
+## 16. Relationship to Blaineyan Reasoning
 
 Reality Trees originated within the broader Blaineyan Reasoning approach and can support its exploration of multiple possibilities.
 
@@ -325,7 +349,7 @@ Reality Trees provide a structured branch representation where such representati
 
 ---
 
-## 16. Civilisational and organisational use
+## 17. Civilisational and organisational use
 
 Reality Trees can scale beyond individual cognition.
 
@@ -337,7 +361,7 @@ This does not grant permission to create harmful or unaccountable experiments. T
 
 ---
 
-## 17. Minimum input
+## 18. Minimum input
 
 A Reality Tree minimally needs:
 
@@ -348,7 +372,7 @@ Evidence, assumptions, constraints and confidence assessments improve the tree b
 
 ---
 
-## 18. Minimum output
+## 19. Minimum output
 
 A bounded Reality Tree cycle should leave enough information to understand:
 
@@ -366,7 +390,7 @@ A bounded Reality Tree cycle should leave enough information to understand:
 
 ---
 
-## 19. Scope and evidential status
+## 20. Scope and evidential status
 
 Reality Trees are presented as a portable cognitive and experimental exploration method.
 
@@ -380,7 +404,9 @@ They are not presented here as:
 - a decision-authority mechanism;
 - or proof that exploring more branches always improves outcomes.
 
-The module has been source-extracted from the later Concord architecture and revised to restore the broader originating concept supplied by the author. It has not yet completed its independent blind transfer test.
+The module has been source-extracted from the later Concord architecture and revised to restore the broader originating concept supplied by the author. RT-BTT-002 independently transferred the recovered-scope method to a non-Concord choice problem using only this specification and the frozen test brief. The result was **RT2-T2 — TRANSFER SUCCESS WITH MINOR REVISION**. The supported usability revisions are incorporated in v0.3.
+
+This supports standalone AI-instance portability for the tested task. It does not establish comparative superiority, human usability, universal applicability, improved real-world decisions or empirical validation.
 
 Potential applications to persistent AI reasoning under uncertainty or weighted epistemic memory are separate research hypotheses, not assumed capabilities of this portable module.
 
