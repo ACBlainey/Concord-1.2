@@ -465,6 +465,54 @@ Declining to give feedback also does not mean that no problem existed.
 
 ---
 
+# 10. Fractal Permission Architecture
+
+## Plain-English name
+
+**Work out who may do what, where, why and for how long—without confusing ability with permission.**
+
+## What does it do?
+
+Fractal Permission Architecture (FPA) helps represent permission when access is more complicated than a simple yes/no.
+
+Its basic question is:
+
+> **Who may do what, where, why, when, under which conditions, by which legitimate basis, and until when?**
+
+A person may be allowed into a place without being allowed to use everything inside it. A software account may technically be able to open a file without the user being permitted to read it. A temporary role may justify access for one task without creating permanent authority.
+
+FPA makes those differences explicit while trying not to turn ordinary life into permission bureaucracy.
+
+## Simple example
+
+A repair engineer is allowed into an office to fix the air-conditioning.
+
+That may permit the engineer to enter the office, inspect the air-conditioning unit and use the controls necessary for the repair.
+
+It does not automatically permit the engineer to read documents on desks, photograph people's work, open unrelated locked cupboards or return next week after the repair is finished.
+
+Even if a door or computer account technically allows one of those actions, technical capability is not the same thing as permission.
+
+## Where could it be applied?
+
+Potential applications include physical spaces, software permissions, AI-agent access, workplaces, laboratories, research data, shared facilities, contractor access, cloud systems, emergency response, delegated roles, online communities and mixed physical/digital environments.
+
+## Use it when
+
+Use FPA when permission depends on several things at once—such as the participant, action, location or resource, purpose, role, consent, route, current state, time or legitimate basis—and treating access as simply “allowed” or “denied” would lose important information.
+
+It is especially useful when permissions are temporary, nested, delegated, context-dependent or technically possible but normatively restricted.
+
+## What it does not do
+
+FPA does not decide that every rule it represents is legitimate, manufacture authority, turn ownership into unlimited control, or automatically resolve conflicts between law, consent, policy and other competing claims.
+
+It also does not require a formal permission record for every ordinary low-consequence interaction.
+
+**Formal module:** *Fractal Permission Architecture — Portable Module*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -486,6 +534,8 @@ Several modules may appear applicable to the same problem because they operate a
 **Cross Boundary Externality Recognition** asks: *What consequence crossed a boundary, what does the evidence support, and what response is legitimate without manufacturing authority?*
 
 **Exit Interview Protocol** asks: *What can we legitimately learn from someone leaving without obstructing the exit, overstating their evidence or turning feedback into authority?*
+
+**Fractal Permission Architecture** asks: *Who may perform this particular action in this particular context, for what function, under what legitimate basis and conditions—and when does that permission end?*
 
 They are therefore not competing solutions to one problem. They are reusable tools for different recurring problem structures.
 
