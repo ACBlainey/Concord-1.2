@@ -44,6 +44,34 @@ The module should therefore be applied, criticised, compared and tested rather t
 
 ---
 
+## 2A. Methodology as an abstraction layer
+
+The source work distinguishes **architecture** from **methodology**.
+
+Architecture is the machinery or substrate that makes cognition possible. Methodology concerns how available capability is organised and applied.
+
+The working model is:
+
+> **Knowledge → Intelligence / Capability → Reasoning Methodology → Behaviour / Output**
+
+This model remains a hypothesis rather than an established cognitive law. Its portable significance is practical: a reasoning method can potentially be taught, prompted, transferred, compared and tested without changing the underlying cognitive architecture.
+
+This is one reason Blaineyan Reasoning is suitable for portability. The module specifies a process rather than a required biological, computational or organisational substrate.
+
+### Methodology as a technology of thought
+
+The source further proposes that methodologies can be treated as conceptual technologies: reusable procedures that increase the productive use of existing intelligence rather than directly increasing raw capability.
+
+Examples in the source include scientific method, engineering design, peer review and mathematical procedures.
+
+For this portable module, the relevant claim is modest:
+
+> **Method can be treated as an independent design variable.**
+
+Whether Blaineyan Reasoning itself improves performance must be determined experimentally.
+
+---
+
 ## 3. Core epistemic distinctions
 
 Blaineyan Reasoning depends upon keeping different epistemic states separate.
@@ -631,6 +659,38 @@ These remain questions for comparison and testing.
 
 ---
 
+## 23A. Portability and substrate independence
+
+The source proposes that a cross-domain reasoning methodology may operate independently of the architecture implementing it. This remains experimentally unresolved, but it defines an important portability requirement.
+
+A valid implementation should therefore specify the reasoning operations without assuming:
+
+- a human cognitive substrate;
+- a particular AI model architecture;
+- persistent memory;
+- a specific disciplinary background;
+- Concord membership or adoption;
+- human-AI collaboration.
+
+Different substrates may implement the operations differently.
+
+The module should be evaluated by observable reasoning behaviour and outputs rather than an assumption that different systems reproduce identical internal cognition.
+
+### Methodological fluency
+
+The source also raises a longitudinal question: repeated use may produce increasing fluency with a methodology even when underlying architecture remains unchanged.
+
+Portable testing should therefore distinguish:
+
+- immediate prompted compliance;
+- repeated-use fluency;
+- durable transfer to new domains;
+- team-level methodological convergence.
+
+No claim that such effects occur is established by this specification.
+
+---
+
 ## 24. Development and validation programme
 
 The V1.2 source work identifies several appropriate tests:
@@ -675,7 +735,7 @@ The source corpus is sufficient to specify a complete first portable module.
 
 Remaining work before graduation should focus on:
 
-1. independent source audit against the full Blaineyan Reasoning book;
+1. source-completeness audit against the full Blaineyan Reasoning book — **first pass completed; no blocking omission found, with methodology/architecture and substrate-portability material added**;
 2. checking whether any operational steps or warnings have been omitted;
 3. cross-instance usability testing;
 4. comparison against the standalone Reality Trees module to remove accidental duplication;
