@@ -361,6 +361,56 @@ It also does not create legal authority, establish ethical legitimacy, guarantee
 
 ---
 
+# 8. Cross Boundary Externality Recognition
+
+## Plain-English name
+
+**Notice when your actions affect someone outside your boundary—without assuming that gives either side unlimited authority over the other.**
+
+## What does it do?
+
+Cross Boundary Externality Recognition helps represent consequences that pass from one organisation, system, community or other bounded domain into another.
+
+Its simplest principle is:
+
+> **Make the consequence legible; keep responsibility, authority and remedy separate.**
+
+A consequence can be real even when the parties do not share a government, contract, regulator or decision process. But recognising that consequence does not automatically prove who caused it, who is responsible, who has authority to act or what remedy is legitimate.
+
+## Simple example
+
+A farm changes how it uses fertiliser. Later, a downstream reservoir detects elevated nitrate levels.
+
+That is enough to investigate whether a cross-boundary consequence exists.
+
+It is not enough by itself to conclude:
+
+> “The farm caused everything downstream, so the reservoir operator may now control how the farm operates.”
+
+Rainfall, seasonal changes or other tributaries may also contribute. The reservoir operator may have authority to monitor or manage its own water system without having authority over the farm.
+
+The module keeps those questions separate while allowing evidence, voluntary mitigation and legitimate response pathways to develop.
+
+## Where could it be applied?
+
+Potential applications include environmental effects, shared infrastructure, digital networks, supply chains, organisations, communities, federated systems, resource management, cross-jurisdictional problems and other situations where consequences cross boundaries that authority does not automatically cross.
+
+## Use it when
+
+Use it when one bounded actor, system or condition may materially affect another domain and the affected parties do not share a simple or uncontested authority structure.
+
+It is particularly useful when causation is uncertain, responsibility may be distributed, parties disagree about standing or authority, or some useful response is possible without resolving the entire relationship.
+
+## What it does not do
+
+The module does not turn an allegation into proof, a consequence into automatic responsibility, responsibility into jurisdiction, or jurisdiction into unlimited authority.
+
+It does not calculate legal or financial liability, determine universal standing, impose compensation or manufacture a shared government.
+
+**Formal module:** *Cross Boundary Externality Recognition — Portable Module*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -378,6 +428,8 @@ Several modules may appear applicable to the same problem because they operate a
 **Functionally Bounded Summits** asks: *Can we cooperate on this particular problem without turning it into a negotiation over everything else?*
 
 **Continuity Protocol** asks: *What must survive a disruption, and have we preserved enough to make the required function genuinely recoverable?*
+
+**Cross Boundary Externality Recognition** asks: *What consequence crossed a boundary, what does the evidence support, and what response is legitimate without manufacturing authority?*
 
 They are therefore not competing solutions to one problem. They are reusable tools for different recurring problem structures.
 
