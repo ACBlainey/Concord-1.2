@@ -27,3 +27,28 @@ Candidate levels are organisational development states, not quality rankings.
 A candidate remains here while being developed. Once its sources, dependencies, scope, interfaces, limitations, provenance and standalone presentation are sufficiently resolved, the completed portable module may be migrated to the main `06_Portable_Modules` area.
 
 This inventory is intentionally incomplete. The corpus-wide portable-module scan is continuing, and additional candidates may be added or reclassified.
+
+
+---
+
+## Completed development records
+
+Once a candidate has completed its graduation review and a standalone portable module has been released in the main `06_Portable_Modules` area, its development folder is moved to:
+
+`00_DEVELOPMENT/99_COMPLETED/`
+
+The completed area preserves the candidate's original development-level classification:
+
+- `Level_A_Complete_Portable_Protocols/`
+- `Level_B_Extractable_Architectures/`
+- `Level_C_Embedded_Primitives_and_Mechanisms/`
+
+This creates a simple operational distinction:
+
+> **Visible in Level A/B/C under 00_DEVELOPMENT = still in the portable-module development queue.**
+
+> **Visible under 99_COMPLETED = development/graduation record preserved; standalone release exists.**
+
+Moving a folder to `99_COMPLETED` does not mean the module is empirically validated, permanently fixed, or incapable of later revision. It means the current portable-package development cycle has completed at its stated evidential level.
+
+Completed development records should not be deleted. They preserve source resolution, test briefs, independent responses, evaluations, revisions and graduation decisions.
