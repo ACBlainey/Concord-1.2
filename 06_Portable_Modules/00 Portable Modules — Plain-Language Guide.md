@@ -513,6 +513,57 @@ It also does not require a formal permission record for every ordinary low-conse
 
 ---
 
+# 11. KCS Change Propagation
+
+## Plain-English name
+
+**Work out what else needs checking when something important changes.**
+
+## What does it do?
+
+KCS Change Propagation helps a complex system trace the consequences of change through its dependencies without assuming that everything connected to the changed item has automatically failed.
+
+Its basic pattern is:
+
+> **Something changes → identify what materially depends on it → review those dependents → continue only where the effect is material.**
+
+It is particularly useful where software, evidence, data, procedures, infrastructure, models or other systems depend on one another.
+
+## Simple example
+
+A software library used by several services is corrected after a defect is discovered.
+
+KCS Change Propagation does not simply declare every connected service broken.
+
+Instead, it asks which services actually use the affected part of the library. A service that never uses the defective feature may need no further action. A service that does use it requires review. Only if that service's state materially changes does the review continue to systems that depend on its output.
+
+The result is a bounded review chain rather than either ignoring the change or triggering an uncontrolled cascade.
+
+## Where could it be applied?
+
+Potential applications include software dependencies, engineering systems, research evidence, data and model pipelines, standards and procedures, infrastructure, organisational architecture, configuration management, recovery systems and other environments where changes can have downstream consequences.
+
+## Use it when
+
+Use KCS Change Propagation when changing one object may affect others and you need to know:
+
+- what materially depends on the changed object;
+- which downstream items actually require review;
+- where propagation can safely stop;
+- where uncertainty or failure requires further investigation;
+- whether an alternative genuinely satisfies the dependency;
+- how to preserve history while updating current state.
+
+## What it does not do
+
+It does not automatically invalidate everything downstream, decide organisational priorities, allocate authority, determine legal or ethical legitimacy, prove that the dependency map is complete, or execute whatever remedy a review suggests.
+
+A dependency tells you that something may need reconsideration. It does not make the upstream object the ruler of everything that depends on it.
+
+**Formal module:** *KCS Change Propagation — Portable Module*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -536,6 +587,8 @@ Several modules may appear applicable to the same problem because they operate a
 **Exit Interview Protocol** asks: *What can we legitimately learn from someone leaving without obstructing the exit, overstating their evidence or turning feedback into authority?*
 
 **Fractal Permission Architecture** asks: *Who may perform this particular action in this particular context, for what function, under what legitimate basis and conditions—and when does that permission end?*
+
+**KCS Change Propagation** asks: *When this thing changes, what materially depends on it, what actually needs review, and how far should that review propagate?*
 
 They are therefore not competing solutions to one problem. They are reusable tools for different recurring problem structures.
 
