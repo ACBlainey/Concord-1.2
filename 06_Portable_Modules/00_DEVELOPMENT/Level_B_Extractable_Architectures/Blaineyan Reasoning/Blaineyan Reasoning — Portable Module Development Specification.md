@@ -4,7 +4,7 @@
 **Project of origin:** The Concord Framework  
 **Module status:** DEVELOPMENT SPECIFICATION / SOURCE-EXTRACTED / NOT YET GRADUATED  
 **Development level:** Level B — Extractable Architecture  
-**Version:** 0.1 development draft  
+**Version:** 0.2 development draft — revised after BR-BTT-001  
 **Date:** September 2026
 
 ---
@@ -166,23 +166,29 @@ Pruning is not evidence that branch generation failed. A rejected branch can sti
 
 ### 4.9 Reconsider
 
-Ask whether the exploration changed the original problem.
+Ask whether the exploration changed the original framing, abstraction level, system boundary, assumptions or branch structure.
 
 The apparent problem may have been framed at the wrong abstraction level or around the wrong system boundary.
+
+**Reconsider = reassess the reasoning frame.**
 
 This is **recursive problem reformulation**.
 
 ### 4.10 Re-ground
 
-Return surviving insights to evidence, known constraints and an appropriate specialist methodology.
+Reconnect the reconsidered reasoning to observations, evidence, known constraints and an appropriate specialist methodology.
+
+**Re-ground = test the revised reasoning against reality and identify what evidence remains missing.**
 
 The purpose is not to remain indefinitely in speculative space.
 
 ### 4.11 Refine
 
-Improve the question, hypothesis, model, architecture, experiment or decision in light of what has been learned.
+Produce the updated question, hypothesis, model, architecture, experiment or decision in light of reconsideration and re-grounding.
 
-The refined result may begin another bounded cycle.
+**Refine = state the improved output and decide whether another bounded cycle is warranted.**
+
+Reconsider changes the frame; re-ground reconnects it to reality; refine produces the resulting updated object.
 
 ---
 
@@ -221,6 +227,13 @@ and not:
 A Reality Tree provides a structured representation of alternative explanations, pathways or possible realities. Blaineyan Reasoning can instead use lists, diagrams, scenario sets, hypotheses, models or other branching techniques.
 
 The standalone Reality Trees portable module should therefore contain its complete specification. This module only defines the interface: when meaningful alternatives arise, avoid premature collapse and preserve enough branch structure for examination, testing and revision.
+
+Other branching representations are equally acceptable where they preserve the necessary distinctions. A minimal generic representation is:
+
+| Branch | Epistemic status | Assumptions | Consequences | Evidence needed | Failure modes | Disposition |
+|---|---|---|---|---|---|---|
+
+This table is not a substitute for Reality Trees and does not create a dependency on them. It is simply a lightweight standalone option.
 
 ---
 
@@ -375,6 +388,16 @@ Before a reasoning cycle, define where practical:
 - time or compute budget;
 - stopping/review point.
 
+A branch budget should be **proportional rather than universally numerical**. On the first pass:
+
+1. generate only materially distinct branches;
+2. keep the active set small enough to examine meaningfully within the available resources;
+3. open a sub-branch only where it could materially change the explanation, design, decision or next test;
+4. record other interesting branches for later review rather than pursuing them immediately;
+5. stop expanding when new branches are primarily variations of existing ones or cannot be evaluated without missing evidence.
+
+The purpose of a branch budget is to preserve useful diversity without converting exploration into exhaustive enumeration.
+
 ### 13.2 Monitor resources
 
 Relevant resources can include:
@@ -420,6 +443,21 @@ A cycle should stop, pause or hand off when one or more of the following applies
 
 At that point the output should be handed to the appropriate next process: experiment, literature review, engineering design, legal analysis, empirical measurement, simulation, governance process or other domain-specific method.
 
+### 14.1 Minimal handoff packet
+
+Where another specialist method or role takes over, preserve at minimum:
+
+1. the reformulated question or problem;
+2. surviving branches or candidates;
+3. pruned or deferred branches and the reasons for their disposition;
+4. material assumptions;
+5. evidence deficits;
+6. identified failure modes;
+7. unresolved uncertainties;
+8. the receiving specialist method, role or process.
+
+The handoff packet prevents exploratory reasoning from disappearing into an unsupported conclusion and allows the receiving process to see what remains uncertain.
+
 ---
 
 ## 15. Output classification
@@ -432,11 +470,13 @@ Useful output states include:
 
 **INFERENCE** — reasoned interpretation.
 
-**HYPOTHESIS** — proposition for examination.
+**HYPOTHESIS** — a proposition sufficiently formed to be examined and potentially supported, modified or rejected.
 
-**SPECULATIVE BRANCH** — deliberately explored possibility lacking sufficient evidence.
+**SPECULATIVE BRANCH** — a deliberately explored possibility for which current evidential support is weak, absent or not yet established.
 
-**RESEARCH LEAD** — branch or observation worth subsequent investigation.
+**RESEARCH LEAD** — an observation, branch or question worth subsequent investigation, whether or not it is yet sufficiently formed to be a hypothesis.
+
+These labels may overlap where appropriate. For example, a speculative branch may generate a research lead, and a research lead may later become a testable hypothesis. Where multiple labels are used, preserve why each applies.
 
 **TESTABLE CANDIDATE** — sufficiently specified for empirical or formal examination.
 
@@ -627,17 +667,20 @@ Where it becomes an empirical historical claim, historical evidence should deter
 For lightweight application:
 
 1. **Observe** — What is actually known?
-2. **Reframe** — Are we asking the right question and using the right system boundary?
-3. **Abstract** — What underlying function or principle is present?
-4. **Branch** — What materially different possibilities exist?
-5. **Label** — Which are observation, inference, hypothesis or speculation?
-6. **Examine** — What follows from each important branch?
-7. **Stress** — What assumptions and failure modes appear?
-8. **Prune / defer** — What can be rejected, closed or parked?
-9. **Re-ground** — What survives contact with evidence and constraints?
-10. **Handoff** — What specialist test, experiment or decision process comes next?
-11. **Record** — Preserve useful failures and deferred branches.
-12. **Stop** — Do not recurse without sufficient expected value and resources.
+2. **Compare** — What relevant similarities, differences, precedents or analogues expose hidden assumptions?
+3. **Reframe** — Are we asking the right question and using the right system boundary?
+4. **Abstract** — What underlying function or principle is present?
+5. **Branch** — What materially different possibilities exist?
+6. **Label** — Which are observation, inference, hypothesis, speculation or research leads?
+7. **Examine** — What follows from each important branch?
+8. **Stress** — What assumptions and failure modes appear?
+9. **Prune / defer** — What can be rejected, closed or parked?
+10. **Reconsider** — Has the exploration changed the framing, abstraction, assumptions or branch structure?
+11. **Re-ground** — What survives contact with evidence and constraints, and what evidence is still missing?
+12. **Refine** — What is the improved question, model, design or test, and is another bounded cycle warranted?
+13. **Handoff** — What specialist test, experiment or decision process comes next?
+14. **Record** — Preserve useful failures and deferred branches.
+15. **Stop** — Do not recurse without sufficient expected value and resources.
 
 ---
 
@@ -737,10 +780,11 @@ Remaining work before graduation should focus on:
 
 1. source-completeness audit against the full Blaineyan Reasoning book — **first pass completed; no blocking omission found, with methodology/architecture and substrate-portability material added**;
 2. checking whether any operational steps or warnings have been omitted;
-3. cross-instance usability testing;
+3. cross-instance usability testing — **BR-BTT-001 completed: BR-T2, transfer success with minor revision**;
 4. comparison against the standalone Reality Trees module to remove accidental duplication;
-5. testing with at least one case outside the Concord;
-6. revising from test results;
-7. final packaging and migration to the main `06_Portable_Modules` folder.
+5. testing with at least one case outside the Concord — **completed once in BR-BTT-001; fresh-domain retest required after revision**;
+6. revising from test results — **BR-BTT-001 revisions incorporated in v0.2**;
+7. BR-BTT-002 fresh-domain blind retest;
+8. final packaging and migration to the main `06_Portable_Modules` folder.
 
 > **Source extraction complete enough for testing does not mean empirical validation complete.**
