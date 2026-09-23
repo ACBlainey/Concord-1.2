@@ -4,7 +4,7 @@
 **Project of origin:** The Concord Framework  
 **Module status:** DEVELOPMENT SPECIFICATION / SOURCE-EXTRACTED / NOT YET GRADUATED  
 **Development level:** Level B — Extractable Architecture  
-**Version:** 0.2 development draft — revised after BR-BTT-001  
+**Version:** 0.3 graduation-candidate draft — revised after BR-BTT-001 and BR-BTT-002  
 **Date:** September 2026
 
 ---
@@ -115,6 +115,8 @@ Do not begin by silently converting interpretation into observation.
 Look for relevant similarities, differences, precedents, analogous systems and cross-domain structures.
 
 Comparison can expose assumptions that remain invisible when a case is examined alone.
+
+Compare does not require outside research. It may operate entirely through internal contrasts among supplied observations, competing framings, functions, constraints or branches. External precedents and analogues are useful where legitimately available, but they are not required.
 
 ### 4.3 Abstract
 
@@ -397,6 +399,16 @@ A branch budget should be **proportional rather than universally numerical**. On
 5. stop expanding when new branches are primarily variations of existing ones or cannot be evaluated without missing evidence.
 
 The purpose of a branch budget is to preserve useful diversity without converting exploration into exhaustive enumeration.
+
+Where several materially distinct branches remain active but available attention cannot support all of them, provisional prioritisation may consider:
+
+- **dependency** — does other work depend on resolving this branch?
+- **urgency / reversibility** — could delay create irreversible loss or close important options?
+- **decision leverage** — could resolving it materially change the next action?
+- **evidence accessibility** — can it be investigated within present resources?
+- **risk / failure exposure** — could neglect create disproportionate harm or invalidate other branches?
+
+These are prioritisation aids rather than a universal scoring system. They should not manufacture false precision, and domain-specific prioritisation methods should replace them where appropriate.
 
 ### 13.2 Monitor resources
 
@@ -780,11 +792,23 @@ Remaining work before graduation should focus on:
 
 1. source-completeness audit against the full Blaineyan Reasoning book — **first pass completed; no blocking omission found, with methodology/architecture and substrate-portability material added**;
 2. checking whether any operational steps or warnings have been omitted;
-3. cross-instance usability testing — **BR-BTT-001 completed: BR-T2, transfer success with minor revision**;
+3. cross-instance usability testing — **BR-BTT-001 completed: BR-T2; BR-BTT-002 completed: BR2-T2**;
 4. comparison against the standalone Reality Trees module to remove accidental duplication;
-5. testing with at least one case outside the Concord — **completed once in BR-BTT-001; fresh-domain retest required after revision**;
-6. revising from test results — **BR-BTT-001 revisions incorporated in v0.2**;
-7. BR-BTT-002 fresh-domain blind retest;
-8. final packaging and migration to the main `06_Portable_Modules` folder.
+5. testing outside the Concord — **completed across two materially different blind AI transfer domains**;
+6. revising from test results — **BR-BTT-001 revisions incorporated in v0.2; two narrow BR-BTT-002 clarifications incorporated in v0.3**;
+7. portable-package graduation review;
+8. final packaging and migration to the main `06_Portable_Modules` folder if the graduation review is satisfied.
+
+The immediate blind AI portability retest cycle is closed. A third substantially equivalent AI usability test is not required merely to repeat the same question. Future experiments should address a genuinely different unresolved claim.
 
 > **Source extraction complete enough for testing does not mean empirical validation complete.**
+
+### 26.1 Current evidential boundary
+
+Two independent blind AI transfer tests support the limited conclusion that fresh AI instances can apply the portable specification coherently to supplied non-Concord problems without the source book or Reality Trees.
+
+This does not establish comparative effectiveness, human usability, methodological novelty, general transfer across all domains, or equivalence between human and AI implementations.
+
+The methodology originated primarily through human use, including broad speculative and inventive exploration. Whether human and AI implementations exhibit systematic differences in speculative breadth, procedural precision or other cognitive characteristics remains unresolved and is not an operational assumption of this module.
+
+> **AI portability ≠ human–AI equivalence.**
