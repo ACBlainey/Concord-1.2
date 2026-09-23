@@ -1,7 +1,7 @@
 # Minimum Necessary Capability — Portable Architecture Specification
 
-**Version:** 0.1  
-**Status:** PORTABLE ARCHITECTURE CANDIDATE / BLIND TRANSFER TEST REQUIRED  
+**Version:** 0.2  
+**Status:** PORTABLE ARCHITECTURE CANDIDATE / POST-TRANSFER REVISION / GRADUATION REVIEW REQUIRED  
 **Development class:** Level B — Extractable Architectures  
 **Source lineage:** Concord Minimum Necessary Capability architecture and related authority/permission architecture  
 **Date:** September 2026
@@ -168,6 +168,10 @@ Before adding capability, determine whether the function can already be performe
 
 The existence of a faster or easier option does not by itself prove that additional consequential capability is necessary.
 
+An actor may require professional or operational judgement in deciding how to exercise capability already granted. That does not itself authorise the actor to enlarge the capability.
+
+> **Operational Discretion Within Capability ≠ Authority to Expand Capability.**
+
 ---
 
 ## 9. Step 4 — Demonstrate need
@@ -193,6 +197,10 @@ Ask:
 > **What is the least capability that remains sufficient to perform the legitimate function reliably to the required standard under reasonably foreseeable conditions?**
 
 The floor must account for actual operating conditions rather than ideal conditions only.
+
+The floor describes the minimum **positive abilities** required to perform the function. Restrictions such as prohibited delegation, excluded data or maximum persistence belong to the capability boundary or justified ceiling rather than to the floor itself.
+
+> **Capability Floor ≠ Capability Boundary/Ceiling.**
 
 A capability below this floor creates under-capability.
 
@@ -307,6 +315,10 @@ Then test systemically:
 
 > **What effective capability emerges when it combines with other capabilities?**
 
+Where reasonably feasible, perform this aggregate check **before or at activation** of consequential capability rather than waiting for later review. Inspect known overlapping roles, credentials, delegated access and persistent permissions.
+
+This requirement does not assume omniscience. Unknown or hidden capability remains a review risk.
+
 Consider combinations with:
 
 - other permissions;
@@ -356,6 +368,10 @@ The greater the consequence, intrusion, persistence or uncertainty, the stronger
 - contestability;
 - expiry;
 - independent scrutiny.
+
+Logs, audit trails and other records support provenance and accountability, but they do not create legitimacy by themselves.
+
+> **Logging Capability Exercise ≠ Legitimising Capability Exercise.**
 
 The architecture does not require one universal oversight institution.
 
@@ -705,6 +721,8 @@ It may not yet claim to:
 - work across all cultures or legal systems;
 - or transfer reliably across all non-Concord contexts.
 
-The next evidential step is a frozen blind transfer test in a non-Concord domain where both excessive restriction and excessive capability are plausible.
+MNC-BTT-001 supplied bounded transfer evidence: a fresh AI instance coherently applied v0.1 to a non-Concord technical-organisational capability-design problem involving under-capability, over-capability, aggregate credentials, temporary escalation and self-justification. The test exposed four narrow clarifications now incorporated into v0.2.
 
-> **Source completeness ≠ portable transfer ≠ empirical validation.**
+The next development gate is portable-package graduation review.
+
+> **Source completeness ≠ bounded portable transfer ≠ empirical validation.**
