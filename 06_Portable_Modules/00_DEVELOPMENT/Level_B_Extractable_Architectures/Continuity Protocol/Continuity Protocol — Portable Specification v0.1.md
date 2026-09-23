@@ -1,7 +1,7 @@
-# Continuity Protocol — Portable Specification v0.2
+# Continuity Protocol — Portable Specification v0.3
 
-**Version:** 0.2  
-**Status:** DEVELOPMENT SPECIFICATION / BTT-001 STRONG TRANSFER / BTT-002 PENDING  
+**Version:** 0.3  
+**Status:** GRADUATION-CANDIDATE SPECIFICATION / BTT-001 STRONG TRANSFER / BTT-002 GRADUATION-CANDIDATE TRANSFER  
 **Development level:** Level B — Extractable Architecture  
 **Date:** 23 September 2026  
 **Origin:** Extracted from the Concord continuity architecture; designed for independent use outside the Concord.
@@ -160,6 +160,10 @@ If degraded operation is allowed, define the smallest explicitly authorised func
 
 The applicable domain or legitimate authority supplies the MAF. The Continuity Protocol does not invent it.
 
+MAF must describe the **complete minimum acceptable function**, not merely a headline capacity measure. Where relevant, it should include required destination/delivery, quality, safety, provenance or other conditions that make the function acceptable in context.
+
+> **Minimum Output Quantity ≠ Minimum Acceptable Function Unless the Declared MAF Says So**
+
 ---
 
 ## 5. Continuity-object resolution
@@ -234,7 +238,15 @@ For example, an archive may be accessible and interpretable while the service th
 
 > **High Component State ≠ High System Recovery State**
 
-### 6.2 Technical actionability versus current validity
+### 6.2 Standby versus operational state
+
+CS6 means the audited function is **presently operating in the audited role**.
+
+A standby system that has successfully operated during a test but is not presently carrying the target function remains CS5 for the recovery role.
+
+> **Demonstrated Operation in Test ≠ Present Operational State**
+
+### 6.3 Technical actionability versus current validity
 
 An artefact may be technically usable while being obsolete, superseded, unauthorised or otherwise invalid for current restoration.
 
@@ -358,6 +370,10 @@ Also record functional criticality where it can be established:
 Do not label an unresolved dependency fatal merely because no substitute has yet been found.
 
 Criticality is relative to the continuity object, disruption envelope, RTO, RPO and MAF.
+
+Evaluate criticality against the **set of evidenced recovery paths**. A dependency may be critical to one recovery path while not being critical to the overall target if another sufficiently evidenced path bypasses it.
+
+> **Critical to One Path ≠ Necessarily Critical to Every Recovery Path**
 
 ---
 
@@ -903,6 +919,10 @@ Available evidence is insufficient to classify the continuity state.
 
 Multiple classifications may apply to different sub-functions of the same system.
 
+A declared continuity target is sufficient only when **all mandatory target dimensions for that audit** are satisfied. A sub-function may independently satisfy CP-C1 while the aggregate target remains below target because another mandatory dimension fails.
+
+> **Partial Target Success ≠ Aggregate Target Success**
+
 ### Classification decomposition rule
 
 CP-C2, CP-C7 and CP-C9 are not mutually exclusive:
@@ -912,6 +932,8 @@ CP-C2, CP-C7 and CP-C9 are not mutually exclusive:
 - **C9** identifies insufficient verification for a continuity claim.
 
 Decompose the problem rather than forcing one label onto the entire system.
+
+Using C2, C7 and C9 together is not contradictory when each describes a different proposition: aggregate state, dependency condition and evidential status respectively.
 
 ---
 
@@ -979,13 +1001,21 @@ It does not itself:
 
 ## 34. Validation status
 
-Version 0.2 is a source-resolved development specification revised after CP-BTT-001.
+Version 0.3 is a source-resolved graduation-candidate specification revised after CP-BTT-001 and CP-BTT-002.
 
 CP-BTT-001 produced **STRONG TRANSFER**, with all 20 frozen predictions materially confirmed.
 
 The test also exposed bounded refinements now integrated into v0.2: disruption envelope, RTO/RPO, MAF, object-relative CS classification, dependency evidence/criticality, C2/C7/C9 decomposition, tighter C4 and clarified C6.
 
-A second blind transfer test is required before graduation.
+CP-BTT-002 produced **GRADUATION-CANDIDATE TRANSFER**, with all 22 frozen predictions materially confirmed.
+
+Combined blind-test record:
+
+- CP-BTT-001: 20/20 frozen predictions materially confirmed;
+- CP-BTT-002: 22/22 frozen predictions materially confirmed;
+- total: **42/42 frozen predictions materially confirmed across two materially different non-Concord domains**.
+
+BTT-002 exposed only bounded classification clarifications, now integrated into v0.3: standby CS5/CS6, aggregate versus partial target success, complete MAF scope, alternative-path dependency criticality and non-contradictory C2/C7/C9 combinations.
 
 Current supported claim:
 
@@ -993,13 +1023,13 @@ Current supported claim:
 
 Supported at this stage:
 
-> **The portable specification has demonstrated strong independent transfer in one frozen non-Concord blind test.**
+> **The portable specification has demonstrated strong independent transfer across two frozen non-Concord blind tests and has reached graduation-candidate status.**
 
 Not yet supported:
 
-> **The module has completed the portable-development validation threshold for graduation.**
+> **The module is a graduated portable release.**
 
-That claim requires at least the planned second blind transfer test and subsequent review.
+That claim requires the portable-package graduation review and release decision.
 
 ---
 
@@ -1023,24 +1053,25 @@ Development record:
 - `Continuity Protocol — Blind Transfer Test 001 — Expected Findings and Evaluation Key.md`
 - `Continuity Protocol — Blind Transfer Test 001 — Independent Response.md`
 - `Continuity Protocol — Blind Transfer Test 001 — Post-Test Evaluation.md`
+- `Continuity Protocol — Blind Transfer Test 002 — Delta Test Brief.md`
+- `Continuity Protocol — Blind Transfer Test 002 — Expected Findings and Evaluation Key.md`
+- `Continuity Protocol — Blind Transfer Test 002 — Independent Response.md`
+- `Continuity Protocol — Blind Transfer Test 002 — Post-Test Evaluation.md`
 
 ---
 
 ## 36. Development next step
 
-Freeze CP-BTT-002 before obtaining an independent response.
+Perform the **Portable-Package Graduation Review** against v0.3.
 
-The second test should use a materially different non-Concord domain and pressure the v0.2 refinements, including:
+The review should verify:
 
-- slow degradation rather than only sudden disaster;
-- RTO/RPO conflict;
-- Minimum Acceptable Function;
-- disruption-envelope specificity;
-- a documented but unavailable dependency;
-- an inferred dependency that proves unnecessary;
-- succession with legitimate authority but incomplete knowledge handoff;
-- recovery that meets RTO but violates RPO;
-- technically actionable but invalid historical state;
-- a continuity mechanism that itself becomes obsolete.
+- standalone completeness;
+- removal of hidden Concord dependencies;
+- internal consistency of CS and CP classifications;
+- bounded claims and non-authority boundary;
+- provenance and development-test record;
+- absence of unresolved release blockers;
+- suitability for migration to the main portable-module folder as v1.0.
 
-The expected findings must again be frozen before the independent response is examined.
+No third blind transfer test is currently indicated by the development evidence.
