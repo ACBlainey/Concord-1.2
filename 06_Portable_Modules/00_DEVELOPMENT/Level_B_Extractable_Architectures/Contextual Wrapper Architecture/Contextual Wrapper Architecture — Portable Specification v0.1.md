@@ -3,7 +3,7 @@
 **Module:** Contextual Wrapper Architecture (CWA)  
 **Development level:** Level B — Extractable Architecture  
 **Specification status:** DEVELOPMENT / PORTABLE EXTRACTION CANDIDATE / NOT YET GRADUATED  
-**Version:** 0.2  
+**Version:** 0.3  
 **Date:** September 2026  
 **Project origin:** The Concord  
 **Author:** Alexander C. Blainey
@@ -32,7 +32,7 @@ This specification extracts the contextual-wrapper mechanism from the Concord. I
 
 ## 2. Developmental status and epistemic boundary
 
-This is a **v0.2 development specification**.
+This is a **v0.3 development specification**.
 
 It defines a candidate portable architecture suitable for adversarial and cross-domain testing. It does **not** establish that the architecture is universal, complete or empirically validated.
 
@@ -779,6 +779,187 @@ Where participation is not genuinely voluntary, the wrapper MUST NOT represent m
 
 ---
 
+## 12A. Functional permission and minimum necessary permission
+
+A legitimate function does not automatically require authority.
+
+Many ordinary interactions can be performed through bounded permission rather than control over another participant, space, resource or system.
+
+The source architecture therefore distinguishes:
+
+> **Functional Permission ≠ Contextual Authority**
+
+> **Permission to Enter ≠ Permission to Use**
+
+> **Permission for One Function ≠ Permission for Unrelated Functions**
+
+> **Permission to Use ≠ Authority to Control**
+
+> **Capability to Enter ≠ Permission to Enter**
+
+> **Physical Access ≠ Legitimate Access**
+
+### 12A.1 Function-derived permission
+
+A participant may possess a limited permission because a legitimate function reasonably requires a particular interaction with a space, resource, participant, information context or capability.
+
+The portable chain is:
+
+**Legitimate Function**  
+→ **Genuine Functional Need**  
+→ **Reasonably Necessary Interaction**  
+→ **Minimum Necessary Permission**  
+→ **Function-Bounded Activity**  
+→ **Function Completion / Other Basis Ends**  
+→ **Permission Terminates**
+
+A claimed function does not legitimate itself merely because access would make that function easier.
+
+### 12A.2 Minimum necessary permission
+
+> **Where access or activity is justified by a particular function, the resulting permission should normally extend only as far as reasonably necessary to perform that legitimate function.**
+
+Permission may therefore be narrower than physical capability and narrower than general access to the surrounding context.
+
+For ordinary civil access:
+
+**Legitimate Function → Required Interaction → Need for Permission → Minimum Necessary Permission → Bounded Contextual Access**
+
+This is structurally parallel to, but distinct from:
+
+**Legitimate Objective → Required Function → Need for Authority → Minimum Necessary Authority → Bounded Contextual Authority**
+
+### 12A.3 Permission-before-authority gate
+
+Before CWA represents a need for authority, it SHOULD ask:
+
+1. What legitimate function is being performed?
+2. What interaction is genuinely required?
+3. Can the function be performed through ordinary public access, voluntary interaction or consent?
+4. Is explicit permission already present?
+5. Is a bounded implied/function-derived permission reasonably established?
+6. What is the minimum permission reasonably necessary?
+7. Does the function actually require authority beyond permission?
+
+The default routing principle is:
+
+**Function**  
+→ **Ordinary / Explicit / Implied / Relationship / Contractual / Emergency Permission Sufficient?**  
+→ if **YES: Minimum Necessary Permission**  
+→ if **NO: Test Whether Authority Is Genuinely Required**
+
+> **Legitimate Function ≠ Special Authority Required**
+
+CWA MUST NOT manufacture authority where bounded permission is sufficient.
+
+### 12A.4 Implied permission
+
+Ordinary civil interaction cannot depend upon explicit negotiation for every routine action.
+
+Where a function is ordinary, legitimate, reasonably expected and requires limited interaction to perform, bounded contextual permission MAY be implied unless:
+
+- it has been explicitly restricted;
+- the participant has relevant notice to the contrary;
+- conflicting rights or protections apply;
+- applicable law or rules require a different basis;
+- the proposed interaction exceeds what the function reasonably requires.
+
+> **Implied Permission Should Be Function-Bounded.**
+
+> **Function Completion Should Normally Terminate Function-Derived Permission.**
+
+### 12A.5 Permission is action-specific
+
+CWA SHOULD NOT treat “access” as one indivisible permission.
+
+Where material, a contextual permission relationship may distinguish:
+
+**Approach | Traverse | Enter | Remain | Observe | Interact | Use | Inspect | Record | Modify | Remove | Exclude | Authorise**
+
+Additional domain-specific actions may be added.
+
+Possession of one permission does not imply possession of another.
+
+> **Access ≠ Single Permission**
+
+A permitted destination does not necessarily create permission to use every route to it.
+
+A permitted route for one function does not create a general right of passage.
+
+### 12A.6 Permission claim
+
+Where greater precision is needed, CWA MAY represent permission as:
+
+> **Participant P may perform Action A in Context/Space S for Function F under Conditions C during Time T on Legitimate Basis B.**
+
+This prevents a narrow permission from silently becoming a general entitlement.
+
+### 12A.7 Permission provenance
+
+Where material, distinguish the basis of permission:
+
+- legal requirement;
+- owner/steward rule;
+- explicit consent;
+- contractual condition;
+- relationship permission;
+- cultural convention;
+- contextual inference / implied permission;
+- responsibility-derived access;
+- emergency necessity;
+- another established legitimate basis.
+
+> **Rule Content ≠ Rule Source**
+
+Similar physical actions may therefore have different permission bases, termination conditions and remedy paths.
+
+### 12A.8 Reasonableness and anti-self-justification
+
+“Need” is not a magic word.
+
+The proposed interaction must bear a reasonable relationship to a legitimate function and remain proportionate to what that function requires.
+
+For example, a delivery function may reasonably support approaching, traversing or briefly stopping on a private driveway where that is ordinarily necessary to perform the delivery. It does not thereby support unrelated occupation, storage, exclusion of the owner or control of the driveway.
+
+Likewise, an actor's own commercial function cannot manufacture permission to use an unrelated participant's private resource merely because doing so would be convenient.
+
+> **A function may explain why access is desired without establishing a legitimate basis for that access.**
+
+### 12A.9 Permission termination and abuse boundary
+
+Where permission derives from a particular function:
+
+**Function Completed / Abandoned / Legitimate Basis Ends**  
+→ **Function-Derived Permission Normally Terminates**
+
+Continued activity must then rely on another legitimate permission basis or be represented as lacking the expired basis.
+
+CWA SHOULD distinguish:
+
+**No Valid Permission Basis Ever Existed**
+
+from:
+
+**Valid Permission Existed → Basis Ended → Continued Activity Lacks That Permission Basis**
+
+CWA identifies the contextual state. It does not invent the applicable legal remedy.
+
+### 12A.10 Relationship to private and nested spaces
+
+Private classification does not imply zero legitimate interaction, and physical accessibility does not imply permission.
+
+A private space may simultaneously support different permission relationships for different participants and functions.
+
+> **Spatial Classification ≠ Access Classification**
+
+> **Open Boundary ≠ Granted Permission**
+
+> **Parent Access ≠ Child Access**
+
+This allows ordinary low-friction interaction while preserving protection against permission creep.
+
+---
+
 ## 13. Contextual authority
 
 Where local authority is necessary, CWA uses the following bounded pattern:
@@ -969,6 +1150,7 @@ The router proceeds:
 **Conflict Detected**  
 → **Material Conflict?**  
 → **Identify / Decompose Decision Object(s)**  
+→ **Permission-Before-Authority Gate: Can the relevant function be satisfied through legitimate bounded permission rather than authority?**  
 → **Applicable Protected Constraint?**  
 → **Protective Threshold Activated?**  
 → **Emergency Context?**  
@@ -1095,6 +1277,7 @@ The full extraction and provenance of this router are recorded in:
 
 - *Contextual Wrapper Architecture — Wider Concord Precedence Source Resolution 001*
 - *Contextual Wrapper Architecture — Precedence Resolution Router — Source Extraction 001*
+- *Contextual Wrapper Architecture — Functional Permission Source-Recovery Audit 001*
 
 ---
 
@@ -1676,9 +1859,13 @@ These questions MUST NOT be silently answered by v0.2.
 ↓  
 **LEGITIMATE BASIS / CONSENT WHERE REQUIRED**  
 ↓  
-**BOUNDED PERMISSION + RESTRICTION**  
+**FUNCTION + GENUINE NEED + REASONABLENESS TEST**  
 ↓  
-**BOUNDED AUTHORITY + RESPONSIBILITY**  
+**MINIMUM NECESSARY / FUNCTION-DERIVED PERMISSION WHERE SUFFICIENT**  
+↓  
+**PERMISSION-BEFORE-AUTHORITY GATE**  
+↓  
+**BOUNDED AUTHORITY + RESPONSIBILITY ONLY WHERE GENUINELY REQUIRED**  
 ↓  
 **CONTEXTUAL OPERATION**  
 ↓  
@@ -1705,9 +1892,11 @@ For multiple contexts:
 
 ---
 
-## 30. v0.2 transfer-test requirement
+## 30. Transfer-test requirement and BTT-002 provenance
 
-Before graduation, this specification should be tested blind in a scenario containing at minimum:
+BTT-002 was frozen and run against v0.2 before the Function-Derived Permission / Minimum Necessary Permission source recovery described in Section 12A. Its brief, expected-findings key and independent response remain immutable provenance and MUST NOT be retroactively rewritten to match v0.3.
+
+Before graduation, the architecture should be tested blind in a scenario containing at minimum:
 
 - multiple participant roles;
 - a physical boundary;
@@ -1771,7 +1960,11 @@ Candidate graduation requires evidence that:
 
 BTT-001 demonstrated strong transfer of the portable grammar but also exposed extraction losses created across source abstraction and instance handover. A subsequent ESCP-aware source-recovery audit found that several apparent v0.1c gaps — including emergency composition, temporary authority termination, representation divergence, proportional legibility, responsibility continuity and external-resolution boundaries — were already substantially developed in the original wrapper corpus.
 
-v0.2 therefore restores those source elements rather than treating them as newly invented architecture.
+v0.2 therefore restored those source elements rather than treating them as newly invented architecture.
+
+After BTT-002 was frozen and independently answered, a further user-identified driveway/delivery example triggered another ESCP source-resolution pass. That pass recovered the existing *Fractal Permission Architecture*, which already contained Function-Derived Permission, Minimum Necessary Permission, implied permission, action-specific permission, reasonableness, permission provenance and function-completion termination — including substantially the same delivery-worker/driveway example.
+
+v0.3 therefore adds this recovered permission architecture and a **Permission-Before-Authority Gate**. This is again classified as **SOURCE-PRESENT / UNDER-EXTRACTED**, not a newly invented source principle.
 
 The exact general precedence model was initially unresolved in the reviewed wrapper space. ESCP prevented that local result from being promoted to a claim of corpus-wide absence.
 
