@@ -411,6 +411,60 @@ It does not calculate legal or financial liability, determine universal standing
 
 ---
 
+# 9. Exit Interview Protocol
+
+## Plain-English name
+
+**Learn from people who leave without making leaving harder.**
+
+## What does it do?
+
+The Exit Interview Protocol helps a system learn from voluntary departure while protecting the departing person's freedom to leave.
+
+Its simplest principle is:
+
+> **Respect the exit; preserve the evidence; learn from patterns; route findings without turning learning into retention pressure.**
+
+It keeps several questions separate: what the departing person says, what evidence supports, whether similar cases form a pattern, what privacy permissions apply, and whether some separate legitimate process should review or act on the information.
+
+## Simple example
+
+A volunteer leaves a community project and says that one organiser repeatedly dismissed inexperienced contributors.
+
+The project can record that account, check any evidence the volunteer chooses to provide, and compare it with other legitimately retained feedback.
+
+But it should not say:
+
+> “Someone left and complained, therefore the organiser is guilty.”
+
+Nor should it say:
+
+> “Only one person complained, therefore it does not matter.”
+
+A serious single report may justify review, while a claimed pattern requires appropriate evidence and comparable cases. The volunteer must also remain free to leave without answering questions or agreeing to future contact.
+
+## Where could it be applied?
+
+Potential applications include voluntary organisations, teams, open-source projects, research collaborations, membership systems, online communities, federations, service programmes, institutional participation and other settings where learning from departure could improve a system.
+
+Specialised legal, employment, healthcare, safeguarding, education or regulated contexts still require their own domain-specific procedures.
+
+## Use it when
+
+Use the Exit Interview Protocol when people can voluntarily leave or withdraw and their experience may contain useful information that would otherwise disappear.
+
+It is particularly useful when you need to distinguish individual testimony from verified facts, isolated cases from recurring patterns, legitimate learning from retention pressure, and useful feedback from authority to impose a remedy.
+
+## What it does not do
+
+The protocol does not make an interview a condition of leaving, turn feedback into proof, create authority to punish or change the system, guarantee anonymity, or replace grievance, safeguarding, whistleblowing, legal or other specialised processes.
+
+Declining to give feedback also does not mean that no problem existed.
+
+**Formal module:** *Exit Interview Protocol — Portable Module*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -430,6 +484,8 @@ Several modules may appear applicable to the same problem because they operate a
 **Continuity Protocol** asks: *What must survive a disruption, and have we preserved enough to make the required function genuinely recoverable?*
 
 **Cross Boundary Externality Recognition** asks: *What consequence crossed a boundary, what does the evidence support, and what response is legitimate without manufacturing authority?*
+
+**Exit Interview Protocol** asks: *What can we legitimately learn from someone leaving without obstructing the exit, overstating their evidence or turning feedback into authority?*
 
 They are therefore not competing solutions to one problem. They are reusable tools for different recurring problem structures.
 
