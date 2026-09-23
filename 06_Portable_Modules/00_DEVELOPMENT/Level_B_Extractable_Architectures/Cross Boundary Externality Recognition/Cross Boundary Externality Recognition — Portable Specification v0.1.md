@@ -1,7 +1,7 @@
-# Cross Boundary Externality Recognition — Portable Specification v0.1
+# Cross Boundary Externality Recognition — Portable Specification v0.2
 
-**Version:** 0.1  
-**Status:** DEVELOPMENT SPECIFICATION / SOURCE-EXTRACTED / NOT YET GRADUATED  
+**Version:** 0.2  
+**Status:** DEVELOPMENT SPECIFICATION / POST-BTT-001 REVISION / NOT YET GRADUATED  
 **Development level:** Level B — Extractable Architecture  
 **Origin:** Concord Cross-Boundary Externality Recognition and Responsibility Mechanism (CBERRM)  
 **Date:** 23 September 2026
@@ -155,14 +155,15 @@ Do not erase an affected entity merely because another party disputes its classi
 
 ## 10. Standing to raise
 
-A case may be raised by:
+A case may be raised by parties occupying different standing roles, including:
 
-- a directly affected party;
-- a recognised representative;
-- a legitimate bounded system acting within its remit;
-- a shared-resource or infrastructure operator;
-- an agreed monitoring interface;
-- an evidence-bearing third party where the affected party cannot practically raise the issue.
+- **DIRECTLY-AFFECTED** — a party directly experiencing the claimed consequence;
+- **AUTHORISED-REPRESENTATIVE** — a party authorised to represent an affected party or population within a defined scope;
+- **CONSULTATION/ADVOCACY-STANDING** — a recognised consultation or advocacy body permitted to raise concerns without thereby possessing representative or decision authority;
+- **SYSTEM/OPERATOR-STANDING** — a legitimate bounded system, shared-resource operator or infrastructure operator acting within its remit;
+- **MONITORING-STANDING** — an agreed monitoring interface;
+- **EVIDENCE-BEARING-THIRD-PARTY** — a party presenting credible evidence where an affected party cannot practically raise the issue;
+- **DISPUTED/UNKNOWN** — standing or representation cannot yet be resolved.
 
 The threshold to open examination is deliberately weaker than the threshold to decide or impose a response.
 
@@ -211,6 +212,14 @@ No universal numeric confidence scale is required.
 
 Not every cross-boundary effect requires a formal response.
 
+Materiality must be evaluated against the **declared context and consequence under examination**. Where the available evidence does not support a stable material/non-material conclusion, record **MATERIALITY-UNCERTAIN** rather than forcing binary closure.
+
+Opening a candidate is a triage action, not a finding that escalation is required.
+
+> **Candidate Opened ≠ Escalation Required**
+
+
+
 Materiality may consider:
 
 - severity;
@@ -256,6 +265,10 @@ Distinguish:
 
 > **Ability to Reduce Harm ≠ Admission of Sole Responsibility**
 
+> **Responsibility Mapping ≠ Quantitative Apportionment**
+
+The module may represent contributors and responsibility states, but it does not calculate legal, financial, scientific or compensatory shares. Where proportional attribution is required, use an appropriate domain-specific method. Preserve UNKNOWN where the evidence cannot support apportionment.
+
 ## 15. Authority and coordination mapping
 
 After consequence and responsibility are represented, map what legitimate pathways actually exist.
@@ -285,6 +298,8 @@ Select the smallest response scope that is both:
 
 1. capable of addressing the demonstrated consequence; and
 2. independently legitimate for the actors undertaking it.
+
+Where no shared authority exists, “minimum necessary” is **actor-relative to independently legitimate authority**. Each actor may select a bounded response within its own legitimate domain. A shared response requires a legitimate shared interface or voluntary agreement; no hypothetical central evaluator gains authority merely by identifying a smaller response.
 
 Possible pathways include:
 
@@ -409,13 +424,47 @@ Preserve at minimum:
 
 Later agreement must not erase the provenance of earlier uncertainty.
 
-## 23. Candidate case record
+## 23. Boundary mapping
+
+A single incident may cross several nested or intersecting boundaries.
+
+For each claimed consequence, identify:
+
+- the **primary evaluated boundary** across which that consequence is being assessed;
+- any **secondary/dependency boundaries** materially relevant to causation, standing, authority or response.
+
+Different consequences arising from one incident may therefore require separate boundary mappings.
+
+> **One Incident ≠ One Boundary**
+
+## 24. Assertion state
+
+Individual assertions inside a valid externality case may have different evidential dispositions from the case as a whole.
+
+Candidate assertion states include:
+
+- SUPPORTED;
+- PARTIALLY-SUPPORTED;
+- UNSUPPORTED;
+- OVERSTATED;
+- CONTESTED;
+- REFUTED;
+- SUPERSEDED;
+- UNKNOWN.
+
+An unsupported or refuted subclaim does not automatically refute the underlying externality case.
+
+> **Assertion Disposition ≠ Case Disposition**
+
+This is an evidential/provenance function. It does not create authority to regulate speech or impose sanctions.
+
+## 25. Candidate case record
 
 **ExternalityCase = <ID, Origin, AffectedDomain, AffectedParties, Standing, Evidence, Causality, Materiality, Responsibility, Authority, ResponseScope, Participants, State, Review, Provenance>**
 
 This is a conceptual schema, not a mandated software format.
 
-## 24. Candidate case states
+## 26. Candidate case states
 
 A case may occupy states such as:
 
@@ -441,7 +490,7 @@ These states describe the case.
 
 > **Case State ≠ Grant of Authority**
 
-## 25. Output classifications
+## 27. Output classifications
 
 A portable application should be able to return one or more of:
 
@@ -481,67 +530,80 @@ Later evidence materially defeats or replaces the earlier case state.
 **CB-C12 — UNRESOLVED**  
 The available evaluation space is insufficient for a stronger classification.
 
+The classifications are **dimension-specific**, not a single mutually exclusive ladder:
+
+- **Evidence/consequence:** CB-C1, CB-C2, CB-C3;
+- **Responsibility:** CB-C4, CB-C5;
+- **Authority/coordination:** CB-C6, CB-C7, CB-C8, CB-C10;
+- **Participation:** CB-C9;
+- **Case disposition:** CB-C11;
+- **Evaluation-space closure:** CB-C12.
+
 Multiple classifications may coexist where they answer different questions.
 
-## 26. Failure modes
+> **Multiple Dimension Classifications ≠ Contradictory Case States**
 
-### 26.1 Authority laundering
+CB-C11 applies to the disposition of the case or a clearly defined case branch. Use the separate assertion-state vocabulary when only one claim inside a continuing case is unsupported, refuted or superseded.
+
+## 28. Failure modes
+
+### 28.1 Authority laundering
 
 A consequence claim is used to manufacture broad authority over another domain.
 
-### 26.2 Standing laundering
+### 28.2 Standing laundering
 
 Opening a case is treated as authority to represent every affected party.
 
-### 26.3 Recognition laundering
+### 28.3 Recognition laundering
 
 Communication or coordination is treated as broader political, organisational or legal recognition.
 
-### 26.4 Refusal laundering
+### 28.4 Refusal laundering
 
 Refusal to participate is treated as proof that no valid externality exists.
 
-### 26.5 Evidence laundering
+### 28.5 Evidence laundering
 
 Severity or moral salience is treated as proof of causation.
 
-### 26.6 Boundary denial
+### 28.6 Boundary denial
 
 A party treats effects outside its own boundary as irrelevant merely because they are external.
 
-### 26.7 Accusation as proof
+### 28.7 Accusation as proof
 
 Opening a candidate is treated as established harm or responsibility.
 
-### 26.8 Single-cause compression
+### 28.8 Single-cause compression
 
 Distributed causation is forced into one responsible actor.
 
-### 26.9 Remedy expansion
+### 28.9 Remedy expansion
 
 A bounded remedy becomes justification for general control.
 
-### 26.10 Scope contamination
+### 28.10 Scope contamination
 
 Failure in one issue unnecessarily contaminates unrelated relationships or domains.
 
-### 26.11 Uncertainty erasure
+### 28.11 Uncertainty erasure
 
 UNKNOWN or DISPUTED states are forced into false certainty.
 
-### 26.12 Mitigation-responsibility conflation
+### 28.12 Mitigation-responsibility conflation
 
 Capacity to help is treated as admission of sole fault.
 
-### 26.13 Non-participation paralysis
+### 28.13 Non-participation paralysis
 
 Refusal prevents evidence preservation or independently legitimate mitigation.
 
-### 26.14 Provenance loss
+### 28.14 Provenance loss
 
 Later resolution erases the earlier evidential state, disagreement or correction history.
 
-## 27. Adversarial checks
+## 29. Adversarial checks
 
 Reject the following inferences:
 
@@ -559,7 +621,7 @@ Reject the following inferences:
 
 Each inference collapses distinctions the module exists to preserve.
 
-## 28. Interfaces with other methods
+## 30. Interfaces with other methods
 
 This module may interface with, but does not require:
 
@@ -574,7 +636,7 @@ This module may interface with, but does not require:
 
 An interface must not silently transfer authority from one module or institution to another.
 
-## 29. Specialised domains
+## 31. Specialised domains
 
 Additional domain rules may be required for:
 
@@ -589,7 +651,7 @@ Additional domain rules may be required for:
 
 The portable module supplies the case architecture, not domain certification.
 
-## 30. Epistemic safeguards
+## 32. Epistemic safeguards
 
 The following safeguards are mandatory:
 
@@ -607,7 +669,7 @@ The following safeguards are mandatory:
 
 Where source or dependency resolution is incomplete, classify the field as UNKNOWN or UNRESOLVED rather than inventing closure.
 
-## 31. Minimum operating procedure
+## 33. Minimum operating procedure
 
 1. Define the boundary crossed.
 2. Record the signal/event and alleged consequence.
@@ -623,7 +685,7 @@ Where source or dependency resolution is incomplete, classify the field as UNKNO
 12. Preserve correction/review triggers.
 13. Update provenance and dependent decisions when the case changes.
 
-## 32. Minimal record
+## 34. Minimal record
 
 A minimal implementation should record:
 
@@ -646,7 +708,7 @@ A minimal implementation should record:
 - review trigger;
 - provenance.
 
-## 33. Portability claim
+## 35. Portability claim
 
 The architecture is intended to be usable outside Concord because its central problem is generic:
 
@@ -656,15 +718,17 @@ The module does not require adoption of Concord institutions or civilisation-lev
 
 Its portability remains a development hypothesis until independently tested outside the source context.
 
-## 34. Validation status
+## 36. Validation status
 
 The source mechanism contains seven bounded internal scenarios and adversarial checks, but those tests were part of source development.
 
 They are not independent portable-transfer validation.
 
-Current supported claim:
+Current supported claims:
 
 > **A coherent standalone specification has been extracted from a source mechanism with explicit pre-development requirements and falsification conditions.**
+
+> **BTT-001 demonstrated functional independent transfer: 22/22 frozen predictions materially confirmed, with bounded interface ambiguities identified and incorporated into v0.2.**
 
 Not yet supported:
 
@@ -672,7 +736,7 @@ Not yet supported:
 
 That requires frozen blind transfer testing.
 
-## 35. Development provenance
+## 37. Development provenance
 
 Primary development sources:
 
@@ -681,17 +745,17 @@ Primary development sources:
 - `11_Intercivilisational_Architecture/07_Disputes_Jurisdiction_and_Externalities/Cross-Boundary Externality Recognition and Responsibility Mechanism.md`
 - `Source Resolution and Extraction Audit 001.md`
 
-## 36. Development next step
+## 38. Development next step
 
-Freeze **Blind Transfer Test 001** before obtaining an independent response.
+Freeze **Blind Transfer Test 002** before obtaining an independent response.
 
-The test should use a non-Concord context and pressure at minimum:
+The second test should use a materially different non-Concord domain and specifically pressure the v0.2 clarifications:
 
-- consequence without shared authority;
-- incomplete causality;
-- distributed responsibility;
-- disputed standing;
-- refusal/non-participation;
-- minimum response scope;
-- correction/provenance;
-- resistance to authority laundering.
+- context-declared and uncertain materiality;
+- consultation/advocacy standing versus authorised representation;
+- responsibility mapping without quantitative apportionment;
+- dimension-specific CB-C classifications;
+- actor-relative minimum response under fragmented authority;
+- assertion disposition versus whole-case disposition;
+- candidate opening as triage rather than escalation;
+- multiple primary/secondary boundaries.
