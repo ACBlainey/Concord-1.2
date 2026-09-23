@@ -317,6 +317,50 @@ Finding no mechanism within the bounded search also does not prove that no mecha
 
 ---
 
+# 7. Continuity Protocol
+
+## Plain-English name
+
+**Preserve what matters so it can still work after change, loss or replacement.**
+
+## What does it do?
+
+The Continuity Protocol helps distinguish merely keeping copies from preserving enough knowledge, capability and dependencies to recover a valuable function.
+
+Its core idea is:
+
+> **Preserve what remains valuable; adapt what must change; retain enough knowledge, provenance and enabling capability to recover legitimate function after disruption.**
+
+It asks what actually needs to continue, what may legitimately change, what disruption is being planned for, what dependencies recovery requires, how quickly recovery must happen, how much recent state may be lost, and how recovery will be verified.
+
+## Simple example
+
+A business backs up its customer database every night.
+
+The backup exists, so the data is recorded. But after a fire the business discovers that the backup requires obsolete software, the decryption key was stored in the destroyed building, and nobody has tested a restoration for years.
+
+The business had copies, but it did not have a complete recovery basis.
+
+The Continuity Protocol would have asked whether the backup was accessible, interpretable, actionable and genuinely recoverable—and what other dependencies had to survive with it.
+
+## Where could it be applied?
+
+Potential applications include organisations, software and digital services, engineering systems, research programmes, archives, infrastructure, succession planning, emergency recovery, long-duration projects, institutional knowledge, AI systems and other situations where valuable function must survive change or disruption.
+
+## Use it when
+
+Use the Continuity Protocol when something important must survive staff turnover, technical replacement, failure, disaster, institutional change or another discontinuity—and merely saying “we have a backup” is not enough.
+
+## What it does not do
+
+The protocol does not require the current implementation to survive forever. Preserving a function may legitimately involve replacing the original system.
+
+It also does not create legal authority, establish ethical legitimacy, guarantee recovery under every possible disruption or prove that every dependency has been discovered.
+
+**Formal module:** *Continuity Protocol — Portable Module*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -332,6 +376,8 @@ Several modules may appear applicable to the same problem because they operate a
 **Contextual Wrapper Architecture** asks: *How should materially different conditions inside a bounded context be made clear and managed?*
 
 **Functionally Bounded Summits** asks: *Can we cooperate on this particular problem without turning it into a negotiation over everything else?*
+
+**Continuity Protocol** asks: *What must survive a disruption, and have we preserved enough to make the required function genuinely recoverable?*
 
 They are therefore not competing solutions to one problem. They are reusable tools for different recurring problem structures.
 
