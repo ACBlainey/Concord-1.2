@@ -1,7 +1,7 @@
-# Continuity Protocol — Portable Specification v0.1
+# Continuity Protocol — Portable Specification v0.2
 
-**Version:** 0.1  
-**Status:** DEVELOPMENT SPECIFICATION / PRE-VALIDATION  
+**Version:** 0.2  
+**Status:** DEVELOPMENT SPECIFICATION / BTT-001 STRONG TRANSFER / BTT-002 PENDING  
 **Development level:** Level B — Extractable Architecture  
 **Date:** 23 September 2026  
 **Origin:** Extracted from the Concord continuity architecture; designed for independent use outside the Concord.
@@ -126,6 +126,40 @@ What must remain possible after the disruption?
 
 The answer may range from simple historical preservation to full operational recovery.
 
+### I5 — Disruption Envelope
+
+Define the boundary of the disruption being tested.
+
+A disruption envelope may be:
+
+- component loss;
+- room/building loss;
+- site loss;
+- identity/credential-plane loss;
+- supplier loss;
+- staff loss;
+- institutional loss;
+- regional infrastructure loss;
+- long-duration technological decay.
+
+> **Recovery Under One Disruption Envelope ≠ Recovery Under Every Disruption Envelope**
+
+### I6 — Recovery Time Objective (RTO)
+
+What is the maximum acceptable time between disruption and achievement of the required continuity state?
+
+### I7 — Recovery Point Objective (RPO)
+
+What is the maximum acceptable loss of state, history or work between the last usable preserved point and the disruption?
+
+RTO and RPO are independent. A system can recover quickly while losing too much state, or preserve recent state while taking too long to restore.
+
+### I8 — Minimum Acceptable Function (MAF)
+
+If degraded operation is allowed, define the smallest explicitly authorised functional set that counts as successful degraded continuity.
+
+The applicable domain or legitimate authority supplies the MAF. The Continuity Protocol does not invent it.
+
 ---
 
 ## 5. Continuity-object resolution
@@ -189,6 +223,24 @@ These states must not be silently collapsed.
 > **Recorded ≠ Accessible ≠ Interpretable ≠ Actionable ≠ Recoverable ≠ Operational**
 
 A preservation plan should state the required target state.
+
+### 6.1 Object-relative classification
+
+CS1–CS6 classify the **declared continuity object relative to the stated disruption envelope and target**.
+
+A component can occupy a higher state than the whole recovery chain.
+
+For example, an archive may be accessible and interpretable while the service that depends upon it remains unrecoverable.
+
+> **High Component State ≠ High System Recovery State**
+
+### 6.2 Technical actionability versus current validity
+
+An artefact may be technically usable while being obsolete, superseded, unauthorised or otherwise invalid for current restoration.
+
+> **Technically Actionable ≠ Valid for Current Restoration**
+
+Classify historical/reproduction value separately from current operational validity.
 
 ---
 
@@ -288,6 +340,25 @@ The key question is:
 
 A backup without its critical dependencies may provide only apparent continuity.
 
+### Dependency status and criticality
+
+For each material dependency, record an evidence state:
+
+- **VERIFIED** — availability/operation has been tested or directly established;
+- **DOCUMENTED** — evidence records it as available but current operation has not been verified;
+- **INFERRED** — availability or relevance is reasonably inferred but not established;
+- **UNRESOLVED** — evidence is insufficient.
+
+Also record functional criticality where it can be established:
+
+- **NON-CRITICAL** — loss does not prevent the declared target;
+- **CRITICAL** — loss prevents or materially degrades the declared target;
+- **FATAL-IF-UNAVAILABLE** — no known recovery path can achieve the declared target without it.
+
+Do not label an unresolved dependency fatal merely because no substitute has yet been found.
+
+Criticality is relative to the continuity object, disruption envelope, RTO, RPO and MAF.
+
 ---
 
 ## 11. Step 4 — Determine current and required preservation state
@@ -306,6 +377,8 @@ Examples:
 - a continuously available service may require CS6 plus a recoverable fallback.
 
 The required state should be proportional to the consequence of loss.
+
+The target must also state any applicable RTO, RPO and MAF. Meeting CS5 without meeting the required recovery time or recovery point does not satisfy the declared continuity target.
 
 ---
 
@@ -555,7 +628,9 @@ A system may move through:
 
 This is a generic degradation model, not a requirement that every domain use exactly five stages.
 
-Where full operation cannot be maintained, determine what reduced state preserves:
+Where full operation cannot be maintained, determine the **Minimum Acceptable Function (MAF)** before claiming successful degraded continuity.
+
+Determine what reduced state preserves:
 
 - safety;
 - essential function;
@@ -731,9 +806,13 @@ A minimal portable record should contain:
 **Value/function:**  
 **Audit level:**  
 **Relevant disruption:**  
+**Disruption envelope:**  
+**RTO:**  
+**RPO:**  
+**Minimum Acceptable Function (MAF), if applicable:**  
 **Current state (CS1–CS6):**  
 **Required state (CS1–CS6):**  
-**Critical dependencies:**  
+**Critical dependencies and evidence state:**  
 **Recovery basis:**  
 **Redundancy/independence:**  
 **Trigger:**  
@@ -754,18 +833,19 @@ For a lightweight application:
 
 1. Define what actually needs to continue.
 2. State why its continuity matters.
-3. Define the disruption being considered.
-4. Classify current and required continuity state.
-5. Map the dependencies required for recovery.
-6. Build the minimum recovery basis.
-7. Check that redundancy does not share one failure mode.
-8. Define the recovery/succession trigger.
-9. Define who/what restores or succeeds the function.
-10. Keep authority/legitimacy separate from continuity.
-11. Define how successful recovery will be verified.
-12. Preserve provenance and useful failure knowledge.
-13. Record irrecoverable dependencies honestly.
-14. Review when the system or environment changes.
+3. Define the disruption being considered and its disruption envelope.
+4. Define RTO, RPO and MAF where applicable.
+5. Classify current and required continuity state.
+6. Map the dependencies required for recovery and record evidence/criticality.
+7. Build the minimum recovery basis.
+8. Check that redundancy does not share one failure mode.
+9. Define the recovery/succession trigger.
+10. Define who/what restores or succeeds the function.
+11. Keep authority/legitimacy separate from continuity.
+12. Define how successful recovery will be verified.
+13. Preserve provenance and useful failure knowledge.
+14. Record irrecoverable and unresolved dependencies honestly.
+15. Review when the system or environment changes.
 
 ---
 
@@ -785,17 +865,25 @@ Some preservation exists, but it does not reach the required target.
 
 The object is stored but actionable/recoverable continuity is not established.
 
-### CP-C4 — RECOVERABLE WITH IDENTIFIED DEPENDENCIES
+### CP-C4 — RECOVERABLE WITH EVIDENCED RECOVERY BASIS
 
-The target function is not currently operational after disruption but an evidenced recovery basis exists.
+The target function is not currently operational after disruption, but an evidenced recovery basis exists that is sufficient for the declared disruption envelope, target state, RTO/RPO and MAF where applicable.
+
+Merely naming dependencies is insufficient.
+
+> **Identified Dependency ≠ Available Dependency**
+
+> **Recovery Plan ≠ Recoverable State**
 
 ### CP-C5 — DEGRADED CONTINUITY
 
 Only a reduced or minimum-safe function can presently be maintained.
 
-### CP-C6 — SUCCESSION REQUIRED
+### CP-C6 — SUCCESSION PATH REQUIRED / ACTIVE
 
 Continuity depends on transfer to a successor rather than restoration of the predecessor.
+
+C6 does **not** establish that handoff is complete, that the successor possesses required capability, or that authority/permission/legitimacy has transferred.
 
 ### CP-C7 — CRITICAL DEPENDENCY GAP
 
@@ -815,6 +903,16 @@ Available evidence is insufficient to classify the continuity state.
 
 Multiple classifications may apply to different sub-functions of the same system.
 
+### Classification decomposition rule
+
+CP-C2, CP-C7 and CP-C9 are not mutually exclusive:
+
+- **C2** describes an aggregate preservation state that remains below the declared target;
+- **C7** identifies a demonstrated critical dependency deficit;
+- **C9** identifies insufficient verification for a continuity claim.
+
+Decompose the problem rather than forcing one label onto the entire system.
+
 ---
 
 ## 31. Epistemic discipline
@@ -825,6 +923,8 @@ The protocol distinguishes:
 - inferred recoverability;
 - tested recoverability;
 - current operation.
+
+For material claims, use the evidence states **VERIFIED / DOCUMENTED / INFERRED / UNRESOLVED** where useful.
 
 Do not silently promote one into another.
 
@@ -879,19 +979,27 @@ It does not itself:
 
 ## 34. Validation status
 
-Version 0.1 is a source-resolved development specification.
+Version 0.2 is a source-resolved development specification revised after CP-BTT-001.
 
-It has not yet completed independent blind transfer testing.
+CP-BTT-001 produced **STRONG TRANSFER**, with all 20 frozen predictions materially confirmed.
+
+The test also exposed bounded refinements now integrated into v0.2: disruption envelope, RTO/RPO, MAF, object-relative CS classification, dependency evidence/criticality, C2/C7/C9 decomposition, tighter C4 and clarified C6.
+
+A second blind transfer test is required before graduation.
 
 Current supported claim:
 
 > **The Concord source architecture contains a coherent continuity mechanism that can be extracted into this standalone candidate specification without requiring adoption of Concord-specific institutions.**
 
+Supported at this stage:
+
+> **The portable specification has demonstrated strong independent transfer in one frozen non-Concord blind test.**
+
 Not yet supported:
 
-> **The portable specification has demonstrated reliable independent transfer outside its source context.**
+> **The module has completed the portable-development validation threshold for graduation.**
 
-That claim requires testing.
+That claim requires at least the planned second blind transfer test and subsequent review.
 
 ---
 
@@ -911,24 +1019,28 @@ Important neighbouring sources:
 Development record:
 
 - `Source Resolution and Extraction Audit 001.md`
+- `Continuity Protocol — Blind Transfer Test 001 — Test Brief.md`
+- `Continuity Protocol — Blind Transfer Test 001 — Expected Findings and Evaluation Key.md`
+- `Continuity Protocol — Blind Transfer Test 001 — Independent Response.md`
+- `Continuity Protocol — Blind Transfer Test 001 — Post-Test Evaluation.md`
 
 ---
 
 ## 36. Development next step
 
-Freeze a blind-transfer test before obtaining an independent response.
+Freeze CP-BTT-002 before obtaining an independent response.
 
-The test should use a non-Concord domain and should deliberately include:
+The second test should use a materially different non-Concord domain and pressure the v0.2 refinements, including:
 
-- an apparently successful backup that is not recoverable;
-- a preserved implementation whose function can legitimately move elsewhere;
-- correlated redundancy;
-- a missing prerequisite;
-- a succession case;
-- an authority/legitimacy trap;
-- obsolete state that must not be restored;
-- honest failure/provenance value;
-- degraded but recoverable operation;
-- at least one unresolved dependency.
+- slow degradation rather than only sudden disaster;
+- RTO/RPO conflict;
+- Minimum Acceptable Function;
+- disruption-envelope specificity;
+- a documented but unavailable dependency;
+- an inferred dependency that proves unnecessary;
+- succession with legitimate authority but incomplete knowledge handoff;
+- recovery that meets RTO but violates RPO;
+- technically actionable but invalid historical state;
+- a continuity mechanism that itself becomes obsolete.
 
-The expected findings must be frozen before the independent response is examined.
+The expected findings must again be frozen before the independent response is examined.
