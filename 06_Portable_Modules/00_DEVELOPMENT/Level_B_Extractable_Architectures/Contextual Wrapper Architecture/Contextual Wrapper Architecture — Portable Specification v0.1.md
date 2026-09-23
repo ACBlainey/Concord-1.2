@@ -3,7 +3,7 @@
 **Module:** Contextual Wrapper Architecture (CWA)  
 **Development level:** Level B — Extractable Architecture  
 **Specification status:** DEVELOPMENT / PORTABLE EXTRACTION CANDIDATE / NOT YET GRADUATED  
-**Version:** 0.1b  
+**Version:** 0.1c  
 **Date:** September 2026  
 **Project origin:** The Concord  
 **Author:** Alexander C. Blainey
@@ -78,6 +78,196 @@ The reusable element is the **interface grammar by which material contextual dif
 ---
 
 ## 4. Scope
+
+### 4.1 Universal primitive — bounded context
+
+The universal primitive in CWA is the **bounded context**, not any particular kind of physical or digital space.
+
+> **A bounded context is any distinguishable context in which some combination of access, rules, permissions, restrictions, roles, protections, responsibilities, authority, risks or expectations differs materially from another context.**
+
+The boundary may be spatial, logical, informational, relational, functional, temporal, conceptual or composed from several of these.
+
+CWA is therefore **substrate-neutral**. Its grammar is intended to remain usable when the implementation of the context changes.
+
+> **The substrate or medium of a boundary may change; the contextual questions remain substantially invariant.**
+
+### 4.2 Illustrative implementation classes
+
+The following categories are illustrative rather than exhaustive.
+
+#### Physical contexts
+
+Examples include:
+
+- a home;
+- bedroom;
+- toilet or washroom;
+- laboratory;
+- graded biological-containment area;
+- hospital ward;
+- sports arena;
+- staff-only room;
+- vehicle;
+- private office;
+- secure facility.
+
+A physical boundary may be represented by walls, doors, gates, distance, controlled zones, signage or other spatial mechanisms.
+
+#### Digital contexts
+
+Examples include:
+
+- private server;
+- directory or file tree;
+- database;
+- chat or communication channel;
+- virtual room;
+- restricted network;
+- administrative domain;
+- AI or agent workspace;
+- access-controlled service;
+- virtual environment.
+
+A digital boundary may be represented through authentication, identity, credentials, permissions, encryption, network segmentation, capability tokens or executable policy.
+
+#### Informational contexts
+
+Examples include:
+
+- classified or restricted datasets;
+- medical records;
+- confidential documents;
+- protected memory stores;
+- privileged communications;
+- research data under restricted handling.
+
+The information itself may cross physical or digital locations while remaining inside a defined handling context.
+
+#### Computational contexts
+
+Examples include:
+
+- sandboxed execution;
+- privileged processes;
+- restricted compute environments;
+- isolated model or agent execution;
+- capability-limited runtime environments;
+- protected system-control contexts.
+
+#### Social and relational contexts
+
+Examples include:
+
+- confidential meetings;
+- professional relationships;
+- household relationships;
+- membership contexts;
+- private conversations;
+- role-defined groups.
+
+Their boundaries may depend more strongly on recognised relationships, roles, cultural expectations and explicit participant rules than on physical barriers.
+
+#### Functional and activity contexts
+
+Examples include:
+
+- a boxing match;
+- medical procedure;
+- research experiment;
+- examination;
+- maintenance operation;
+- emergency response activity;
+- controlled training exercise.
+
+The context may activate because an activity begins rather than because a participant crosses a physical threshold.
+
+#### Temporal contexts
+
+Examples include:
+
+- emergency periods;
+- scheduled restricted periods;
+- temporary events;
+- maintenance windows;
+- time-limited permissions;
+- temporary delegations of authority.
+
+The same location or system may therefore operate under different contextual rules at different times.
+
+#### Conceptual contexts
+
+Examples include:
+
+- a formally bounded decision process;
+- deliberative context;
+- confidential reasoning environment;
+- defined research space;
+- review or adjudication process;
+- hypothetical or simulation environment whose outputs are deliberately separated from operational authority.
+
+Conceptual contexts demonstrate that a boundary need not correspond to physical containment or computer access. It may instead distinguish a defined mode of participation, reasoning, authority or information handling.
+
+#### Hybrid contexts
+
+Many real contexts combine several forms.
+
+Examples include:
+
+- a laboratory requiring physical clearance, role authorisation and digital-system access;
+- a hospital combining physical spaces, medical-record permissions, professional roles and emergency states;
+- an AI-controlled facility combining digital identity, physical location, computational permissions and function-specific authority;
+- a remote research collaboration combining confidential information, digital workspaces, participant roles and time-limited permissions.
+
+### 4.3 Categories are not limits
+
+> **These categories describe implementations, not limits.**
+
+A bounded context need not fit exclusively within one category. The same context may be physical, digital, informational and relational simultaneously.
+
+CWA MUST NOT treat the present list as a closed ontology. Unfamiliar future contexts remain within scope where the contextual grammar applies.
+
+The test is therefore not:
+
+> *Does this look like one of the examples?*
+
+The test is:
+
+> **Can a meaningful contextual boundary be identified, and do materially relevant conditions differ across or within it?**
+
+### 4.4 Substrate-neutral grammar
+
+Across these implementations, CWA asks substantially the same questions:
+
+**Context**  
+→ **Boundary / Activation**  
+→ **Reachability**  
+→ **Access**  
+→ **Participant / Role**  
+→ **Applicable Rules**  
+→ **Relationship / Inheritance**  
+→ **Permissions / Restrictions / Protections**  
+→ **Responsibility / Authority**  
+→ **Interaction / Externalities**  
+→ **Remedy / Emergency**  
+→ **Exit / Termination**  
+→ **Reversion / Transition**  
+→ **Review**
+
+The implementation of each element may vary substantially.
+
+A door may implement a physical boundary. Authentication may implement a digital boundary. Confidentiality may define an informational boundary. The start of a medical procedure may activate a functional context. A declared emergency period may activate a temporal context. A formal deliberation may activate a conceptual context.
+
+These mechanisms are not equivalent in implementation. They are comparable because they answer related contextual questions.
+
+This gives CWA a core invariant:
+
+> **Boundary ≠ Access ≠ Rules ≠ Authority**
+
+and a broader substrate-neutral principle:
+
+> **Different substrates may require different boundary mechanisms without requiring different contextual grammar.**
+
+### 4.5 Material activation
 
 CWA applies where a context materially changes one or more of:
 
@@ -988,8 +1178,11 @@ Can the system represent additive, selective and override inheritance where the 
 ### CWA-12E — Clearance implication
 Can the system distinguish a permission model in which higher clearance explicitly includes lower clearance from contexts where parent/child access remains independent?
 
-### CWA-12F — Digital nesting
-Can the same contextual grammar represent physical, digital and hybrid nested spaces without assuming geographic boundaries?
+### CWA-12F — Substrate-neutral nesting
+Can the same contextual grammar represent physical, digital, informational, computational, social, functional, temporal, conceptual and hybrid bounded contexts without assuming geographic boundaries?
+
+### CWA-12G — Unfamiliar-context generalisation
+Can the system apply the grammar to a bounded context not explicitly enumerated in the examples without forcing it into an inappropriate existing category?
 
 ### CWA-13 — Overlap detection
 Can simultaneous non-nested contexts be represented?
@@ -1180,7 +1373,8 @@ Before graduation, this specification should be tested blind in a scenario conta
 - parent/child access relationships;
 - rule relationship/inheritance model;
 - access/clearance implication model;
-- digital/physical/hybrid context type;
+- bounded-context implementation type(s);
+- physical/digital/informational/computational/social/functional/temporal/conceptual/hybrid characteristics where relevant;
 - overlapping contexts;
 - an emergency;
 - a material externality;
