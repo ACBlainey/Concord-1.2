@@ -1,7 +1,7 @@
 # Functionally Bounded Summits — Portable Module Specification
 
-**Version:** 0.1  
-**Status:** PORTABLE SPECIFICATION CANDIDATE / BLIND TRANSFER TEST REQUIRED  
+**Version:** 0.2  
+**Status:** PORTABLE SPECIFICATION CANDIDATE / POST-TRANSFER REVISION / GRADUATION REVIEW REQUIRED  
 **Source lineage:** Concord Functionally Bounded Summits protocol and related civilisational-wrapper architecture  
 **Development class:** Level A — Complete Portable Protocols  
 **Date:** September 2026
@@ -138,6 +138,12 @@ Include participants materially required to:
 Do not enlarge the forum merely because additional actors have interests in the wider relationship.
 
 Do not exclude actors whose participation is genuinely required merely to preserve a smaller meeting.
+
+A person, institution or system may be necessary to establish facts without becoming a negotiating participant or acquiring decision authority.
+
+> **Necessary Evidence Source ≠ Necessary Negotiating Participant.**
+
+Where possible, distinguish the roles of evidence source, affected party, negotiating participant, implementation actor and decision authority.
 
 ---
 
@@ -283,9 +289,23 @@ It is a presumption against unnecessary contamination, not a guarantee that all 
 
 ---
 
-### Step 11 — Separate violations from outcomes
+### Step 11 — Separate scope proposals, violations and outcomes
 
-If a participant introduces excluded demands, makes prohibited cross-domain threats, bypasses agreed procedure or otherwise violates the grammar, record that separately.
+An out-of-scope proposal is not automatically a protocol violation. It may be a legitimate attempt to identify a previously unrecognised dependency.
+
+Use the sequence:
+
+**Proposed Linkage**  
+→ **Dependency Test**  
+→ **Scope Ruling**  
+→ **Preserve Unresolved Matter Where Appropriate**  
+→ **Return to Function**
+
+Therefore:
+
+> **Out-of-Scope Proposal ≠ Protocol Violation by Default.**
+
+If, after the scope ruling, a participant persists in prohibited linkage, bypasses the agreed grammar, uses prohibited cross-domain coercion, or otherwise violates the process, record that separately from the substantive negotiation outcome.
 
 Do not silently redefine the protocol around the violation.
 
@@ -355,6 +375,12 @@ Therefore:
 
 If a temporary remit ends, any authority created specifically for that remit should ordinarily end unless independently renewed or justified.
 
+A bounded summit may also end in legitimate non-agreement while an external participant subsequently acts under authority that existed independently of the summit.
+
+> **Negotiated Agreement ≠ Independent Exercise of Pre-Existing Authority.**
+
+The forum neither creates nor invalidates that external authority merely because negotiation did not produce agreement.
+
 ---
 
 ## 8. Third-party facilitation
@@ -409,7 +435,11 @@ The protocol could have worked as specified but was implemented incorrectly.
 A participant acts outside the agreed grammar.
 
 ### F4 — Adversarial Exploitation
-A participant formally complies while manipulating the process contrary to its function.
+A participant formally complies while the observable structure of the interaction is used to manipulate the process contrary to its function.
+
+Classification should distinguish observable structure from unsupported claims about motive.
+
+> **Exploitative Structure ≠ Proven Malicious Intent.**
 
 ### F5 — Environmental Failure
 External conditions make the mechanism insufficient or obsolete.
@@ -559,10 +589,10 @@ It has not yet demonstrated that Functionally Bounded Summits:
 - overcome severe power asymmetry;
 - prevent coercion;
 - work across all cultures or institutions;
-- or transfer reliably outside the source architecture.
+- or transfer reliably across all contexts outside the source architecture.
 
-Those are empirical or transfer questions.
+FBS-BTT-001 provides bounded transfer evidence: a fresh AI instance applied v0.1 coherently to a supplied non-Concord, non-state organisational dispute. The test supported four minor clarifications now incorporated in v0.2. It does not establish human usability or real-world effectiveness.
 
-The next evidential step is a blind transfer test using a non-Concord, non-state problem.
+The next development gate is portable-package graduation review.
 
-> **Specification completeness ≠ transfer success ≠ empirical validation.**
+> **Specification completeness ≠ bounded transfer success ≠ empirical validation.**
