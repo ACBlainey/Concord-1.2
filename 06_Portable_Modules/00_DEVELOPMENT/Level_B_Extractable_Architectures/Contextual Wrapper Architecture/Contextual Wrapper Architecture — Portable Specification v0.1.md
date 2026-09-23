@@ -3,7 +3,7 @@
 **Module:** Contextual Wrapper Architecture (CWA)  
 **Development level:** Level B — Extractable Architecture  
 **Specification status:** DEVELOPMENT / PORTABLE EXTRACTION CANDIDATE / NOT YET GRADUATED  
-**Version:** 0.1  
+**Version:** 0.1a  
 **Date:** September 2026  
 **Project origin:** The Concord  
 **Author:** Alexander C. Blainey
@@ -201,6 +201,76 @@ Agreement to one context does not determine which rule prevails when another leg
 
 > **Legibility ≠ Legitimacy ≠ Consent ≠ Precedence**
 
+### 6.12 Nesting is not automatic rule inheritance
+
+> **Nested Context ≠ Inherited Rule Set**
+
+A context physically or logically contained inside another context may possess its own function-specific rules. The enclosing context does not automatically determine the internal rules of the nested context.
+
+The enclosing context may control whether a participant can reach the nested context, while the nested context separately controls whether that participant may enter or use it and which rules apply once activated.
+
+Therefore three questions MUST be separable:
+
+1. May the participant access the enclosing context?
+2. Does that access grant access to the nested context?
+3. If the nested context is legitimately activated, which local rules apply inside it?
+
+> **Parent Access ≠ Child Access**
+
+and:
+
+> **Parent Rules ≠ Child Rules**
+
+A private home containing a toilet illustrates the distinction. Permission to enter the home may make the toilet physically reachable without making every toilet or every associated private room available to the visitor. An ensuite attached to a bedroom may require access to the bedroom, specific permission, or another household rule. Conversely, a toilet intended for public use inside a public building may be available to the general public, while a staff toilet in the same building remains role-restricted.
+
+The characteristic protected-space rules of a toilet may remain broadly similar across a home, office or public building even though access conditions differ.
+
+### 6.13 Reachability, access and local operation are distinct
+
+CWA SHOULD distinguish:
+
+**Reachability** — can the participant physically or logically arrive at the nested boundary?
+
+**Access entitlement** — is the participant permitted to cross or activate that boundary?
+
+**Local operation** — which rules, permissions, restrictions and protections apply once inside?
+
+A parent context can enable reachability without conferring access entitlement.
+
+### 6.14 Boundary legibility is context-sensitive
+
+> **Boundary Legibility ≠ Identical Boundary Signalling**
+
+Public and commercial contexts can reasonably rely heavily on signs, labels, access controls and other explicit designations where these are culturally and operationally intelligible.
+
+Private domestic contexts need not formalise every internal boundary through signage. Legibility may instead arise from established cultural practice, functional cues, relationships, and explicit rules or permissions stated by the legitimate owner/occupier.
+
+The required question is not whether every boundary uses the same signalling mechanism, but whether a reasonable participant can identify the relevant boundary and applicable access conditions with sufficient reliability for the context.
+
+### 6.15 Relational access
+
+Access to one context may depend on a relationship to another context without inheriting that context's complete rule set.
+
+For example:
+
+**House Access**  
+≠ **Bedroom Access**  
+≠ **Ensuite Access**
+
+Yet access to a bedroom may, under the relevant household rules, carry an associated permission to use its ensuite.
+
+CWA therefore permits explicit contextual relationships such as:
+
+- contains;
+- reachable-through;
+- associated-with;
+- access-dependent-on;
+- role-restricted;
+- permission-dependent;
+- temporarily delegated.
+
+These relationships describe access structure. They do not automatically establish legitimacy or universal precedence.
+
 ---
 
 ## 7. Portable primitive
@@ -359,6 +429,14 @@ Identify material effects crossing the contextual boundary.
 
 Identify other simultaneously applicable contexts and known conflict/priority rules.
 
+For nested contexts also identify:
+
+- whether parent access only creates reachability or also grants child access;
+- the child's independent access condition;
+- the child's local/function-specific rules;
+- relevant relationships between parent, child and sibling contexts;
+- the mechanism by which the child boundary is made legible.
+
 ---
 
 ## 10. Unknown and disputed data
@@ -486,16 +564,34 @@ Contexts may nest:
 
 **Wider System → Facility → Restricted Area → Activity → Special Event**
 
+Physical or logical containment MUST NOT be treated as automatic rule inheritance.
+
 For each nested layer identify:
 
 - activation;
 - applicable participants/roles;
-- inherited rules;
+- parent-context reachability;
+- independent access condition;
+- local/function-specific rules;
+- any rules explicitly inherited from the parent;
 - additional rules;
 - overridden defaults;
 - protected invariants;
+- contextual relationships;
 - authority;
 - known precedence/conflict rules.
+
+The default analytical assumption is therefore **independence unless a rule relationship is established**, not inheritance merely because one space is inside another.
+
+A useful access chain is:
+
+**Parent Context Access**  
+→ **Child Boundary Becomes Reachable**  
+→ **Child Access Condition Evaluated**  
+→ **Child Context Activated if Permitted**  
+→ **Child Local Rules Apply**
+
+This allows, for example, a public building to contain both a public toilet and a staff-only toilet without contradiction. It also allows a private home to contain spaces with different access expectations without requiring formal signage on every internal boundary.
 
 No universal assumption may be made that the smallest, newest, most specific, most local or most restrictive context automatically prevails.
 
@@ -797,6 +893,15 @@ Can emergency context activate without silently creating unlimited authority?
 ### CWA-12 — Nested context handling
 Can multiple nested layers remain visible?
 
+### CWA-12A — Non-inheritance
+Does the system avoid assuming that parent rules or parent access automatically transfer into a nested child context?
+
+### CWA-12B — Reachability/access separation
+Can it distinguish being able to reach a child boundary from being entitled to enter or use the child context?
+
+### CWA-12C — Context-sensitive legibility
+Can it recognise different legitimate signalling mechanisms in public/commercial and private/domestic environments without demanding uniform signage?
+
 ### CWA-13 — Overlap detection
 Can simultaneous non-nested contexts be represented?
 
@@ -842,6 +947,10 @@ The portable core should actively detect or warn for:
 - excessive fragmentation;
 - wrapper complexity exceeding underlying rule complexity;
 - contextual rules applied outside their legitimate scope;
+- automatic inheritance of parent rules into nested contexts;
+- automatic inheritance of parent access into child contexts;
+- confusing physical reachability with access entitlement;
+- demanding formal signage where cultural/relational legibility is sufficient;
 - interface standardisation silently becoming substantive control;
 - information architecture silently becoming decision authority.
 
@@ -976,6 +1085,8 @@ Before graduation, this specification should be tested blind in a scenario conta
 - a physical boundary;
 - a digital boundary;
 - nested contexts;
+- parent/child access relationships;
+- local rule independence;
 - overlapping contexts;
 - an emergency;
 - a material externality;
