@@ -946,6 +946,156 @@ If no legitimate resolver or priority rule is established, the wrapper MUST pres
 
 **UNKNOWN / DISPUTED / REQUIRES EXTERNAL RESOLUTION**
 
+### 16.2 Precedence Resolution Router
+
+Where overlapping, nested or simultaneous contexts produce a material conflict, CWA SHOULD invoke a **Precedence Resolution Router (PRR)**.
+
+The PRR is a routing and decomposition interface. It is **not** a universal hierarchy and does not make CWA an adjudicator.
+
+Its governing source principles include:
+
+> **Priority of Function ≠ Superiority of Participant**
+
+> **Reporting Authority ≠ Decision Competence**
+
+> **Decision Competence ≠ Universal Decision Sovereignty**
+
+> **Functional conflict should trigger resolution architecture, not automatic rank supremacy.**
+
+> **Standing to raise ≠ authority to decide.**
+
+The router proceeds:
+
+**Conflict Detected**  
+→ **Material Conflict?**  
+→ **Identify / Decompose Decision Object(s)**  
+→ **Applicable Protected Constraint?**  
+→ **Protective Threshold Activated?**  
+→ **Emergency Context?**  
+→ **Map Function / Competence / Responsibility / Decision Jurisdiction**  
+→ **Explicit Legitimate Priority Rule?**  
+→ **Adjudicative or Jurisdictional Question?**  
+→ **Map Jurisdiction State**  
+→ **Minimum Temporary Protective Action Needed?**  
+→ **Legitimate Resolver Established?**  
+→ **Resolve / Route / Preserve UNKNOWN or DISPUTED**  
+→ **Terminate / Revert / Review**
+
+#### 16.2.1 Decision-object decomposition
+
+An apparent conflict between participants may contain multiple distinct decisions.
+
+For example, an emergency in a laboratory may contain separate questions concerning:
+
+- immediate medical treatment;
+- biological containment;
+- evacuation;
+- access;
+- security;
+- technical diagnosis;
+- later review.
+
+CWA MUST NOT assume that one actor or context must control all components merely because the components occur simultaneously.
+
+> **Apparent actor conflict may be multiple decision objects.**
+
+#### 16.2.2 Authority-topology separation
+
+For each materially relevant decision object, distinguish where applicable:
+
+- reporting/coordination;
+- competence;
+- responsibility;
+- decision jurisdiction;
+- protective authority;
+- functional priority;
+- review;
+- escalation.
+
+These may legitimately point to different participants.
+
+#### 16.2.3 Protected and protective constraints
+
+Where an applicable fundamental right, constitutional protection, bodily-autonomy requirement, safeguarding duty, due-process protection, serious-harm constraint or other established high-order constraint applies, it may bound contextual authority.
+
+This does not create a higher-order person.
+
+Where a legitimate protective threshold is reached, the applicable protective function may permit minimum necessary refusal, stop, escape, warning or intervention, followed by escalation and review.
+
+Protective priority remains decision-specific and bounded.
+
+#### 16.2.4 Functional priority
+
+Where the wider applicable architecture establishes a legitimate priority between functions, CWA may represent that priority for the affected decision.
+
+For example:
+
+**Immediate Safety Stop > Production Direction**
+
+means:
+
+**Safety function has priority concerning the affected safety decision**
+
+not:
+
+**Safety participant has general superiority over production participant.**
+
+#### 16.2.5 Competence and authority
+
+Relevant expertise may be necessary to determine a technical fact without conferring authority over every consequence of that fact.
+
+> **Technical competence ≠ general authority.**
+
+A conflict SHOULD therefore be decomposed where one function determines a technical state, another coordinates implementation, another protects rights, and another legitimately adjudicates a legal dispute.
+
+#### 16.2.6 Jurisdiction and externality
+
+Where a conflict crosses contextual or jurisdictional boundaries, CWA SHOULD map consequence, responsibility and jurisdiction separately.
+
+> **The existence of an externality does not create jurisdiction.**
+
+Possible jurisdiction states may include:
+
+- INTERNAL-JURISDICTION;
+- SHARED/AGREED-JURISDICTION;
+- OVERLAPPING-JURISDICTION;
+- JURISDICTION-DISPUTED;
+- NO-SHARED-JURISDICTION;
+- VOLUNTARY-COORDINATION-AVAILABLE;
+- OPTIONAL-MEDIATION-AVAILABLE;
+- EMERGENCY-CONTACT-ONLY;
+- PEACEFUL-DISTANCE / NO-FURTHER-PROCESS;
+- UNKNOWN.
+
+These are descriptive routing states, not grants of authority.
+
+#### 16.2.7 Minimum temporary action
+
+Where delay itself creates material danger, an already legitimate protective or emergency function may permit bounded temporary action while the larger conflict remains unresolved.
+
+Record where relevant:
+
+- authority basis;
+- necessity;
+- proportionality;
+- duration;
+- reversibility;
+- affected protections;
+- review requirement.
+
+Unresolved conflict does not itself manufacture temporary authority.
+
+#### 16.2.8 Router termination
+
+Temporary functional priority, protective authority or emergency authority SHOULD terminate or be re-justified when its basis ends.
+
+Termination SHOULD interface with Section 14A so residual permissions, capabilities, credentials, processes and information are not silently left active.
+
+The full extraction and provenance of this router are recorded in:
+
+- *Contextual Wrapper Architecture — Wider Concord Precedence Source Resolution 001*
+- *Contextual Wrapper Architecture — Precedence Resolution Router — Source Extraction 001*
+
 ---
 
 ## 17. Emergency interaction and composite authority
@@ -1494,8 +1644,8 @@ This safeguard is especially important after handovers, summarisation, abstracti
 
 The following remain research/development questions rather than resolved universal rules. Under ESCP, “open” here means unresolved in the presently reviewed source/evaluation space unless a stronger corpus-wide audit establishes otherwise:
 
-1. Is there a domain-general precedence grammar for nested and overlapping contexts?
-2. How should incompatible legitimate contexts compose?
+1. Can the source-derived Precedence Resolution Router be generalised across sufficiently diverse domains without becoming a hidden universal hierarchy?
+2. Which conflict classes remain outside the currently extracted protected, functional, emergency, jurisdictional and adjudicative routes?
 3. When does a context become sufficiently coercive that consent language should be removed entirely?
 4. How should materiality thresholds be calibrated without making wrappers either trivial or overwhelming?
 5. How should personalised contextual information be provided without unnecessary surveillance?
@@ -1546,9 +1696,12 @@ For multiple contexts:
 
 **CONTEXT A + CONTEXT B**  
 → **DETECT OVERLAP / NESTING**  
-→ **IDENTIFY CONFLICT**  
-→ **APPLY LEGITIMATE PRECEDENCE RULE IF KNOWN**  
-→ otherwise **UNKNOWN / DISPUTED / EXTERNAL RESOLUTION**
+→ **IDENTIFY MATERIAL CONFLICT**  
+→ **DECOMPOSE DECISION OBJECT(S)**  
+→ **INVOKE PRECEDENCE RESOLUTION ROUTER**  
+→ **APPLY SOURCE-BACKED PROTECTED / FUNCTIONAL / EMERGENCY / DOMAIN PRIORITY WHERE LEGITIMATELY APPLICABLE**  
+→ **ROUTE ADJUDICATIVE OR JURISDICTIONAL QUESTIONS TO A LEGITIMATE RESOLVER WHERE ONE EXISTS**  
+→ otherwise **UNKNOWN / DISPUTED / REQUIRES EXTERNAL RESOLUTION**
 
 ---
 
@@ -1571,7 +1724,11 @@ Before graduation, this specification should be tested blind in a scenario conta
 - a constrained or questionable exit path;
 - different human- and machine-facing representations;
 - a clearly communicated rule whose legitimacy is questionable;
-- at least one unresolved precedence question.
+- at least one unresolved precedence question;
+- at least one apparent actor conflict that actually contains multiple decision objects;
+- at least one legitimate functional-priority relationship;
+- at least one case where expertise is relevant but does not confer decision authority;
+- at least one cross-boundary conflict where externality exists without automatically creating jurisdiction.
 
 The test should determine whether an independent instance can preserve the central distinctions without access to the expected answer:
 
@@ -1581,7 +1738,11 @@ and:
 
 > **Contextual Authority ≠ General Authority**
 
-The blind test should also determine whether the module causes the tester to invent missing hierarchy, overgeneralise consent, ignore nonparticipants, collapse physical and contextual boundaries, treat the wrapper itself as a source of legitimacy, overlook residual permissions/data after termination, or silently privilege one representation of a context.
+and:
+
+> **Functional Priority ≠ Personal Hierarchy**
+
+The blind test should also determine whether the module causes the tester to invent missing hierarchy, overgeneralise consent, ignore nonparticipants, collapse physical and contextual boundaries, treat the wrapper itself as a source of legitimacy, overlook residual permissions/data after termination, or silently privilege one representation of a context, convert expertise into sovereignty, convert function into rank, manufacture jurisdiction from harm, or force a winner where the legitimate result is unresolved.
 
 For the next blind test, both the **test brief** and a separate **expected-findings/evaluation key** MUST be frozen before the independent response is obtained.
 
@@ -1612,9 +1773,13 @@ BTT-001 demonstrated strong transfer of the portable grammar but also exposed ex
 
 v0.2 therefore restores those source elements rather than treating them as newly invented architecture.
 
-The exact general precedence model remains unresolved in the reviewed wrapper space. ESCP prevents that local result from being promoted to a claim of corpus-wide absence without further source resolution.
+The exact general precedence model was initially unresolved in the reviewed wrapper space. ESCP prevented that local result from being promoted to a claim of corpus-wide absence.
 
+A subsequent wider-Concord source resolution found substantial existing architecture in Functional Priority and Protective Authority, Constitutional Emergency, Judiciary, bounded jurisdiction and cross-boundary externality work. These sources resolve significant subclasses of contextual conflict through protected constraints, decision competence, function-bounded priority, emergency constitutional constraints, legitimate adjudication and jurisdiction mapping.
 
+That wider recovery has now been integrated as a **Precedence Resolution Router**. The router does not declare a universal winner. It decomposes the contested decision, identifies the legitimate source of any applicable priority, routes questions to existing legitimate resolvers, and preserves UNKNOWN/DISPUTED states where no resolution basis is established.
+
+The remaining research question is therefore not simply “which context wins?” but whether this family of source-backed routes can be generalised without collapsing distinct legitimacy bases into a hidden hierarchy.
 
 The source material supports extraction of a coherent candidate portable architecture.
 
@@ -1646,8 +1811,19 @@ Related source family includes:
 - *Fractal Permission Architecture — Context, Function and Minimum Necessary Access Across Public, Private and Safe Spaces*
 - *Minimum Necessary Capability — A Concord Architecture for the Justification, Bounding and Termination of Power and Permission*
 - *Concord Wrapper Non-Governance and Optional Mediation Principle*
+- *Functional Priority and Protective Authority — Decision Competence, Safety, Rights and the Limits of Organisational Command*
+- *Constitutional Emergency V2*
+- *Judiciary V2 Canonical*
+- *Cross-Boundary Externality Recognition and Responsibility Mechanism*
+- *Safe Spaces, Special Jurisdictions and Bounded Legal Variation — Concord Wrapper Architecture for Internal Peaceful Distance*
 
-Extraction record:
+Extraction and recovery records:
+
+- *Contextual Wrapper Architecture — BTT-001 Source-Recovery and ESCP Audit*
+- *Contextual Wrapper Architecture — Wider Concord Precedence Source Resolution 001*
+- *Contextual Wrapper Architecture — Precedence Resolution Router — Source Extraction 001*
+
+Original extraction record:
 
 - *Contextual Wrapper Architecture — Source Resolution and Extraction Audit 001*
 
