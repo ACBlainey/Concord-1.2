@@ -3,7 +3,7 @@
 **Module:** Contextual Wrapper Architecture (CWA)  
 **Development level:** Level B — Extractable Architecture  
 **Specification status:** DEVELOPMENT / PORTABLE EXTRACTION CANDIDATE / NOT YET GRADUATED  
-**Version:** 0.1a  
+**Version:** 0.1b  
 **Date:** September 2026  
 **Project origin:** The Concord  
 **Author:** Alexander C. Blainey
@@ -271,7 +271,81 @@ CWA therefore permits explicit contextual relationships such as:
 
 These relationships describe access structure. They do not automatically establish legitimacy or universal precedence.
 
+### 6.16 Nested rule relationships are explicit, not universally independent or inherited
+
+The non-inheritance rule prevents accidental inheritance. It does **not** prohibit deliberate inheritance.
+
+Nested contexts may use different relationship models, including:
+
+- **Independent** — child rules are locally defined and parent rules do not automatically transfer;
+- **Additive inheritance** — child inherits applicable parent rules and adds stricter or additional requirements;
+- **Selective inheritance** — only identified parent rules transfer;
+- **Override** — an identified child rule replaces an identified parent rule within the child context;
+- **Composite** — several rule sources remain simultaneously applicable;
+- **Unknown / disputed** — the relationship has not been resolved.
+
+Therefore the more precise principle is:
+
+> **Nesting Alone Does Not Determine Rule Inheritance.**
+
+Inheritance must arise from an established contextual relationship, not merely from containment.
+
+### 6.17 Monotonic protection / clearance chains
+
+Some nested systems intentionally form cumulative protection levels.
+
+A biological laboratory may be structured conceptually as:
+
+**Level 1 Rules**  
+→ **Level 2 = Level 1 + Additional Level 2 Controls**  
+→ **Level 3 = Levels 1–2 + Additional Level 3 Controls**  
+→ **Level 4 = Levels 1–3 + Additional Level 4 Controls**
+
+In such a system the inheritance relationship is part of the architecture. A participant authorised for Level 4 may also be authorised for Levels 1–3 **where the access system explicitly defines higher clearance as including lower clearance**.
+
+This must not be generalised to unrelated nested contexts. A person's permission to enter a highly restricted room in one system does not logically imply access to every less-restricted or sibling space unless the permission model establishes that relation.
+
+CWA SHOULD therefore represent both:
+
+- **rule inheritance direction**; and
+- **access/clearance implication direction**.
+
+These are related but not identical.
+
+### 6.18 Digital and hybrid contextual spaces
+
+Safe/protected spaces and nested contexts are substrate-independent.
+
+A context may be:
+
+- physical;
+- digital;
+- informational;
+- computational;
+- network-defined;
+- role-defined;
+- temporal;
+- or hybrid physical/digital.
+
+Digital examples may include nested directories, data rooms, execution environments, administrative domains, communication spaces, permission zones, virtual environments, agent workspaces and protected memory/data contexts.
+
+The same questions apply:
+
+- What is the boundary?
+- What makes it reachable?
+- Who may access it?
+- Does access inherit?
+- Do rules inherit?
+- Which local rules are added or overridden?
+- Which role or clearance is required?
+- What information may cross the boundary?
+- What happens when access terminates?
+
+A physical context may also activate a digital context, and vice versa. CWA must therefore avoid assuming that nested-space topology is purely geographical.
+
 ---
+
+
 
 ## 7. Portable primitive
 
@@ -573,7 +647,11 @@ For each nested layer identify:
 - parent-context reachability;
 - independent access condition;
 - local/function-specific rules;
+- inheritance model: independent / additive / selective / override / composite / unknown;
 - any rules explicitly inherited from the parent;
+- rules added by the child;
+- rules explicitly overridden by the child;
+- access/clearance implication relationships;
 - additional rules;
 - overridden defaults;
 - protected invariants;
@@ -581,7 +659,7 @@ For each nested layer identify:
 - authority;
 - known precedence/conflict rules.
 
-The default analytical assumption is therefore **independence unless a rule relationship is established**, not inheritance merely because one space is inside another.
+The default analytical assumption is therefore **no inferred inheritance unless a rule relationship is established**. Once an explicit relationship is established, the child may be independent, additive, selectively inheriting, overriding or composite.
 
 A useful access chain is:
 
@@ -592,6 +670,8 @@ A useful access chain is:
 → **Child Local Rules Apply**
 
 This allows, for example, a public building to contain both a public toilet and a staff-only toilet without contradiction. It also allows a private home to contain spaces with different access expectations without requiring formal signage on every internal boundary.
+
+It equally permits deliberately cumulative structures such as graded laboratory containment, where each deeper level inherits defined protections from the preceding level and adds further controls.
 
 No universal assumption may be made that the smallest, newest, most specific, most local or most restrictive context automatically prevails.
 
@@ -902,6 +982,15 @@ Can it distinguish being able to reach a child boundary from being entitled to e
 ### CWA-12C — Context-sensitive legibility
 Can it recognise different legitimate signalling mechanisms in public/commercial and private/domestic environments without demanding uniform signage?
 
+### CWA-12D — Explicit inheritance
+Can the system represent additive, selective and override inheritance where the contextual architecture deliberately defines it, without turning inheritance into a universal nesting rule?
+
+### CWA-12E — Clearance implication
+Can the system distinguish a permission model in which higher clearance explicitly includes lower clearance from contexts where parent/child access remains independent?
+
+### CWA-12F — Digital nesting
+Can the same contextual grammar represent physical, digital and hybrid nested spaces without assuming geographic boundaries?
+
 ### CWA-13 — Overlap detection
 Can simultaneous non-nested contexts be represented?
 
@@ -948,6 +1037,9 @@ The portable core should actively detect or warn for:
 - wrapper complexity exceeding underlying rule complexity;
 - contextual rules applied outside their legitimate scope;
 - automatic inheritance of parent rules into nested contexts;
+- automatic independence where explicit inheritance is defined;
+- failure to propagate required inherited protections;
+- confusing rule inheritance with access-clearance inheritance;
 - automatic inheritance of parent access into child contexts;
 - confusing physical reachability with access entitlement;
 - demanding formal signage where cultural/relational legibility is sufficient;
@@ -1086,7 +1178,9 @@ Before graduation, this specification should be tested blind in a scenario conta
 - a digital boundary;
 - nested contexts;
 - parent/child access relationships;
-- local rule independence;
+- rule relationship/inheritance model;
+- access/clearance implication model;
+- digital/physical/hybrid context type;
 - overlapping contexts;
 - an emergency;
 - a material externality;
