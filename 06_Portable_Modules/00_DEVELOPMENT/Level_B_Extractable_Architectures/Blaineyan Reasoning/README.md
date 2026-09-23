@@ -1,12 +1,22 @@
 # Blaineyan Reasoning
 
 **Development level:** Level B Extractable Architectures
-**Status:** CANDIDATE PORTABLE MODULE / DEVELOPMENT PLACEHOLDER
-**Portable package complete:** NO
+**Status:** FULL DEVELOPMENT SPECIFICATION DRAFTED / TESTING AND AUDIT REQUIRED
+**Portable package complete:** DEVELOPMENT DRAFT — NOT YET GRADUATED
 
 ## Candidate function
 
-A broader reasoning methodology for structured exploration of possibility space, branching hypotheses and reality-testing. Source: 02_Epistemic_and_Research/Book 1 Blaineyan Reasoning.md. Initial status: PORTABLE CORE INSIDE LARGER WORK; concise standalone module required.
+A broader reasoning methodology for structured exploration of possibility space, branching hypotheses and reality-testing. Source: 02_Epistemic_and_Research/Book 1 Blaineyan Reasoning.md. Current assessment: SUFFICIENT SOURCE MATERIAL FOR FULL PORTABLE MODULE. A complete first development specification has now been extracted; audit, testing and packaging remain before graduation.
+
+## Current development specification
+
+The first full portable specification is now available in this folder:
+
+`Blaineyan Reasoning — Portable Module Development Specification.md`
+
+It preserves Blaineyan Reasoning as the overarching methodology while treating **Reality Trees as a separate associated method**. Blaineyan Reasoning may use Reality Trees for branch representation, but neither method is defined as requiring the other.
+
+The specification is now suitable for source audit and cross-instance / external-case testing. It must not yet be presented as independently validated or migrated to the completed portable-module area.
 
 ## Why it may be portable
 
