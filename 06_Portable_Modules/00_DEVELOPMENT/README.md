@@ -2,6 +2,16 @@
 
 **Status:** DEVELOPMENT / CANDIDATE EXTRACTION AREA / NON-CANONICAL AS PORTABLE PACKAGES
 
+## Development method
+
+The formal operating method for portable-module extraction, development, blind transfer testing, graduation and archival is:
+
+**Portable Module Extraction, Development and Graduation Method — PMEDG v1.0**
+
+This method should be carried forward into future Concord repository versions with the active portable-module development area. Completed module-development histories may remain archived rather than being imported merely to reconstruct the procedure.
+
+> **Future development depends on the method, not on reconstructing the method from completed-module history.**
+
 ## Purpose
 
 This area holds Concord material identified as potentially portable but not yet completed as standalone portable modules.
