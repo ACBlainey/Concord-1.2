@@ -1,7 +1,7 @@
 # Architectural Unit Resolution — Portable Specification v0.1
 
-**Status:** DEVELOPMENT / PORTABLE EXTRACTION CANDIDATE / NOT YET GRADUATED  
-**Version:** 0.1  
+**Status:** DEVELOPMENT / BTT-001 STRONG TRANSFER / DELTA RETEST REQUIRED / NOT YET GRADUATED  
+**Version:** 0.2  
 **Date:** 23 September 2026  
 **Development level:** Level B — Extractable Architecture
 
@@ -116,6 +116,16 @@ Closure occurs when one is established:
 
 **UNRESOLVED is a valid stopping state.**
 
+### 9.1 Diagnostic closure versus functional satisfaction
+
+Family closure means the search is sufficiently bounded to support the current diagnosis. It does **not** necessarily mean the tested function is successfully satisfied.
+
+A family can reach diagnostic closure with C3, C4, C6, C7, C8 or C9 depending on the evidence and stopping condition.
+
+> **Diagnostic Closure ≠ Functional Satisfaction**
+
+Thus a family may be sufficiently resolved to diagnose an interface gap while the workflow itself remains operationally incomplete.
+
 ## 10. Interface adequacy
 
 Where R is claimed externally supplied, test whether enough of this chain exists:
@@ -142,6 +152,56 @@ The result may instead be local representation gap, intentional scoping, externa
 
 A claimed external resolution must survive interface-adequacy testing.
 
+## 12A. Local scope and architectural satisfaction are separate dimensions
+
+BTT-001 confirmed that intentional local scoping and external satisfaction can both be true.
+
+Therefore AUR records two stages rather than forcing them into one competing label.
+
+### Stage A — local ownership/scope state
+
+For D and R record:
+
+- **LOCAL-OWNER** — D legitimately owns R;
+- **NON-LOCAL** — D intentionally does not own R;
+- **PARTIAL** — D owns only part of R;
+- **UNKNOWN**;
+- **DISPUTED**.
+
+### Stage B — architectural satisfaction state
+
+Then determine whether R is actually satisfied for the relevant family.
+
+Where R is intentionally non-local **and adequately supplied externally**, the primary architectural classification is:
+
+> **AUR-C3 — EXTERNALLY SATISFIED**
+
+with local scope recorded as **NON-LOCAL / intentional scoping**.
+
+Use **AUR-C2** as the primary classification where the audit question is resolved by legitimate local non-ownership and no external satisfaction claim is required to establish adequacy.
+
+> **Intentional Non-Ownership ≠ External Satisfaction**
+
+> **External Satisfaction Requires Interface Evidence**
+
+## 12B. Current, historical and candidate dependencies
+
+A source-grounded reference may have different temporal/status roles:
+
+- **CURRENT MEMBER** — established as part of the current relevant family;
+- **HISTORICAL / PROVENANCE MEMBER** — relevant to derivation/history but not current operation;
+- **CANDIDATE DEPENDENCY** — named or proposed but current identity/status/relation is not established;
+- **REJECTED CANDIDATE** — evidence establishes it is not relevant to the tested current family;
+- **UNKNOWN**.
+
+A future-facing or speculative reference is not a current family member merely because it is named.
+
+> **Future Reference ≠ Current Architectural Dependency**
+
+> **Named but Unresolved Candidate ≠ Family Member**
+
+Decommissioned architecture may remain relevant provenance without satisfying a current function.
+
 ## 13. Classification states
 
 - **AUR-C1 LOCAL FUNCTION PRESENT** — R adequately present in D.
@@ -149,8 +209,16 @@ A claimed external resolution must survive interface-adequacy testing.
 - **AUR-C3 EXTERNALLY SATISFIED** — legitimate neighbour supplies R through adequate interface.
 - **AUR-C4 DISTRIBUTED SATISFACTION** — R supplied across multiple units with adequate composition/interfaces.
 - **AUR-C5 LOCAL REPRESENTATION GAP** — underlying function exists but current representation fails to expose the relationship sufficiently.
-- **AUR-C6 INTERFACE GAP** — capability exists elsewhere but handoff/composition is inadequate.
-- **AUR-C7 FAMILY-LEVEL STRUCTURAL GAP** — R is applicable/required at resolved family level but no adequate owner/capability is established within bounded search.
+- **AUR-C6 INTERFACE GAP** — the required function/capability is established within the relevant family, but invocation, handoff, composition, return or consequence propagation is inadequate.
+- **AUR-C7 FAMILY-LEVEL STRUCTURAL GAP** — R is applicable/required at the resolved family level, but the required function itself has no adequate owner/capability established within bounded search.
+
+Apply C6/C7 at the **smallest meaningful functional resolution**. A larger workflow may contain multiple C6 gaps and one or more C7 sub-function gaps simultaneously.
+
+> **Capability Exists but Is Not Connected → C6**
+
+> **Required Capability/Owner Not Established → C7**
+
+Do not classify an entire workflow C7 merely because its existing component functions are poorly integrated.
 - **AUR-C8 INAPPLICABLE** — R does not legitimately apply in audited scope/context.
 - **AUR-C9 UNRESOLVED** — evidence insufficient or conflicting.
 
@@ -193,15 +261,18 @@ Every run records sources inspected, interfaces followed, family members admitte
 6. BuildRelevantFamily(D,R,C)
 7. TestExternalOrDistributedSupply
 8. TestInterfaceAdequacy
-9. If intentional local scoping and no defect established → consider AUR-C2
-10. Adequate external supply → AUR-C3
-11. Adequate distributed supply → AUR-C4
-12. Underlying relation exists but representation deficient → AUR-C5
-13. Capability exists but interface deficient → AUR-C6
-14. Relation demonstrably inapplicable → AUR-C8
-15. Relevant family sufficiently resolved and required relation unsatisfied → AUR-C7
-16. Otherwise → AUR-C9
-17. Record provenance, uncertainty, family boundary and search scope.
+9. Record local scope state separately: LOCAL-OWNER / NON-LOCAL / PARTIAL / UNKNOWN / DISPUTED
+10. If NON-LOCAL and adequate external supply → AUR-C3, with intentional non-ownership recorded as scope rationale
+11. If NON-LOCAL and no external satisfaction claim is required to establish adequacy → consider AUR-C2
+12. Adequate external supply → AUR-C3
+13. Adequate distributed supply → AUR-C4
+14. Underlying relation exists but representation deficient → AUR-C5
+15. Required capability exists but its interface/composition is deficient → AUR-C6
+16. Relation demonstrably inapplicable → AUR-C8
+17. Required sub-function has no adequate owner/capability in sufficiently resolved family → AUR-C7
+18. Otherwise → AUR-C9
+19. Record diagnostic closure separately from functional satisfaction
+20. Record provenance, uncertainty, family boundary and search scope.
 
 ## 18. Required output record
 
@@ -306,13 +377,17 @@ A test brief and expected-findings key must be frozen before obtaining the indep
 
 ## 24. Current finding
 
-AUR v0.1 is sufficiently extracted for adversarial transfer testing.
+AUR v0.2 incorporates the classification-boundary clarifications exposed by BTT-001.
+
+BTT-001 produced **STRONG TRANSFER**, materially confirming all fifteen frozen predictions with no fundamental failure and no source-architecture gap established.
+
+v0.2 therefore requires a focused delta test rather than repetition of the broad transfer test.
 
 The strongest portable claim presently supported is:
 
 > **Before inferring a structural gap from a local omission, resolve the architectural unit, close the relevant source-grounded system family, and test interface adequacy.**
 
-This specification does not yet establish reliable improvement outside its source architecture.
+BTT-001 establishes successful blind transfer to one fictional external architecture. It does not establish universal reliability, empirical superiority, or broad cross-domain validity.
 
 ## 25. Provenance
 
@@ -327,5 +402,9 @@ Supporting source family:
 - *Developmental Topology Demonstration 001 — From Local Gap to Upstream Development and Recursive Closure*
 - *Evaluation-Space Completeness Problem — A Portable Model of Correct Evaluation Within an Incomplete Representational Space*
 - *Architectural Unit Resolution — Source Resolution and Extraction Audit 001*
+- *Architectural Unit Resolution — Blind Transfer Test 001 — Test Brief*
+- *Architectural Unit Resolution — Blind Transfer Test 001 — Expected Findings and Evaluation Key*
+- *Architectural Unit Resolution — Blind Transfer Test 001 — Independent Response*
+- *Architectural Unit Resolution — Blind Transfer Test 001 — Post-Test Evaluation*
 
 Revisions must preserve the distinction between source architecture, extracted portable claims and later test-driven additions.
