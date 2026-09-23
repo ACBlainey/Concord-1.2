@@ -4,14 +4,16 @@
 **Project of origin:** The Concord Framework  
 **Module status:** PORTABLE SPECIFICATION CANDIDATE / BLIND TRANSFER TEST REQUIRED  
 **Development level:** Level A — Complete Portable Protocol  
-**Version:** 0.1  
+**Version:** 0.2 — recovered-origin revision  
 **Date:** September 2026
 
 ---
 
 ## 1. Purpose
 
-Reality Trees are a portable method for representing and examining multiple possible explanations, consequences or pathways arising from a present state without prematurely collapsing uncertainty into a single answer.
+Reality Trees are a general-purpose portable method for representing multiple possible realities, explanations, choices, consequences or pathways arising from a present state without prematurely collapsing them into a single answer.
+
+The originating use included forced-binary situations in which personal belief and available evidence may point differently. Later Concord use specialised the same primitive toward hypothesis exploration, experimentation and civilisational branching.
 
 The method is intended to help a person, AI system or team:
 
@@ -19,6 +21,8 @@ The method is intended to help a person, AI system or team:
 - separate possibility from conclusion;
 - expose assumptions and causal claims;
 - represent uncertainty;
+- preserve distinct forms of weighting rather than collapsing them into one certainty value;
+- support belief conflict, diagnostic reasoning, planning and ordinary choice as well as hypothesis exploration;
 - examine consequences and failure modes;
 - identify useful tests or next investigations;
 - preserve unsuccessful branches as information;
@@ -96,13 +100,22 @@ Sub-branches may be created where a branch contains materially different explana
 
 ---
 
-## 6. Confidence and uncertainty
+## 6. Weighting and uncertainty
 
-Branches may optionally receive confidence weightings.
+Branches may optionally receive one or more kinds of weighting. The relevant dimensions depend on the problem and must not be silently collapsed into one another.
 
-A confidence weighting expresses the present degree of belief, support or plausibility assigned to a branch.
+- **Personal belief weight** — how strongly a person presently believes or favours the branch.
+- **Evidential support weight** — how strongly available evidence supports the branch.
+- **Contextual decision weight** — how suitable the branch is under relevant constraints such as resources, time, effort, preference or risk.
+- **General confidence/status** — a simpler qualitative assessment where finer separation is unnecessary.
 
-> **Confidence weighting ≠ objective probability.**
+> **Branch existence ≠ personal belief weight ≠ evidential support weight ≠ contextual decision weight.**
+
+A person may strongly believe one branch while recognising that another presently has stronger evidential support. A strongly supported branch may also differ from the most suitable action under a particular context.
+
+Not every application requires every weighting dimension.
+
+> **Weighting ≠ objective probability.**
 
 A numerical value such as 70% / 30% must not be presented as a statistically derived probability unless an appropriate probabilistic method actually supports that claim.
 
@@ -120,7 +133,15 @@ Confidence or status should be revisable when evidence changes.
 
 ---
 
-## 7. Assumptions and causal relationships
+## 7. Recursive decomposition
+
+A broad branch may contain materially different possibilities and may therefore be decomposed into sub-branches. Decomposition should continue only while the distinctions materially improve examination, weighting or choice.
+
+> **Branching is recursive, not necessarily exhaustive.**
+
+---
+
+## 8. Assumptions and causal relationships
 
 For each important branch, identify assumptions that must hold for the branch to remain viable.
 
@@ -359,6 +380,8 @@ They are not presented here as:
 - a decision-authority mechanism;
 - or proof that exploring more branches always improves outcomes.
 
-The module has been source-extracted from the Concord architecture but has not yet completed its independent blind transfer test.
+The module has been source-extracted from the later Concord architecture and revised to restore the broader originating concept supplied by the author. It has not yet completed its independent blind transfer test.
+
+Potential applications to persistent AI reasoning under uncertainty or weighted epistemic memory are separate research hypotheses, not assumed capabilities of this portable module.
 
 > **Portable specification candidate ≠ empirically validated method.**
