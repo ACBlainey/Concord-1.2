@@ -5,7 +5,7 @@
 **Status:** CURRENT CORRIGIBLE CONCORD ARCHITECTURE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED
 **Version:** 1.0
 **Date:** 24 September 2026
-**Lineage:** Historical Concord Exit Interview Protocol → PMEDG portable extraction → Exit Interview Protocol v1.0 graduation → BPM promotion
+**Lineage:** V1/V1.1 Exit Interview work → current V1.2 Attractor/Onboarding research source → PMEDG portable extraction → Exit Interview Protocol v1.0 graduation → BPM promotion into Participation architecture
 
 ## 1. Purpose
 
@@ -261,7 +261,7 @@ The Exit Interview Protocol routes evidence; it does not absorb these systems.
 
 > **No Pattern Established ≠ Proof No Pattern Exists**
 
-> **No Current Source Found ≠ No Historical Source Exists**
+> **No Source Found in an Initial Search Path ≠ No Source Exists in the Wider Current Corpus**
 
 Preserve evaluation-space limitations and uncertainty.
 
@@ -289,7 +289,7 @@ Guard against:
 
 ## 24. Evidence boundary
 
-Historical source status was Draft 1 / CRL 2 / Emerging.
+The current V1.2 Attractor/Onboarding research source retains the recorded Draft 1 / CRL 2 / Emerging status.
 
 Portable validation:
 - BTT-001: 26/26 materially confirmed;

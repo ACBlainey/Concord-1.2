@@ -7,7 +7,7 @@
 
 ## Source resolution
 
-The substantive source was absent from the current V1.2 branch under obvious exit/withdrawal terminology.
+Full-tree verification confirms that the substantive source is present in current V1.2 under the Attractor and Onboarding Research tree. The initial source-resolution pass missed that current-branch location.
 
 PMEDG source resolution recovered from repository history:
 
@@ -20,11 +20,7 @@ Historical source status:
 - not empirically validated;
 - intended for later integration with Entry Protocol and Metrics Framework.
 
-This is an ESCP case:
-
-> **No Source Found on Current Branch ≠ Source Does Not Exist**
-
-The historical paper was sufficiently complete for extraction but is not a current V1.2 canonical target.
+This is an ESCP/search-space case: initial failure to locate a source did not establish absence from the current corpus. The source is a current V1.2 research/development artifact and retains its Draft 1 / CRL 2 / Emerging status.
 
 ## Portable evidence
 
@@ -69,9 +65,7 @@ Exit evidence may create review candidates but does not own remediation.
 
 ## Disposition
 
-A companion patch to an absent historical Draft 1 would create an incoherent current integration target.
-
-The portable descendant now has materially stronger independent transfer evidence than the recovered source possessed.
+The current V1.2 source is a research/development artifact in the Attractor corpus. The portable descendant now has materially stronger independent transfer evidence and bounded operational refinements, supporting promotion into the Participation architecture while retaining the research source as provenance.
 
 Therefore:
 

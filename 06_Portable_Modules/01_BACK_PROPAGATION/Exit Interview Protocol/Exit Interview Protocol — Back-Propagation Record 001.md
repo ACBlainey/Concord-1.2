@@ -7,13 +7,13 @@
 
 ## Lineage
 
-The substantive source was absent from current V1.2 and recovered from repository history:
+The substantive source is present in current V1.2 in the Attractor and Onboarding Research corpus. The initial source-resolution pass missed that current-tree location and also recovered the same lineage from repository history:
 
 **The Concord Exit Interview Protocol — Constitutional Learning Through Voluntary Withdrawal**
 
 Historical status: **Draft 1 / CRL 2 — Constitutional Consistency demonstrated / Confidence: Emerging**.
 
-The historical source remains provenance and is not retroactively relabelled canonical.
+The current research source remains provenance and retains its recorded Draft 1 / CRL 2 / Emerging status.
 
 ## Evidence
 
@@ -26,7 +26,7 @@ The historical source remains provenance and is not retroactively relabelled can
 
 ## BPM disposition
 
-A companion to an absent historical Draft 1 was not the correct current integration target.
+The current V1.2 source is a research/development artifact. Portable testing supplied independent transfer evidence and bounded operational refinements sufficient to promote a current operational expression into Participation and Intelligence while retaining the research source.
 
 Disposition:
 
@@ -65,6 +65,4 @@ Final:
 
 ## Methodological note
 
-This ninth completed BPM cycle independently repeats the historical-source restoration/promotion pathway observed with FPA, but in participation/constitutional-learning architecture rather than permission architecture.
-
-That repetition suggests the pathway is not a one-off artifact of the FPA source history.
+This ninth completed BPM cycle establishes a distinct research-to-operational promotion pathway: existing V1.2 research source → portable extraction and independent transfer → bounded refinement → operational promotion while preserving the research source. This is not the same source-history pattern as FPA.
