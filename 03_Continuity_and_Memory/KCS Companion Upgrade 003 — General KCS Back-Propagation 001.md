@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher
 **Project:** The Concord Framework
-**Status:** CANONICAL COMPANION UPGRADE — PENDING INTERFACE REGRESSION
+**Status:** CANONICAL COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED
 **Parent architecture:** KCS KNOWLEDGE CONTROL SYSTEM
 **Evidence source:** Knowledge Control System — Portable Module v1.0
 **Date:** 24 September 2026
@@ -211,4 +211,4 @@ Before integration, check:
 
 Until then:
 
-> **CANONICAL COMPANION UPGRADE — PENDING INTERFACE REGRESSION**
+> **CANONICAL COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
