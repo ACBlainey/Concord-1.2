@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher  
 **Project:** The Concord Framework  
-**Status:** COMPANION UPGRADE — PENDING ARCHITECTURAL INTERFACE REGRESSION  
+**Status:** COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED  
 **Parent:** Book 1 Blaineyan Reasoning  
 **Evidence source:** Blaineyan Reasoning — Portable Module v1.0  
 **Date:** 24 September 2026
@@ -136,4 +136,4 @@ Before integration, check:
 
 Until complete:
 
-> **BLAINEYAN REASONING COMPANION UPGRADE 001 — PENDING ARCHITECTURAL INTERFACE REGRESSION**
+> **BLAINEYAN REASONING COMPANION UPGRADE 001 — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
