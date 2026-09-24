@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher
 **Project:** The Concord Framework
-**Status:** COMPANION UPGRADE — AWAITING INTEGRATION / RETEST
+**Status:** CANONICAL COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED
 **Parent architecture:** Civilisation Clock Companion Extension 001 — State, Functional and Compound Trigger Architecture
 **Evidence source:** State Triggered Review Architecture — Portable Module v1.0; PMEDG STRA development record
 **Back-propagation source:** State Triggered Review Architecture — Back-Propagation Audit 001
@@ -303,9 +303,13 @@ Their relevance here is that the returned refinements were retained through inde
 
 ## 21. Current status
 
-> **COMPANION UPGRADE — AWAITING INTEGRATION / RETEST**
+> **CANONICAL COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
 
-The source architecture has now received the candidate refinements, but their cross-interface compatibility must be checked before integration is declared complete.
+The required regression has been completed in **Civilisation Clock — STRA Back-Propagation 001 — Interface Regression Review**.
+
+Results: Civil State Map/SMM PASS; KCS PASS; Continuity/participant architecture PASS with bounded implementation follow-up; protected-context/privacy boundary PASS with bounded schema follow-up; no authority, epistemic or privacy/autonomy regression observed.
+
+The bounded follow-ups do not block architectural integration.
 
 ## Conclusion
 
