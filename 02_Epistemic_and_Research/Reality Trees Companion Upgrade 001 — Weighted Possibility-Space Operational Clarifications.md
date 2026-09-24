@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher  
 **Project:** The Concord Framework  
-**Status:** COMPANION UPGRADE — PENDING ARCHITECTURAL INTERFACE REGRESSION  
+**Status:** COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED  
 **Parent:** Reality Trees: A Portable Cognitive and Experimental Exploration Module  
 **Evidence source:** Reality Trees — Portable Module v1.0  
 **Date:** 24 September 2026
@@ -120,4 +120,4 @@ Before integration, check:
 
 Until that review is complete:
 
-> **REALITY TREES COMPANION UPGRADE 001 — PENDING ARCHITECTURAL INTERFACE REGRESSION**
+> **REALITY TREES COMPANION UPGRADE 001 — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
