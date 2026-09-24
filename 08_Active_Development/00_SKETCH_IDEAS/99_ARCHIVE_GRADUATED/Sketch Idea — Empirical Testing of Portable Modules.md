@@ -2,9 +2,13 @@
 
 **Project:** The Concord Framework
 **Author:** Alexander C. Blainey
-**Status:** SKETCH / UNTESTED / NON-CANONICAL
+**Status:** GRADUATED TO DEVELOPMENT NOTE / RETAINED FOR PROVENANCE
 **Validation:** NOT ESTABLISHED
 **Origin:** Author question following the portable-module extraction and graduation programme, September 2026.
+
+**Development Transfer:** `01_DEVELOPMENT_NOTES/03_CONCORDIAN_METHODOLOGY/Empirical Validation of Portable Modules — Development Note 001.md`
+
+**Promotion Date:** 24 September 2026
 
 ---
 
