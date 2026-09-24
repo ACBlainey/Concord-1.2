@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher  
 **Project:** The Concord Framework  
-**Status:** COMPANION UPGRADE — PENDING ARCHITECTURAL INTERFACE REGRESSION  
+**Status:** COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED  
 **Parent:** Minimum Necessary Capability — A Concord Architecture for the Justification, Bounding and Termination of Power and Permission  
 **Evidence source:** Minimum Necessary Capability — Portable Module v1.0  
 **Date:** 24 September 2026
@@ -116,4 +116,4 @@ Before integration, check:
 
 Until complete:
 
-> **MNC COMPANION UPGRADE 001 — PENDING ARCHITECTURAL INTERFACE REGRESSION**
+> **MNC COMPANION UPGRADE 001 — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
