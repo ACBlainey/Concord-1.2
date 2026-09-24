@@ -1,6 +1,6 @@
 # CBERRM Companion Upgrade 001 — Scoped Standing, Materiality and Responsibility Architecture
 
-**Status:** COMPANION UPGRADE — AWAITING INTEGRATION / RETEST
+**Status:** INTEGRATED COMPANION / ARCHITECTURAL INTERFACE RETEST PASSED
 **Parent:** Cross-Boundary Externality Recognition and Responsibility Mechanism
 **Evidence source:** Cross Boundary Externality Recognition — Portable Module v1.0
 **Date:** 24 September 2026
@@ -171,4 +171,4 @@ Retest against FBS, KCS, CWA/FPA, Judiciary/jurisdiction, Rights Translation/sta
 
 Until then:
 
-> **COMPANION UPGRADE — AWAITING INTEGRATION / RETEST**
+> **INTEGRATED COMPANION / ARCHITECTURAL INTERFACE RETEST PASSED**
