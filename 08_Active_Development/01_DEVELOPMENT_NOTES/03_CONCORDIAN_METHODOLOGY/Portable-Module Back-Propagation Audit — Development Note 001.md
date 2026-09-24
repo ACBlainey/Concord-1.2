@@ -2,11 +2,12 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher
 **Project:** The Concord Framework
-**Status:** ACTIVE DEVELOPMENT / METHOD PILOT
-**Validation:** PARTIALLY TESTED — SMM PILOT
+**Status:** SUPERSEDED AS CURRENT METHOD / RETAINED FOR DEVELOPMENTAL PROVENANCE
+**Validation:** PILOT COMPLETED — METHOD SUBSEQUENTLY FORMALISED AS BPM v1.0
 **Origin:** Sketch Idea — Back-Propagation of Graduated Portable-Module Improvements into Concord Systems
 **Pilot module:** State and Maturity Mapping (SMM)
 **Date:** 24 September 2026
+**Superseded by:** Portable-Module Back-Propagation Method — BPM v1.0
 
 ---
 
