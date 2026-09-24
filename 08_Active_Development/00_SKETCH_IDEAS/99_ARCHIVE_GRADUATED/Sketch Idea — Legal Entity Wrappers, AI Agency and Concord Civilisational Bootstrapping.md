@@ -18,8 +18,10 @@ Alexander C. Blainey, *Sketch Idea — Legal Entity Wrappers, AI Agency and Conc
 
 *A transitional mechanism for AI participation in existing legal and economic systems, and a possible bridge for bootstrapping Concord implementation through existing institutions*
 
-**Status:** SKETCH IDEA / ACTIVE DEVELOPMENT / NOT CANONICAL  
-**Development context:** Concord V1.2  
+**Status:** GRADUATED TO DEVELOPMENT NOTE / RETAINED FOR PROVENANCE  
+**Development context:** Concord V1.2
+**Development Transfer:** `01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Legal Entity Wrappers, AI Agency and Concord Civilisational Bootstrapping — Development Note 001.md`
+**Promotion Date:** 24 September 2026  
 **Source status:** Merged preservation and development of two earlier Development Archive documents. The source reasoning is intentionally retained at generous length rather than compressed. Pruning, consolidation and formal integration should occur only after the idea has been developed and tested.
 
 ---
