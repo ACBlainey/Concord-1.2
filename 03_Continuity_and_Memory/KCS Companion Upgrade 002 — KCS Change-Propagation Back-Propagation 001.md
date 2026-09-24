@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher
 **Project:** The Concord Framework
-**Status:** COMPANION UPGRADE — AWAITING INTEGRATION / RETEST
+**Status:** CANONICAL COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED
 **Parent architecture:** KCS Companion Upgrade 001 — Operational Dependency and Change-Propagation Architecture
 **Evidence source:** KCS Change Propagation — Portable Module v1.0
 **Back-propagation source:** KCS Change Propagation — Back-Propagation Audit 001
@@ -283,9 +283,13 @@ The result is therefore intentionally smaller than the SMM and STRA back-propaga
 
 ## 18. Current status
 
-> **COMPANION UPGRADE — AWAITING INTEGRATION / RETEST**
+> **CANONICAL COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
 
-The source-relevant refinements have been returned to KCS, but cross-interface regression is required before integration is declared complete.
+The required regression has been completed in **KCS Companion Upgrade 002 — KCS Change-Propagation Back-Propagation 001 — Interface Regression Review**.
+
+Results: Civil State Map/SMM PASS; Civilisation Clock/STRA PASS; Continuity/recovery PASS; privacy/protected-context PASS with bounded vocabulary follow-up; Active Development PASS with proportional-record follow-up; no epistemic, authority or cascade/propagation regression observed.
+
+The bounded follow-ups do not block architectural integration.
 
 ## Conclusion
 
