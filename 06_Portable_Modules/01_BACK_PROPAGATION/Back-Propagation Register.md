@@ -21,7 +21,7 @@ This register records post-graduation audits and source reintegration status for
 | Reality Trees v1.0 | **INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED** | Reality Trees epistemic/research source + constitutional-evolution neighbour | RT2-T2 transfer success with minor revision; broader originating scope and seven bounded operational refinements returned without promoting adjacent AI-memory or constitutional hypotheses | **Reality Trees Companion Upgrade 001 — Weighted Possibility-Space Operational Clarifications** integrated in Epistemic and Research | Human usability, comparative effectiveness, persistent AI reasoning and weighted epistemic memory remain unvalidated |
 | Blaineyan Reasoning v1.0 | **INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED** | Book 1 Blaineyan Reasoning + Reality Trees / Resource Stewardship source family | Two independent blind transfers succeeded with minor revision; operational refinements and recovered source-family safeguards returned without promoting wider speculative claims | **Blaineyan Reasoning Companion Upgrade 001 — Portable Operationalisation** integrated in Epistemic and Research | Human usability, comparative effectiveness, novelty, longitudinal fluency and human–AI equivalence remain unvalidated |
 | Minimum Necessary Capability v1.0 | **INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED** | MNC core architecture + permission / authority / responsibility neighbours | MNC-T2 transfer success with minor revision; mature source retained; four bounded floor/ceiling, discretion, provenance and activation-time aggregate refinements integrated | **Minimum Necessary Capability Companion Upgrade 001 — Portable Transfer Clarifications** integrated in Core Wrapper Architecture | Objective floor/ceiling methods, empirical benefit, legal compliance, human usability and comparative performance remain unvalidated |
-| Other graduated portable modules | **NOT YET AUDITED** | Various | No portfolio-wide conclusion yet | None yet | Prioritise by post-extraction delta, failure-mode severity, source centrality and downstream dependencies |
+| Remaining portable-area candidates | **STATUS RESOLVED — NONE CURRENTLY VERIFIED AS ADDITIONAL PMEDG-GRADUATED MODULES** | ESCP; Safe Spaces; Triadic Decision Making; Civil Contact Points; Recursive Oversight | Graduation-Status Audit 001 found research/experimental/active-development/not-yet-validated status and no PMEDG completed graduation package for these candidates | **No BPM action until development/graduation status changes** | Triadic Decision Making and Recursive Oversight appear closest to formal status resolution; this is procedural, not a quality ranking | | Various | No portfolio-wide conclusion yet | None yet | Prioritise by post-extraction delta, failure-mode severity, source centrality and downstream dependencies |
 
 ## Register discipline
 
@@ -32,3 +32,12 @@ Change a module from **NOT YET AUDITED** only after a bounded source comparison 
 Change a module to **INTEGRATED** only after the source-side artifact exists and its required interface/regression review has passed.
 
 Where no source change is justified, record **NO SOURCE CHANGE REQUIRED** rather than treating the audit as unsuccessful.
+
+
+## Queue Closure Note — 24 September 2026
+
+A root-level status audit was completed after the Reality Trees, Blaineyan Reasoning and Minimum Necessary Capability cycles. No additional candidate currently satisfies the repository evidence standard for PMEDG-graduated status.
+
+> **Current verified BPM queue complete.**
+
+Future modules enter this register for BPM only after graduation or equivalent status is explicitly established; root placement or informal portability alone is insufficient.
