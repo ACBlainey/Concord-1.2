@@ -1,6 +1,6 @@
 # Functionally Bounded Summits Companion Upgrade 001 — Portable Back-Propagation
 
-**Status:** COMPANION UPGRADE — PENDING ARCHITECTURAL INTERFACE REGRESSION  
+**Status:** COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED  
 **Parent:** Functionally Bounded Summits — Failure-Contained Negotiation for Hostile and Low-Trust Interoperability  
 **Evidence source:** Functionally Bounded Summits — Portable Module v1.0  
 **Date:** 24 September 2026
@@ -59,4 +59,4 @@ Nothing here alters Minimum Necessary Negotiation, Functional Boundedness ≠ Fu
 
 Check interfaces with Contextual Wrapper Architecture/FPA, Cross-Boundary Externality Recognition, authority/jurisdiction architecture, KCS/provenance and ESCP.
 
-> **COMPANION UPGRADE — PENDING ARCHITECTURAL INTERFACE REGRESSION**
+> **COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
