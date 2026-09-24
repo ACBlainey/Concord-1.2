@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher
 **Project:** The Concord Framework
-**Status:** CURRENT CORRIGIBLE CONCORD ARCHITECTURE — AWAITING INTERFACE RETEST
+**Status:** CURRENT CORRIGIBLE CONCORD ARCHITECTURE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED
 **Version:** 1.0
 **Date:** 24 September 2026
 **Lineage:** Recovered V1.1 FPA source → PMEDG portable extraction → FPA v1.0 graduation → BPM back-propagation promotion
@@ -286,4 +286,4 @@ FPA should be weakened, revised or rejected where evidence shows it creates impr
 
 Until interface regression is complete:
 
-> **CURRENT CORRIGIBLE CONCORD ARCHITECTURE — AWAITING INTERFACE RETEST**
+> **CURRENT CORRIGIBLE CONCORD ARCHITECTURE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
