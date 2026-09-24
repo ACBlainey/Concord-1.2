@@ -8,7 +8,7 @@ This register records post-graduation audits and source reintegration status for
 | Portable module | Back-propagation status | Source system / area | Source-relevant result | Main-corpus integration | Follow-up |
 |---|---|---|---|---|---|
 | State and Maturity Mapping v1.0 | **INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED** | Civil State Map / Civilisational Developmental Topology | 12/12 PMEDG convergence refinements source-relevant; 12/12 passed interface regression | **Civil State Map Companion Upgrade — SMM Back-Propagation 001** integrated in the CDT corpus | Bounded KCS mapping decision for QUALIFIES / DISPUTES / CONFIRMS |
-| State Triggered Review Architecture | **NOT YET AUDITED** | Civilisation Clock / state-trigger architecture | Preliminary sampling indicates later portable lifecycle refinements may not all be present in source | None yet | Formal audit required |
+| State Triggered Review Architecture | **SOURCE UPDATE CANDIDATE** | Civilisation Clock / state-trigger architecture | Formal audit identified 14 material refinements: 11 source-level operational/interface improvements and 3 clarifications of substantially existing safeguards | None yet | Create Civilisation Clock Companion Upgrade — STRA Back-Propagation 001, then interface regression |
 | KCS Change Propagation | **NOT YET AUDITED** | KCS Companion Upgrade 001 | Preliminary sampling found possible vocabulary/interface refinements; source relevance not yet established | None yet | Formal audit required |
 | Other graduated portable modules | **NOT YET AUDITED** | Various | No portfolio-wide conclusion yet | None yet | Prioritise by post-extraction delta, failure-mode severity, source centrality and downstream dependencies |
 
