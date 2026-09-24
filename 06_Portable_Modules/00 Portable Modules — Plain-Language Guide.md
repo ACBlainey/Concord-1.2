@@ -564,6 +564,61 @@ A dependency tells you that something may need reconsideration. It does not make
 
 ---
 
+# 12. Knowledge Control System
+
+## What problem does it solve?
+
+Long-running projects and organisations accumulate more knowledge than any one person, team or AI system can keep continuously in working context.
+
+Simple storage is not enough. Old conclusions may be superseded, failed work may still contain useful lessons, tools may survive after their runtime disappears, summaries may lose provenance, and a search may fail to find something that still exists.
+
+The Knowledge Control System provides a structured way to preserve and retrieve accumulated knowledge without pretending the repository is complete or infallible.
+
+Its core idea is:
+
+> **Record → preserve provenance → classify represented state → retain history → make retrievable → reuse → evaluate/update → preserve the new state without silently erasing the old one.**
+
+## Simple example
+
+An engineering team discovers that an old design rule is no longer suitable for new hardware.
+
+KCS can preserve the original rule, the evidence that once supported it, the later anomaly, the replacement rule and the scope in which each applies.
+
+A future team can retrieve the current guidance without loading the entire historical archive, while still being able to reconstruct why the guidance changed.
+
+## Where could it be applied?
+
+Potential applications include research organisations, engineering programmes, software projects, institutional memory, long-duration projects, AI-agent ecosystems, technical archives and other complex learning systems.
+
+## Use it when
+
+Use KCS when you need to:
+
+- preserve knowledge outside individual working memory;
+- retain provenance and correction history;
+- distinguish current, uncertain, rejected and superseded knowledge;
+- preserve useful negative results;
+- retrieve bounded task-relevant packages rather than entire archives;
+- preserve dormant tools or capabilities without pretending they are currently executable;
+- represent restricted information without confusing restricted access with truth status;
+- record unsuccessful searches without treating “not found” as “does not exist.”
+
+## What it does not do
+
+KCS does not decide truth merely because something is stored, assign authority from contribution records, determine legitimate access or retention policy, make preserved tools executable, perform continuity recovery, or execute downstream dependency propagation.
+
+Its key boundaries include:
+
+> **Knowledge State ≠ Authority**
+
+> **Preserved Knowledge ≠ Recoverable Function**
+
+> **Not Retrieved ≠ Does Not Exist**
+
+**Formal module:** *Knowledge Control System — Portable Module*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -588,7 +643,7 @@ Several modules may appear applicable to the same problem because they operate a
 
 **Fractal Permission Architecture** asks: *Who may perform this particular action in this particular context, for what function, under what legitimate basis and conditions—and when does that permission end?*
 
-**KCS Change Propagation** asks: *When this thing changes, what materially depends on it, what actually needs review, and how far should that review propagate?*
+**KCS Change Propagation** asks: *When this thing changes, what materially depends on it, what actually needs review, and how far should that review propagate?*\n\n**Knowledge Control System** asks: *How do we preserve, classify and retrieve accumulated knowledge without confusing storage with truth, availability with capability, or absence from search with nonexistence?*
 
 They are therefore not competing solutions to one problem. They are reusable tools for different recurring problem structures.
 
