@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher
 **Project:** The Concord Framework
-**Status:** COMPANION UPGRADE — AWAITING INTEGRATION / RETEST
+**Status:** INTEGRATED COMPANION / ARCHITECTURAL INTERFACE RETEST PASSED
 **Parent:** Fractal Contextual Wrappers — A Universal Concord Grammar for Bounded Rule, Behavioural and Jurisdictional Variation
 **Evidence source:** Contextual Wrapper Architecture — Portable Module v1.0 and PMEDG development record
 **Date:** 24 September 2026
@@ -275,4 +275,4 @@ Before integration is declared complete, retest against:
 
 Until then:
 
-> **COMPANION UPGRADE — AWAITING INTEGRATION / RETEST**
+> **INTEGRATED COMPANION / ARCHITECTURAL INTERFACE RETEST PASSED**
