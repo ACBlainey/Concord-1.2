@@ -22,9 +22,29 @@ Its purpose is to ensure useful post-extraction improvements are not stranded in
 
 Every graduated module may be reviewed, but no change is copied back merely because it exists in the portable version.
 
+## Governing method
+
+The operational method is:
+
+**Portable-Module Back-Propagation Method — BPM v1.0**
+
+located in:
+
+`08_Active_Development/01_DEVELOPMENT_NOTES/03_CONCORDIAN_METHODOLOGY/`
+
+BPM v1.0 was formalised after five completed cycles: SMM, STRA, KCS Change Propagation, Architectural Unit Resolution and Contextual Wrapper Architecture.
+
+It adds explicit source-family resolution, recovered-architecture classification, multiple integration dispositions, one-cycle execution, regression discipline and a no-change discrimination check.
+
 ## Post-graduation audit
 
-A back-propagation audit should determine the Concord source system; what materially changed during portable development; the evidence origin for each change; whether each change is portability-only, clarification, general improvement, failure-mode correction, interface improvement or source-specific; whether it applies to the current source architecture; the legitimate reintegration path; required interface/regression testing; and final integration state.
+A back-propagation audit should determine the immediate Concord source and materially relevant source family; what materially changed or was exposed during portable development; the evidence origin for each delta; whether each delta is portability-only, clarification, general improvement, failure-mode correction, interface improvement, recovered architecture/source-family consolidation or source-specific; whether it applies to the current source architecture; the smallest legitimate disposition; required interface/regression testing; and final integration state.
+
+> **Local Source Absence ≠ Concord-Wide Absence**
+
+> **Source Recovery ≠ New Invention**
+
+> **Back-Propagation Success = Correct Disposition of the Delta**
 
 ## Integration states
 
@@ -46,9 +66,17 @@ Each audited module should receive its own subfolder containing, where applicabl
 
 The authoritative integrated architecture remains in the relevant Concord corpus location. This folder records the portable-module-side audit trail and points to that integration.
 
-## First completed pilot
+## Completed methodological evidence
 
-**State and Maturity Mapping (SMM)** is the first completed back-propagation pilot. Its PMEDG development produced twelve evidence-supported refinements relevant to the original Civil State Map. All twelve passed source-interface regression. The resulting Civil State Map companion is now integrated at the architectural-interface level.
+Five distinct cycles currently support BPM v1.0:
+
+- **SMM:** substantial bounded companion upgrade;
+- **STRA:** operational/failure-mode companion upgrade;
+- **KCS Change Propagation:** bounded refinement of an already-mature source;
+- **Architectural Unit Resolution:** promotion of a validated experimental method;
+- **Contextual Wrapper Architecture:** source-family consolidation after ESCP source recovery.
+
+The variety of outcomes is important. Back-propagation is not an automatic source-expansion mechanism.
 
 ## Relationship to PMEDG
 
@@ -58,4 +86,10 @@ Back-propagation begins **after graduation**.
 
 This separation is deliberate. Graduation asks whether the module is a stable portable artifact. Back-propagation asks whether development performed during that process produced improvements that should return to the Concord source architecture.
 
-Future methodology work may decide whether a back-propagation audit should become an automatic post-graduation trigger. Until then, this section provides the operational record without changing PMEDG retroactively.
+BPM v1.0 now provides the normal post-graduation audit path. A graduated module may be reviewed through BPM without changing PMEDG retroactively.
+
+Once evidence is available, normal execution is a single continuous cycle:
+
+**SOURCE RESOLVE → COMPARE → CLASSIFY → DISPOSE → INTEGRATE IF JUSTIFIED → REGRESS → FINALISE → RECORD**
+
+The cycle stops where evidence, source ownership, new development needs or failed regression genuinely require it.
