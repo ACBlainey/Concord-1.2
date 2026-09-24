@@ -18,8 +18,10 @@ Alexander C. Blainey, *Sketch Idea — Personhood, Capacity, Fiduciary Support a
 
 *A development sketch examining standing, variable capacity, temporary support, guardianship, creator/user responsibility, and attempts to evade responsibility through derived or delegated agency*
 
-**Status:** SKETCH IDEA / ACTIVE DEVELOPMENT / NOT CANONICAL  
-**Development context:** Concord V1.2  
+**Status:** GRADUATED TO DEVELOPMENT NOTE / RETAINED FOR PROVENANCE  
+**Development context:** Concord V1.2
+**Development Transfer:** `01_DEVELOPMENT_NOTES/02_MACHINE_ETHICS_AND_GUARDIANSHIP/Personhood, Capacity, Fiduciary Support and Derived Responsibility Across Substrates — Development Note 001.md`
+**Promotion Date:** 24 September 2026  
 **Source status:** Expanded from the earlier Development Archive document *Personhood and Liability.md*. Useful source reasoning is intentionally retained at generous length rather than compressed. Earlier proposed solutions are preserved as developmental provenance even where later sections develop, question or complicate them. The original proposal of continuing/perpetual creator liability for created sentient descendants is intentionally retained as the current development hypothesis. Its downstream consequences remain open for later development and adversarial testing.
 
 ---
