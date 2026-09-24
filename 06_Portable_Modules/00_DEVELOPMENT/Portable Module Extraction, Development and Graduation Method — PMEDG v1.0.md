@@ -1,9 +1,9 @@
-# Portable Module Extraction, Development and Graduation Method — PMEDG v1.0
+# Portable Module Extraction, Development and Graduation Method — PMEDG v1.1
 
 **Project:** The Concord  
 **Location:** Portable Module Development Area  
 **Status:** DEVELOPMENT OPERATING METHOD / PRESERVE ACROSS REPOSITORY VERSIONS  
-**Version:** 1.0  
+**Version:** 1.1  
 **Date:** September 2026
 
 ## 1. Purpose
@@ -684,6 +684,52 @@ This rule was added after the same methodological issue appeared independently d
 
 Major changes should increment the PMEDG version.
 
+### 23.2 Blind-Test Finding Classes
+
+For post-test evaluation, distinguish:
+
+1. **Predicted finding** — the frozen key materially anticipated the finding.
+2. **Predicted pressure with novel detail** — the key correctly anticipated the area/mechanism under pressure, while the evaluator exposed a specific defect or refinement not itself predicted.
+3. **Wholly unpredicted finding** — neither the finding nor its material pressure area was anticipated by the frozen key.
+
+Only frozen predictions contribute to the prediction score. Novel detail and wholly unpredicted findings are preserved separately and may justify bounded revision.
+
+This distinction prevents both under-crediting a correctly predicted pressure and overclaiming that an unanticipated detail was predicted.
+
+### 23.3 Graduation-Candidate Consistency Check
+
+Before formal Graduation Review, perform a mechanical consistency check across the candidate:
+
+- filename;
+- document title;
+- version number;
+- status metadata;
+- source-module name;
+- referenced specification versions;
+- referenced test numbers/results;
+- claimed prediction/failure totals.
+
+A mismatch must be corrected before the Graduation Review decision.
+
+> **Substantive Convergence ≠ Metadata Consistency**
+
+### 23.4 Archive Manifest and Two-Phase Verification
+
+Before archiving a graduated development record:
+
+1. create or enumerate an expected-artifact manifest;
+2. verify every expected active artifact exists;
+3. copy/move the complete set into the completed archive;
+4. verify every manifest item exists in the archive;
+5. only then remove active-development copies;
+6. verify every corresponding active copy is absent;
+7. verify the v1.0 release and plain-language interface exist.
+
+If archive verification fails, do not treat the candidate as cleanly archived.
+
+> **Archive Intent ≠ Archive Completion**
+
+
 
 # 24. Minimum Development Record
 
@@ -732,12 +778,16 @@ INPUT: Concord corpus C, candidate M
 15. convergence <- CompareTests(eval1, eval2)
 16. if unresolved material transfer risk: add test/revise
 17. candidate <- BuildGraduationCandidate(convergence)
-18. decision <- GraduationReview(candidate, evidence)
-19. if decision != PASS: route required work
-20. release <- PublishV1(candidate)
-21. UpdatePlainLanguageGuide(release)
-22. ArchiveDevelopmentRecord(M)
-23. VerifyArchiveAndActiveRemoval()
+18. VerifyCandidateMetadata(candidate)
+19. decision <- GraduationReview(candidate, evidence)
+20. if decision != PASS: route required work
+21. release <- PublishV1(candidate)
+22. UpdatePlainLanguageGuide(release)
+23. manifest <- BuildArchiveManifest(M)
+24. ArchiveDevelopmentRecord(M, manifest)
+25. VerifyArchiveAgainstManifest(manifest)
+26. RemoveActiveDevelopmentCopies(manifest)
+27. VerifyArchiveAndActiveRemoval()
 OUTPUT: graduated portable module + preserved development evidence
 ```
 
