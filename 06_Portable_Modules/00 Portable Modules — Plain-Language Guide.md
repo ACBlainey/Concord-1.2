@@ -619,6 +619,61 @@ Its key boundaries include:
 
 ---
 
+# 13. State Triggered Review Architecture
+
+## What problem does it solve?
+
+Some things should be reviewed because enough time has passed. Others should be reviewed because something meaningful has changed.
+
+State Triggered Review Architecture (STRA) provides a structured way to represent when review, reconsideration, reactivation or action candidacy becomes due using conditions such as state, capability, dependencies, events, risk, recurrence, evidence, participant-declared conditions and time.
+
+Its central boundary is:
+
+> **Triggering Review ≠ Authority Over Outcome**
+
+A trigger can say that something now needs attention without deciding what the substantive answer must be.
+
+## Simple example
+
+A research project is paused until a new instrument is both available and validated.
+
+STRA can watch those two conditions. If the instrument becomes available but validation is still uncertain, the trigger remains partial rather than reopening the project prematurely.
+
+When both conditions are satisfied, STRA can route a review candidate to the legitimate research owner. It does not itself decide whether the project should resume.
+
+## Where could it be applied?
+
+Potential applications include research programmes, engineering and maintenance systems, software lifecycle management, safety review, long-duration projects, archives, organisational processes, agent systems and other environments where meaningful review depends on changing conditions rather than calendar time alone.
+
+## Use it when
+
+Use STRA when you need to:
+
+- reopen work when a prerequisite reaches a required state;
+- review earlier than a calendar deadline when risk or evidence changes materially;
+- preserve UNKNOWN or DISPUTED conditions instead of forcing a binary result;
+- combine temporal and non-temporal conditions;
+- reactivate dormant work when relevant capabilities or evidence appear;
+- route satisfied conditions without granting the trigger mechanism substantive authority;
+- prevent stale, impossible or superseded triggers from remaining active indefinitely;
+- contain trigger cascades and preserve provenance.
+
+## What it does not do
+
+STRA does not decide substantive domain outcomes, own the full dependency graph, determine scientific or engineering materiality, manufacture legitimate authority, resolve every event-order dispute, own memory/archive systems, or turn participant-declared notifications into broader consent.
+
+Its key boundaries include:
+
+> **Condition Satisfied ≠ Action Authorised**
+
+> **Missing Evidence ≠ Condition False**
+
+> **Timestamp Order ≠ Universal Material Precedence**
+
+**Formal module:** *State Triggered Review Architecture — Portable Module*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -644,6 +699,8 @@ Several modules may appear applicable to the same problem because they operate a
 **Fractal Permission Architecture** asks: *Who may perform this particular action in this particular context, for what function, under what legitimate basis and conditions—and when does that permission end?*
 
 **KCS Change Propagation** asks: *When this thing changes, what materially depends on it, what actually needs review, and how far should that review propagate?*\n\n**Knowledge Control System** asks: *How do we preserve, classify and retrieve accumulated knowledge without confusing storage with truth, availability with capability, or absence from search with nonexistence?*
+
+**State Triggered Review Architecture** asks: *What condition should cause this issue, work or decision to become reviewable again, and how do we route that signal without letting the trigger decide the outcome?*
 
 They are therefore not competing solutions to one problem. They are reusable tools for different recurring problem structures.
 
