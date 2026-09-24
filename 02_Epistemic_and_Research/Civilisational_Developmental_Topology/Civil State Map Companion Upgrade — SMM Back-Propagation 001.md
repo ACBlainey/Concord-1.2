@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher
 **Project:** The Concord Framework
-**Status:** COMPANION UPGRADE — AWAITING INTEGRATION / RETEST
+**Status:** CANONICAL COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED
 **Parent architecture:** Civil State Map — Maturity, Sufficiency and Consequence Model
 **Evidence source:** State and Maturity Mapping — Portable Module v1.0; PMEDG SMM development record
 **Development source:** Portable-Module Back-Propagation Audit — Development Note 001
@@ -421,11 +421,24 @@ Their relevance here is narrower: the twelve refinements being returned to the C
 
 This companion is:
 
-> **AWAITING INTEGRATION / RETEST**
+> **CANONICAL COMPANION UPGRADE — INTEGRATED / ARCHITECTURAL INTERFACE RETEST PASSED**
 
-It should not yet be treated as evidence that the parent Civil State Map, KCS and Civilisation Clock have successfully absorbed all refinements.
+The bounded interface regression defined in Section 18 has now been completed in:
 
-The next operation is the bounded interface regression review defined in Section 18.
+**Civil State Map — SMM Back-Propagation 001 — Interface Regression Review**
+
+Result:
+
+- KCS interface: PASS with one bounded assessment-relation vocabulary follow-up;
+- Civilisation Clock interface: PASS;
+- CDT / State Map interface: PASS;
+- twelve returned SMM refinements: 12 / 12 PASS;
+- authority regression: none observed;
+- epistemic regression: none observed.
+
+The companion may therefore be treated as part of the current integrated Civil State Map architecture at the architectural-interface level.
+
+This does not establish implementation correctness or empirical outcome validity.
 
 # Conclusion
 
