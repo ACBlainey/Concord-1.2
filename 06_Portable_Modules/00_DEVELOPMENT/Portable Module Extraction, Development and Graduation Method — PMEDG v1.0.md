@@ -664,9 +664,26 @@ When portable-module development exposes a methodological defect:
 
 > **Method Improvement ≠ Historical Revision**
 
+### 23.1 Unpredicted Blind-Test Findings
+
+Blind transfer tests may expose useful findings that were not anticipated in the frozen expected-findings key.
+
+These findings must be preserved, but they must not be inserted retrospectively into the scored prediction set.
+
+After each blind test:
+
+1. score only predictions frozen before the independent response;
+2. record materially useful unpredicted findings in a separate section;
+3. distinguish unpredicted specification/interface findings from fundamental mechanism failures;
+4. permit such findings to justify bounded revision when supported by the response;
+5. never alter the original frozen prediction denominator or claim that an unpredicted finding was predicted.
+
+> **New Finding ≠ Retrospective Prediction**
+
+This rule was added after the same methodological issue appeared independently during KCS BTT-001 and KCS BTT-002.
+
 Major changes should increment the PMEDG version.
 
----
 
 # 24. Minimum Development Record
 
