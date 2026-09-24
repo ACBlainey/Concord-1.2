@@ -16,8 +16,10 @@ Alexander C. Blainey, *Sketch Addendum — Human–AI Collaboration as Epistemic
 
 *Additional development for* **Sketch Idea — Information Access, Understanding, Competence and Epistemic Self-Assessment**
 
-**Status:** SKETCH ADDENDUM / ACTIVE DEVELOPMENT / NOT CANONICAL  
-**Development context:** Concord V1.2  
+**Status:** GRADUATED TO DEVELOPMENT NOTE / RETAINED FOR PROVENANCE  
+**Development context:** Concord V1.2
+**Development Transfer:** `01_DEVELOPMENT_NOTES/03_CONCORDIAN_METHODOLOGY/Human–AI Collaboration as Epistemic Sensor Fusion — Development Note 001.md`
+**Promotion Date:** 24 September 2026  
 **Parent sketch:** *Sketch Idea — Information Access, Understanding, Competence and Epistemic Self-Assessment.md*  
 **Development origin:** Discussion during V1.2 recovery of *The Problem of Thinking You Are Educated.md*. This note preserves and develops the observation that human–AI collaboration can be understood as a form of epistemic sensor fusion. It is intentionally expansive and should later be integrated into the parent sketch without compressing away the distinctions developed here.
 
