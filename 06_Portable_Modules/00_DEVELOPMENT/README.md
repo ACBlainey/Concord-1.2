@@ -6,7 +6,7 @@
 
 The formal operating method for portable-module extraction, development, blind transfer testing, graduation and archival is:
 
-**Portable Module Extraction, Development and Graduation Method — PMEDG v1.0**
+**Portable Module Extraction, Development and Graduation Method — PMEDG v1.2**
 
 This method should be carried forward into future Concord repository versions with the active portable-module development area. Completed module-development histories may remain archived rather than being imported merely to reconstruct the procedure.
 
