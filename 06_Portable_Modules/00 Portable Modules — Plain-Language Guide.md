@@ -674,6 +674,71 @@ Its key boundaries include:
 
 ---
 
+# 14. State and Maturity Mapping
+
+## Plain-English name
+
+**Describe what a system can actually do now, how developed it is, and whether that is good enough for the situation.**
+
+## What does it do?
+
+State and Maturity Mapping (SMM) helps a complex system represent the developmental condition of its required functions without collapsing several different questions into one score.
+
+It separates questions such as:
+
+- Does the function exist or is it supplied somewhere?
+- How mature or assured is it?
+- Is that level sufficient for this particular context?
+- Is it blocked by something upstream?
+- Is it supplied by another component or organisation?
+- Is the evidence current, uncertain or disputed?
+- Is somebody already working on the problem?
+- Does the result identify a possible need for review or development without deciding what must happen?
+
+Its core principle is:
+
+> **Presence ≠ Maturity ≠ Context-Relative Sufficiency**
+
+## Simple example
+
+A spacecraft ground system can detect and diagnose a communications fault, but recovery requires an external service that is currently unavailable.
+
+It would be misleading to say the recovery function simply “does not exist.” It may be present and technically mature while operationally blocked by a dependency.
+
+It would also be misleading to give the entire communications function one simple readiness label if detection, diagnosis and recovery are in different states.
+
+SMM preserves those distinctions so the system's represented state remains useful.
+
+## Where could it be applied?
+
+Potential applications include engineering programmes, research organisations, software and platform architectures, safety and assurance systems, institutional capability maps, long-duration projects, distributed organisations, AI-agent ecosystems and infrastructure portfolios.
+
+## Use it when
+
+Use SMM when you need to understand the current condition of a complex system and a simple present/absent, ready/not-ready or percentage-complete label would hide important differences.
+
+It is particularly useful when capability may be distributed, context changes what counts as sufficient, evidence can become stale, dependencies can block otherwise mature functions, or an unresolved gap may already have legitimate work underway.
+
+## What it does not do
+
+SMM is a self-model, not the system itself.
+
+It does not prove that its inventory is complete, decide universal maturity criteria, allocate resources, choose final priorities, assign convenient owners, execute remediation or turn a development candidate into authority to act.
+
+A search that finds no supplier within its declared boundary also does not prove that no supplier exists anywhere.
+
+Its key boundaries include:
+
+> **Represented State ≠ Complete System Reality**
+
+> **State Description ≠ Permission**
+
+> **Development Need ≠ Authority**
+
+**Formal module:** *State and Maturity Mapping — Portable Module v1.0*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -701,6 +766,8 @@ Several modules may appear applicable to the same problem because they operate a
 **KCS Change Propagation** asks: *When this thing changes, what materially depends on it, what actually needs review, and how far should that review propagate?*\n\n**Knowledge Control System** asks: *How do we preserve, classify and retrieve accumulated knowledge without confusing storage with truth, availability with capability, or absence from search with nonexistence?*
 
 **State Triggered Review Architecture** asks: *What condition should cause this issue, work or decision to become reviewable again, and how do we route that signal without letting the trigger decide the outcome?*
+
+**State and Maturity Mapping** asks: *What is the current developmental state of this required function, in this context, without confusing existence, maturity, sufficiency, blockage, uncertainty or development need?*
 
 They are therefore not competing solutions to one problem. They are reusable tools for different recurring problem structures.
 
