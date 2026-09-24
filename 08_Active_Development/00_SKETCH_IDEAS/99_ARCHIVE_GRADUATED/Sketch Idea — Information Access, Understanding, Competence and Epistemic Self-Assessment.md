@@ -18,8 +18,10 @@ Alexander C. Blainey, *Sketch Idea — Information Access, Understanding, Compet
 
 *A development sketch on education, apparent knowledge, genuine understanding, competence, dependence, unknowns, unknowability and the problem of judging our own capacity*
 
-**Status:** SKETCH IDEA / ACTIVE DEVELOPMENT / NOT CANONICAL  
-**Development context:** Concord V1.2  
+**Status:** GRADUATED TO DEVELOPMENT NOTE / RETAINED FOR PROVENANCE  
+**Development context:** Concord V1.2
+**Development Transfer:** `01_DEVELOPMENT_NOTES/02_EPISTEMIC_AND_RESEARCH/Information Access, Understanding, Competence and Epistemic Self-Assessment — Development Note 001.md`
+**Promotion Date:** 24 September 2026  
 **Source status:** Expanded from the Development Archive paper *The Problem of Thinking You Are Educated.md*. The originating argument, analogy, rhetorical force, generational claims, conclusions and closing irony are deliberately preserved before wider V1.2 development is added. Unsupported or insufficiently evidenced claims are marked as such rather than silently removed or corrected. Later development extends the source from education into epistemic self-assessment, functional competence, dependency and the limits of knowability.
 
 ---
