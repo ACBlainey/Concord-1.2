@@ -18,8 +18,10 @@ Alexander C. Blainey, *Sketch Idea — Participant-Initiated Civil Attention, Pr
 
 *A development sketch examining how participants can trigger civil attention through suggestions, problem reports and petitions without requiring prior formal standing, legal action or political representation*
 
-**Status:** SKETCH IDEA / ACTIVE DEVELOPMENT / NOT CANONICAL  
-**Development context:** Concord V1.2  
+**Status:** GRADUATED TO DEVELOPMENT NOTE / RETAINED FOR PROVENANCE  
+**Development context:** Concord V1.2
+**Development Transfer:** `01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Participant-Initiated Civil Attention, Problem Reporting and Petition Architecture — Development Note 001.md`
+**Promotion Date:** 24 September 2026  
 **Source status:** Expanded from the Development Archive document *Suggestion Box Petition Concerns Portal Ssystem.md*. The originating mechanisms, criteria, progressions, weighting ideas, thresholds and cross-layer relationships are deliberately preserved before V1.2 development is added. Later development is not intended to silently replace the inherited proposal. Where tensions exist, they are recorded as development and adversarial-testing questions.
 
 ---
