@@ -1,4 +1,4 @@
-# Knowledge Control System — Portable Specification v0.2
+# Knowledge Control System — Portable Specification v0.3
 
 **Project:** The Concord — Portable Modules  
 **Source:** Concord Knowledge Control System source family  
