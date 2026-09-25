@@ -999,3 +999,75 @@ Use of surveillance-derived evidence introduces separate privacy, authority, ret
 35. system corroboration treated as proof of an unsupported causal claim;
 36. surveillance evidence accessed beyond legitimate purpose or authority.
 
+
+
+---
+
+# 23. Test-Derived Refinement — Aggregate Signal and Pressure/Resource Firewall
+
+Test Programme 001 confirms the need to separate three evaluative layers:
+
+1. **Intake Layer** — what participants submitted and how it relates to known Issue Objects.
+2. **Attention / Epistemic Layer** — whether additional examination is justified and what the current evidentiary state supports.
+3. **Problem / Resource Layer** — what the actual problem justifies in priority, capability and resources.
+
+The governing firewall is:
+
+> **Intake Pressure May Trigger Re-Evaluation; It Must Not Directly Command Problem Priority or Resource Allocation.**
+
+This preserves bottom-up attention without creating bottom-up resource capture.
+
+A mass influx may require extra processing capacity merely to receive, group and evaluate submissions. That operational burden is distinct from resources justified for the underlying issue.
+
+> **Cost of Processing Attention ≠ Weight of the Problem**
+
+## 23.1 Aggregate Signal Record
+
+Where aggregation becomes material, an Issue Object may maintain an **Aggregate Signal Record** containing, where legitimate and relevant:
+- raw submission/support count;
+- represented submission classes;
+- temporal distribution;
+- geographic/functional distribution;
+- source-independence state;
+- materially distinct information;
+- external corroboration;
+- contradictory evidence;
+- suspected coordination/manipulation indicators;
+- uncertainty notes;
+- threshold events that caused additional evaluation.
+
+> **Aggregate Signal Record ≠ Priority Score**
+
+It describes the attention/evidence environment. It does not itself determine problem priority.
+
+## 23.2 Source Independence State
+
+Independence should not be reduced to anonymous versus identified or duplicate versus unique.
+
+A candidate state model is:
+
+**established independent / likely independent / unresolved / likely dependent / established dependent**
+
+These are epistemic assessments and should remain revisable.
+
+> **Similarity ≠ Common Source**
+
+> **Anonymity ≠ Dependence**
+
+> **Identity Difference ≠ Evidentiary Independence**
+
+## 23.3 Separate Aggregate Measures
+
+The system should not compress materially different signals into one count.
+
+Where relevant distinguish:
+- total submissions/support expressions;
+- distinguishable sources where legitimately knowable;
+- source-independence assessment;
+- materially distinct evidentiary contributions;
+- corroborating external evidence;
+- contradictory evidence.
+
+This preserves the difference between mass petition support, repeated copied reports and genuinely distributed observation.
+
+No numerical escalation threshold is established by this development cycle.
