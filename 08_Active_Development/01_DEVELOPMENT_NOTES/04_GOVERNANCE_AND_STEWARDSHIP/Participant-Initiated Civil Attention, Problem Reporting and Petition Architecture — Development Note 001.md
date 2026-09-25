@@ -857,3 +857,145 @@ Every later submission linked to an existing issue should be examined for materi
 Issue state must remain revisable as material evidence or conditions change.
 
 These remain development propositions, not canonical rules.
+
+
+---
+
+# 22. Refinement — Submission Classes, Attention Signals and Independent Corroboration
+
+## 22.1 Submission Classes Remain Distinct
+
+The three inherited submission classes carry different meanings and should not be flattened into one generic queue.
+
+### Suggestion
+A participant proposes an idea or improvement they believe may be beneficial.
+
+Suggestions do not necessarily indicate a current failure and will often have lower default urgency. However, a suggestion may become important where it offers a plausible solution to an already known serious Issue Object.
+
+### Problem Report
+A participant reports that something appears to be wrong.
+
+Because a real defect, harm, failure or rights problem may exist, problem reports justify a higher default level of attention than ordinary suggestions. This remains an attention rule, not a truth claim.
+
+> **Problem Report ≠ Established Problem**
+
+### Petition
+Participants collectively ask that attention be given to a matter.
+
+Petitions vary widely in substantive importance. High support establishes a collective attention/preference signal, not factual truth, severity or entitlement to resources.
+
+> **Petition Support ≠ Problem Weight**
+
+## 22.2 Group by Issue, Preserve Class
+
+Different submission classes may concern the same underlying issue.
+
+A problem report, a proposed solution and a petition may all attach to one Issue Object while retaining their different meanings.
+
+> **Group by Underlying Issue, Not by Submission Class**
+
+Their contributions remain distinguishable:
+- problem reports may provide observations/evidence of a possible problem;
+- suggestions may provide candidate solutions or improvements;
+- petitions may provide evidence of collective concern or preference.
+
+## 22.3 Aggregation Can Trigger Additional Evaluation
+
+Large numbers of related problem reports may produce a signal analogous in some respects to petition support.
+
+A threshold may therefore justify an additional evaluation of an Issue Object. This does not automatically increase substantive priority or resource allocation.
+
+> **Volume Threshold → Additional Evaluation, Not Automatic Priority**
+
+The same principle may cautiously apply to repeated independent suggestions.
+
+## 22.4 Independence Must Not Be Assumed
+
+Petitions and repeated reports are both gameable.
+
+Petition signatures may represent low-cost expressions of support rather than independent observations. Numerous anonymous reports may originate from one actor or coordinated source.
+
+Therefore:
+
+> **Raw Count ≠ Independent Participants**
+
+> **Independent Participants ≠ Independent Evidence**
+
+> **Uncertain Independence Must Remain Uncertain**
+
+Where independence cannot legitimately be established, the system should preserve that uncertainty rather than silently treating submissions as either one source or many independent sources.
+
+## 22.5 Participants Can Trigger Attention, Not Manufacture Priority
+
+Submission pressure must not directly control resource allocation.
+
+The legitimate chain is:
+
+**Submission Volume / Pattern**
+→ **Additional Evaluation Where Justified**
+→ **Problem-State Assessment**
+→ **Legitimate Priority Assessment**
+→ **Resource Allocation Through the Appropriate System**
+
+not:
+
+**Submission Volume → Priority → Resources**
+
+> **Participants Can Trigger Attention; They Cannot Manufacture Priority.**
+
+Priority should follow the actual state and consequences of the problem, including factors such as harm, urgency, rights relevance, scale, traffic/use, reversibility, systemic consequences, evidence and competing legitimate needs.
+
+### Pothole example
+
+One participant reports a clearly located pothole. The location may already allow the system to determine road usage and other relevant repair-priority information.
+
+If another 1,000 participants report the same unchanged pothole, the defect does not thereby become 1,000 times more important.
+
+> **Repeated Confirmation of a Known State ≠ Increased Problem Weight**
+
+However, a later report that the hole has enlarged, caused an accident, made vehicles swerve dangerously or materially changed road conditions contains an information delta and should cause reassessment.
+
+> **New Information About the State → Reassessment of Problem Weight**
+
+Thus:
+
+> **Priority Follows the State of the Problem, Not the Volume of Attention Directed at It.**
+
+## 22.6 Manipulation Is a Separate Possible Issue
+
+Attempted manipulation of petition/report volume should not automatically invalidate the underlying concern.
+
+> **Manipulation of Attention ≠ Invalidity of the Underlying Issue**
+
+A credible manipulation attempt may itself become a separate Issue Object while the original issue continues to be assessed on its merits.
+
+## 22.7 Independent System Evidence Can Corroborate Reports
+
+Civil-attention evidence need not originate from participants.
+
+Where legitimate system sensors or records already exist, they may provide independent corroboration.
+
+Examples include:
+- a reported pothole whose stated location corresponds to a visible road-surface anomaly in available traffic-camera data;
+- a reported electricity fault where legitimate local sensor or camera evidence shows a relevant visible anomaly;
+- system metrics that independently indicate disruption in the reported area.
+
+This supports:
+
+> **Participant Report + Independent System Evidence → Updated Evidentiary State**
+
+The external source does not automatically prove the submitter's causal explanation. It can confirm, contradict or refine specific observable claims.
+
+Use of surveillance-derived evidence introduces separate privacy, authority, retention and access questions. Those questions are not resolved by this Civil Attention note and should be developed separately.
+
+## 22.8 Additional Failure Modes
+
+29. petition-pressure resource capture;
+30. report-volume resource capture;
+31. anonymous Sybil amplification;
+32. coordinated/copy-derived reports miscounted as independent evidence;
+33. legitimate mass reporting suppressed as presumed manipulation;
+34. unchanged duplicate reports repeatedly reprioritising a known issue;
+35. system corroboration treated as proof of an unsupported causal claim;
+36. surveillance evidence accessed beyond legitimate purpose or authority.
+
