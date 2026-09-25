@@ -130,11 +130,11 @@ Two synthesis documents explain how the architecture was derived:
 - **Historical Domain — Synthesis 001 — Consolidated Architecture Map from Source Resolutions 001–042.md**
 - **Historical Domain — Synthesis 002 — ESCP-Aware Historical Epistemic Architecture.md**
 
-The Source Resolutions remain development provenance.
+The complete development record is preserved under **Development/**.
 
-Earlier formal specifications and schema sets remain preserved so later participants can reconstruct how the architecture changed.
+This includes the Source Resolutions, syntheses, earlier formal specifications and schema sets, adversarial and interface tests, consistency/conformance tests, and the graduation review. These files preserve how the architecture was derived and tested.
 
-Do not delete them merely because newer versions exist.
+Do not treat material in **Development/** as the current operating baseline merely because it is historically important, and do not delete it merely because newer versions exist.
 
 ---
 
@@ -474,9 +474,9 @@ For a new AI instance, human contributor or implementer:
 5. **Historical Domain — Development Graduation Review 001.md**
 6. **Historical Domain — End-to-End Conformance Test 001 — Complete Consequential Event Lifecycle.md**
 
-Then consult the cross-domain/adversarial tests when working on the relevant interface.
+Then consult the relevant material under **Development/** when working on a boundary, implementation question, provenance issue or possible architectural reopening.
 
-Read Synthesis 001/002 and Source Resolutions when provenance, design rationale or a possible reopening of architecture is required.
+Read the Development syntheses and Source Resolutions when design rationale or source provenance is required.
 
 ---
 
@@ -493,6 +493,8 @@ Read Synthesis 001/002 and Source Resolutions when provenance, design rationale 
 **Domain status:** CANDIDATE GRADUATED
 
 **Current baseline:** Formal Domain Specification v0.3 + Formal Schema Set 002
+
+**Development provenance:** Development/
 
 **Future correction:** REQUIRED WHEN EVIDENCE WARRANTS
 
