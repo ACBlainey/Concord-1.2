@@ -129,3 +129,38 @@ These cases should test whether Clock integration creates queue vitality without
 **DOMAIN AUTHORITY PRESERVED**
 
 **NEXT STEP: TEST CLOCK-DRIVEN QUEUE CASES BEFORE THE MATERIALLY DIFFERENT DOMAIN TEST**
+
+
+## Test-Derived Bounded Refinement — Queue Vitality 004
+
+Test Programme 004 produced three bounded additions.
+
+### Deferral History
+
+Significant deferral events should remain visible rather than being overwritten by the newest review condition.
+
+**Deferral Event = <time/state, reason, owner, blocking basis, review condition, outcome>**
+
+> **Replacing a Review Date Must Not Erase the History of Deferral.**
+
+### Blocking Basis
+
+A BLOCKED state should identify the represented reason legitimate progress cannot currently continue, such as a dependency, missing evidence, unavailable capability, authority/jurisdiction question, resource constraint or external condition.
+
+> **Blocked Is a Claim About State, Not an Exemption From Accountability.**
+
+An unsupported BLOCKED state remains reviewable.
+
+### Meaningful Review Outcome
+
+A Clock-triggered review should produce a meaningful record update where one is required. Merely refreshing a timestamp must not erase accumulated deferral history.
+
+Possible outcomes include continued processing, continued justified waiting, dependency revision, owner/route change, state change, escalation, reasoned closure or a new legitimate review condition.
+
+> **Review Performed ≠ Review Resolved**
+
+> **Timestamp Refresh ≠ Meaningful State Update**
+
+These refinements make repeated avoidance of difficult work visible without imposing a universal FIFO queue or transferring substantive priority authority to the Clock.
+
+**TEST 004 RESULT: 13 PASS / 3 BOUNDED REFINEMENTS / 0 ARCHITECTURE-INVALIDATING FAILURES**
