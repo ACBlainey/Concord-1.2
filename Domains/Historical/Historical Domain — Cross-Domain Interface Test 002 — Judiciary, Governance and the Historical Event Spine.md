@@ -683,3 +683,44 @@ Historical must therefore preserve **authority as state**, not treat authority a
 **Major Safety Requirement:** Historical Retrieval ≠ Operational Reactivation  
 **Event Spine Status:** RETAIN AS SEMANTIC/TEMPORAL VIEW; DO NOT YET CREATE SEPARATE GRAPH  
 **Next:** Integrate Interface Tests 001–002 into the formal Historical specification, then test privacy/forgetting/destruction against participant rights and accountability requirements.
+
+
+---
+
+# 22. BCA Alignment Addendum
+
+Subsequent review against Bounded Contextual Authority refines the authority model used above. Authority is better represented as a contextual activation and bounded exercise than as a durable property of a document, actor or office.
+
+```text
+Standing Eligibility
+→ Context Satisfies Conditions
+→ Authority Activates
+→ Bounded Exercise
+→ Exercise Terminates
+→ Context Is Changed
+→ Fresh Justification for Any Further Authority
+```
+
+The locked-case and glass-hammer metaphor captures this: the case opens only when context, legitimate function, need and required conditions are satisfied. The glass hammer represents the particular bounded authority available for use. Once used, that exercise is spent. Its consequences become part of the new context against which any later authority must be justified.
+
+For a warrant or analogous instrument:
+
+```text
+C0 → A1 justified → A1 exercised → A1 spent → C1
+C1 → fresh evaluation → A2 only if independently justified
+```
+
+A1 and its consequences may materially alter C1, but A1 does not reproduce itself.
+
+Historical should therefore prefer an **Authority Activation and Exercise Record** over a primarily durable Authority-State model. Where material it should preserve pre-exercise context, standing eligibility, authority source, legitimate function, functional need, conditions, bounded authority envelope, activation, exercise, consequences and post-exercise context.
+
+This yields four further distinctions:
+
+- **Historical Evidence of Authority ≠ Preserved Authority.**
+- **Past Legitimate Authority ≠ Reusable Authority.**
+- **Previous Authority May Alter Future Context ≠ Previous Authority Grants Future Authority.**
+- **Historical Retrieval Reconstructs an Authority Event; It Does Not Recreate Its Generating Context.**
+
+The earlier reactivation concern is therefore refined. Historical does not need to neutralise dormant authority in an archive. It must prevent evidence that contextual conditions were satisfied at one historical point from being mistaken for evidence that they are satisfied now.
+
+**BCA alignment result:** PASS WITH ONTOLOGICAL REFINEMENT.
