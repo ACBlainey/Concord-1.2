@@ -350,3 +350,95 @@ This is the candidate architecture to be tested next.
 **PARTICIPANT FEEDBACK LOOP PRESERVED**
 
 **NEXT STEP: CROSS-DOMAIN ADVERSARIAL TEST OF THE FROZEN SPECIFICATION**
+
+
+---
+
+# 18. Bounded Revision After Cross-Domain Test 003
+
+Test Programme 003 did not invalidate the frozen architecture. Four cases exposed bounded additions required for responsibility and dependency handling.
+
+## 18.1 Responsibility Resolution State
+
+The parent Issue Object should represent responsibility using states such as:
+- owner resolved;
+- provisional owner;
+- multi-owner;
+- ownership disputed;
+- unowned / owner unresolved;
+- transfer pending;
+- responsibility escalation required.
+
+> **Failure to Identify an Owner Must Not Become Failure to Recognise an Issue.**
+
+## 18.2 Responsibility Resolution Object
+
+Where normal routing cannot establish legitimate ownership, a **Responsibility Resolution Object (RRO)** may be created.
+
+It should preserve:
+- parent Issue ID;
+- domains considered;
+- routing reasons;
+- acceptance/refusal/transfer records;
+- disputed responsibility;
+- unresolved functional need;
+- current responsibility resolver;
+- escalation route;
+- final ownership disposition.
+
+> **Responsibility Resolution ≠ Substantive Case Resolution.**
+
+The RRO determines who must process the relevant function. It does not decide the underlying case.
+
+## 18.3 Cross-Domain Dependencies
+
+Domain Action Objects may be independent, sequential, mutually dependent, conditionally dependent, blocked by another domain, or jointly necessary.
+
+The central Resolution Record should preserve enough dependency information to distinguish:
+- genuine delay;
+- blocked work;
+- unresolved coordination;
+- completed independent work;
+- conditions preventing overall resolution.
+
+Dependency representation coordinates visibility without transferring substantive authority.
+
+## 18.4 Staleness
+
+A route should not be classified as failed merely because a universal time limit has elapsed.
+
+> **Elapsed Time Alone ≠ Process Failure.**
+
+Staleness should instead be assessed against legitimate process information such as:
+- next review condition;
+- promised/required action;
+- unresolved dependency;
+- domain-specific timing;
+- material change requiring response.
+
+> **Missed Legitimate Review Condition → Response-State Reassessment.**
+
+## 18.5 Transfer Loops
+
+Transfer history must remain auditable.
+
+Where responsibility repeatedly cycles between domains without resolution, the system should enter Responsibility Resolution rather than permit indefinite transfer.
+
+> **Transfer Is a Routing Action, Not a Mechanism for Discharging Responsibility Into the System.**
+
+No universal numerical loop threshold is established by this revision.
+
+## 18.6 Overall Resolution
+
+Overall Issue resolution should consider:
+- Problem State;
+- Response State;
+- Domain Action Object states;
+- cross-domain dependencies;
+- Responsibility Resolution state;
+- outstanding legitimate review conditions;
+- implementation outcome where relevant.
+
+It must not be reduced to a mechanical rule that all child actions are marked closed.
+
+**Revision Status:** BOUNDED REVISION AFTER TEST 003 / CANDIDATE ARCHITECTURE REMAINS NON-CANONICAL
