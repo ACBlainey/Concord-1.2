@@ -1171,3 +1171,32 @@ The balancing mechanism is:
 > **Reviewability Is the Counterweight to Pressure Resistance.**
 
 Exact appeal, oversight, judicial and emergency authorities remain owned by their respective Concord systems and are not created by this Development Note.
+
+
+---
+
+# 25. Candidate Architecture Freeze — Common Intake and Domain Return
+
+Development has now produced a frozen candidate architecture in:
+
+*Participant-Initiated Civil Attention — Candidate Architecture Specification 001 — Common Intake, Domain Processing and Resolution Oversight*
+
+The central structural decision is:
+
+> **Centralise Intake, Provenance, Routing Visibility, Resolution Status and Feedback; Distribute Legitimate Domain-Specific Examination, Decision and Action.**
+
+The participant-facing architecture should therefore provide one civil front door rather than requiring participants to understand Concord's internal domain topology.
+
+One Issue Object may create multiple linked Domain Action Objects. Every outbound route requires a return path carrying bounded status/disposition information back to the parent Issue Object.
+
+> **One Civil Front Door; Many Legitimate Functional Owners.**
+
+> **Every Outbound Route Requires a Return Path.**
+
+> **Central Visibility ≠ Central Control.**
+
+> **Domain Completion ≠ Issue Resolution.**
+
+A resolution-oversight function should detect lost ownership, silent processing, transfer loops, stalled actions, partial resolution and unresolved cross-domain dependencies without acquiring the substantive authority of each domain.
+
+This specification is frozen for cross-domain adversarial testing before further architectural expansion.
