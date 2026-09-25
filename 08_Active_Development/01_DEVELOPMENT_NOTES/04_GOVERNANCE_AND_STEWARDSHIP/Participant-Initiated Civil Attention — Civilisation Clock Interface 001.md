@@ -63,3 +63,40 @@ but:
 
 Time can therefore reveal a response-state problem without manufacturing substantive problem priority.
 
+## Inter-domain communication
+
+Where one Domain Action Object depends on another, the Clock may prompt the relevant coordination owners when a legitimate review or backstop condition is reached.
+
+The prompt may request a status or dependency update and cause the Central Resolution Record to be refreshed.
+
+> **Prompting Communication ≠ Authority to Demand a Particular Substantive Result.**
+
+## Oversight interface
+
+Resolution Oversight may consume Clock state to detect:
+- review due or overdue;
+- unresolved dependency;
+- routing unresolved;
+- trigger unknown or disputed;
+- action pending;
+- repeated deferral;
+- stale trigger definition;
+- missing owner;
+- completed domain work awaiting parent reconciliation.
+
+Oversight may initiate the legitimate review route without substituting its judgment for the domain owner.
+
+## Queue accountability
+
+For unresolved actionable work, a domain should expose bounded status sufficient to identify current state, responsible function, reason for waiting or deferral, dependency, next review condition, Clock trigger or backstop where applicable, and last material action.
+
+A queue containing old or difficult work is not automatically defective. A queue containing unresolved work with **no represented reason, owner or review path** is a stronger warning.
+
+## Submission boundary
+
+Participants should not be able to accelerate Clock escalation by repeatedly resubmitting unchanged information. Clock conditions attach primarily to the Issue Object, Domain Action Objects, dependencies and legitimate review states.
+
+> **Repeated Submission ≠ Repeated Clock Escalation**
+
+Material information delta may legitimately change the trigger state.
+
