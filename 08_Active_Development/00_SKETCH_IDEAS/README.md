@@ -738,3 +738,32 @@ This creates a clean distinction:
 > **99_ARCHIVE_GRADUATED = provenance of ideas now owned by later development**
 
 > **01_DEVELOPMENT_NOTES = active structured development**
+
+
+---
+
+## Lightweight Sketch Intake and Provenance Rules
+
+Retrospective testing supports the following bounded process refinements.
+
+**Capture first.** A sketch does not need a final classification, known owner, evidentiary completeness or development route before preservation.
+
+**Preserve the original.** The originating sketch remains the provenance object after later promotion, split, merge, reroute, overtaking or consolidation.
+
+**Author classification is advisory.** The author may suggest a domain, owner or route. This is useful context, not a binding classification. Later development review owns the provisional classification and may revise it as source resolution proceeds.
+
+**Classification is reviewable.** Later evidence, source resolution or architecture may show that an initial route was incomplete or wrong.
+
+**Resolve ownership before creating new architecture.** After capture and before creating a new substantive owner, check whether the relevant function is already legitimately owned elsewhere.
+
+> **Observed Problem ≠ Missing Owner**
+
+**Record disposition and lineage.** Promotion, split, merge, reroute, overtaking and closure should record enough reason and destination information to reconstruct what happened. Parent and child provenance should survive decomposition and consolidation.
+
+> **Shared Development Owner ≠ Erased Source Provenance**
+
+**Do not turn these into intake bureaucracy.** Processing metadata is added later where useful. Initial capture should not require identifiers, source-family resolution, confidence scores, claim decomposition, evidentiary assessment or complete routing metadata.
+
+> **Capture First → Structure Later**
+
+More formal machinery should be added only where observed scale or failure demonstrates a need.
