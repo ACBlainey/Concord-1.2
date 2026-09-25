@@ -587,3 +587,273 @@ Those require further development and testing.
 **EIGHT INITIAL ADVERSARIAL TEST FAMILIES IDENTIFIED**
 
 **NO OPERATIONAL THRESHOLD OR CONSTITUTIONAL RIGHT YET GRADUATED**
+
+
+---
+
+# 21. Refinement — System Classification, Information Sufficiency and Issue Objects
+
+Case Study 001 and subsequent development discussion expose a necessary refinement to the candidate architecture.
+
+## 21.1 Classification Is a System Responsibility
+
+A submitter should not need to understand the internal civil architecture in order to report a concern.
+
+The submitter may optionally provide a general classification note such as:
+- safety;
+- misconduct;
+- housing;
+- judiciary;
+- governance;
+- service failure.
+
+That note is useful contextual information only.
+
+> **Submitter Classification = Advisory Context**
+
+> **System Classification = Provisional Routing Decision**
+
+The system remains responsible for identifying the actual functional domains, owners and routes implicated by the content.
+
+Misclassification by the submitter must not prejudice a submission.
+
+A submission such as **“reporting a Steward for misconduct”** may simultaneously implicate administration, oversight, safeguarding, abuse of authority, judiciary, governance or another function. The system must be able to represent multi-domain relevance rather than force premature single-domain ownership.
+
+Classification remains reviewable as evidence develops.
+
+## 21.2 Information Sufficiency Is Distinct From Classification
+
+A system may know what a report appears to concern while still lack enough information to take the next legitimate step.
+
+Therefore:
+
+> **Classification ≠ Information Sufficiency**
+
+After provisional classification/routing, the system should assess:
+
+> **Do we currently possess enough information to take the next legitimate step?**
+
+If not, and the submitter is contactable, the system may request bounded clarification.
+
+If not, and the submitter is anonymous or otherwise uncontactable, the submission may be currently non-actionable.
+
+That does not make it false, invalid or irrelevant.
+
+> **Insufficient Information ≠ False Report**
+
+> **Currently Non-Actionable ≠ Permanently Closed**
+
+## 21.3 Anonymity Does Not Determine Actionability
+
+Identity/contactability is relevant only where a legitimate next step requires further information from the submitter.
+
+An anonymous submission containing sufficient information should proceed normally.
+
+> **Anonymity ≠ Non-Actionability**
+
+> **Identity ≠ Evidentiary Sufficiency**
+
+A non-actionable anonymous submission should remain preserved where legitimate because later evidence may make it actionable.
+
+The architecture must also resist artificial information thresholds being used to defeat anonymous reporting.
+
+## 21.4 Evidence Can Arrive Outside the Submission
+
+Actionability must not be assessed from the submission alone.
+
+Relevant evidence may include:
+- other submissions;
+- system metrics;
+- audits;
+- existing records;
+- observations;
+- later events;
+- appropriate external evidence.
+
+Thus:
+
+> **Submission Evidence + Other Relevant Evidence → Current Evidentiary State**
+
+Several individually insufficient anonymous reports from one region, combined with independent metrics showing a local anomaly, may justify examination.
+
+This does not establish causation or prove every report.
+
+> **Individually Non-Actionable ≠ Collectively Non-Actionable**
+
+> **Correlation ≠ Causation**
+
+> **Pattern ≠ Finding**
+
+## 21.5 The Issue Object
+
+Repeated submissions concerning the same underlying issue should not normally become parallel cases at different processing stages.
+
+The architecture therefore requires a distinct **Issue Object**.
+
+> **Submission Objects → Issue Object → Investigation Object(s) → Finding/Decision Object(s) → Implementation/Remedy Object(s)**
+
+The original submissions remain individually preserved for provenance and evidence.
+
+The Issue Object becomes the primary processing object once common issue identity is sufficiently established.
+
+This creates the rule:
+
+> **Group for Processing; Preserve Individually for Evidence and Provenance.**
+
+## 21.6 Later Submissions Join the Existing Issue
+
+Where a later submission clearly concerns an already advancing Issue Object, it should be attached to that issue rather than restarted as an independent case.
+
+Conceptually:
+
+**S1 + S2 + S3 → Issue A → Investigation**
+
+then:
+
+**S4 → Match to Issue A → Attach to Issue A → Join Current Processing Context**
+
+This prevents needless duplicate processing.
+
+However:
+
+> **Duplicate Processing ≠ Duplicate Information**
+
+Every later submission still requires examination for its information delta.
+
+## 21.7 Information-Delta Examination
+
+A later submission may contain:
+- no new information;
+- independent corroboration;
+- additional detail;
+- contradictory evidence;
+- changed circumstances;
+- increased or decreased severity;
+- new affected persons/groups/locations;
+- evidence of recurrence or spread;
+- a new rights/safety implication;
+- evidence that the issue should split;
+- evidence that the submission belongs to an additional issue.
+
+Therefore:
+
+> **Same Issue ≠ Same Information**
+
+and:
+
+> **Grouping Eliminates Duplicate Processing, Not Independent Examination.**
+
+The Issue Object should represent the best current understanding of the matter rather than a frozen summary of its earliest reports.
+
+Conceptually:
+
+> **Case State(t+1) = Case State(t) + Evaluated Information Delta**
+
+This is an architectural relation, not a literal quantitative formula.
+
+Material changes should preserve provenance: the system should be able to identify which submission/evidence changed the case state, when, and why.
+
+## 21.8 Aggregate Actionability
+
+Several submissions and other evidence may collectively create an actionable Issue Object even where none was individually sufficient.
+
+For example:
+
+**S1 + S2 + S3 + Metric M1 + External Evidence E1 → Issue A**
+
+Issue A may advance while S1, S2 and S3 retain their original individual epistemic states.
+
+> **Aggregate Actionability ≠ Individual Substantiation**
+
+Aggregation therefore changes the evidentiary state of the Issue Object, not retrospectively the truth-status of every contributing submission.
+
+## 21.9 Dynamic Issue State
+
+Advancement through the system must not freeze the problem definition.
+
+New evidence may:
+- broaden or narrow scope;
+- change priority;
+- change routing;
+- require another owner;
+- alter investigative requirements;
+- contradict earlier assumptions;
+- split one issue into several;
+- merge previously separate issues;
+- reactivate a previously non-actionable matter.
+
+Therefore:
+
+> **Advanced Processing State ≠ Epistemic Closure**
+
+and:
+
+> **Closure on Current Evidence ≠ Erasure**
+
+A mature civil-attention architecture must support ongoing problem-state development without repeatedly restarting the entire process.
+
+## 21.10 Revised Abstract Pathway
+
+The candidate pathway is therefore refined to:
+
+**Participant Trigger**
+→ **Receipt**
+→ **Preservation**
+→ **System Provisional Classification / Multi-Domain Resolution**
+→ **Existing-Issue Match**
+→ **Information-Sufficiency Assessment**
+→ **Clarification Where Necessary and Possible**
+→ **Issue Creation / Attachment / Split / Merge**
+→ **Evidence Aggregation and Epistemic State**
+→ **Functional/Jurisdictional Routing**
+→ **Priority / Consequence Review**
+→ **Legitimate Examination / Investigation**
+→ **Disposition**
+→ **Feedback**
+→ **Appeal / Escalation Where Applicable**
+→ **Continuing Information-Delta Intake**
+→ **Outcome Observation / Learning**
+→ **Reopening / Reclassification Where Material Conditions Change**
+
+At every stage preserve the original submission and the provenance of material state changes.
+
+## 21.11 Additional Candidate Failure Modes
+
+The refinement adds several failure classes for later testing:
+
+17. submitter-classification capture;
+18. forced single-domain routing;
+19. artificial information-sufficiency barrier;
+20. anonymity suppression by clarification demand;
+21. failure to aggregate weak but convergent signals;
+22. false aggregation by superficial similarity;
+23. duplicate-processing overload;
+24. duplicate-information discard;
+25. stale Issue Object / failure to absorb changing conditions;
+26. aggregate evidence converted into false individual substantiation;
+27. late-submission restart failure;
+28. premature case closure despite material new evidence.
+
+These extend rather than replace the original sixteen failure classes.
+
+## 21.12 New Candidate Development Propositions
+
+### DP-10 — System Classification Responsibility
+Participants may suggest a classification, but the system bears responsibility for provisional functional classification and routing.
+
+### DP-11 — Sufficiency Before Identity
+Actionability depends on sufficient information for the next legitimate step, not on whether the submitter is identified.
+
+### DP-12 — Aggregate Evidence
+Individually insufficient submissions may collectively contribute to an actionable Issue Object when legitimate corroborating evidence exists.
+
+### DP-13 — Issue-Level Processing
+Clearly related submissions should be grouped into an Issue Object for processing while retaining individual provenance and evidentiary state.
+
+### DP-14 — Information-Delta Review
+Every later submission linked to an existing issue should be examined for material new, changed, contradictory or scope-altering information.
+
+### DP-15 — Dynamic Case State
+Issue state must remain revisable as material evidence or conditions change.
+
+These remain development propositions, not canonical rules.
