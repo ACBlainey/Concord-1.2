@@ -43,3 +43,15 @@ Stage 16 is complete only when:
 - `06_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0 — Plain Language Guide.md` exists.
 
 > **Archive Intent ≠ Archive Completion**
+
+## Final Verification Result
+
+- Archived preservation set: **14/14 VERIFIED**.
+- Active candidate copies: **ABSENT / ACTIVE FOLDER CLEARED**.
+- Graduated v1.0 release: **VERIFIED**.
+- Plain-language guide: **VERIFIED**.
+- Internal/recursive extension candidate: **PRESERVED SEPARATELY AS UNTESTED ACTIVE-DEVELOPMENT SKETCH**.
+
+**PMEDG STAGE 16 COMPLETE.**
+
+**CANDIDATE LIFECYCLE CLOSED — GRADUATED v1.0 / DEVELOPMENT RECORD ARCHIVED.**
