@@ -33,3 +33,33 @@ Example:
 
 > **Waiting Without a Represented Condition Is a Staleness Risk.**
 
+## Queue vitality and difficult work
+
+Clock triggers may support next-review conditions, dependency completion, inter-domain communication prompts, Response-State reassessment, responsibility review, evidence or Problem-State change, and temporal backstops.
+
+A domain queue can become distorted if easy work is repeatedly selected while difficult legitimate problems remain indefinitely deferred. The Clock should not assign substantive priority, but it can make deferral visible and require a reason and review condition.
+
+> **Deferral Requires a State, Reason and Review Condition.**
+
+A difficult case may legitimately remain unresolved because evidence, capability, authority or resources are missing. In that case the dependency should be represented.
+
+**Issue H blocked by Capability C → watch C → C becomes available, validated or authorised → review H.**
+
+A temporal backstop can still check whether the dependency model itself has become stale. This prevents both futile constant reconsideration and permanent forgetting.
+
+> **No Actionable Issue Should Become Inert Merely Because It Is Waiting.**
+
+## Timing boundary
+
+Different domains legitimately operate at different speeds.
+
+> **Age of Queue Item ≠ Problem Weight**
+
+> **Elapsed Time Alone ≠ Process Failure**
+
+but:
+
+> **Missed Legitimate Review Condition → Response-State Reassessment**
+
+Time can therefore reveal a response-state problem without manufacturing substantive problem priority.
+
