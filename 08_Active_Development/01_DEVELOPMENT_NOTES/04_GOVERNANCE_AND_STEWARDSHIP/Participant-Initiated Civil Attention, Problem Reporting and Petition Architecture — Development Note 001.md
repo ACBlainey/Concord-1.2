@@ -1071,3 +1071,103 @@ Where relevant distinguish:
 This preserves the difference between mass petition support, repeated copied reports and genuinely distributed observation.
 
 No numerical escalation threshold is established by this development cycle.
+
+
+---
+
+# 24. Test-Derived Refinement — Response State, Challenge and Institutional Corrigibility
+
+Test Programme 002 attacks the pressure/resource firewall from the opposite direction.
+
+The architecture must prevent participant volume from manufacturing priority without allowing institutions to make their own assessment immune from challenge.
+
+> **No Right to Manufacture Priority ≠ No Right to Challenge Priority Assessment**
+
+> **System Assessment ≠ Final Truth**
+
+## 24.1 Problem State and Response State
+
+An Issue Object should distinguish two evolving states.
+
+### Problem State
+The current best-supported representation of the underlying issue in the world.
+
+### Response State
+The current representation of what legitimate civil functions have done, are doing, have failed to do, or are waiting upon.
+
+Candidate Response State fields include:
+- responsible function;
+- current disposition;
+- action promised/required;
+- action completed;
+- last material action;
+- next review condition;
+- dependencies;
+- legitimate delay/resource constraint;
+- missed condition/deadline where applicable;
+- implementation failure;
+- escalation state.
+
+> **Problem-State Stability ≠ Response-State Adequacy**
+
+Repeated reports may therefore add no new evidence about the original problem while still exposing failure in the civil response.
+
+## 24.2 Challenge Without Command
+
+Participants should be able to challenge a specific processing assumption or decision without thereby acquiring authority over the outcome.
+
+A challenge may concern:
+- classification;
+- missed evidence;
+- stale system information;
+- conflict of interest;
+- implementation failure;
+- materially changed circumstances;
+- overlooked rights/safety implications.
+
+> **Right to Challenge Processing ≠ Right to Dictate Outcome**
+
+A lightweight Challenge Object may link:
+**Issue Object + Contested Decision/Assumption + Reason/New Evidence + Review Owner + Disposition + Resulting Change**
+
+A Challenge Object is not a new Issue Object by default.
+
+## 24.3 Repetition Versus Reopening
+
+The architecture needs both finality and corrigibility.
+
+> **Unchanged Repetition → Attach / Preserve / No Automatic Full Re-Examination**
+
+> **Material Information Delta or Legitimate Review Ground → Re-Evaluation**
+
+This prevents raw repetition from consuming unlimited review while preventing closure from blocking materially new evidence.
+
+## 24.4 Response Failure May Become a Separate Issue
+
+Where the original problem is correctly understood but the responsible civil process repeatedly fails, the response failure may itself require a linked Issue Object.
+
+Example:
+
+**Issue A — Road Defect**
+
+may reveal:
+
+**Issue B — Maintenance Execution Failure**
+
+Issue B may be systemic and affect many otherwise unrelated Issue Objects.
+
+This prevents institutional failure from being misrepresented as increased intrinsic severity of the original problem.
+
+## 24.5 Balanced Firewall
+
+Test Programmes 001 and 002 together produce the paired constraints:
+
+> **Participants Can Trigger Attention; They Cannot Manufacture Priority.**
+
+> **Institutions Can Assess Priority; They Cannot Manufacture Finality.**
+
+The balancing mechanism is:
+
+> **Reviewability Is the Counterweight to Pressure Resistance.**
+
+Exact appeal, oversight, judicial and emergency authorities remain owned by their respective Concord systems and are not created by this Development Note.
