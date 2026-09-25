@@ -100,3 +100,32 @@ Participants should not be able to accelerate Clock escalation by repeatedly res
 
 Material information delta may legitimately change the trigger state.
 
+## Test requirements
+
+The next Civil Attention test cycle should include cases where:
+- a domain legitimately waits for another domain;
+- the dependency completes but the waiting domain is not manually revisited;
+- a difficult issue is repeatedly deferred while easier work is completed;
+- a capability-blocked issue becomes actionable after capability change;
+- an ownership dispute remains routing-unresolved;
+- a promised review condition is missed;
+- repeated participant submissions attempt to manipulate a review trigger;
+- a domain uses BLOCKED status without a meaningful dependency;
+- a long-lived trigger has become stale;
+- an inter-domain prompt produces no response.
+
+These cases should test whether Clock integration creates queue vitality without converting scheduling into substantive authority.
+
+## Current Status
+
+**CIVILISATION CLOCK SOURCE FAMILY RESOLVED**
+
+**EXISTING CLOCK/STRA MECHANISMS REUSED**
+
+**QUEUE-VITALITY AND DEPENDENCY INTERFACE DEFINED**
+
+**DIFFICULT-WORK DEFERRAL MADE AUDITABLE**
+
+**DOMAIN AUTHORITY PRESERVED**
+
+**NEXT STEP: TEST CLOCK-DRIVEN QUEUE CASES BEFORE THE MATERIALLY DIFFERENT DOMAIN TEST**
