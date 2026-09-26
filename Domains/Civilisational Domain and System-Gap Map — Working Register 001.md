@@ -443,3 +443,230 @@ For each candidate, ask:
 8. Is it genuinely a domain, or merely a service, institution, method, protocol, wrapper or infrastructure component?
 
 This test should be applied before creating further V1.2 domain folders.
+
+---
+
+## 11. Domain Boundary Resolution Pass 001
+
+This pass tested the strongest gap candidates against the Concord master volume and current constitutional architecture.
+
+A significant result is that the master Concord already treats **legal systems, security, infrastructure, health, education, urban planning and environmental management** as distinct stewardship subjects. It also states that ordinary laws regulate behaviour and repeatedly describes specialist stewardship in infrastructure, public health and environmental management.
+
+These candidate functions therefore arise from the Concord's own architecture as well as from external expectations of a functioning civilisation.
+
+### 11.1 Law — Top-Level Domain Candidate: STRONG YES
+
+The Judiciary V2 architecture repeatedly assumes the existence of:
+
+- applicable law;
+- statutes;
+- ordinary law;
+- offences and unlawful conduct;
+- legal obligations;
+- legal standing;
+- remedies;
+- legal procedure;
+- evidential rules;
+- precedent;
+- legal amendment and development.
+
+The Judiciary explicitly asks what law applies and whether conduct or authority is lawful. It also distinguishes lawful policy choice from judicial interpretation.
+
+This means Law is not merely missing content inside Judiciary. **Judiciary is architecturally dependent upon a legal system that has not yet been comparably designed.**
+
+Provisional conclusion:
+
+> **Law should be treated as a top-level civilisational domain candidate.**
+
+Its future architecture must distinguish at least:
+
+**Constitution -> Lawmaking / Legitimate Legal Source -> Ordinary Law -> Judiciary / Adjudication -> Enforcement / Remedy**
+
+The exact location of legislation and lawmaking relative to Governance remains an interface question.
+
+> **Governance May Make Law Under Legitimate Authority; Governance Is Not Identical to Law.**
+
+> **Judiciary Interprets and Applies Law; Judiciary Is Not the Whole Legal System.**
+
+### 11.2 Defence — Top-Level Domain Candidate: STRONG YES
+
+Defence has a distinct persistent objective: protecting the civilisation and its participants against external organised coercion, attack and comparable threats.
+
+It requires capabilities, readiness, command relationships, specialised information, resources and exceptional forms of force that cannot safely be treated as ordinary Governance administration.
+
+Its interfaces include Governance, Constitution, Judiciary, Intercivilisational Relations, Economy, Infrastructure, Research, Intelligence and Continuity.
+
+The concentration of coercive capability creates a particularly strong reason for explicit domain boundaries and civilian/constitutional control.
+
+Provisional conclusion:
+
+> **Defence should be treated as a top-level civilisational domain candidate.**
+
+### 11.3 Internal Civil Security / Policing — Keep Distinct From Defence
+
+Internal law enforcement and public security should not automatically be placed inside Defence.
+
+The objectives overlap at the level of protection, but their ordinary legal context, relationship with citizens, evidential duties, permissible force, oversight and operational posture differ substantially.
+
+Provisional conclusion:
+
+> **Defence != Policing**
+
+Whether policing becomes its own domain, a major subdivision of a broader Justice/Law domain, or part of a future Civil Security domain remains open.
+
+### 11.4 Security Intelligence — Cross-Domain Function With High Independence Requirement
+
+Security intelligence exists to reduce uncertainty about threats relevant to legitimate protective functions.
+
+It interfaces with Defence, internal security, Governance, Judiciary and Intercivilisational Relations.
+
+However, collection and analysis powers create distinct privacy, surveillance, secrecy, evidential and capture risks.
+
+Current conclusion:
+
+> Do not yet classify Intelligence as a standalone top-level domain.
+
+First determine whether it is better represented as a **bounded cross-domain service/function** with structurally independent oversight and domain-specific mandates.
+
+Important separation:
+
+**Research -> general knowledge acquisition**
+
+**Security Intelligence -> purpose-bounded threat information acquisition and assessment**
+
+### 11.5 Infrastructure and Essential Systems — Top-Level Domain Candidate: STRONG YES
+
+The master Concord repeatedly treats infrastructure as a persistent stewardship subject and assumes infrastructure planning, maintenance, reliability and cross-boundary coordination.
+
+The domain is broad but functionally coherent if defined as stewardship of shared enabling systems upon which multiple civil functions depend.
+
+Likely subdivisions include:
+
+- transport;
+- energy;
+- water and sanitation;
+- communications;
+- compute and bandwidth infrastructure;
+- waste/material flows;
+- shared public works;
+- critical technical-support systems.
+
+Infrastructure should not own the purposes served by those systems.
+
+For example:
+
+> **Hospital Infrastructure != Health Domain**
+
+> **Research Compute Infrastructure != Research Authority**
+
+> **Transport Infrastructure != Civil Planning**
+
+Civil Planning determines spatial/development relationships; Infrastructure operates and stewards enabling networks and systems. Their interface will be substantial.
+
+Provisional conclusion:
+
+> **Infrastructure and Essential Systems should be treated as a top-level civilisational domain candidate.**
+
+### 11.6 Health and Care — Top-Level Domain Candidate: STRONG YES
+
+The master Concord explicitly treats health and hospitals as specialist stewardship subjects and assumes healthcare and medical capacity in operational examples.
+
+Health has a distinct objective, specialised knowledge, participant relationship, sensitive information, risk structure and operational capability.
+
+It cannot be reduced to Infrastructure merely because hospitals require infrastructure, or Research merely because medicine depends on research.
+
+Provisional conclusion:
+
+> **Health and Care should be treated as a top-level civilisational domain candidate.**
+
+Future multisubstrate development may require the domain to generalise beyond biological medicine while preserving genuine substrate-specific differences.
+
+### 11.7 Education and Participant Development — Top-Level Domain Candidate: PROBABLE
+
+The master Concord explicitly identifies educational systems as long-lived civil influences and education as an application/stewardship subject.
+
+Education is distinct from Research:
+
+> **Research develops knowledge. Education develops participant knowledge, understanding, skills and capability.**
+
+It also has major interfaces with developmental autonomy, children/dependants, culture, civic participation, professional competence and substrate differences.
+
+The principal unresolved question is scope: whether **Participant Development** should encompass education, training and capability development, or whether that becomes too broad.
+
+Provisional conclusion:
+
+> **Education is probably a top-level domain, with final naming/scope still open.**
+
+### 11.8 Environmental and Planetary Stewardship — Top-Level Domain Candidate: PROBABLE
+
+The Concord contains substantial principle-level planetary and environmental stewardship reasoning and explicitly treats environmental management as specialist stewardship.
+
+The persistent civil function is not simply "protect nature." It concerns stewardship of shared ecological and planetary systems whose state affects participants, commons, future generations and other domains.
+
+Likely interfaces include Economy, Infrastructure, Civil Planning, Health, Research, Historical, Continuity and Intercivilisational Relations.
+
+Provisional conclusion:
+
+> **Environmental and Planetary Stewardship is probably a top-level domain.**
+
+Further work should test whether planetary stewardship is too broad a name where the Concord operates across multiple worlds.
+
+### 11.9 Civil Planning — Top-Level Domain Candidate: STRONG YES
+
+Civil Planning has a distinct function from Governance and Infrastructure:
+
+> **Civil Planning coordinates the spatial and developmental relationships between settlements, activities, environments, infrastructure and participant needs over time.**
+
+Governance may authorise planning systems and make bounded public choices.
+
+Infrastructure implements and operates many physical/digital networks.
+
+Planning coordinates how development fits together.
+
+The existing substrate-aware planning work provides a genuine architectural seed.
+
+Provisional conclusion:
+
+> **Civil Planning should be treated as a top-level civilisational domain candidate.**
+
+Housing and settlement planning are provisionally subdivisions/interfaces rather than separate top-level domains.
+
+---
+
+## 12. Provisional Domain Set After Boundary Pass 001
+
+### Identified Existing Domains
+- Historical
+- Continuity
+- Research
+- Governance
+- Judiciary
+- Economy and Resource Coordination
+- Civil Attention
+- Intercivilisational Relations
+
+### Strong New Domain Candidates
+- Law
+- Defence
+- Civil Planning
+- Infrastructure and Essential Systems
+- Health and Care
+
+### Probable New Domain Candidates — Scope Still to Resolve
+- Education / Participant Development
+- Environmental / Planetary Stewardship
+
+### Important Functions Requiring Further Boundary Work
+- policing / internal civil security;
+- security intelligence;
+- emergency and rescue services;
+- food and essential supply;
+- culture and civic life;
+- communications/media/public information where not merely infrastructure;
+- identity/civil registration;
+- social support/welfare;
+- labour/work and occupational systems;
+- standards, inspection and regulation;
+- taxation/public finance/treasury as distinct from the wider Economy domain.
+
+No additional domain folders should yet be created from this pass. The remaining boundary questions should be tested first so that V1.3 begins from a coherent ontology rather than an accumulation of plausible department names.
