@@ -1836,3 +1836,91 @@ The earlier classification of **Corrections/Rehabilitation** as one intersection
 The architecture therefore seeks continuity of ordinary civil participation rather than creation of a parallel correctional civilisation.
 
 > **Change the wrapper where legitimate necessity requires it; do not unnecessarily replace the participant's ordinary civil systems.**
+
+---
+
+## 27. Worked Topology Example — Education and Custody
+
+The relationship between education, rehabilitation and lawful custody provides a useful worked example of the emerging civilisational topology.
+
+It demonstrates why conventional institutional labels should not automatically be reproduced as Concord domains.
+
+### 27.1 Education Side
+
+A simplified educational knowledge-and-practice loop is:
+
+**Participation & Intelligence Research + Other Research**
+-> **Pedagogical Evidence**
+-> **Standards / Evaluation**
+-> **Education**
+-> **Participant Learning and Capability Outcomes**
+-> **Research + Historical**
+
+Supporting relationships may include:
+
+- **Research** — develops and tests pedagogical knowledge;
+- **Participation & Intelligence** — investigates substrate/cognitive differences relevant to learning;
+- **Health/Psychology** — contributes evidence concerning cognition, trauma, developmental needs, impairment and treatment boundaries;
+- **Standards** — translates evidence and accumulated experience into bounded educational expectations/practice;
+- **Historical** — preserves prior methods, outcomes, failures, exceptions, changes and longitudinal patterns;
+- **Education** — performs the actual teaching/capability-development function.
+
+Standards here are an intersection function rather than an independent authority over Education.
+
+### 27.2 Custody Side
+
+A simplified lawful-custody chain is:
+
+**Law / Legal Code**
+-> **Judiciary / Lawful Determination**
+-> **Authorised Custodial Condition**
+-> **Civil Security**
+-> **Custodial Context / Space**
+
+That custodial context then depends upon ordinary civil domains:
+
+- **Infrastructure** — physical/digital custodial facilities and essential systems;
+- **Economy and Resource Coordination** — provisioning and resource flows;
+- **Health and Care** — ordinary and context-specific healthcare;
+- **Education** — ordinary, remedial, vocational and rehabilitative learning;
+- **Social Support** — where relevant to dependency, access or reintegration;
+- **Civil Attention** — participant ability to report problems, make suggestions/petitions and receive resolution feedback;
+- **Historical** — provenance and consequential records subject to legitimate access boundaries.
+
+### 27.3 Combined Model
+
+The participant does not enter a separate civilisational domain called "Corrections."
+
+A better abstraction is:
+
+**PARTICIPANT**
++
+**LAWFUL CUSTODIAL WRAPPER**
++
+**CONTINUING ACCESS TO ORDINARY CIVIL DOMAINS**
+
+subject only to restrictions justified by the lawful custodial condition.
+
+Thus:
+
+> **The same domain can pass through a contextual boundary without changing its civil identity.**
+
+Education inside custody remains Education.
+
+Healthcare inside custody remains Health and Care.
+
+Infrastructure supporting a custodial facility remains Infrastructure.
+
+The contextual wrapper changes legitimate access, movement, security, delivery conditions and authority relationships. It does not needlessly create duplicate civil systems.
+
+### 27.4 Architectural Lesson
+
+This example provides a useful test for future domain discovery:
+
+> **Before creating a new domain from a familiar institution or department, attempt to decompose it into persistent domains, intersection functions, contextual wrappers, infrastructure and operational services.**
+
+If the apparent domain disappears under that decomposition, it was probably an institutional bundle rather than a fundamental civilisational problem-space.
+
+Conversely, if a persistent responsibility remains after decomposition, that residual function may justify domain status.
+
+This test should be used during the final omission scan.
