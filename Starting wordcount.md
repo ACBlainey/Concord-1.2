@@ -19,3 +19,13 @@ Starting word count for V1.2
 | `10_Reference_and_Development`        |      30 |        79,904 |
 | `11_Intercivilisational_Architecture` |      40 |       109,602 |
 | **TOTAL**                             | **311** | **1,498,211** |
+
+SNAPSHOT 26/9/2026
+| File type          |     Files |         Words |
+| ------------------ | --------: | ------------: |
+| Markdown           |     3,177 |     3,224,995 |
+| TXT                |         6 |         5,113 |
+| DOCX               |         2 |         5,189 |
+| CSV                |         1 |            44 |
+| Extensionless      |         1 |             0 |
+| **Total readable** | **3,187** | **3,235,341** |
