@@ -2157,3 +2157,227 @@ A compact representation is:
 -> correction of knowledge, standards and future educational practice.
 
 This topology should be retained for later Education-domain development while the present task remains discovery of the wider civilisational domain architecture.
+
+---
+
+## 29. Final Omission Scan 001 — Reverse Civilisation-Function Test
+
+A reverse scan was performed against the repository structure and the emerging domain model.
+
+The purpose was not to ask what folders Concord already possesses, but:
+
+> **What persistent functions must a viable civilisation perform that are not represented by the current domain topology?**
+
+Candidate functions were subjected to the decomposition test:
+
+**candidate function**
+-> can it be decomposed into existing/provisional domains
++ intersection functions
++ contextual wrappers
++ infrastructure
++ operational services?
+
+If yes, it should not automatically become a new domain.
+
+### 29.1 Functions That Decompose Without Requiring New Domains
+
+#### Food / Agriculture / Essential Supply
+Decomposes across Economy, Environment and Habitat Stewardship, Infrastructure, Civil Planning, Health, Continuity, Research/Standards and Historical.
+
+**Result:** essential system gap, not new domain.
+
+#### Housing / Settlement Provision
+Decomposes across Civil Planning, Infrastructure, Economy, Law, Environment and Habitat Stewardship and Social Support where need-based assistance applies.
+
+**Result:** essential capability gap, not new domain.
+
+#### Labour / Employment / Occupational Systems
+Decomposes primarily into Economy, Law, Education, Health, Civil Security/standards where relevant, plus Governance for public employment.
+
+**Result:** major Economy subdomain and cross-domain legal/educational interface, not new top-level domain.
+
+#### Utilities
+Energy, water, sanitation, communications, compute, waste/material flows and related shared technical networks remain within Infrastructure and Essential Systems, with domain-specific environmental, economic and legal interfaces.
+
+**Result:** Infrastructure subdivisions.
+
+#### Emergency Services
+Fire/rescue, emergency medicine, disaster response, infrastructure repair and security response retain specialist-domain ownership while sharing emergency coordination, communications and incident architecture.
+
+**Result:** operational capabilities plus Emergency Coordination intersection.
+
+#### Public Finance / Treasury / Taxation
+Decomposes primarily across Economy, Governance and Law, with strong Audit/Historical requirements.
+
+**Result:** major subsystem, not separate domain.
+
+#### Registry / Authentication / Civil Identity
+Already decomposed across administrative identity services, Law, Historical, Continuity, Civil Security, Judiciary, Infrastructure and constitutional standing.
+
+**Result:** cross-domain identity architecture, not new domain.
+
+#### Media / Public Communications
+Communications infrastructure -> Infrastructure.
+Official civil information -> Public Information intersection.
+Independent media/cultural expression -> protected civil ecosystem / Culture and Civic Life.
+Historical/public records -> Historical.
+
+**Result:** no single Media domain.
+
+#### Arts / Recreation / Sport / Religion / Voluntary Association
+These are important forms of participant and cultural life but do not each create a necessary central civil authority.
+
+Their enabling/protective architecture may belong principally under Culture and Civic Life, Law, Economy, Infrastructure and contextual-space architecture.
+
+**Result:** supports Culture and Civic Life as a possible authority-light domain rather than proliferation of activity-specific domains.
+
+### 29.2 Residual Function — Social Support and Dependency
+
+The strongest unresolved residual after decomposition is support for participants who cannot presently secure meaningful civil participation through ordinary autonomous exchange alone.
+
+Examples include:
+
+- childhood/dependency beyond the educational function;
+- disability/access support;
+- temporary incapacity;
+- severe deprivation;
+- care needs not reducible to medical treatment;
+- support after disruption or loss;
+- assistance with independent living;
+- reintegration support;
+- safeguarding of dependants;
+- support during capability transitions.
+
+Health can treat illness but does not exhaust these needs.
+
+Education can develop capability but cannot assume capability already exists.
+
+Economy coordinates resources but does not by itself establish what support relationships civilisation owes to participants unable to participate through ordinary exchange.
+
+Law can establish rights and obligations but does not deliver support.
+
+This leaves a persistent residual civil function.
+
+**Revised classification:**
+
+> **Social Support and Care — PROBABLE TOP-LEVEL DOMAIN**
+
+Potential defining function:
+
+> **Support participants in maintaining or recovering meaningful civil participation where dependency, incapacity, deprivation or access barriers cannot adequately be addressed through ordinary autonomous participation alone.**
+
+The boundary with Health and Care now requires reconsideration. One possible later resolution is:
+
+- **Health** -> health, medicine, treatment and prevention;
+- **Social Support and Care** -> non-medical care, dependency, access, safeguarding and participation support.
+
+The word **Care** may therefore belong partly in both and requires naming discipline.
+
+### 29.3 Culture and Civic Life — Residual but Authority-Light
+
+The reverse scan also leaves a genuine residual around:
+
+- cultural expression;
+- voluntary association;
+- community formation;
+- arts;
+- recreation;
+- sport;
+- religion/worldview practice;
+- shared civic activities;
+- cultural transmission outside formal Education;
+- preservation of conditions for plural civil life.
+
+This is persistent, but the domain must not become an authority that determines legitimate culture.
+
+Provisional defining function:
+
+> **Protect and enable the conditions in which participants and communities can voluntarily create, practise, associate, express and transmit diverse forms of cultural and civic life within constitutional bounds.**
+
+Classification remains:
+
+> **PROBABLE AUTHORITY-LIGHT DOMAIN**
+
+The domain would steward enabling conditions and interfaces, not cultural content.
+
+### 29.4 No Further Strong Top-Level Domain Emerged in This Pass
+
+The reverse scan did not expose another clearly independent persistent civil responsibility comparable to Law, Defence, Health, Education, Infrastructure or Civil Planning.
+
+This is evidence of **approaching domain saturation**, not proof of completeness.
+
+Several very large system gaps remain, but they currently fit inside the emerging topology rather than requiring additional top-level domains.
+
+---
+
+## 30. Provisional Domain Set After Omission Scan 001
+
+### Established / Existing Domains
+1. Historical
+2. Continuity
+3. Research
+4. Governance
+5. Judiciary
+6. Economy and Resource Coordination
+7. Civil Attention
+8. Intercivilisational Relations
+
+### Strong Missing / Partial Domains
+9. Law
+10. Defence
+11. Civil Planning
+12. Infrastructure and Essential Systems
+13. Health
+14. Education
+15. Environment and Habitat Stewardship
+16. Civil Security / Public Safety
+
+### Probable Residual Domains
+17. Social Support and Care
+18. Culture and Civic Life
+
+This produces a current provisional set of **18 civilisational domains**.
+
+The final two remain somewhat more boundary-sensitive than the first sixteen.
+
+### 30.1 Important Non-Domain Civil Architecture
+
+The following remain necessary but should not presently be elevated to top-level domains:
+
+- standards/regulation/inspection/certification;
+- security intelligence;
+- emergency coordination;
+- public information;
+- authentication;
+- metrics/state observation;
+- audit/oversight;
+- KCS/change propagation;
+- civilisational threat detection;
+- civil identity/registry architecture;
+- corrections/custody/rehabilitation as a bundled institution;
+- housing;
+- food supply;
+- labour/employment;
+- public finance/treasury;
+- emergency services as one combined authority;
+- media as one combined authority.
+
+### 30.2 Current Confidence Statement
+
+The discovery process is now showing diminishing returns at the **top-level domain** layer.
+
+Newly examined civil functions are increasingly resolving into:
+
+**existing domain**
++
+**intersection**
++
+**wrapper**
++
+**service/capability**
+
+rather than producing new residual domains.
+
+This is the expected convergence signal if the domain decomposition is becoming structurally adequate.
+
+A second omission pass should therefore focus narrowly on testing the 18-domain set against broad civil life stages and failure conditions rather than continuing unconstrained candidate generation.
