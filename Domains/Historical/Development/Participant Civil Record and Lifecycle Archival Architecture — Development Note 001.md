@@ -473,3 +473,339 @@ The participant lifecycle therefore has an information counterpart:
 This should be tested against the graduated Historical formal specification and schema during a controlled reopening review.
 
 Until that review, this document remains a post-graduation development extension rather than a modification of the graduated Historical architecture.
+
+---
+
+## 20. Nested Safe-Space Architecture for Participant Records
+
+The participant civil record should apply the Concord's contextual safe-space architecture directly to information.
+
+The record is not one permission space.
+
+It is a **container of separately bounded information spaces**.
+
+Example:
+
+**PARTICIPANT CIVIL RECORD**
+- Identity / Civil Status Safe Space
+- Health Safe Space
+- Education Safe Space
+- Employment / Economy Safe Space
+- Tax / Public Finance Safe Space
+- Law / Judiciary Safe Space
+- Civil Security / Criminal Record Safe Space
+- Social Support Safe Space
+- other legitimate domain-specific spaces
+
+Each subsection must be treated as a distinct protected space with its own:
+
+- purpose;
+- data classes;
+- access authorities;
+- participant access rules;
+- delegated/representative access rules;
+- disclosure interfaces;
+- retention rules;
+- archival transition rules;
+- audit requirements;
+- exceptional-access rules.
+
+The outer participant record provides coherent identity, indexing, lifecycle linkage and provenance.
+
+It does **not** provide universal inward access.
+
+> **Access to the Participant Record != Access to Every Space Within the Participant Record.**
+
+---
+
+## 21. Non-Transitive Access
+
+Access authority must not propagate sideways merely because two records concern the same participant.
+
+Examples:
+
+- Health access does not grant Education access.
+- Education access does not grant Health access.
+- Employment access does not grant Social Support access.
+- Social Support access does not grant Civil Security access.
+- Civil Security access does not grant unrestricted Health access.
+- Historical custodianship does not grant arbitrary operational browsing.
+- Parent/guardian access to one class does not automatically grant access to every class.
+
+Therefore:
+
+> **Shared Participant Identity != Shared Information Authority**
+
+and:
+
+> **Authority in One Safe Space != Authority in an Adjacent Safe Space**
+
+This is a direct informational application of contextual wrapper architecture.
+
+---
+
+## 22. Existence, Metadata and Content Are Separate Access Layers
+
+Even within the participant record, permission should distinguish between:
+
+1. knowing a record class exists;
+2. seeing limited metadata about it;
+3. seeing a bounded summary or verification;
+4. accessing specific records;
+5. accessing full record content;
+6. modifying or appending records;
+7. authorising disclosure to another space.
+
+These permissions are not equivalent.
+
+For example, an authorised system may be permitted to verify:
+
+**Qualification X = valid**
+
+without seeing the participant's educational history.
+
+Likewise, a system might legitimately receive:
+
+**medically unfit for specified activity until date Y**
+
+without receiving the diagnosis or complete health record.
+
+> **Verification of a Relevant Fact != Disclosure of the Underlying Record**
+
+This permits useful civil interoperability while preserving safe-space boundaries.
+
+---
+
+## 23. Cross-Space Disclosure Interface
+
+Where one domain legitimately requires information originating in another domain, it should not normally browse the originating safe space.
+
+Instead:
+
+**REQUESTING DOMAIN**
+-> states required information/purpose
+-> presents authority/consent where required
+
+**DISCLOSURE INTERFACE**
+-> validates authority
+-> determines minimum necessary information
+-> applies contextual restrictions
+-> records provenance
+
+**ORIGINATING RECORD SPACE**
+-> supplies authorised disclosure
+
+**REQUESTING DOMAIN**
+-> receives bounded information product
+
+The disclosure event should record, where appropriate:
+
+- requesting actor/system;
+- originating safe space;
+- receiving domain;
+- purpose;
+- authority or consent basis;
+- information released;
+- time;
+- expiry/use restriction;
+- onward-disclosure restriction;
+- challenge/correction status.
+
+Thus:
+
+> **Cross-Domain Need Should Create a Bounded Disclosure Path, Not a Lateral Browsing Right.**
+
+---
+
+## 24. Derived Information Products
+
+Many legitimate cross-domain needs can be satisfied without exposing source records.
+
+Possible derived products include:
+
+- yes/no verification;
+- qualification validity;
+- licence status;
+- age/status threshold confirmation;
+- fitness/capability statement;
+- eligibility statement;
+- risk/safety constraint where lawfully justified;
+- relationship/guardianship confirmation;
+- identity match;
+- anonymised statistical contribution.
+
+The originating domain remains responsible for the meaning and provenance of the source information.
+
+The receiving domain receives only what its legitimate function requires.
+
+> **Use the Least Revealing Information Product Sufficient for the Legitimate Function.**
+
+---
+
+## 25. Nested and Contextual Permissions
+
+Safe spaces may themselves contain narrower spaces.
+
+A Health space, for example, might distinguish between:
+
+- ordinary clinical record;
+- highly sensitive treatment information;
+- genetic information;
+- mental-health information;
+- emergency-access information;
+- research-consent information.
+
+The exact subdivisions should be designed by the relevant domain rather than centrally imposed by Historical.
+
+Historical supplies the common archival/access framework.
+
+The originating domain supplies legitimate internal classification.
+
+Therefore:
+
+> **Common Access Architecture != Identical Domain Record Structure**
+
+This follows the wider Concord principle:
+
+> **Standardise the interface; preserve legitimate contextual variation.**
+
+---
+
+## 26. Representative and Family Access as Explicit Paths
+
+Parent, guardian, carer, advocate, executor and descendant access should be represented as explicit authorised paths into particular safe spaces.
+
+The relationship itself does not dissolve the boundary.
+
+Example:
+
+**Parent / Guardian**
+-> authority relation validated
+-> relevant Education access may be permitted
+-> relevant Health access may be separately permitted
+-> financial/legal access may have different limits
+-> access changes as participant autonomy/capacity changes
+
+Likewise:
+
+**Descendant**
+-> genealogical relationship validated
+-> genealogical access class applied
+-> authorised historical information disclosed
+-> unrelated protected spaces remain closed.
+
+This supports relational access without treating another participant as the owner of the record.
+
+---
+
+## 27. Exceptional Access
+
+Exceptional access must remain exceptional.
+
+Emergency, judicial, safeguarding or other legally authorised access should specify:
+
+- triggering condition;
+- source of authority;
+- exact safe space affected;
+- minimum necessary scope;
+- duration;
+- logging/audit;
+- review/challenge where applicable;
+- automatic expiry where appropriate.
+
+An emergency affecting Health information does not automatically open Education, financial or criminal records.
+
+> **Exceptional Authority Should Pierce Only the Boundary It Is Legitimately Authorised to Pierce.**
+
+---
+
+## 28. Archival Transition Preserves Compartment Boundaries
+
+When a participant record moves from active use to retired/permanent Historical custody, its internal safe-space boundaries should not simply disappear.
+
+Archival transition changes:
+
+- operational relevance;
+- retention state;
+- possible access classes;
+- applicable time-based release rules.
+
+It does not automatically convert private records into public records.
+
+Different compartments may therefore have different post-retirement access schedules.
+
+For example:
+
+- basic genealogical information may become accessible relatively early;
+- sensitive health information may remain restricted;
+- records affecting living third parties may remain protected;
+- anonymised research use may be available under separate authority;
+- historically significant material may eventually become publicly accessible under lawful archival rules.
+
+> **Archival Retirement Changes Record State; It Does Not Erase Information Boundaries.**
+
+---
+
+## 29. Machine-Readable Access Topology
+
+The architecture should ultimately be machine-readable.
+
+A record object should be able to express at minimum:
+
+**Record ID**
+**Participant ID**
+**Originating Domain**
+**Safe-Space Class**
+**Nested Sensitivity Class**
+**Creation Authority**
+**Purpose**
+**Provenance**
+**Current State**
+**Permitted Access Roles**
+**Participant Access**
+**Representative Access**
+**Cross-Domain Disclosure Rules**
+**Exceptional Access Conditions**
+**Retention State**
+**Retirement Rule**
+**Archival Access Class**
+**Third-Party Relationship Constraints**
+**Correction / Dispute State**
+**Access / Disclosure Audit References**
+
+This allows access decisions to be evaluated against explicit architecture rather than informal institutional custom.
+
+---
+
+## 30. Resulting Information Topology
+
+The participant record can therefore be understood as:
+
+**PARTICIPANT IDENTITY / CIVIL REFERENCE**
+-> locates the participant record architecture
+
+**PARTICIPANT RECORD INDEX**
+-> knows which protected record spaces exist
+-> does not imply authority to enter them
+
+**DOMAIN SAFE SPACES**
+-> preserve compartmentalised records
+
+**AUTHORISED ACCESS PATHS**
+-> permit legitimate direct access
+
+**DISCLOSURE INTERFACES**
+-> permit minimum-necessary cross-domain information transfer
+
+**AUDIT / PROVENANCE**
+-> records access and transfer
+
+**RETIREMENT**
+-> ends ordinary active use
+
+**HISTORICAL CUSTODY**
+-> preserves the compartmentalised record and its provenance through time.
+
+The resulting principle is:
+
+> **Unify the lifecycle and provenance of the participant record; compartmentalise access to its information.**
