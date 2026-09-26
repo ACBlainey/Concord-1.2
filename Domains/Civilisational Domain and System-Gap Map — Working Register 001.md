@@ -973,3 +973,395 @@ Current or strong candidates include:
 - recursive oversight.
 
 This classification is provisional. Its purpose is to prevent V1.3 from confusing a civilisation's **domains**, **services**, **institutions**, **mechanisms**, **infrastructure** and **constitutional layers**.
+
+---
+
+## 15. Consolidated Civilisational Architecture Inventory 001
+
+This inventory consolidates the discovery work into three different architectural classes:
+
+1. **Domains** — persistent civilisational problem-spaces/responsibilities.
+2. **Intersections** — recurring functions produced where multiple domains must interact.
+3. **Missing or underdeveloped capabilities** — things a functioning civilisation needs but which the Concord has not yet operationally designed.
+
+These classes must not be treated as interchangeable.
+
+> **Domain != Intersection != Institution != Service != Capability != Method**
+
+### 15.1 Lightweight Ethical-Topology Comparison
+
+The ethics topology may provide a useful independent comparison against the emerging civilisational topology.
+
+For the present stage this is deliberately limited to noting obvious relationships. It is **not** a new research programme and the domain structure must not be forced to reproduce the ethics topology.
+
+Useful working rule:
+
+> **Ethics topology does not define the domain topology. It provides an independent structure against which the domain topology can be compared.**
+
+Obvious examples include:
+
+- safety and technical standards -> Avoid Unnecessary Harm, Truth/Transparency, Responsibility, Stewardship;
+- judicial independence and lawful process -> Fairness, Responsibility, Harm reduction, openness to correction;
+- bounded identity/authentication -> Autonomy, Truth, Dignity, Responsibility;
+- environmental stewardship -> Avoid Harm, Stewardship of the Commons, responsibility to future participants;
+- Civil Attention -> Participation/Autonomy, Truth, Fairness, Responsibility, correction;
+- Historical provenance -> Truth, Responsibility, openness to correction;
+- Research -> Truth and openness to correction.
+
+A particularly useful future diagnostic may be:
+
+> **Persistent Ethical Obligation + No Civil Capability Able to Discharge It -> Possible System Gap**
+
+This should be used as a clue, not proof.
+
+---
+
+## 16. Existing Civilisational Domains
+
+These have already been identified strongly enough to have domain homes or substantial existing architecture.
+
+### 16.1 Historical
+**Status:** Existing domain; formally developed and graduated as candidate architecture.
+
+Persistent responsibility: preserve consequential past state, provenance, context, relationships, uncertainty and reconstruction capability without inheriting the authority of the systems recorded.
+
+### 16.2 Continuity
+**Status:** Existing domain; development pending.
+
+Persistent responsibility: preserve or restore legitimate capabilities and functions across disruption, succession and time.
+
+### 16.3 Research
+**Status:** Existing domain; development pending.
+
+Persistent responsibility: expand, test, correct and organise current civilisational knowledge.
+
+Participation & Intelligence research belongs primarily here as specialised research into participant/substrate differences.
+
+### 16.4 Governance
+**Status:** Existing domain; substantial constitutional architecture.
+
+Persistent responsibility: legitimate public decision-making, administration, stewardship and collective action within constitutional bounds.
+
+### 16.5 Judiciary
+**Status:** Existing domain; substantial constitutional architecture.
+
+Persistent responsibility: independent adjudication, interpretation, dispute resolution, constitutional review and bounded remedies.
+
+### 16.6 Economy and Resource Coordination
+**Status:** Existing domain; substantial but incomplete architecture.
+
+Persistent responsibility: exchange, allocation, reciprocity, contribution and coordination of scarce/shared resources.
+
+### 16.7 Civil Attention
+**Status:** Existing domain; substantial architecture and portable implementation work.
+
+Persistent responsibility: ensure civil problems, suggestions and petitions can enter civilisation once, remain visible, reach appropriate responsibility and return resolution state/feedback.
+
+### 16.8 Intercivilisational Relations
+**Status:** Existing domain; substantial wrapper/interoperation architecture.
+
+Persistent responsibility: diplomacy, coexistence, interoperation and bounded relationships between Concord and external civilisations/polities/systems without requiring internal uniformity or transfer of sovereignty.
+
+---
+
+## 17. Strong Missing Domains
+
+These appear to represent genuine persistent civilisational problem-spaces rather than merely missing services.
+
+### 17.1 Law
+**Status:** Strong missing domain.
+
+The Judiciary already assumes an ordinary legal system that does not yet exist as comparable architecture.
+
+Required future scope likely includes legal sources, criminal law, civil obligations/remedies, contracts, property/stewardship law, administrative law, commercial law, procedure, evidence, sanctions and legal change.
+
+Obvious ethical relations: harm, fairness, autonomy, responsibility, truth and correction.
+
+### 17.2 Defence
+**Status:** Strong missing domain.
+
+Persistent responsibility: protection against external organised coercion, attack and comparable threats, under strict constitutional/civilian control.
+
+Obvious ethical tension/relationship: harm prevention versus harm caused by defensive force; autonomy; responsibility; peaceful coexistence.
+
+### 17.3 Civil Planning
+**Status:** Strong partial domain; genuine seed architecture exists.
+
+Persistent responsibility: coordinate spatial and developmental relationships among settlements, activities, environments, infrastructure and participant needs over time.
+
+Obvious ethical relations: autonomy, harm, fairness, safe spaces, stewardship.
+
+### 17.4 Infrastructure and Essential Systems
+**Status:** Strong missing/partial domain.
+
+Persistent responsibility: shared enabling systems upon which multiple civil functions depend.
+
+Likely scope: transport, energy, water/sanitation, communications infrastructure, compute/bandwidth, waste/material flows, public works and other critical technical systems.
+
+Obvious ethical relations: harm, responsibility, fairness of access, commons stewardship.
+
+### 17.5 Health and Care
+**Status:** Strong missing domain.
+
+Persistent responsibility: health, treatment, prevention, care and health-related capability appropriate to participant substrate.
+
+Obvious ethical relations: harm, autonomy/consent, dignity, fairness, truth and developmental priority.
+
+---
+
+## 18. Probable Domains Requiring Scope Resolution
+
+### 18.1 Education / Participant Development
+**Status:** Probable missing domain.
+
+Distinct from Research: Research develops knowledge; Education develops participant knowledge, understanding, skills and capability.
+
+Open question: whether training, professional development and broader participant development belong inside the same domain.
+
+### 18.2 Environmental / Planetary Stewardship
+**Status:** Probable domain; principle-rich but operationally weak.
+
+Persistent responsibility: stewardship of ecological/environmental systems and shared planetary or habitat conditions.
+
+Name must remain suitable for a multi-world civilisation.
+
+### 18.3 Civil Security / Public Safety
+**Status:** Possible domain; major missing system.
+
+Likely includes ordinary internal protective/law-enforcement capability, but must remain distinct from Defence.
+
+Boundary with Law, Judiciary, emergency response, intelligence and corrections remains unresolved.
+
+### 18.4 Identity / Civil Status
+**Status:** Possible domain or unusually important cross-domain architecture.
+
+Must distinguish personal continuity, authentication, civil standing, personhood recognition and live civil registration.
+
+The Concord already identifies this as a major downstream development problem.
+
+### 18.5 Culture and Civic Life
+**Status:** Possible authority-light domain.
+
+Civilisation has a persistent cultural/civic life, but central authority should not define legitimate culture.
+
+Possible role: protect conditions for voluntary cultural expression, association, heritage and civic participation.
+
+### 18.6 Social Support / Welfare
+**Status:** Possible domain or Health/Economy interface.
+
+Required functions are evident, but boundary with Health and Care, Economy, Housing, Education and developmental support is unresolved.
+
+---
+
+## 19. Identified Intersection Functions
+
+Intersection functions occur because multiple domains must cooperate around a recurring problem. They should not automatically become domains.
+
+### 19.1 Standards, Regulation, Inspection and Certification
+
+A strong example of an intersection.
+
+Typical flow:
+
+**Historical Evidence + Current Research -> Evaluation -> Domain Standard -> Implementation -> Observed Outcome -> Research + Historical**
+
+Authority and expertise remain domain-specific.
+
+Medical standards belong operationally with Health; infrastructure standards with Infrastructure; environmental standards with Environment, etc.
+
+### 19.2 Security Intelligence
+
+Intersects Defence, Civil Security, Governance, Judiciary, Intercivilisational Relations, Research and Historical.
+
+Purpose-bounded threat information acquisition/assessment is distinct from general Research.
+
+Requires unusually strong privacy, secrecy, evidential, authority and oversight boundaries.
+
+### 19.3 Emergency Coordination
+
+Coordinates capabilities that may belong to Health, Infrastructure, Civil Security, Defence, Governance and other domains.
+
+Emergency coordination does not need to own every emergency capability.
+
+### 19.4 Public Information
+
+Intersects Governance, Civil Attention, Historical, Research, Infrastructure and emergency systems.
+
+Includes official notices, public information access, warnings and transparency mechanisms.
+
+Independent journalism/media should not be conflated with state public-information authority.
+
+### 19.5 Authentication
+
+Intersects Identity/Civil Status with virtually every domain that needs to know whether a participant, role, permission or claim is genuine.
+
+Authentication verifies a claim for a purpose; it does not itself determine personhood or authority.
+
+### 19.6 Metrics and State Observation
+
+Intersects Research, Historical and operational domains.
+
+Domains generate state; metrics observe/represent selected aspects of it; Research helps validate measurement; Historical preserves longitudinal state and provenance.
+
+> **Measurement != Authority**
+
+### 19.7 Audit and Oversight
+
+Intersects Governance, Law, Judiciary, Economy, Historical and the domain being audited.
+
+Audit needs evidence and independence but does not inherit operational authority over the audited domain merely by examining it.
+
+### 19.8 Knowledge Control and Change Propagation
+
+KCS is a cross-domain architecture for dependencies, knowledge state and change propagation.
+
+It is not itself a civil authority or subject domain.
+
+### 19.9 Civilisational Threat Detection
+
+Intersects metrics, Research, Historical, Governance, Continuity and operational domains.
+
+It identifies possible deteriorating conditions and routes them toward investigation/consideration.
+
+> **Threat Detection != Operational Response Capability**
+
+---
+
+## 20. Major Missing or Underdeveloped Capabilities
+
+The following should remain visible even where they do not justify their own domain.
+
+### Law and Justice Capability Gaps
+- ordinary legal code;
+- criminal law;
+- civil law/remedies;
+- contract law;
+- property/stewardship law;
+- administrative law;
+- legal procedure;
+- evidential rules;
+- lawmaking/amendment machinery;
+- enforcement;
+- corrections/rehabilitation.
+
+### Security and Protection Capability Gaps
+- external defence capability;
+- policing/internal law enforcement;
+- criminal investigation;
+- security intelligence;
+- counterintelligence;
+- detention/custody safeguards;
+- fire and rescue;
+- disaster/civil protection;
+- coordinated emergency response.
+
+### Essential Physical/Technical Capability Gaps
+- energy systems;
+- water and sanitation;
+- transport;
+- communications networks;
+- compute/bandwidth provision;
+- waste/material-flow systems;
+- infrastructure maintenance and repair;
+- housing provision;
+- settlement development;
+- public works.
+
+### Human/Participant Capability Gaps
+- healthcare;
+- public health;
+- emergency medicine;
+- long-term care/support;
+- education;
+- training;
+- social support/welfare;
+- disability/access support;
+- dependant/child support.
+
+### Resource and Economic Capability Gaps
+- food production and food security;
+- essential supply logistics;
+- public finance;
+- treasury/custody;
+- taxation/revenue;
+- budgeting;
+- public accounting/audit;
+- labour/employment architecture;
+- occupational safety;
+- public asset stewardship.
+
+### Environmental Capability Gaps
+- environmental monitoring;
+- ecological management;
+- pollution/waste externality control;
+- habitat/resource protection;
+- long-horizon environmental planning;
+- cross-domain environmental standards.
+
+### Civil Status and Information Capability Gaps
+- live civil registry;
+- identity/authentication architecture;
+- status correction;
+- birth/creation/recognition records appropriate across substrates;
+- death/destruction/restoration status;
+- branching/merger/succession status;
+- official public-information architecture.
+
+---
+
+## 21. Current Working Civilisation Topology
+
+The emerging architecture can be represented provisionally as:
+
+**Ethical Kernel / Constitutional Constraints**
+
+↓ constrain all legitimate action
+
+**Civilisational Domains**
+
+↓ develop specialist capability and state
+
+**Domain Intersections**
+
+↔ coordinate evidence, standards, information, oversight and shared problems
+
+**Operational Systems / Services / Institutions**
+
+↓ act in reality
+
+**Observed Outcomes**
+
+↘ **Research** — investigates current reality and develops knowledge
+
+↘ **Historical** — preserves consequential state, provenance, outcomes and development
+
+↘ feedback into domains, intersections and constitutional review
+
+This suggests that Research and Historical may form an especially important epistemic-temporal pair around much of the civilisation:
+
+> **Research asks what civilisation can learn now.**
+
+> **Historical preserves what civilisation must remain able to know about then.**
+
+Many intersection functions draw from both.
+
+---
+
+## 22. Remaining Discovery Work Before V1.3 Domain Freeze
+
+The inventory is now sufficient to begin convergence rather than continued unconstrained enumeration.
+
+The remaining work should focus on:
+
+1. resolving Civil Security versus Law/Judiciary;
+2. resolving Identity/Civil Status as domain versus intersection architecture;
+3. deciding Education/Participant Development scope;
+4. deciding Environmental domain name/scope for multi-world applicability;
+5. resolving Health/Care versus Social Support;
+6. locating corrections/rehabilitation;
+7. locating food/housing without creating unnecessary domains;
+8. checking the ethical topology only for obvious missing relationships;
+9. performing one final whole-Concord scan for civil functions not represented in this inventory;
+10. then producing the V1.2 -> V1.3 migration/domain map.
+
+At that point new domain folders can be created from a much more stable civilisational architecture.
