@@ -1726,3 +1726,113 @@ The provisional domain inventory should therefore use the simpler top-level name
 > **Education**
 
 rather than **Education and Capability Development**.
+
+---
+
+## 26. Education, Rehabilitation and Custodial Space — Further Boundary Resolution
+
+A further distinction removes an unnecessary institutional split between ordinary education and rehabilitative education.
+
+> **The educational function does not change merely because the participant receiving it is subject to a lawful restriction or located in a custodial space.**
+
+A participant in school, university, employment, voluntary retraining, hospital, community support or lawful custody may all draw on the same Education domain.
+
+What changes is not the civil ownership of learning, but the surrounding context.
+
+### 26.1 Education Is Universal Civil Capability
+
+Education should therefore be conceived as a generally available civil capability rather than a corrective institution reserved for a special class of participant.
+
+This avoids constructing a separate "re-education" apparatus.
+
+A participant may use Education because they:
+
+- are learning for the first time;
+- want deeper knowledge;
+- need a new skill;
+- are changing work;
+- need to regain lost capability;
+- need remedial support;
+- need to understand consequences of previous behaviour;
+- need skills or understanding relevant to safer future participation;
+- are developing after a period of incapacity, dependency or lawful restriction.
+
+The pedagogical system can respond to different learning needs without creating a separate civil category of "people being re-educated."
+
+### 26.2 Custody Is a Context / Space and Authority Question
+
+Where lawful custody exists, the custodial aspect belongs to the architecture governing:
+
+- lawful authority;
+- restriction of movement;
+- space classification;
+- access;
+- security;
+- duration;
+- conditions;
+- oversight;
+- participant rights;
+- review;
+- release.
+
+Education delivered inside that space remains Education.
+
+Therefore:
+
+> **Custodial Context != Educational Classification**
+
+and:
+
+> **Location or Legal Status of Learner != Ownership of Learning Function**
+
+This connects directly to the existing Concord work on contextual wrappers, safe spaces, bounded authority and civil-space classification.
+
+A custodial environment can impose legitimate contextual constraints without creating a separate pedagogical authority.
+
+### 26.3 Punishment Must Not Own Pedagogy
+
+Where Law and Judiciary permit a sanction, that sanction should not automatically create authority to control a participant's beliefs or define ideological conformity as successful rehabilitation.
+
+The Education domain should retain ordinary educational safeguards, evidence standards and pedagogical responsibilities.
+
+This provides a structural protection against coercive "re-education."
+
+> **Lawful Restriction of Liberty != Authority to Prescribe Belief**
+
+> **Rehabilitation != Ideological Conformity**
+
+Where learning forms part of rehabilitation, the relevant objective should be bounded and civilly legitimate: knowledge, capability, understanding, practical skills, behavioural skills, consequence understanding or other demonstrable needs connected to safe and autonomous participation.
+
+### 26.4 Reintegration Becomes Ordinary Education Plus Context
+
+Under this architecture, much of what is conventionally called rehabilitation can be decomposed into ordinary civil capabilities:
+
+- Education -> learning and capability development;
+- Health and Care -> treatment and health needs;
+- Social Support -> support and inclusion;
+- Economy -> work/economic participation;
+- Civil Attention -> ability to raise problems and needs;
+- Law/Judiciary -> legitimate legal status and conditions;
+- Civil Security -> only necessary custody/security;
+- Civil-space architecture -> contextual restrictions and permissions.
+
+This means the civilisation does not need a separate institution that attempts to "make a corrected person."
+
+It needs ordinary civil systems to remain available, appropriately wrapped for the participant's current lawful context.
+
+### 26.5 Architectural Consequence
+
+The earlier classification of **Corrections/Rehabilitation** as one intersection should now be refined.
+
+**Corrections/custody** and **rehabilitation** are not one function.
+
+- **Custody / lawful restriction** -> Law + Judiciary + Civil Security + contextual space architecture.
+- **Education within custody** -> Education.
+- **Health treatment within custody** -> Health and Care.
+- **Social support within custody** -> Social Support, if that domain is confirmed.
+- **Work/capability preparation** -> Education + Economy.
+- **Reintegration coordination** -> intersection of the relevant ordinary domains.
+
+The architecture therefore seeks continuity of ordinary civil participation rather than creation of a parallel correctional civilisation.
+
+> **Change the wrapper where legitimate necessity requires it; do not unnecessarily replace the participant's ordinary civil systems.**
