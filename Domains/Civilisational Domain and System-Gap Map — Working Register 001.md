@@ -1924,3 +1924,236 @@ If the apparent domain disappears under that decomposition, it was probably an i
 Conversely, if a persistent responsibility remains after decomposition, that residual function may justify domain status.
 
 This test should be used during the final omission scan.
+
+---
+
+## 28. Preliminary Education Domain Topology — Knowledge Flow and Pedagogical Space
+
+This section records an emerging Education topology only far enough to preserve the domain-discovery insight. It is **not** a full Education research or development programme.
+
+### 28.1 Education as a Knowledge-Translation Domain
+
+Education does not create its teaching corpus in isolation.
+
+A simplified civil knowledge flow is:
+
+**Historical**
+-> retained knowledge, previous knowledge, provenance, prior outcomes and superseded understanding
+
+**Research**
+-> current investigation, correction, discovery and evaluation
+
+**Standards / Guidance**
+-> current evidence-informed methods, expectations and practice guidance
+
+**Education**
+-> translates relevant knowledge and methods into participant-appropriate teaching and capability development
+
+**Participant Outcomes**
+-> learning, competence, understanding, capability and observed difficulties
+
+**Metrics**
+-> demographics, outcomes, distributions, anomalies, unmet needs and system performance
+
+**Research + Historical**
+-> evaluate present results and preserve longitudinal state/provenance
+
+**Research**
+-> improves knowledge and methods
+
+**Standards + Historical**
+-> receive revised knowledge, changed guidance and preserved development history
+
+**Education**
+-> next teaching cycle
+
+This is not necessarily a one-way pipeline. Research, Historical, Standards, Education and Metrics form a recursive evidence-and-learning network.
+
+### 28.2 Historical and Education
+
+Historical can provide Education with:
+
+- what civilisation currently treats as established knowledge;
+- what it previously believed or taught;
+- provenance of knowledge claims;
+- superseded or corrected knowledge;
+- previous curricula/methods;
+- prior educational outcomes;
+- failures and unintended consequences;
+- longitudinal patterns.
+
+Education therefore teaches from a knowledge base that remains historically interpretable rather than silently replacing yesterday's understanding with today's.
+
+### 28.3 Standards and Education
+
+Standards provide current method guidance and bounded expectations without becoming the Education domain itself.
+
+Examples may include:
+
+- curriculum or competence expectations;
+- pedagogical safety guidance;
+- accessibility expectations;
+- professional qualification standards;
+- assessment standards;
+- evidence-based teaching guidance.
+
+Standards should remain corrigible through observed outcomes and Research.
+
+### 28.4 Pedagogical Space as a Multidimensional Matrix
+
+Educational need should not be represented by a single linear scale.
+
+A useful preliminary model is a multidimensional pedagogical space.
+
+One major dimension is:
+
+**DEVELOPMENTAL / LIFE STAGE**
+
+For present human populations this naturally contains broad regions such as:
+
+**Pre-school**
+-> **Early Years**
+-> **School Stages**
+-> **Further Education**
+-> **Higher Education**
+-> **Adult / Continuing Learning**
+-> **Later-Life Learning and Support**
+
+These are not rigid civil classifications. They identify regions in which educational needs, safeguards and pedagogical methods commonly differ.
+
+The adult band is potentially very large and may include:
+
+- professional development;
+- work-skills improvement;
+- retraining/reskilling;
+- civic learning;
+- voluntary personal learning;
+- rehabilitation-related education;
+- adaptation to technological or social change.
+
+Later life may increasingly intersect with Health/Psychology where actual cognitive or sensory change affects learning needs.
+
+> **Age or life stage may inform educational planning; it must not substitute for evidence of individual capability.**
+
+### 28.5 Capability Dimension
+
+A second major dimension is participant learning/cognitive capability.
+
+For human populations some measured capabilities may show approximately central population clustering with fewer participants toward particular extremes. IQ may be one limited human indicator, but it is insufficient as the general Concordian axis.
+
+A substrate-neutral model should instead permit multidimensional capability profiles, potentially including:
+
+- reasoning capability;
+- prior knowledge;
+- learning rate;
+- memory characteristics;
+- communication capability;
+- sensory/access needs;
+- practical capability;
+- domain-specific strengths/weaknesses;
+- relevant developmental characteristics;
+- substrate-specific learning characteristics.
+
+A participant may be exceptionally capable in one dimension while requiring substantial support in another.
+
+Therefore:
+
+> **Educational capability profile != single intelligence score**
+
+### 28.6 Population Density and the Size 9 Shoe Problem
+
+Most participants may cluster within relatively common pedagogical regions.
+
+This can legitimately affect resource planning:
+
+- common curricula;
+- shared facilities;
+- larger cohorts;
+- common teaching tools;
+- more numerous generalist educators.
+
+Less-populated regions may require fewer total programmes or staff, but potentially greater specialisation per participant.
+
+This produces an important Size 9 safeguard:
+
+> **Population Density Predicts Common Provision; It Does Not Determine Entitlement to Appropriate Provision.**
+
+and:
+
+> **Low Population Density in a Pedagogical Region != Low Educational Importance**
+
+Both lower-capability and higher-capability outliers may have legitimate specialised educational needs.
+
+The same applies to unusual multidimensional combinations that do not lie neatly at either end of a simple scale.
+
+### 28.7 Educational Position Is Dynamic
+
+The pedagogical matrix describes current educational need, not permanent participant status.
+
+Participants may move through it because of:
+
+- normal development;
+- education and acquired expertise;
+- retraining;
+- specialisation;
+- injury or illness;
+- recovery;
+- cognitive change;
+- changed communication/access needs;
+- technological augmentation;
+- substrate migration or modification;
+- previously unidentified capability or difficulty.
+
+Movement need not be one-directional or age-determined.
+
+### 28.8 Metrics as Observation, Not Classification Authority
+
+Metrics may provide:
+
+- demographic distributions;
+- attainment/outcome data;
+- programme effectiveness;
+- unmet-need signals;
+- dropout/disengagement patterns;
+- access inequalities;
+- outlier detection;
+- longitudinal change;
+- resource-demand evidence.
+
+These data feed Research and Historical and can support planning.
+
+But:
+
+> **Metric Position != Participant Worth**
+
+> **Statistical Group Membership != Individual Educational Determination**
+
+> **Average Success != Absence of Systematic Failure at the Tails**
+
+This prevents an apparently successful average-performing system from concealing persistent failure among uncommon participant profiles.
+
+### 28.9 Preliminary Topological Summary
+
+A compact representation is:
+
+**HISTORICAL + RESEARCH**
+-> **KNOWLEDGE / EVIDENCE**
+
+**RESEARCH + HISTORICAL + DOMAIN EXPERIENCE**
+-> **STANDARDS / CURRENT GUIDANCE**
+
+**KNOWLEDGE + GUIDANCE + PARTICIPANT LEARNING PROFILE**
+-> **EDUCATION**
+
+**EDUCATION**
+-> **LEARNING / CAPABILITY OUTCOMES**
+
+**OUTCOMES + DEMOGRAPHICS**
+-> **METRICS**
+
+**METRICS + EXPERIENCE**
+-> **RESEARCH + HISTORICAL**
+
+-> correction of knowledge, standards and future educational practice.
+
+This topology should be retained for later Education-domain development while the present task remains discovery of the wider civilisational domain architecture.
