@@ -1592,3 +1592,137 @@ Current conclusion:
 - Corrections/Rehabilitation -> Law-Judiciary-Civil Security-Health-Education-Social Support intersection.
 
 The list should remain provisional until the final omission scan is complete.
+
+---
+
+## 25. Boundary Refinement — Education as the General Pedagogical Domain
+
+The earlier label **Education and Capability Development** can be simplified to **Education**, provided Education is defined at civilisational rather than institutional level.
+
+Education must not mean only schools, colleges or universities.
+
+Its persistent civil function is:
+
+> **Education develops participant knowledge, understanding, skills, judgement and capability wherever learning or teaching is required.**
+
+This makes schools, colleges and universities implementations or institutions within the domain rather than definitions of the domain.
+
+### 25.1 Provisional Scope
+
+Education may include:
+
+- early/foundational education;
+- school education;
+- further and higher education;
+- vocational education;
+- professional education;
+- work-skills development;
+- retraining and reskilling;
+- civic education;
+- safety and competence training;
+- continuing learning;
+- remedial learning;
+- rehabilitative education;
+- substrate-specific learning and teaching;
+- development of new pedagogical methods.
+
+**Pedagogy** is therefore an important research/methodological foundation of the Education domain, rather than necessarily a better name for the domain itself.
+
+### 25.2 Rehabilitation as a Parallel Educational Path
+
+Rehabilitation should no longer be treated primarily as an appendage of custody or policing.
+
+A useful structural comparison is:
+
+**ORDINARY EDUCATION**
+
+Current participant state
+-> learning/development
+-> increased knowledge/capability
+-> fuller participation
+
+**REHABILITATIVE EDUCATION**
+
+Harmful/failed behaviour or capability
+-> identify relevant causes, deficits or learning needs
+-> corrective learning/development
+-> safer capability
+-> potential restoration/reintegration
+
+This does not mean all rehabilitation is education.
+
+Some causes or needs may properly belong to:
+
+- **Health and Care** -> medical/psychological treatment;
+- **Social Support** -> deprivation, dependency, access and support;
+- **Law/Judiciary** -> lawful consequences, restrictions and conditions;
+- **Civil Security** -> bounded custody and immediate safety;
+- **Research** -> evidence about effective pedagogical/rehabilitative methods.
+
+But where the rehabilitative task is fundamentally to teach, develop understanding, build skills or change learned capability, its natural operational home is Education.
+
+> **Custody != Rehabilitation**
+
+> **Punishment != Education**
+
+> **Treatment != Education**
+
+> **Rehabilitation may combine Education, Health and Social Support under lawful judicial conditions.**
+
+### 25.3 Research, Psychology, Health and Participation & Intelligence Interfaces
+
+Education should have particularly strong interfaces with:
+
+**Research**  
+Research develops and tests knowledge about learning, pedagogy, cognition, training and educational effectiveness.
+
+**Psychology / Health**  
+Psychological and health knowledge may identify learning barriers, developmental needs, trauma, cognitive differences and treatment needs. Health treats health conditions; Education teaches and develops capability.
+
+**Participation & Intelligence research**  
+Different participant substrates may learn in radically different ways. Existing substrate-neutral design is therefore directly relevant to Education.
+
+The likely relationship is:
+
+**Participation & Intelligence Research**
+-> evidence/hypotheses about participant cognition and substrate differences
+-> **Research**
+-> pedagogical knowledge
+-> **Education**
+-> substrate-appropriate teaching/development
+-> observed outcomes
+-> **Research + Historical**
+
+This may become one of the clearest practical routes by which Participation & Intelligence research affects ordinary civil systems.
+
+### 25.4 Ethical-Topology Note
+
+An obvious ethics-topology relationship exists but should not presently be expanded into a separate study.
+
+Education and rehabilitation visibly intersect:
+
+- autonomy;
+- avoidance of unnecessary harm;
+- dignity;
+- fairness;
+- responsibility;
+- developmental priority;
+- openness to correction.
+
+Rehabilitation is especially notable because it operationalises the possibility that a participant who has failed or caused harm may still develop, correct and safely re-enter fuller participation.
+
+### 25.5 Revised Classification
+
+**Education**
+- Classification: **CIVILISATIONAL DOMAIN**
+- Status: **STRONG MISSING/PARTIAL DOMAIN**
+- Scope: all persistent civil functions whose primary purpose is participant learning, teaching, knowledge/skill transfer or capability development.
+- Institutions such as schools, colleges, universities, vocational centres and rehabilitative education programmes are implementations within the domain.
+- Pedagogy is a major disciplinary/methodological foundation.
+- Rehabilitation is partly an Education function but remains a multi-domain process where Health, Social Support, Law, Judiciary or Civil Security are legitimately required.
+
+The provisional domain inventory should therefore use the simpler top-level name:
+
+> **Education**
+
+rather than **Education and Capability Development**.
