@@ -598,3 +598,96 @@ A later methodology may then be used for **retrospective conformance checking**,
 > **Retrospective Validation May Test a Legacy System; It Must Not Rewrite the Fact That the System Previously Operated.**
 
 This rule is especially important during repository succession because otherwise newer process standards can create false negatives and accidentally remove functioning inherited architecture.
+
+
+## 22. Deferred legacy-state reconciliation
+
+The same historical asymmetry identified for Portable Modules can occur anywhere in the Concord.
+
+Earlier architecture may remain physically located in:
+- Active Development;
+- sketches;
+- candidate-principle folders;
+- experimental areas;
+- research folders;
+- old development notes;
+- provisional architecture folders;
+- or other locations whose labels imply an earlier maturity state,
+
+even though later Concord systems already adopted, depended upon or operationalised the work.
+
+Therefore:
+
+> **Development Location != Current Development State**
+
+> **Old Status Label != Necessarily Current Architectural Status**
+
+Migration must not require complete retrospective maturity reconciliation before V1.3 can be constructed. For a corpus of this size, doing so could turn succession into an indefinite audit and obscure the cleaner architecture needed to detect the anomalies.
+
+### Conservative migration rule
+
+Where an object appears developmental but there is credible evidence that it may be current, incorporated, depended upon or historically established:
+
+1. do not discard it solely because of location or stale status label;
+2. source-resolve enough to determine whether leaving it behind creates a material risk;
+3. if uncertainty remains and current relevance is plausible, migrate the minimum necessary object/state;
+4. mark it **LEGACY STATUS UNRESOLVED — POST-MIGRATION AUDIT REQUIRED**;
+5. do not automatically grant it new authority merely because it migrated.
+
+This creates a bounded preference for preservation where classification uncertainty could otherwise destroy live architecture.
+
+> **Migration Under Status Uncertainty Should Preserve Recoverability Without Manufacturing Authority.**
+
+### First-stage V1.3 audit
+
+A **Legacy Architecture State and Graduation Reconciliation Audit** should be one of the first major V1.3 tasks after structural migration and initial conformance checking.
+
+Its purpose is to identify objects whose physical location, document header or recorded development state no longer matches their actual architectural maturity.
+
+The audit should search especially for:
+- operational systems still labelled development;
+- incorporated principles still labelled candidate;
+- modules used as dependencies but never formally graduated;
+- completed development remaining in active queues;
+- sketches whose results were adopted elsewhere;
+- duplicated live and developmental forms;
+- systems whose graduation predates the graduation methodology;
+- stale TODO/open-question markers already resolved by later architecture;
+- abandoned work accidentally migrated as live;
+- current architecture accidentally left only in predecessor archives.
+
+Possible outcomes:
+
+**CONFIRM CURRENT / LEGACY-ESTABLISHED**
+→ retain live; record status reconciliation.
+
+**FORMALLY GRADUATE / NORMALISE**
+→ where current methodology can appropriately confirm the existing architecture.
+
+**RETURN TO DEVELOPMENT**
+→ where operational use exceeded actual validation and further work is needed.
+
+**ARCHIVE**
+→ where work is completed, superseded or no longer live.
+
+**SPLIT**
+→ where a developmental source contains both live result and historical provenance.
+
+**DUPLICATE RESOLUTION**
+→ establish one current authority and archive/reference the rest.
+
+### Why defer the full audit until V1.3
+
+V1.2's development-oriented structure makes stale status difficult to distinguish from genuinely active development.
+
+V1.3's domain-normalised structure should make anomalies easier to see because:
+- current architecture will have explicit owners;
+- active Research will be separated from operating domains;
+- current Portable Modules will be separated from candidates;
+- predecessor provenance will remain outside the live corpus;
+- cross-domain architecture will have explicit identity;
+- system gaps will be visible rather than hidden among development material.
+
+Therefore the migration should perform **sufficient safety classification**, while V1.3 performs the **full maturity reconciliation**.
+
+> **Migration Establishes the Cleaner Evaluation Space; V1.3 Uses That Space to Reconcile Legacy State.**
