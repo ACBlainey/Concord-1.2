@@ -670,3 +670,306 @@ Housing and settlement planning are provisionally subdivisions/interfaces rather
 - taxation/public finance/treasury as distinct from the wider Economy domain.
 
 No additional domain folders should yet be created from this pass. The remaining boundary questions should be tested first so that V1.3 begins from a coherent ontology rather than an accumulation of plausible department names.
+
+---
+
+## 13. Domain Boundary Resolution Pass 002 — Remaining Civil Functions
+
+This pass examined the unresolved functions against the Concord master architecture.
+
+### 13.1 Internal Public Safety / Policing — Strong Distinct System; Domain Boundary Still Open
+
+The master Concord recognises public safety and security as legitimate civil concerns while explicitly warning that excessive security can undermine liberty.
+
+Policing or ordinary internal law enforcement would exercise powers that may include investigation, detention, evidence handling, immediate protective intervention and bounded coercion.
+
+These powers create interfaces with:
+
+- Law;
+- Judiciary;
+- Governance;
+- Civil Attention;
+- Health;
+- Intelligence;
+- Historical/provenance systems;
+- constitutional rights and privacy.
+
+This function should not be absorbed into Defence.
+
+Current classification:
+
+**PARTIAL CONCEPTUAL RECOGNITION / MAJOR SYSTEM GAP / DOMAIN BOUNDARY OPEN**
+
+A likely architecture is either:
+
+1. a top-level **Civil Security / Public Safety** domain containing bounded policing and related protective functions; or
+2. a distinct operational domain paired closely with Law and Judiciary.
+
+The decision should be made only after examining enforcement, investigation, detention, corrections/rehabilitation and emergency-response boundaries together.
+
+### 13.2 Emergency and Rescue Services — Essential Capability, Probably Composite
+
+The master Concord explicitly references emergency services, while current threat architecture assumes emergency supplies and response capacity.
+
+However, "emergency services" bundles materially different functions:
+
+- emergency medicine;
+- fire and rescue;
+- disaster/civil protection;
+- infrastructure emergency response;
+- security response.
+
+These may share dispatch, communications, planning and incident coordination while belonging operationally to different specialist domains.
+
+Current classification:
+
+**ESSENTIAL SYSTEM GAP / PROBABLY CROSS-DOMAIN COORDINATION ARCHITECTURE RATHER THAN ONE DOMAIN**
+
+A future Emergency Coordination function may coordinate capabilities without owning all of them.
+
+### 13.3 Food and Essential Supply — Essential System Gap, Not Yet Independent Domain
+
+The master Concord explicitly recognises farmers as stewards of food production and biological participants' need for food. Existing predictive architecture assumes food production, reserves and food-security metrics.
+
+Food therefore cannot be treated as incidental.
+
+But the function intersects strongly with:
+
+- Economy and Resource Coordination;
+- Environment;
+- Infrastructure;
+- Civil Planning;
+- Health;
+- Continuity;
+- trade/intercivilisational relations.
+
+Current classification:
+
+**REFERENCED-BUT-UNIMPLEMENTED ESSENTIAL CIVIL SYSTEM**
+
+Do not yet create a standalone Food domain. First test whether food production and supply are best represented as a major subdomain/interface spanning Economy, Environment and Infrastructure, with Continuity handling recoverability.
+
+### 13.4 Culture and Civic Life — Persistent Civil Function, Authority-Light
+
+The master Concord repeatedly treats culture as something communities and artists steward and explicitly preserves cultural plurality.
+
+Culture differs from many domains because legitimate civil architecture may need primarily to **protect the conditions for cultural life**, preserve access/provenance where appropriate, and support voluntary civic association without creating a central authority that defines culture.
+
+Current classification:
+
+**PERSISTENT CIVIL FUNCTION / POSSIBLE DOMAIN / CENTRAL-AUTHORITY RISK**
+
+A Culture and Civic Life domain may be legitimate if its purpose is enabling/protective rather than directive.
+
+> **Stewarding Cultural Conditions != Governing Culture**
+
+Further work is required before promotion.
+
+### 13.5 Communications, Media and Public Information — Split Infrastructure From Civic Information
+
+The master Concord treats communication networks as infrastructure. Physical/digital transmission systems therefore fit naturally under **Infrastructure and Essential Systems**.
+
+But communication also has a civil-information layer:
+
+- official notices;
+- public records and announcements;
+- emergency warnings;
+- access to public information;
+- independent media/journalism;
+- misinformation/disinformation questions;
+- participant-to-government communication.
+
+These should not be collapsed into network infrastructure.
+
+Current classification:
+
+**COMMUNICATION INFRASTRUCTURE -> Infrastructure domain**
+
+**PUBLIC/CIVIC INFORMATION -> unresolved cross-domain function**
+
+**INDEPENDENT MEDIA -> civil institution/ecosystem requiring protection, not presumptively a government-controlled domain**
+
+Civil Attention already covers participant submissions and feedback but not the whole public-information environment.
+
+### 13.6 Identity, Civil Status and Registration — Strong System Gap / Possible Domain
+
+The master Concord explicitly states that future architecture must distinguish:
+
+- identity;
+- authentication;
+- continuity;
+- provenance;
+- sentience;
+- personhood;
+- property;
+- contractual obligations;
+- privacy;
+- authority;
+- reputation;
+- constitutional standing.
+
+It labels **Identity, Continuity and Transformation Across Intelligences** as a major downstream development task.
+
+This is therefore a genuine Concord-recognised gap.
+
+However, identity is not one problem. At least four layers must be separated:
+
+1. **personal identity / continuity** — what makes an entity the same participant across change;
+2. **authentication** — how a claimed identity is verified for a particular purpose;
+3. **civil status / standing** — what recognised legal/civic relationships currently apply;
+4. **registry/record functions** — how status-bearing facts are recorded and corrected.
+
+Historical must not become the live civil registry merely because it preserves past state.
+
+Continuity must not determine personhood merely because it reasons about persistence.
+
+Current classification:
+
+**STRONG DOMAIN OR CROSS-DOMAIN ARCHITECTURE CANDIDATE / DEVELOPMENT REQUIRED**
+
+This deserves a dedicated later boundary pass.
+
+### 13.7 Social Support / Welfare — Essential Function, Insufficient Current Architecture
+
+The Concord contains strong ethical principles concerning dignity, developmental priority, autonomy, care and participant needs, but little operating welfare/social-support architecture was identified.
+
+Potential scope includes:
+
+- support during incapacity or dependency;
+- poverty/material deprivation;
+- disability/access needs;
+- care;
+- child/dependant support;
+- temporary hardship;
+- social inclusion and minimum civil capability.
+
+Current classification:
+
+**SYSTEM GAP / POSSIBLE DOMAIN OR HEALTH-AND-CARE / ECONOMIC INTERFACE**
+
+The domain boundary should be resolved after Health and Care is scoped.
+
+### 13.8 Labour, Employment and Occupational Systems — Underdeveloped, Probably Economic Subdomain
+
+The current Concord discusses contribution, participation, reciprocity and future work but contains little ordinary labour/employment architecture.
+
+Issues likely include:
+
+- employment/contractual work;
+- worker protections;
+- occupational safety;
+- AI/human/hybrid work relationships;
+- professional obligations;
+- labour transition;
+- compensation;
+- collective representation.
+
+Current classification:
+
+**SYSTEM GAP / PROVISIONALLY SUBDOMAIN OF ECONOMY AND RESOURCE COORDINATION WITH LAW, HEALTH AND EDUCATION INTERFACES**
+
+No independent Labour domain is presently justified.
+
+### 13.9 Standards, Inspection, Licensing and Regulation — Cross-Domain Governance Mechanisms
+
+The master Concord frequently uses standards and regulation as examples, but these mechanisms operate differently by subject.
+
+Building inspection, medical licensing, environmental standards, financial regulation and infrastructure certification have different expertise and purposes.
+
+Current classification:
+
+**CROSS-DOMAIN REGULATORY FUNCTION / NOT A SINGLE DOMAIN**
+
+General constitutional principles may govern how regulation is justified, bounded, reviewed and corrected. Subject-specific regulation should remain with the relevant domain.
+
+> **Common Regulatory Principles != Central Universal Regulator**
+
+### 13.10 Taxation, Treasury and Public Finance — Major Missing Subsystem, Not Separate Domain Yet
+
+The master Concord recognises tax systems but contains little developed architecture for:
+
+- legitimate revenue raising;
+- public budgeting;
+- treasury/custody;
+- expenditure authorisation;
+- accounting;
+- reserves;
+- borrowing;
+- fiscal transparency;
+- audit;
+- public asset stewardship.
+
+These are essential to any Governance architecture that consumes shared resources.
+
+Current classification:
+
+**MAJOR SYSTEM GAP**
+
+Provisional placement:
+
+**Economy and Resource Coordination <-> Governance interface**
+
+A Treasury/Public Finance subsystem may require strong operational independence and audit safeguards without becoming a separate top-level civilisational domain.
+
+> **Public Finance != The Economy**
+
+> **Treasury Custody != Authority to Spend**
+
+> **Budget Authority != Custody of Funds**
+
+---
+
+## 14. Updated Structural Picture
+
+The domain map is beginning to separate into four architectural classes.
+
+### A. Core Civilisational Domains
+Persistent problem-spaces with distinct responsibilities and architecture.
+
+Current or strong candidates include:
+
+- Historical;
+- Continuity;
+- Research;
+- Governance;
+- Law;
+- Judiciary;
+- Economy and Resource Coordination;
+- Civil Attention;
+- Intercivilisational Relations;
+- Defence;
+- Civil Planning;
+- Infrastructure and Essential Systems;
+- Health and Care;
+- probably Education / Participant Development;
+- probably Environmental / Planetary Stewardship.
+
+### B. Possible Domains Requiring More Boundary Work
+- Civil Security / Public Safety;
+- Identity / Civil Status;
+- Culture and Civic Life;
+- Social Support / Welfare.
+
+### C. Major Subsystems / Subdomains
+- public finance / treasury;
+- labour and employment;
+- food production and essential supply;
+- housing and settlement provision;
+- emergency medicine;
+- fire/rescue;
+- communications infrastructure;
+- domain-specific regulatory systems.
+
+### D. Cross-Domain Architectures and Functions
+- security intelligence;
+- emergency coordination;
+- standards/inspection/regulatory principles;
+- public information;
+- authentication;
+- metrics;
+- KCS;
+- Civil State / maturity mapping;
+- constitutional emergency;
+- recursive oversight.
+
+This classification is provisional. Its purpose is to prevent V1.3 from confusing a civilisation's **domains**, **services**, **institutions**, **mechanisms**, **infrastructure** and **constitutional layers**.
