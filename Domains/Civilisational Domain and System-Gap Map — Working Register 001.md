@@ -2652,3 +2652,391 @@ And:
 > **A participant should normally pass through domain services rather than be transferred wholesale into a domain-owned system.**
 
 This pattern should now be used as a primary test during the remaining domain-boundary and omission work.
+
+---
+
+## 35. Lifecycle Omission Scan 002 — Participant Trajectory Coverage
+
+This pass tests the provisional 18-domain set against a participant lifecycle rather than against repository categories.
+
+The test question is:
+
+> **At each major participant transition, does every persistent civil function have a legitimate architectural home without forcing an existing domain to absorb unrelated responsibilities?**
+
+The lifecycle used is:
+
+**creation/birth -> dependency/development -> education -> adult participation -> relationships/community -> work/exchange -> illness/disability -> dependency/care -> conflict/crime -> emergency/displacement -> ageing -> death/destruction -> succession/continuity**
+
+### 35.1 Creation, Birth and Initial Civil Recognition
+
+Necessary functions include:
+
+- recognition of a new participant;
+- civil identity/registry entry;
+- parent/creator/guardian relationships where relevant;
+- initial legal standing;
+- citizenship/membership where applicable;
+- dependency and safeguarding;
+- health needs;
+- provenance of origin/creation;
+- later correction of status.
+
+Routing:
+
+- constitutional/personhood architecture -> standing and participant recognition;
+- Law -> legal status, guardianship/parental duties, rights and obligations;
+- Social Support -> dependency/safeguarding where ordinary support is insufficient;
+- Health -> birth/creation-related health where applicable;
+- Education -> later developmental learning;
+- Historical -> provenance and consequential record;
+- identity/registry architecture -> live civil recognition/authentication;
+- Governance -> legitimate administration of membership/citizenship rules.
+
+**Finding:** no new domain is required. However, **civil registration and lifecycle-status administration remain underdeveloped operational capabilities**.
+
+### 35.2 Dependency, Childhood and Development
+
+Necessary functions route to:
+
+- Culture & Civic Life -> family/community/social environment;
+- Social Support -> unmet dependency, safeguarding and support needs;
+- Education -> learning/capability development;
+- Health -> health/developmental treatment and assessment;
+- Law -> rights, duties, guardianship and protection;
+- Judiciary -> contested intervention/status;
+- Civil Security -> protection from abuse/criminal harm;
+- Research -> developmental evidence and substrate differences.
+
+**Finding:** coverage is structurally adequate. No Child/Family domain is required at present.
+
+Family is primarily a civil/social relationship and institution spanning Culture & Civic Life, Law, Social Support, Health and Education rather than a civil authority domain.
+
+### 35.3 Adult Participation and Civil Agency
+
+Necessary functions include:
+
+- identity/authentication;
+- civil standing;
+- participation;
+- access to governance;
+- reporting problems/petitions;
+- economic participation;
+- association/community;
+- access to ordinary services.
+
+Routing is clean across Civil Attention, Governance, Economy, Culture & Civic Life, Law, identity/authentication intersections and ordinary specialist domains.
+
+**Finding:** no residual domain.
+
+### 35.4 Relationships, Family and Community Formation
+
+Functions include:
+
+- voluntary association and relationship formation;
+- cultural/religious/community participation;
+- legal recognition of relevant relationships;
+- property/contract/succession consequences;
+- dependency/care;
+- protection from abuse/coercion.
+
+Routing:
+
+- Culture & Civic Life -> voluntary social fabric;
+- Law -> formal legal effects;
+- Social Support -> unmet support/dependency;
+- Civil Security -> protection from harmful/criminal conduct;
+- Judiciary -> contested legal matters.
+
+**Finding:** this strengthens Culture & Civic Life as a genuine domain while not creating a separate Family domain.
+
+### 35.5 Work, Exchange and Productive Participation
+
+Functions route primarily to:
+
+- Economy -> work, exchange, production, resource coordination;
+- Law -> contracts, rights/obligations and legal protections;
+- Education -> training/retraining/professional development;
+- Health -> occupational health;
+- Standards intersection -> competence/safety requirements;
+- Social Support -> disruption/unmet needs;
+- Culture & Civic Life -> voluntary professional/community associations where relevant.
+
+**Finding:** Labour/Employment remains a major Economy subdomain/interface, not a separate top-level domain.
+
+### 35.6 Illness, Disability and Changed Capability
+
+The Health boundary test remains valid.
+
+Health owns health-specific functions. Disability/access consequences may require:
+
+- Social Support;
+- Infrastructure/accessibility;
+- Civil Planning;
+- Education;
+- Economy;
+- Law;
+- supported decision-making;
+- Culture & Civic Life.
+
+**Finding:** Disability is not a participant category requiring its own domain. It is a condition/profile that may alter interfaces with multiple ordinary domains.
+
+### 35.7 Dependency and Long-Term Care
+
+This is the strongest lifecycle confirmation of Social Support.
+
+Persistent non-medical care/support needs remain after Health, Education, Economy and family/community capacity are separated out.
+
+Therefore Social Support retains a genuine residual civil function:
+
+> **Ensure that legitimate support needs are not abandoned where ordinary autonomous participation and voluntary social capacity are insufficient.**
+
+Long-term interdependence is not automatically a failure state.
+
+**Finding:** Social Support is strengthened from probable toward strong domain status.
+
+### 35.8 Conflict, Harmful Conduct and Crime
+
+The previous criminality decomposition holds:
+
+- Law defines;
+- Civil Security protects/investigates/enforces within authority;
+- Judiciary adjudicates;
+- contextual custody wrappers apply legitimate restrictions;
+- ordinary domains continue to serve the participant.
+
+**Finding:** no Criminal Justice or Corrections top-level domain is required.
+
+### 35.9 Emergency, Displacement and Temporary System Loss
+
+A participant may temporarily lose:
+
+- housing;
+- communication;
+- transport;
+- income;
+- health access;
+- identity documents;
+- community support;
+- normal local infrastructure.
+
+Routing requires multiple ordinary domains plus **Emergency Coordination** as an intersection.
+
+This closely resembles homelessness trajectory architecture: displacement is a participant state crossing domains, not a new domain.
+
+**Finding:** no Emergency domain is required, but emergency-response capabilities remain major implementation gaps.
+
+### 35.10 Ageing
+
+Ageing may affect:
+
+- Health;
+- Social Support;
+- Education/continuing learning;
+- Economy/retirement/resource access;
+- Culture & Civic Life;
+- housing/planning/infrastructure;
+- legal capacity and supported decision-making.
+
+Chronological age alone does not define civil capability.
+
+> **Age Category != Civil Capacity**
+
+**Finding:** no Ageing/Elder domain is required. Ageing is a changing participant condition traversing ordinary domains.
+
+### 35.11 Death, Destruction and Civil Closure
+
+This is a boundary-sensitive area.
+
+Necessary functions include:
+
+- reliable recognition of death/destruction;
+- termination or transformation of active civil status;
+- protection against false declaration;
+- treatment of property/assets/obligations;
+- succession/inheritance;
+- dependant consequences;
+- identity/provenance preservation;
+- culturally legitimate death/funeral/memorial practices;
+- public-health handling where relevant;
+- restoration/correction if declaration was erroneous or substrate state proves recoverable.
+
+Routing:
+
+- Law -> legal effects, estate, obligations, succession;
+- Judiciary -> disputes;
+- identity/registry architecture -> civil status transition;
+- Historical -> provenance and preserved record;
+- Continuity -> recoverability/persistence questions;
+- Culture & Civic Life -> funeral, memorial, religious/cultural practice;
+- Health -> biological/clinical determination where applicable;
+- Social Support -> dependants/bereavement support where needed.
+
+**Finding:** no separate Death domain emerges. However, **civil lifecycle-state transition architecture** is a substantial missing operational capability closely related to Identity.
+
+### 35.12 Succession, Restoration, Branching and Continuity
+
+For humans, organisations, AI, hybrids and future substrates, succession can involve:
+
+- inheritance;
+- liabilities;
+- authority;
+- identity;
+- provenance;
+- restoration;
+- copies/branches;
+- mergers;
+- continuation of functions.
+
+Existing Concord work already distinguishes self-identity, civil identity, provenance, continuity and succession.
+
+Routing:
+
+- Law -> rights/liabilities/property/succession;
+- Continuity -> capability/function persistence and restoration;
+- Historical -> provenance;
+- identity architecture -> current civil identity;
+- Judiciary -> disputes;
+- constitutional/personhood architecture -> standing.
+
+**Finding:** no new domain. The unresolved need is operationalisation across these interfaces.
+
+### 35.13 Lifecycle Scan Result
+
+The complete participant lifecycle produced **no clear nineteenth domain**.
+
+The strongest result is instead increased confidence in:
+
+- Social Support as a genuine persistent domain;
+- Culture & Civic Life as the home of voluntary social/community formation;
+- Identity/registry/lifecycle-state management as cross-domain civil architecture;
+- Law as essential for lifecycle status, relationships, property and succession;
+- contextual wrappers rather than parallel institutions for custody, emergency displacement and other exceptional conditions.
+
+This is evidence of increasing domain saturation.
+
+It is not yet proof of completeness.
+
+---
+
+## 36. Failure-Condition Omission Scan 003 — Civilisation Stress Coverage
+
+The second test asks whether the domain topology can route the major functions required when the civilisation itself is stressed.
+
+### 36.1 Economic Disruption
+
+Requires Economy, Social Support, Governance, Law, Research/Metrics/Historical, Infrastructure and Civil Attention.
+
+No residual domain emerges.
+
+### 36.2 Infrastructure Failure
+
+Requires Infrastructure as operational owner, with Continuity for recovery capability, Economy for resources, Governance for legitimate coordination, Research for diagnosis, Emergency Coordination across affected domains, and Social Support/Health where participants are affected.
+
+No residual domain emerges.
+
+### 36.3 Epidemic or Major Health Crisis
+
+Requires Health, Research, Infrastructure, Economy, Governance, Law, Civil Attention/Public Information, Emergency Coordination and Judiciary where coercive measures are contested.
+
+No residual domain emerges.
+
+### 36.4 Environmental Disaster
+
+Requires Environment & Habitat Stewardship, Infrastructure, Civil Planning, Health, Economy, Social Support, Civil Security, Governance and Emergency Coordination.
+
+No residual domain emerges.
+
+### 36.5 Civil Disorder / Major Internal Violence
+
+Requires Civil Security, Law, Judiciary, Governance, Health, Infrastructure, Social Support and Emergency Coordination.
+
+Security Intelligence may provide bounded information but does not inherit operational authority.
+
+No residual domain emerges.
+
+### 36.6 External Attack
+
+Requires Defence, Governance, Intercivilisational Relations, Infrastructure, Health, Economy, Continuity, Civil Security and Emergency Coordination.
+
+No residual domain emerges.
+
+### 36.7 Institutional Failure or Capture
+
+Requires constitutional constraints, Governance, Judiciary, Law, Audit/Oversight, Historical provenance, Civil Attention, Research/Metrics and Continuity.
+
+No new operational domain emerges. This reinforces the importance of cross-domain oversight rather than an independent universal supervisory authority.
+
+### 36.8 Communications / Energy / Resource Failure
+
+Routes through Infrastructure, Economy, Continuity, Research, Governance and affected specialist domains.
+
+No residual domain emerges.
+
+### 36.9 Catastrophic Continuity Event
+
+Requires Continuity, Historical, Governance, Infrastructure, Economy, Research and relevant operational domains.
+
+Continuity preserves/reconstructs capability; it does not inherit the civil authority of the systems it helps restore.
+
+No residual domain emerges.
+
+### 36.10 Failure Scan Result
+
+The major failure-condition scan produced **no clear nineteenth domain**.
+
+Instead, it repeatedly required:
+
+**specialist operational domains + cross-domain coordination + bounded authority + continuity/recovery + evidence/learning.**
+
+This independently supports the emerging topology.
+
+---
+
+## 37. Provisional Saturation Finding
+
+Three different discovery directions now converge:
+
+1. **Inside-out source analysis** of existing Concord architecture;
+2. **Outside-in ordinary civilisation-function omission scanning**;
+3. **Participant lifecycle and civilisation failure-condition stress testing**.
+
+The later scans increasingly produce:
+
+> **existing domain + intersection + contextual wrapper + capability/service**
+
+rather than a new persistent residual function.
+
+This is the expected signature of approaching domain saturation.
+
+### Provisional domain set after lifecycle/failure testing
+
+1. Historical
+2. Continuity
+3. Research
+4. Governance
+5. Judiciary
+6. Economy and Resource Coordination
+7. Civil Attention
+8. Intercivilisational Relations
+9. Law
+10. Defence
+11. Civil Planning
+12. Infrastructure and Essential Systems
+13. Health
+14. Education
+15. Environment and Habitat Stewardship
+16. Civil Security / Public Safety
+17. Social Support
+18. Culture and Civic Life
+
+**Current finding: PROVISIONALLY SATURATED AT 18 DOMAINS.**
+
+This is not yet a canonical freeze. A final boundary audit should test the set for:
+
+- accidental overlap;
+- hidden duplicated authority;
+- domains that collapse under decomposition;
+- intersections incorrectly promoted to domains;
+- essential functions still without an owner.
+
+If that audit survives, the 18-domain set should be suitable for provisional freeze and V1.2 -> V1.3 migration mapping.
