@@ -1365,3 +1365,230 @@ The remaining work should focus on:
 10. then producing the V1.2 -> V1.3 migration/domain map.
 
 At that point new domain folders can be created from a much more stable civilisational architecture.
+
+---
+
+## 23. Boundary Resolution Pass 003 — Convergence of Ambiguous Candidates
+
+### 23.1 Identity / Civil Status — INTERSECTION ARCHITECTURE, NOT ONE MONOLITHIC DOMAIN
+
+Direct source resolution materially changes the earlier provisional classification.
+
+The existing identity work already separates:
+
+**SELF-IDENTITY != CIVIL IDENTITY != IDENTITY VERIFICATION != PROVENANCE != SUCCESSION**
+
+and explicitly assigns different legitimate concerns to different civil functions.
+
+The emerging decomposition is:
+
+- **self-identity** -> participant autonomy / constitutional protection;
+- **current civil identity** -> administrative recognition and unique civil reference;
+- **authentication** -> cross-domain verification interface;
+- **provenance** -> Historical;
+- **continuity/persistence** -> Continuity;
+- **civil standing/personhood recognition** -> constitutional/legal architecture;
+- **succession, rights, property, liabilities and obligations** -> Law;
+- **identity disputes** -> Judiciary;
+- **security anomalies/fraud investigation** -> Civil Security;
+- **official routing/reachability** -> Infrastructure + civil administration;
+- **live registry** -> bounded administrative service.
+
+Therefore a single Identity domain would collapse legitimately separate authority.
+
+Current conclusion:
+
+> **Identity is best treated as a major cross-domain civil architecture with bounded registry/identity services, not as one top-level domain.**
+
+The live civil-registry function remains a missing operational capability.
+
+Obvious ethical relations: autonomy, truth, privacy/safe spaces, dignity, responsibility and fairness.
+
+### 23.2 Civil Security / Public Safety — PROBABLE TOP-LEVEL DOMAIN
+
+The boundary test now favours a distinct domain.
+
+Its persistent objective is internal protection of participants and lawful civil order against crime, violence, coercion and comparable internal threats.
+
+It possesses unusually distinctive:
+
+- coercive authority;
+- investigative capability;
+- evidence-generation duties;
+- custody/detention powers;
+- immediate protective responsibilities;
+- privacy implications;
+- accountability requirements.
+
+It cannot safely be reduced to Governance, Defence, Law or Judiciary.
+
+Provisional domain scope may include:
+
+- policing/public safety;
+- criminal investigation;
+- bounded internal protective operations;
+- custody/detention operations;
+- security-intelligence interface;
+- enforcement of lawful judicial orders.
+
+It must not own the law it enforces or adjudicate guilt.
+
+> **Law defines applicable legal rules.**
+
+> **Civil Security investigates and performs bounded lawful protective/enforcement functions.**
+
+> **Judiciary adjudicates contested legal responsibility and lawful remedies/sanctions.**
+
+This separation is itself an anti-capture safeguard.
+
+### 23.3 Corrections and Rehabilitation — Law/Judiciary/Civil-Security Intersection
+
+Corrections should not automatically become synonymous with policing.
+
+A lawful sanction or protective restriction begins in Law and judicial process; custody may require Civil Security capability; rehabilitation may require Health, Education, Social Support and participant-development systems.
+
+Therefore:
+
+> **Corrections is provisionally an intersection system rather than a standalone domain.**
+
+This also matches the earlier ethics-topology observation: punishment, protection, dignity, harm reduction, responsibility, fairness and correction converge here.
+
+### 23.4 Education / Participant Development — PROBABLE TOP-LEVEL DOMAIN CONFIRMED
+
+Education has a persistent civil objective distinct from Research.
+
+**Research -> develops and corrects civilisation's knowledge.**
+
+**Education -> develops participants' knowledge, skills, understanding and capability.**
+
+The domain should probably be named broadly enough to include:
+
+- foundational education;
+- vocational/technical learning;
+- professional development;
+- civic understanding;
+- capability development;
+- substrate-appropriate learning;
+- developmental support where education is the relevant function.
+
+It should not absorb all guardianship, welfare or participant-development ethics.
+
+Current conclusion:
+
+> **Education and Capability Development is a strong provisional domain name.**
+
+### 23.5 Environmental Stewardship — PROBABLE TOP-LEVEL DOMAIN CONFIRMED
+
+The persistent problem-space is stewardship of shared environmental/ecological conditions across habitats and generations.
+
+Because Concord is explicitly capable of multi-world operation, **Planetary Stewardship** is too narrow as the generic domain name.
+
+Provisional name:
+
+> **Environment and Habitat Stewardship**
+
+This can include planetary environments without assuming one planet.
+
+Likely scope:
+
+- ecological/environmental state;
+- habitat condition;
+- pollution/externalities;
+- biodiversity/ecosystem concerns where applicable;
+- environmental limits;
+- long-horizon environmental stewardship;
+- domain-specific environmental standards.
+
+Resource allocation remains Economy; utility operation remains Infrastructure; spatial development remains Civil Planning.
+
+### 23.6 Social Support / Welfare — PROVISIONALLY A DISTINCT DOMAIN CANDIDATE
+
+Further boundary reasoning suggests that social support has a persistent objective not exhausted by Health or Economy:
+
+> maintain meaningful civil participation and basic capability where participants face dependency, incapacity, deprivation or circumstances they cannot reasonably resolve through ordinary exchange alone.
+
+Health treats health.
+
+Economy coordinates resources/exchange.
+
+Education develops capability.
+
+Social Support addresses support relationships and civil participation where ordinary capability/access is impaired.
+
+This is sufficient to retain it as a probable domain candidate, but its scope needs source development before final naming.
+
+Provisional name:
+
+> **Social Support and Inclusion**
+
+### 23.7 Housing — NOT CURRENTLY A TOP-LEVEL DOMAIN
+
+Housing is essential but appears to be a convergence of:
+
+- Civil Planning -> settlement/location/development;
+- Infrastructure -> enabling services;
+- Economy -> allocation/exchange/resources;
+- Law -> tenure/property/contract;
+- Social Support -> access/support where need requires intervention;
+- Environment -> habitat/resource constraints.
+
+Current conclusion:
+
+> **Housing is an essential cross-domain capability, not presently a separate civilisational domain.**
+
+### 23.8 Food — NOT CURRENTLY A TOP-LEVEL DOMAIN
+
+Food likewise converges across:
+
+- production/resource coordination -> Economy;
+- land/ecological constraints -> Environment;
+- logistics/storage -> Infrastructure;
+- spatial siting -> Civil Planning;
+- nutrition/safety -> Health;
+- resilience/recovery -> Continuity;
+- standards -> Research + Historical + relevant operating domains.
+
+Current conclusion:
+
+> **Food is an essential cross-domain production-and-supply system, not presently a separate top-level domain.**
+
+---
+
+## 24. Revised Provisional Domain Inventory After Convergence Pass
+
+### Existing
+1. Historical
+2. Continuity
+3. Research
+4. Governance
+5. Judiciary
+6. Economy and Resource Coordination
+7. Civil Attention
+8. Intercivilisational Relations
+
+### Strong Missing / Partial
+9. Law
+10. Defence
+11. Civil Planning
+12. Infrastructure and Essential Systems
+13. Health and Care
+14. Education and Capability Development
+15. Environment and Habitat Stewardship
+16. Civil Security / Public Safety
+
+### Probable, Still Requiring Scope Development
+17. Social Support and Inclusion
+18. Culture and Civic Life
+
+### Removed From Top-Level Domain Candidacy
+- Identity -> major intersection architecture;
+- Standards/regulation -> intersection;
+- Intelligence -> intersection/cross-domain bounded capability;
+- Emergency coordination -> intersection;
+- Housing -> essential cross-domain capability;
+- Food -> essential cross-domain capability;
+- Labour -> Economy subdomain/interface;
+- Treasury/Public Finance -> Economy-Governance subsystem;
+- Corrections/Rehabilitation -> Law-Judiciary-Civil Security-Health-Education-Social Support intersection.
+
+The list should remain provisional until the final omission scan is complete.
