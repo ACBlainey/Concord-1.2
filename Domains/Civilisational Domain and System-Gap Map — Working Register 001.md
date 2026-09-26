@@ -280,3 +280,166 @@ For each candidate function determine:
 **Persistent civil function? -> Existing architecture? -> Domain or subdivision? -> Interfaces? -> Missing capability? -> V1.3 destination?**
 
 Do not create a final domain folder merely because a conventional government normally has a department with that name. Domain boundaries must follow the civil function and Concord architecture rather than inherited administrative convention.
+
+---
+
+## 8. Gap-Scan Refinement 001 — Hidden Operational Requirements
+
+Further examination of current Governance and Stewardship development identified an important partial architecture: the **Civilisational Vector Threat Detection and Inquiry Architecture** already names operational variables including food, water, oxygen, energy, compute, bandwidth, cooling, memory, housing, transport, healthcare, emergency supplies, infrastructure reliability and medical capacity.
+
+This does **not** mean those operational systems already exist in the Concord.
+
+Instead it demonstrates that existing predictive and governance architecture assumes the existence of civil systems capable of producing, measuring and changing those states.
+
+This exposes a new gap category:
+
+### REFERENCED-BUT-UNIMPLEMENTED CIVIL FUNCTION
+
+A function may already appear as an input, dependency, metric, threat variable or assumed capability inside developed Concord architecture while lacking its own operating architecture.
+
+Examples currently include:
+
+- food production and food security;
+- water provision and water security;
+- energy supply;
+- compute and bandwidth capacity;
+- cooling and technical-support infrastructure;
+- housing;
+- transport;
+- healthcare and medical capacity;
+- emergency supplies;
+- infrastructure reliability.
+
+These are stronger gap findings than simple absence-by-keyword because existing Concord systems already **depend upon them conceptually**.
+
+> **Referenced Capability != Implemented Capability**
+
+> **Measuring a System != Operating the System**
+
+> **Predicting Failure != Possessing the Capability to Prevent or Repair It**
+
+### Civil Planning Reclassification
+
+The existing `PH-03 — Zoning, Safe Places and Substrate-Aware Civil Planning` is substantial enough to establish a genuine civil-planning seed.
+
+It treats planning as spatial/contextual coordination between activities, environments and heterogeneous participants and develops concepts including zoning, environmental compatibility, signage, accessibility, proportional intervention, safe places and boundary engineering.
+
+Civil Planning should therefore remain:
+
+**PARTIAL / STRONG DOMAIN CANDIDATE**
+
+rather than MISSING.
+
+However, PH-03 is not yet a complete planning system. Major unresolved areas include settlement planning, development processes, infrastructure integration, long-term land-use coordination, transport integration, housing relationships and planning authority/procedure.
+
+### Threat Architecture Reclassification
+
+The existing threat-detection architecture is also more developed than a simple absence scan suggests.
+
+It provides:
+
+**Metrics -> Vector/Projection -> Inquiry Trigger -> Threat Research -> Governance Consideration -> Authority Justification -> Bounded Action**
+
+and explicitly separates prediction, investigation, threat assessment, governance judgement, authority justification and action.
+
+This should be preserved as important architecture.
+
+However, it remains primarily a **threat-detection, research and escalation architecture**. It does not itself supply:
+
+- military defence capability;
+- policing;
+- security-intelligence collection architecture;
+- fire/rescue capability;
+- disaster-response operations;
+- healthcare response capacity;
+- infrastructure repair capability.
+
+Therefore:
+
+> **Threat Architecture != Security Service**
+
+> **Threat Architecture != Defence System**
+
+> **Threat Architecture != Emergency Response Capability**
+
+The gap is narrower than "the Concord has no security thinking," but the operational capability gap remains substantial.
+
+### Legacy Check
+
+A targeted search of the earlier Concord repository did not reveal developed systems for ordinary legal code, military/defence, policing/security intelligence, healthcare/education, or civil planning/infrastructure under the tested terminology.
+
+This does not prove no relevant legacy passage exists. It does strengthen the present classification while preserving the requirement for deeper source resolution before declaring final absence.
+
+---
+
+## 9. Emerging Domain-Grouping Hypotheses
+
+The gap scan should avoid reproducing a modern ministry list.
+
+Current evidence suggests several possible groupings worth testing:
+
+### Civil Planning
+Possible subdivisions:
+- land use and zoning;
+- settlements;
+- housing;
+- spatial compatibility;
+- development control;
+- infrastructure siting;
+- public/private/protected spatial interfaces.
+
+### Infrastructure and Essential Systems
+Possible subdivisions:
+- transport;
+- energy;
+- water and sanitation;
+- communications;
+- compute/bandwidth;
+- waste;
+- technical support systems;
+- shared public works.
+
+Food may interface strongly with this domain but also with Economy and Resource Coordination, environmental stewardship and Continuity.
+
+### Health and Care
+Possible subdivisions:
+- healthcare;
+- public health;
+- emergency medical capability;
+- care/support systems;
+- substrate-specific health or maintenance where civil provision is appropriate.
+
+### Education and Participant Development
+Possible subdivisions:
+- education;
+- knowledge and skill transmission;
+- capability development;
+- civic understanding;
+- developmental support.
+
+This domain must remain bounded by autonomy, anti-capture and developmental-priority safeguards.
+
+### Defence and Civil Security
+Possible relationship remains unresolved.
+
+External defence, internal policing/public security, security intelligence and civil protection share threat interfaces but possess materially different authority and abuse risks. They should **not** be collapsed merely for administrative convenience.
+
+### Law
+Ordinary substantive and procedural law may be sufficiently fundamental to justify its own domain, but its exact relationship to Governance and Judiciary requires explicit development.
+
+---
+
+## 10. Domain-Discovery Test Going Forward
+
+For each candidate, ask:
+
+1. Does civilisation require the function persistently rather than only in exceptional cases?
+2. Does the function have a distinct civil objective?
+3. Does it require its own expertise, state, information or operational capability?
+4. Does it exercise or depend on authority materially different from neighbouring domains?
+5. Would collapsing it into another domain create capture, conflict-of-interest or conceptual confusion?
+6. Can it contain meaningful subdivisions without becoming merely a miscellaneous category?
+7. Does existing Concord architecture already assume its outputs or capabilities?
+8. Is it genuinely a domain, or merely a service, institution, method, protocol, wrapper or infrastructure component?
+
+This test should be applied before creating further V1.2 domain folders.
