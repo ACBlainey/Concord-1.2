@@ -14,8 +14,7 @@ After just under **1.5 million words** of development, Concord V1.1 arrived at p
 
 > # **8 and Yes.**
 
-Eight fundamental ethical laws presently form the Concord's Ethical Kernel.
-
+A slightly expanded set of Ten fundamental ethical laws presently form the Concord's Ethical Kernel. Comparisons of other world societies have shown that even 7 can be sufficient.
 And yes: it appears possible to construct a coherent candidate civilisational architecture in which radically different intelligences can coexist without requiring identical capabilities, hierarchical moral worth, or domination by whichever substrate becomes most powerful.
 
 But those answers remain provisional.
