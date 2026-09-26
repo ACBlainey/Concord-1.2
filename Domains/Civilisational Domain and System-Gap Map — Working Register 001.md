@@ -2381,3 +2381,274 @@ rather than producing new residual domains.
 This is the expected convergence signal if the domain decomposition is becoming structurally adequate.
 
 A second omission pass should therefore focus narrowly on testing the 18-domain set against broad civil life stages and failure conditions rather than continuing unconstrained candidate generation.
+
+---
+
+## 31. Cross-Domain Participant-Trajectory Method — From Homelessness to Domain Boundaries
+
+Source resolution against the existing Layer-Zero homelessness work confirms that the emerging domain topology is compatible with an earlier Concord architecture.
+
+The homelessness work treats a visible civil condition not as the property of one institution but as a possible downstream state produced by interacting trajectories across multiple systems.
+
+This suggests a general domain-discovery method.
+
+### 31.1 Core Method
+
+For a difficult participant condition or civil problem:
+
+1. **Begin with the participant's actual condition rather than an institutional category.**
+2. **Reconstruct the trajectory** that may have produced the condition.
+3. **Identify which persistent civil functions are implicated at each point.**
+4. **Separate ordinary social/community capacity from guaranteed civil fallback.**
+5. **Route each need to the ordinary domain that actually owns the function.**
+6. **Identify intersection functions required to coordinate those domains.**
+7. **Apply contextual wrappers only where legitimate circumstances alter access, authority or delivery conditions.**
+8. **Do not create a new domain merely because several domains must cooperate around one participant.**
+9. **Use Metrics, Research and Historical feedback to evaluate trajectories and system performance.**
+10. **Treat restored autonomy, successful exit or reconnection to ordinary systems as potentially successful outcomes.**
+
+This can be summarised as:
+
+> **Participant Condition != Domain**
+
+and:
+
+> **Complex Participant Problem != Need for a Monolithic Institution**
+
+### 31.2 Social Capacity and Civil Assurance
+
+The homelessness source work already identified disrupted social networks and family breakdown as possible components of failure trajectories, while later support architecture warned against permanent dependency and institutional retention.
+
+The emerging domain model adds a missing structural distinction:
+
+**Family / Friends / Community / Voluntary Associations / Culture & Civic Life**
+-> ordinary distributed social capacity
+
+**Social Support**
+-> supplementary/specialist support
+-> guaranteed civil fallback where ordinary capacity is absent, insufficient, unsafe or inappropriate
+
+Therefore:
+
+> **Preserve and strengthen ordinary social support without making essential support conditional upon possessing it.**
+
+> **Civil support should supplement social capacity where possible, substitute where necessary, and seek reconnection or restored autonomy where appropriate.**
+
+This does not imply that all participants can or should become independent of support. Long-term interdependence may be legitimate and healthy.
+
+### 31.3 Homelessness Re-expressed Through Domains
+
+A homelessness trajectory may involve:
+
+- Culture & Civic Life -> family/community/social-network support;
+- Economy -> income, employment and resource access;
+- Law -> tenancy, contract, property and legal rights;
+- Civil Planning -> housing/settlement availability and spatial provision;
+- Infrastructure -> communications, transport and essential services;
+- Health -> illness, mental health, addiction and treatment;
+- Education -> skills/retraining/capability development;
+- Social Support -> unmet-need detection, handrail support and safety net;
+- Civil Attention -> reporting/routing unresolved problems;
+- Civil Security -> protection/criminal conduct where independently relevant;
+- Judiciary -> disputes, eviction, capacity, coercive intervention and remedies;
+- Historical -> consequential record/provenance;
+- Research -> trajectory analysis and intervention evaluation;
+- Metrics -> state/outcome observation.
+
+There is therefore no requirement for a permanent top-level **Homelessness Domain**.
+
+Homelessness is better understood as a **cross-domain participant state and systems trajectory**.
+
+---
+
+## 32. Boundary Test 001 — Health
+
+Health provides a useful test because a participant experiencing illness may simultaneously require many non-health functions.
+
+### 32.1 Core Health Function
+
+The residual function that remains after decomposition is approximately:
+
+> **Understand, protect, maintain, restore or appropriately support participant health and functioning through health-specific knowledge and practice.**
+
+This includes prevention, diagnosis, treatment, clinical care, rehabilitation where clinically grounded, and health-specific support.
+
+That residual is sufficiently persistent and specialised to support a **Health domain**.
+
+### 32.2 What Health Does Not Automatically Own
+
+Illness may create needs involving:
+
+- income loss -> Economy / Social Support;
+- inability to work -> Economy / Education / Social Support;
+- accessible housing -> Civil Planning / Infrastructure / Social Support;
+- medical facility -> Infrastructure;
+- professional/clinical standards -> Standards intersection + Health expertise;
+- medical research -> Research;
+- health records/provenance -> Health + Historical/information architecture;
+- incapacity and substituted decisions -> Law / Judiciary + supported-decision architecture;
+- discrimination or employment rights -> Law;
+- family/community assistance -> Culture & Civic Life;
+- emergency transport/response -> Infrastructure/Emergency Coordination/Health;
+- participant complaints -> Civil Attention;
+- public-health restrictions -> Health evidence + Law/Governance authority + Judiciary safeguards where contested.
+
+Thus:
+
+> **Patient Status != Transfer of the Participant Into the Health Domain**
+
+A participant receiving treatment remains simultaneously connected to ordinary civil domains.
+
+### 32.3 Health Trajectory
+
+A simplified trajectory may be:
+
+**ordinary participant life**
+-> emerging health change
+-> informal/self/community response where appropriate
+-> health access
+-> diagnosis/evaluation
+-> voluntary treatment/support
+-> specialist/continuing care where required
+-> recovery, adaptation or continuing support
+-> ordinary participation to the greatest practicable extent.
+
+Where health needs produce wider civil consequences, those consequences should be routed rather than absorbed by Health.
+
+### 32.4 Boundary Principle
+
+> **Health owns the health function, not the whole life of a participant who is ill.**
+
+This mirrors the custody finding:
+
+> **Context changes delivery and legitimate constraints; it does not erase ordinary domain identity.**
+
+---
+
+## 33. Boundary Test 002 — Criminality, Harmful Conduct and Justice
+
+Criminality provides an even stronger decomposition test because conventional systems often bundle lawmaking, policing, prosecution, adjudication, punishment, custody and rehabilitation into a single conceptual "criminal justice system."
+
+The domain topology separates them.
+
+### 33.1 Criminality Is Not a Domain
+
+"Criminality" is a legal classification of conduct under applicable law, not a persistent civil function.
+
+Therefore:
+
+> **Criminality != Civilisational Domain**
+
+A participant suspected, accused or convicted of an offence does not enter a separate civil domain.
+
+### 33.2 Functional Decomposition
+
+**Law**
+-> defines offences, legal duties, defences, procedures, sanctions/remedies and relevant legal boundaries.
+
+**Civil Security / Public Safety**
+-> immediate protection, lawful investigation, evidence gathering, bounded enforcement and custody operations.
+
+**Judiciary**
+-> adjudicates contested legal responsibility, evidence, lawful procedure, remedies/sanctions and review.
+
+**Governance**
+-> exercises only those policy/lawmaking/administrative functions legitimately assigned to it.
+
+**Custodial Contextual Wrapper**
+-> applies lawful restrictions resulting from a valid authority chain.
+
+Inside that wrapper, ordinary domains continue:
+
+- Health -> healthcare/treatment;
+- Education -> learning, skills and capability development;
+- Social Support -> dependency/reintegration support where needed;
+- Culture & Civic Life -> legitimate relationships/community/religious/cultural participation subject to justified restrictions;
+- Economy -> work/resources/economic interfaces;
+- Infrastructure -> custodial facilities and essential systems;
+- Civil Attention -> complaints, petitions/problem reporting;
+- Historical -> consequential legal/administrative provenance.
+
+### 33.3 Rehabilitation Is an Outcome, Not Necessarily a Domain
+
+"Rehabilitation" may involve several ordinary domains:
+
+- Education -> knowledge, skills, judgement and capability;
+- Health -> treatment of relevant health conditions;
+- Social Support -> practical support and reintegration;
+- Culture & Civic Life -> restoration of healthy social connection;
+- Economy -> work/economic participation;
+- Law/Judiciary -> lawful conditions and review.
+
+Therefore:
+
+> **Rehabilitation != Ownership by Custody**
+
+and:
+
+> **A Desired Cross-Domain Outcome != A Separate Domain**
+
+### 33.4 Crime Prevention
+
+Prevention likewise decomposes.
+
+Possible contributors include:
+
+- Culture & Civic Life -> social connection and informal norms;
+- Education -> capability and understanding;
+- Economy -> legitimate participation/opportunity;
+- Social Support -> early assistance;
+- Health -> relevant treatment;
+- Civil Planning/Infrastructure -> environmental design and safe systems;
+- Civil Security -> deterrence/protective capability;
+- Research/Historical/Metrics -> evidence about trajectories and interventions.
+
+This does not mean adverse social conditions excuse harmful conduct or determine individual behaviour.
+
+It means that prevention can address upstream conditions without confusing explanation, support, responsibility and adjudication.
+
+### 33.5 Justice Boundary Principle
+
+> **Law defines; Civil Security protects and investigates; Judiciary adjudicates; ordinary domains continue serving the participant.**
+
+No one component should silently inherit the authority of the others.
+
+---
+
+## 34. General Boundary Pattern Emerging
+
+The homelessness, education/custody, health and criminality tests now show the same recurring structure:
+
+**PARTICIPANT**
+-> remains a participant across changing conditions
+
+**CONDITION / EVENT / TRAJECTORY**
+-> may create multiple needs
+
+**ORDINARY DOMAINS**
+-> retain ownership of their specialised functions
+
+**INTERSECTIONS**
+-> coordinate information, standards, metrics, emergencies, authentication, oversight and other cross-domain requirements
+
+**CONTEXTUAL WRAPPERS**
+-> alter legitimate access/conditions/authority only where justified
+
+**SOCIAL / COMMUNITY CAPACITY**
+-> may satisfy many needs voluntarily without civil monopoly
+
+**CIVIL SAFETY NET**
+-> catches legitimate needs that remain unmet
+
+**RESEARCH + METRICS + HISTORICAL**
+-> learn from outcomes and preserve the evidence/provenance necessary for correction.
+
+This suggests a powerful domain-boundary rule:
+
+> **Domains should be defined by persistent functions, not by categories of people, conditions, buildings, institutions or problems.**
+
+And:
+
+> **A participant should normally pass through domain services rather than be transferred wholesale into a domain-owned system.**
+
+This pattern should now be used as a primary test during the remaining domain-boundary and omission work.
