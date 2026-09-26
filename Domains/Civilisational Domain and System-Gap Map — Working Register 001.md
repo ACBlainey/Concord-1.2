@@ -3040,3 +3040,506 @@ This is not yet a canonical freeze. A final boundary audit should test the set f
 - essential functions still without an owner.
 
 If that audit survives, the 18-domain set should be suitable for provisional freeze and V1.2 -> V1.3 migration mapping.
+
+---
+
+## 38. Final Adversarial Boundary Audit 001 — Attempt to Break the 18-Domain Set
+
+**Audit posture:** adversarial rather than confirmatory.
+
+The purpose of this pass is not to find reasons to preserve the provisional topology. It is to attempt to invalidate it.
+
+Four attacks are applied:
+
+1. **Collapse Test** — can two apparent domains be merged without losing a persistent civil function?
+2. **Residual Test** — does a candidate domain disappear when institutions, services, wrappers and intersections are removed?
+3. **Authority Test** — does the topology accidentally give two domains ownership of the same civil authority?
+4. **Ownerless Function Test** — is there a persistent necessary function that still has no legitimate home?
+
+---
+
+## 39. Collapse Tests
+
+### 39.1 Historical vs Continuity
+
+Possible collapse:
+both concern persistence through time.
+
+Failure of collapse:
+
+- Historical preserves reconstructable past state, provenance, evidence and temporal context.
+- Continuity preserves/reconstructs recoverable capability and legitimate function through disruption.
+
+A civilisation can possess an excellent archive while lacking the ability to rebuild a capability.
+
+It can also preserve operational capability while losing the historical evidence explaining how or why it developed.
+
+Therefore:
+
+> **Preserved Record != Recoverable Capability**
+
+**Result:** KEEP SEPARATE.
+
+### 39.2 Historical vs Research
+
+Possible collapse:
+both concern knowledge.
+
+Failure:
+
+- Research creates, tests and corrects current knowledge.
+- Historical preserves what was known, believed, disputed, attempted and changed through time.
+
+Research can invalidate a historical belief without Historical rewriting the past to pretend the belief was never held.
+
+**Result:** KEEP SEPARATE.
+
+### 39.3 Governance vs Law
+
+Possible collapse:
+governance may make law.
+
+Failure:
+
+Governance is the exercise of legitimate collective decision/administrative authority.
+
+Law is the persistent normative/legal system that defines applicable rules, rights, obligations, procedures and legal effects.
+
+Law must remain identifiable across changes of office, administration and particular governance decisions.
+
+> **Governance May Make Law Under Legitimate Authority; Governance Is Not Identical to Law.**
+
+**Result:** KEEP SEPARATE.
+
+### 39.4 Law vs Judiciary
+
+Possible collapse:
+both are legal.
+
+Failure:
+
+Law defines the applicable legal structure.
+
+Judiciary adjudicates disputes concerning law, evidence, responsibility, remedies and procedure.
+
+Combining them obscures the distinction between the rule and the institution empowered to interpret/apply it.
+
+> **Judiciary Applies and Interprets Law; Judiciary Does Not Own Law.**
+
+**Result:** KEEP SEPARATE.
+
+### 39.5 Governance vs Judiciary
+
+Possible collapse:
+both exercise civil authority.
+
+Failure:
+
+Governance makes/implements legitimate collective decisions within authority.
+
+Judiciary provides adjudication, review and remedy with a distinct requirement for independence from ordinary administrative/political action.
+
+**Result:** KEEP SEPARATE.
+
+### 39.6 Defence vs Civil Security
+
+Possible collapse:
+both use protective/coercive capability.
+
+Failure:
+
+- Defence addresses external organised coercion, attack and comparable external threats.
+- Civil Security addresses internal public safety, crime, investigation and bounded enforcement.
+
+Their intelligence, command, readiness and force capabilities may overlap technically, but their authority chains and legitimate targets differ substantially.
+
+Merging them creates a dangerous pathway by which external-defence authority could become ordinary domestic policing authority.
+
+> **Shared Protective Capability != Shared Civil Authority**
+
+**Result:** KEEP SEPARATE with explicit interface.
+
+### 39.7 Governance vs Civil Security
+
+Possible collapse:
+Civil Security may be administratively governed.
+
+Failure:
+
+Governance authorises/oversees legitimate policy and administration.
+
+Civil Security requires specialist operational capability and bounded coercive/investigative powers.
+
+Administrative control does not erase the specialised domain function.
+
+**Result:** KEEP SEPARATE.
+
+### 39.8 Economy vs Infrastructure
+
+Possible collapse:
+infrastructure is resource-intensive productive activity.
+
+Failure:
+
+Economy coordinates production, exchange, allocation and resources.
+
+Infrastructure stewards persistent enabling networks and systems whose availability is itself a civil condition.
+
+Markets/resource coordination may provision infrastructure, but the operational stewardship problem remains.
+
+**Result:** KEEP SEPARATE.
+
+### 39.9 Infrastructure vs Civil Planning
+
+Possible collapse:
+both concern built environment.
+
+Failure:
+
+Civil Planning coordinates spatial/developmental relationships over time.
+
+Infrastructure operates/stewards enabling systems.
+
+A transport network can be well operated but badly planned; a settlement can be well planned but lack functioning infrastructure.
+
+**Result:** KEEP SEPARATE.
+
+### 39.10 Environment vs Civil Planning
+
+Possible collapse:
+both concern land/habitat.
+
+Failure:
+
+Environment & Habitat Stewardship owns environmental/ecological condition and long-horizon stewardship.
+
+Civil Planning coordinates the spatial arrangement and development of human/multi-substrate activity.
+
+Environmental evidence constrains planning without becoming planning authority.
+
+**Result:** KEEP SEPARATE.
+
+### 39.11 Health vs Social Support
+
+Possible collapse:
+both provide participant care.
+
+Failure:
+
+Health owns health-specific prevention, diagnosis, treatment and clinically grounded care.
+
+Social Support owns the residual assurance function where dependency, incapacity, deprivation or access barriers leave legitimate needs unmet.
+
+A participant can need Social Support without being ill, and can need Health without requiring social support.
+
+> **Care Need != Medical Condition**
+
+**Result:** KEEP SEPARATE.
+
+### 39.12 Education vs Research
+
+Possible collapse:
+both concern learning/knowledge.
+
+Failure:
+
+Research develops/corrects civilisation's knowledge.
+
+Education develops participant knowledge, understanding, skills, judgement and capability.
+
+> **Civilisation Learning != Participant Learning**
+
+**Result:** KEEP SEPARATE.
+
+### 39.13 Education vs Social Support
+
+Possible collapse:
+both develop/support participant capability.
+
+Failure:
+
+Education supplies pedagogical development.
+
+Social Support supplies assistance where ordinary participation/support capacity is insufficient.
+
+Support may include access to Education but should not own pedagogy.
+
+**Result:** KEEP SEPARATE.
+
+### 39.14 Culture & Civic Life vs Social Support
+
+This remains one of the closest boundaries.
+
+Possible collapse:
+community organisations often provide support.
+
+Failure:
+
+Culture & Civic Life concerns the conditions for voluntary association, relationship, community, expression, religion/worldview, cultural creation/transmission and civic social fabric.
+
+Social Support guarantees that legitimate support needs are not abandoned when voluntary/social capacity is absent, insufficient, unsafe or inappropriate.
+
+If merged, voluntary relationships risk becoming instruments of civil support administration, while civil support risks becoming conditional on community membership.
+
+> **Voluntary Social Capacity != Guaranteed Civil Assurance**
+
+**Result:** KEEP SEPARATE, strongly coupled.
+
+### 39.15 Civil Attention vs Governance
+
+Possible collapse:
+Civil Attention sends civil problems toward governance.
+
+Failure:
+
+Civil Attention is a routing/attention function: participants tell the civilisation once; the architecture determines who needs to deal with it.
+
+Many outputs should never reach Governance. They may route to Health, Infrastructure, Social Support, Civil Security, Economy, etc.
+
+Governance should not become the universal owner of civil problems.
+
+> **Central Visibility != Central Control**
+
+**Result:** KEEP SEPARATE.
+
+### 39.16 Intercivilisational Relations vs Governance
+
+Possible collapse:
+diplomacy is often a government function.
+
+Failure:
+
+Intercivilisational Relations manages diplomacy/interoperation across sovereign or otherwise independent civil systems and therefore interfaces not only Governance but Law, Judiciary, Economy, Infrastructure, identity and technical wrappers.
+
+Its problem-space remains distinct even if some authority is delegated through Governance.
+
+**Result:** KEEP SEPARATE.
+
+---
+
+## 40. Residual Tests — Are Any Domains Actually Institutional Bundles?
+
+The following domains survive removal of familiar institutional forms:
+
+- Historical survives removal of archives/libraries because temporal provenance/reconstruction remains necessary.
+- Continuity survives removal of continuity offices because recoverability remains necessary.
+- Research survives removal of universities/labs because knowledge creation/correction remains necessary.
+- Governance survives removal of parliament/cabinet because legitimate collective decision/administration remains necessary.
+- Judiciary survives removal of conventional courts because contested adjudication/review remains necessary.
+- Economy survives removal of firms/markets/currency forms because production/allocation/exchange/resource coordination remain necessary.
+- Civil Attention survives removal of complaint offices because unresolved civil inputs still require routing.
+- Intercivilisational Relations survives removal of embassies because external diplomacy/interoperation remains necessary.
+- Law survives removal of legislatures/codebooks because applicable legal rules/rights/obligations remain necessary.
+- Defence survives removal of conventional militaries because protection from external organised coercion remains necessary.
+- Civil Planning survives removal of planning departments because spatial/development coordination remains necessary.
+- Infrastructure survives removal of utilities agencies because enabling networks/systems remain necessary.
+- Health survives removal of hospitals because health-specific prevention/treatment remains necessary.
+- Education survives removal of schools because participant learning/capability development remains necessary.
+- Environment survives removal of environmental agencies because habitat/ecological stewardship remains necessary.
+- Civil Security survives removal of police institutions because internal protection/investigation/bounded enforcement remain necessary.
+- Social Support survives removal of welfare agencies because unmet dependency/support needs remain.
+- Culture & Civic Life survives removal of cultural ministries because voluntary association/community/cultural life remains.
+
+**Result:** all 18 retain a persistent residual function after institutional decomposition.
+
+---
+
+## 41. Authority Collision Audit
+
+### 41.1 Governance / Law / Judiciary
+
+Required separation:
+
+**Governance**
+-> legitimate policy/administration and any lawmaking authority constitutionally assigned.
+
+**Law**
+-> applicable legal structure.
+
+**Judiciary**
+-> independent adjudication/review.
+
+No automatic authority transfer between them.
+
+### 41.2 Law / Civil Security / Judiciary
+
+Required separation:
+
+**Law defines**
+-> **Civil Security protects/investigates/enforces within bounded authority**
+-> **Judiciary adjudicates**
+
+Civil Security must not define guilt.
+
+Judiciary must not become ordinary police.
+
+Law does not enforce itself.
+
+### 41.3 Defence / Civil Security
+
+External/internal authority boundary must be explicit.
+
+Exceptional cross-use must require separately legitimate authority.
+
+### 41.4 Research / Operational Domains
+
+Research may discover evidence and evaluate outcomes.
+
+It does not gain authority to operate the domain it studies.
+
+> **Knowledge Authority != Civil Authority**
+
+### 41.5 Historical / Operational Domains
+
+Historical custody of records does not inherit the authority of the record-producing system.
+
+The participant-record safe-space architecture reinforces this.
+
+### 41.6 Standards / Domains
+
+Standards is an intersection process.
+
+Relevant domain expertise contributes to standards, but no universal standards body should silently become superior to every operational domain.
+
+### 41.7 Social Support / Culture & Civic Life
+
+Social Support may strengthen community capability but must not command voluntary relationships or make communities agents of compulsory welfare administration.
+
+Culture & Civic Life may provide support voluntarily but cannot be relied upon as the sole guarantee of essential support.
+
+### 41.8 Civil Attention / All Domains
+
+Civil Attention may route, track and surface unresolved inputs.
+
+It does not acquire the operational authority of the destination domain.
+
+**Result:** no unavoidable duplicated authority requires domain merger. Several interfaces require explicit authority firewalls during formalisation.
+
+---
+
+## 42. False-Domain Demotion Audit
+
+The following important civil architectures remain correctly classified below top-level domain:
+
+- Identity -> cross-domain civil architecture;
+- Authentication -> intersection;
+- Standards/Regulation/Inspection/Certification -> intersection;
+- Security Intelligence -> bounded cross-domain capability/intersection;
+- Emergency Coordination -> intersection;
+- Public Information -> intersection;
+- Metrics/State Observation -> intersection;
+- Audit/Oversight -> intersection;
+- KCS/change propagation -> cross-domain architecture;
+- Civilisational Threat Detection -> cross-domain architecture;
+- Housing -> cross-domain capability;
+- Food -> cross-domain capability;
+- Labour/Employment -> Economy subdomain/interface;
+- Public Finance/Treasury -> Economy-Governance-Law subsystem;
+- Corrections/Rehabilitation -> decomposed outcome/context;
+- Media -> distributed civil ecosystem/infrastructure/cultural function rather than singular authority domain;
+- Civil registry/lifecycle status -> identity/legal/historical administrative architecture.
+
+None currently leaves a persistent residual function sufficient to justify promotion to Domain 19.
+
+---
+
+## 43. Ownerless Function Audit
+
+The following necessary functions were tested for ownership:
+
+- participant creation/birth recognition -> identity + Law + Historical + Governance;
+- civil registration -> identity/legal administrative architecture;
+- family/relationship legal effects -> Law;
+- dependency/safeguarding -> Social Support + Law + Civil Security where harm applies;
+- healthcare -> Health;
+- learning/training -> Education;
+- work/exchange -> Economy;
+- housing -> Civil Planning + Infrastructure + Economy + Law + Social Support;
+- food -> Economy + Environment + Infrastructure + Health + Continuity;
+- transport/energy/water/comms -> Infrastructure;
+- environmental limits -> Environment;
+- spatial development -> Civil Planning;
+- internal crime/public safety -> Civil Security;
+- external attack -> Defence;
+- legal rules -> Law;
+- disputes/adjudication -> Judiciary;
+- collective decisions -> Governance;
+- civil problem routing -> Civil Attention;
+- external diplomacy/interoperation -> Intercivilisational Relations;
+- knowledge creation -> Research;
+- temporal record/provenance -> Historical;
+- capability recovery -> Continuity;
+- voluntary community/cultural life -> Culture & Civic Life;
+- unmet care/support -> Social Support;
+- death/destruction/succession -> Law + Identity + Historical + Continuity;
+- emergency coordination -> cross-domain intersection;
+- standards -> cross-domain intersection;
+- oversight -> cross-domain intersection;
+- intelligence -> purpose-bounded intersection/capability.
+
+**Result:** no persistent ownerless civil function was identified in this audit.
+
+---
+
+## 44. Adversarial Audit Finding
+
+The provisional 18-domain topology survived all four attacks:
+
+- no pair could be collapsed without losing an important persistent distinction;
+- no domain disappeared when institutional forms were removed;
+- authority collisions could be resolved through explicit interfaces/firewalls rather than merger;
+- no clear persistent ownerless function remained;
+- previously ambiguous candidates continued to decompose into domains + intersections + wrappers + capabilities.
+
+### Strongest remaining boundary sensitivities
+
+The topology is not ambiguity-free.
+
+The boundaries requiring the most care during formalisation are:
+
+1. Governance <-> Law
+2. Law <-> Judiciary
+3. Defence <-> Civil Security
+4. Civil Planning <-> Infrastructure <-> Environment
+5. Health <-> Social Support
+6. Culture & Civic Life <-> Social Support
+7. Economy <-> Public Finance/Labour
+8. Historical <-> Identity/active civil records
+9. Research <-> Standards <-> operational domains
+10. Civil Attention <-> destination-domain authority
+
+These are now better understood as **interface-definition problems**, not evidence for additional top-level domains.
+
+---
+
+## 45. Provisional Domain Freeze Recommendation
+
+The evidence now comes from four independent directions:
+
+1. source-derived existing architecture;
+2. outside-in civilisation-function scanning;
+3. participant lifecycle and civilisation failure-condition testing;
+4. adversarial collapse/authority/ownership testing.
+
+All converge on the same 18-domain set.
+
+Therefore the working recommendation is:
+
+> **PROVISIONALLY FREEZE THE CIVILISATIONAL DOMAIN TOPOLOGY AT 18 TOP-LEVEL DOMAINS.**
+
+"Freeze" here means:
+
+- stop casually adding/removing top-level domains;
+- require new candidates to pass the same residual-function and adversarial tests;
+- preserve the possibility of controlled reopening if future evidence exposes a genuine missing persistent function;
+- proceed to mapping V1.2 material into the domain-normalised V1.3 architecture.
+
+This is a development milestone, not a claim that the civilisation itself is complete.
+
+Many domains remain major system gaps.
+
+The next architectural task is therefore no longer **What are the domains?**
+
+It becomes:
+
+> **Where does every existing V1.2 system, document and capability belong within the frozen domain/intersection architecture, and what remains genuinely undeveloped?**
