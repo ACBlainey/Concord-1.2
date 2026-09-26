@@ -555,3 +555,46 @@ This development note and the detailed history of how the method was derived sho
 That outcome would itself demonstrate the method:
 
 > **Migrate the Living Result; Archive the Developmental Path.**
+
+
+## 21. Legacy-established architecture rule
+
+The first Portable Modules migration pass exposed a historical asymmetry.
+
+Some Concord systems, methods or modules were developed, tested, adopted and incorporated into working architecture **before the later graduation methodologies existed or reached their current form**.
+
+Absence of a PMEDG, domain-graduation or later validation record must therefore not be interpreted as evidence that the older system was undeveloped.
+
+> **Absence of Later-Method Certification != Absence of Earlier Development or Operational Maturity**
+
+A later methodology may improve how future systems are validated. It does not retroactively erase the architectural state that existed before that methodology.
+
+Migration must distinguish at least:
+
+1. **FORMALLY GRADUATED** — passed the applicable later formal methodology;
+2. **LEGACY-ESTABLISHED** — demonstrably developed/adopted/incorporated before the formal methodology existed or stabilised;
+3. **ACTIVE CANDIDATE** — genuinely still developmental;
+4. **SUPERSEDED/ARCHIVAL** — no longer live.
+
+### Legacy-established assessment
+
+Where formal graduation evidence is absent, source-resolve the object's actual historical and operational state. Evidence may include:
+
+- explicit adoption into Concord architecture;
+- repeated operational use by other systems;
+- dependencies from current architecture;
+- integration into constitutional/domain/cross-domain systems;
+- completed earlier testing or adversarial examination;
+- later work treating the object as an established dependency rather than a proposal;
+- stable current specification;
+- evidence that the apparent status label predates or was never reconciled with later methodology.
+
+Do not manufacture retrospective certification.
+
+Instead record the object as **LEGACY-ESTABLISHED / RETROSPECTIVE STATUS REVIEW REQUIRED** where the evidence supports that classification.
+
+A later methodology may then be used for **retrospective conformance checking**, but failure to have historically undergone that later process is not itself a failure.
+
+> **Retrospective Validation May Test a Legacy System; It Must Not Rewrite the Fact That the System Previously Operated.**
+
+This rule is especially important during repository succession because otherwise newer process standards can create false negatives and accidentally remove functioning inherited architecture.
